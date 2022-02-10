@@ -38,7 +38,7 @@ jobs:
       run: |
         git config --global user.name GT-ZhangAcer
         git config --global user.email 1029550448@qq.com
-        git add data
+        git add spdata
         git commit -m "Updated data from commit $env:GITHUB_SHA on $env:GITHUB_REF"
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git push origin master
