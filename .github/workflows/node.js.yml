@@ -22,5 +22,23 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: npm install .
-    - run: node src/index.js
+    
+    - name: 初始化仓库
+      run: |
+        git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        ls -l
+        cd github-trending-archive
+    
+    - name: 生成数据
+      run: |
+        npm install .
+        node src/index.js
+    
+    - name: 提交数据
+      run: |
+        git config --global user.name GT-ZhangAcer
+        git config --global user.email 1029550448@qq.com
+        git add data
+        git commit -m "Updated data from commit $env:GITHUB_SHA on $env:GITHUB_REF"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        git push origin master
