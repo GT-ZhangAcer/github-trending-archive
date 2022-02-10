@@ -59,28 +59,28 @@ function formatData(data = [], type) {
 }
 
 
-axios.get('https://icors.vercel.app/?https://github.com/trending).then(({ data }) => {
+axios.get('https://icors.vercel.app/?https://github.com/trending').then(({ data }) => {
   const date = formatDate('yyyy-MM-dd');
   const arr = crawlData(data);
   saveFile('../spdata/ori_data', `${date}.json`, formatData(arr, 'json'));
   saveFile('../spdata/ori_archives/', `${date}.md`, formatData(arr, 'markdown'));
 });
 
-axios.get('https://icors.vercel.app/?https://github.com/trending?spoken_language_code=zh).then(({ data }) => {
+axios.get('https://icors.vercel.app/?https://github.com/trending?spoken_language_code=zh').then(({ data }) => {
   const date = formatDate('yyyy-MM-dd');
   const arr = crawlData(data);
   saveFile('../spdata/zh_data', `${date}.json`, formatData(arr, 'json'));
   saveFile('../spdata/zh_archives/', `${date}.md`, formatData(arr, 'markdown'));
 });
 
-axios.get('https://icors.vercel.app/?https://github.com/trending/python).then(({ data }) => {
+axios.get('https://icors.vercel.app/?https://github.com/trending/python').then(({ data }) => {
   const date = formatDate('yyyy-MM-dd');
   const arr = crawlData(data);
   saveFile('../spdata/python_data', `${date}.json`, formatData(arr, 'json'));
   saveFile('../spdata/python_archives/', `${date}.md`, formatData(arr, 'markdown'));
 });
 
-axios.get('https://icors.vercel.app/?https://github.com/trending/python?spoken_language_code=zh).then(({ data }) => {
+axios.get('https://icors.vercel.app/?https://github.com/trending/python?spoken_language_code=zh').then(({ data }) => {
   const date = formatDate('yyyy-MM-dd');
   const arr = crawlData(data);
   saveFile('../spdata/zh_python_data', `${date}.json`, formatData(arr, 'json'));
