@@ -1,0 +1,148 @@
+[
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "yifeikong/reverse-interview-zh",
+    "url": "https://github.com/yifeikong/reverse-interview-zh",
+    "desc": "技术面试最后反问面试官的话"
+  },
+  {
+    "title": "6dylan6/jdpro",
+    "url": "https://github.com/6dylan6/jdpro",
+    "desc": "京东签到，集合库，内部助力，青龙面板支持，青龙脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "jerry3747/taobao_seckill",
+    "url": "https://github.com/jerry3747/taobao_seckill",
+    "desc": "淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党",
+    "lang": "Python"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ 一款现代化的开源博客/CMS系统。",
+    "lang": "Java"
+  },
+  {
+    "title": "gys619/Absinthe",
+    "url": "https://github.com/gys619/Absinthe",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "PGYER/codefever",
+    "url": "https://github.com/PGYER/codefever",
+    "desc": "CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!",
+    "lang": "PHP"
+  },
+  {
+    "title": "baidu/amis",
+    "url": "https://github.com/baidu/amis",
+    "desc": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "RainManGO/vue3-composition-admin",
+    "url": "https://github.com/RainManGO/vue3-composition-admin",
+    "desc": "🎉 基于vue3 的管理端模板(Vue3 TS Vuex4 element-plus vue-i18n-next composition-api) vue3-admin vue3-ts-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "crossin/snippet",
+    "url": "https://github.com/crossin/snippet",
+    "desc": "just some code snippet",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "SliShady/BingDwenDwen",
+    "url": "https://github.com/SliShady/BingDwenDwen",
+    "desc": "使用python绘制冰墩墩",
+    "lang": "Python"
+  },
+  {
+    "title": "elunez/eladmin",
+    "url": "https://github.com/elunez/eladmin",
+    "desc": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由",
+    "lang": "Java"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "dreamhead/patterns-of-distributed-systems",
+    "url": "https://github.com/dreamhead/patterns-of-distributed-systems",
+    "desc": "《Patterns of Distributed Systems》中文版"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "FiYHer/kernel_window_hide",
+    "url": "https://github.com/FiYHer/kernel_window_hide",
+    "desc": "内核级别隐藏指定窗口",
+    "lang": "C++"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "desc": "基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。",
+    "lang": "Go"
+  },
+  {
+    "title": "pppscn/SmsForwarder",
+    "url": "https://github.com/pppscn/SmsForwarder",
+    "desc": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+    "lang": "Java"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  }
+]
