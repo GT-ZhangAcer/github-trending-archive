@@ -1,0 +1,148 @@
+[
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "desc": "The iconic SVG, font, and CSS toolkit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "vbenjs/vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "desc": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "lang": "Vue"
+  },
+  {
+    "title": "apple-oss-distributions/dyld",
+    "url": "https://github.com/apple-oss-distributions/dyld",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "Audiobahn/CVE-2022-20699",
+    "url": "https://github.com/Audiobahn/CVE-2022-20699",
+    "desc": "Cisco Anyconnect VPN unauth RCE (rwx stack)",
+    "lang": "Python"
+  },
+  {
+    "title": "yifeikong/reverse-interview-zh",
+    "url": "https://github.com/yifeikong/reverse-interview-zh",
+    "desc": "技术面试最后反问面试官的话"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "desc": "The open-source Shopify alternative ⚡️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ObuchiYuki/DevToysMac",
+    "url": "https://github.com/ObuchiYuki/DevToysMac",
+    "desc": "DevToys For mac",
+    "lang": "Swift"
+  },
+  {
+    "title": "gyroflow/gyroflow",
+    "url": "https://github.com/gyroflow/gyroflow",
+    "desc": "Video stabilization using gyroscope data",
+    "lang": "Rust"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "desc": "🎉 A Vue.js 3 UI Library made by Element team",
+    "lang": "Vue"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "Yet another remote desktop software",
+    "lang": "Rust"
+  },
+  {
+    "title": "6dylan6/jdpro",
+    "url": "https://github.com/6dylan6/jdpro",
+    "desc": "京东签到，集合库，内部助力，青龙面板支持，青龙脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "desc": "Just Announced - Learn Spring Security OAuth:",
+    "lang": "Java"
+  },
+  {
+    "title": "meysamhadeli/awesome-dotnet-tips",
+    "url": "https://github.com/meysamhadeli/awesome-dotnet-tips",
+    "desc": "Curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "desc": "Build your personal knowledge base with Trilium Notes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/core",
+    "url": "https://github.com/dotnet/core",
+    "desc": "Home repository for .NET Core",
+    "lang": "Shell"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "desc": "A PHP framework for web artisans.",
+    "lang": "PHP"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jerry3747/taobao_seckill",
+    "url": "https://github.com/jerry3747/taobao_seckill",
+    "desc": "淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党",
+    "lang": "Python"
+  },
+  {
+    "title": "bullfly666/percollect",
+    "url": "https://github.com/bullfly666/percollect",
+    "desc": ""
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  }
+]

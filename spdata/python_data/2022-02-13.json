@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Audiobahn/CVE-2022-20699",
+    "url": "https://github.com/Audiobahn/CVE-2022-20699",
+    "desc": "Cisco Anyconnect VPN unauth RCE (rwx stack)",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "jerry3747/taobao_seckill",
+    "url": "https://github.com/jerry3747/taobao_seckill",
+    "desc": "淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党",
+    "lang": "Python"
+  },
+  {
+    "title": "jinfagang/yolov7",
+    "url": "https://github.com/jinfagang/yolov7",
+    "desc": "🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "OpenMMLab Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "lang": "Python"
+  },
+  {
+    "title": "MIC-DKFZ/nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "mgeeky/PackMyPayload",
+    "url": "https://github.com/mgeeky/PackMyPayload",
+    "desc": "A PoC that packages payloads into output containers to evade Mark-of-the-Web flag & demonstrate risks associated with container file formats. Supports: ZIP, 7zip, PDF, ISO, IMG, CAB, VHD, VHDX",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/videos",
+    "url": "https://github.com/3b1b/videos",
+    "desc": "Code for the manim-generated scenes used in 3blue1brown videos",
+    "lang": "Python"
+  },
+  {
+    "title": "SliShady/BingDwenDwen",
+    "url": "https://github.com/SliShady/BingDwenDwen",
+    "desc": "使用python绘制冰墩墩",
+    "lang": "Python"
+  },
+  {
+    "title": "arogozhnikov/einops",
+    "url": "https://github.com/arogozhnikov/einops",
+    "desc": "Deep learning operations reinvented (for pytorch, tensorflow, jax and others)",
+    "lang": "Python"
+  },
+  {
+    "title": "janvarev/Irene-Voice-Assistant",
+    "url": "https://github.com/janvarev/Irene-Voice-Assistant",
+    "desc": "Ирина - русский голосовой ассистент для работы оффлайн. Поддерживает скиллы через плагины.",
+    "lang": "Python"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "In-Database Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "patrick-kidger/diffrax",
+    "url": "https://github.com/patrick-kidger/diffrax",
+    "desc": "Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable.",
+    "lang": "Python"
+  },
+  {
+    "title": "matrix-org/synapse",
+    "url": "https://github.com/matrix-org/synapse",
+    "desc": "Synapse: Matrix homeserver written in Python 3/Twisted.",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "PyCQA/isort",
+    "url": "https://github.com/PyCQA/isort",
+    "desc": "A Python utility / library to sort imports.",
+    "lang": "Python"
+  },
+  {
+    "title": "gquere/pwn_jenkins",
+    "url": "https://github.com/gquere/pwn_jenkins",
+    "desc": "Notes about attacking Jenkins servers",
+    "lang": "Python"
+  }
+]
