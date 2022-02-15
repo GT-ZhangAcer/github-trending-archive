@@ -1,0 +1,145 @@
+[
+  {
+    "title": "yifeikong/reverse-interview-zh",
+    "url": "https://github.com/yifeikong/reverse-interview-zh",
+    "desc": "技术面试最后反问面试官的话"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "huihut/interview",
+    "url": "https://github.com/huihut/interview",
+    "desc": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…",
+    "lang": "C++"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "dtm-labs/dtm",
+    "url": "https://github.com/dtm-labs/dtm",
+    "desc": "🔥A cross-language distributed transaction manager. Support saga, tcc, xa, 2 phases messages. 跨语言分布式事务管理器",
+    "lang": "Go"
+  },
+  {
+    "title": "jerry3747/taobao_seckill",
+    "url": "https://github.com/jerry3747/taobao_seckill",
+    "desc": "淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党",
+    "lang": "Python"
+  },
+  {
+    "title": "KwaiAppTeam/SwiftPamphletApp",
+    "url": "https://github.com/KwaiAppTeam/SwiftPamphletApp",
+    "desc": "戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用",
+    "lang": "Swift"
+  },
+  {
+    "title": "byoungd/English-level-up-tips",
+    "url": "https://github.com/byoungd/English-level-up-tips",
+    "desc": "An advanced guide to learn English that might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "lgwebdream/FE-Interview",
+    "url": "https://github.com/lgwebdream/FE-Interview",
+    "desc": "🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "wolverinn/Waking-Up",
+    "url": "https://github.com/wolverinn/Waking-Up",
+    "desc": "计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试🚀；可用于模拟面试、面试前复习、短期内快速备战面试..."
+  },
+  {
+    "title": "KingRan/KR",
+    "url": "https://github.com/KingRan/KR",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "afatcoder/LeetcodeTop",
+    "url": "https://github.com/afatcoder/LeetcodeTop",
+    "desc": "汇总各大互联网公司容易考察的高频leetcode题🔥"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+  },
+  {
+    "title": "6dylan6/jdpro",
+    "url": "https://github.com/6dylan6/jdpro",
+    "desc": "京东签到，集合库，内部助力，青龙面板支持，青龙脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "s-unscrupulous/idea_seat",
+    "url": "https://github.com/s-unscrupulous/idea_seat",
+    "desc": "IDEA 久坐提醒插件",
+    "lang": "Java"
+  },
+  {
+    "title": "dcloudio/uni-app",
+    "url": "https://github.com/dcloudio/uni-app",
+    "desc": "uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "w7corp/easywechat",
+    "url": "https://github.com/w7corp/easywechat",
+    "desc": "📦 一个 PHP 微信 SDK",
+    "lang": "PHP"
+  },
+  {
+    "title": "Aaron-lv/sync",
+    "url": "https://github.com/Aaron-lv/sync",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lanceliao/china-holiday-calender",
+    "url": "https://github.com/lanceliao/china-holiday-calender",
+    "desc": "中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅"
+  },
+  {
+    "title": "noxue/bingdundun",
+    "url": "https://github.com/noxue/bingdundun",
+    "desc": "冰墩墩3d源码",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ripperhe/Bob",
+    "url": "https://github.com/ripperhe/Bob",
+    "desc": "Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "xuxueli/xxl-job",
+    "url": "https://github.com/xuxueli/xxl-job",
+    "desc": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "lang": "Java"
+  }
+]

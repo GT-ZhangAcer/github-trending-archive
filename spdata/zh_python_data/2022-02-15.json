@@ -1,0 +1,152 @@
+[
+  {
+    "title": "jerry3747/taobao_seckill",
+    "url": "https://github.com/jerry3747/taobao_seckill",
+    "desc": "淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党",
+    "lang": "Python"
+  },
+  {
+    "title": "0voice/interview_internal_reference",
+    "url": "https://github.com/0voice/interview_internal_reference",
+    "desc": "2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "desc": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "lang": "Python"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleX",
+    "url": "https://github.com/PaddlePaddle/PaddleX",
+    "desc": "PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）",
+    "lang": "Python"
+  },
+  {
+    "title": "alisen39/TrWebOCR",
+    "url": "https://github.com/alisen39/TrWebOCR",
+    "desc": "开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口，方便人类日常工作使用或者其他程序来调用~",
+    "lang": "Python"
+  },
+  {
+    "title": "Limour-dev/daily_fudan_core",
+    "url": "https://github.com/Limour-dev/daily_fudan_core",
+    "desc": "daily_fudan的代码，无需fork；请fork https://github.com/Limour-dev/daily_fudan_actions 来自动执行该repo下的最新代码",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "wzpan/wukong-robot",
+    "url": "https://github.com/wzpan/wukong-robot",
+    "desc": "🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，还可能是首个支持脑机交互的开源智能音箱项目。",
+    "lang": "Python"
+  },
+  {
+    "title": "conwnet/wpa-dictionary",
+    "url": "https://github.com/conwnet/wpa-dictionary",
+    "desc": "WPA/WPA2 密码字典，用于 wifi 密码暴力破解",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步机器人框架 / Asynchronous multi-platform robot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "sirodeneko/genshin-sign",
+    "url": "https://github.com/sirodeneko/genshin-sign",
+    "desc": "原神自动签到",
+    "lang": "Python"
+  },
+  {
+    "title": "waditu/czsc",
+    "url": "https://github.com/waditu/czsc",
+    "desc": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+    "lang": "Python"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点收集，及订阅链接分享。",
+    "lang": "Python"
+  },
+  {
+    "title": "Waikkii/JD_Get_Cookie",
+    "url": "https://github.com/Waikkii/JD_Get_Cookie",
+    "desc": "PC获取ck工具",
+    "lang": "Python"
+  },
+  {
+    "title": "fxsjy/jieba",
+    "url": "https://github.com/fxsjy/jieba",
+    "desc": "结巴中文分词",
+    "lang": "Python"
+  },
+  {
+    "title": "jackzhenguo/python-small-examples",
+    "url": "https://github.com/jackzhenguo/python-small-examples",
+    "desc": "告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work",
+    "lang": "Python"
+  },
+  {
+    "title": "tychxn/jd-assistant",
+    "url": "https://github.com/tychxn/jd-assistant",
+    "desc": "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能",
+    "lang": "Python"
+  },
+  {
+    "title": "bojone/bert4keras",
+    "url": "https://github.com/bojone/bert4keras",
+    "desc": "keras implement of transformers for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "minivision-ai/photo2cartoon",
+    "url": "https://github.com/minivision-ai/photo2cartoon",
+    "desc": "人像卡通化探索项目 (photo-to-cartoon translation project)",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "h2y/Shadowrocket-ADBlock-Rules",
+    "url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
+    "desc": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。",
+    "lang": "Python"
+  },
+  {
+    "title": "Rockyzsu/stock",
+    "url": "https://github.com/Rockyzsu/stock",
+    "desc": "30天掌握量化交易 (持续更新)",
+    "lang": "Python"
+  }
+]

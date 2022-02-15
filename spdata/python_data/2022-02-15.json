@@ -1,0 +1,152 @@
+[
+  {
+    "title": "bilibili/ailab",
+    "url": "https://github.com/bilibili/ailab",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "owid/covid-19-data",
+    "url": "https://github.com/owid/covid-19-data",
+    "desc": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
+    "lang": "Python"
+  },
+  {
+    "title": "Roznoshchik/Lurnby",
+    "url": "https://github.com/Roznoshchik/Lurnby",
+    "desc": "A tool for active reading and personal knowledge management",
+    "lang": "Python"
+  },
+  {
+    "title": "jerry3747/taobao_seckill",
+    "url": "https://github.com/jerry3747/taobao_seckill",
+    "desc": "淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党",
+    "lang": "Python"
+  },
+  {
+    "title": "XanaduAI/QHack",
+    "url": "https://github.com/XanaduAI/QHack",
+    "desc": "QHack—The one-of-a-kind quantum computing hackathon",
+    "lang": "Python"
+  },
+  {
+    "title": "google/evojax",
+    "url": "https://github.com/google/evojax",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "LarkoPa/bombcrypto-robot",
+    "url": "https://github.com/LarkoPa/bombcrypto-robot",
+    "desc": "Python bot to automate BombCrypto game. Updated 01.02.2022. Logs in to the game, reconnects when needed, closes error warnings, sends heroes to work or home automatically, has Telegram integration and lets you know by message or call if the farm stop. It is fully open source and free, compatible with Windows and Ubuntu.",
+    "lang": "Python"
+  },
+  {
+    "title": "mlflow/mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "desc": "Open source platform for the machine learning lifecycle",
+    "lang": "Python"
+  },
+  {
+    "title": "starlite-api/starlite",
+    "url": "https://github.com/starlite-api/starlite",
+    "desc": "Light, Flexible and Extensible ASGI API framework",
+    "lang": "Python"
+  },
+  {
+    "title": "autonomousvision/projected_gan",
+    "url": "https://github.com/autonomousvision/projected_gan",
+    "desc": "[NeurIPS'21] Projected GANs Converge Faster",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/frame-interpolation",
+    "url": "https://github.com/google-research/frame-interpolation",
+    "desc": "FILM: Frame Interpolation for Large Motion, In arXiv 2022.",
+    "lang": "Python"
+  },
+  {
+    "title": "sphinx-doc/sphinx",
+    "url": "https://github.com/sphinx-doc/sphinx",
+    "desc": "Main repository for the Sphinx documentation builder",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/recommenders",
+    "url": "https://github.com/microsoft/recommenders",
+    "desc": "Best Practices on Recommendation Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "samuelcolvin/pydantic",
+    "url": "https://github.com/samuelcolvin/pydantic",
+    "desc": "Data parsing and validation using Python type hints",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/Paddle",
+    "url": "https://github.com/PaddlePaddle/Paddle",
+    "desc": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+    "lang": "Python"
+  },
+  {
+    "title": "httpie/httpie",
+    "url": "https://github.com/httpie/httpie",
+    "desc": "As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie",
+    "lang": "Python"
+  },
+  {
+    "title": "youfou/wxpy",
+    "url": "https://github.com/youfou/wxpy",
+    "desc": "微信机器人 / 可能是最优雅的微信个人号 API ✨✨",
+    "lang": "Python"
+  },
+  {
+    "title": "kubeflow/pipelines",
+    "url": "https://github.com/kubeflow/pipelines",
+    "desc": "Machine Learning Pipelines for Kubeflow",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/examples",
+    "url": "https://github.com/pytorch/examples",
+    "desc": "A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "spack/spack",
+    "url": "https://github.com/spack/spack",
+    "desc": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/moco",
+    "url": "https://github.com/facebookresearch/moco",
+    "desc": "PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722",
+    "lang": "Python"
+  },
+  {
+    "title": "pytube/pytube",
+    "url": "https://github.com/pytube/pytube",
+    "desc": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+    "lang": "Python"
+  },
+  {
+    "title": "davidteather/TikTok-Api",
+    "url": "https://github.com/davidteather/TikTok-Api",
+    "desc": "The Unofficial TikTok API Wrapper In Python",
+    "lang": "Python"
+  },
+  {
+    "title": "cookiecutter/cookiecutter-django",
+    "url": "https://github.com/cookiecutter/cookiecutter-django",
+    "desc": "Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.",
+    "lang": "Python"
+  }
+]
