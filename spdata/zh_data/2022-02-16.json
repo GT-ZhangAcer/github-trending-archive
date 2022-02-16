@@ -1,0 +1,144 @@
+[
+  {
+    "title": "heiyeluren/XMM",
+    "url": "https://github.com/heiyeluren/XMM",
+    "desc": "XMM - X(eXtensible) Memory Manager（自研自主第三方Go内存分配管理器） XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现的Go内存管理库；能够应对各种场景下大小内存的 分配/释放/管理 等工作，能够帮助适用于任何复杂数据结构的构建（链表/数组/树/hash等场景），能够良好完美的逃逸掉Go内置的GC机制，保证程序的超高性能，是构建高性能程序基础设施。",
+    "lang": "Go"
+  },
+  {
+    "title": "4ra1n/JavaSecInterview",
+    "url": "https://github.com/4ra1n/JavaSecInterview",
+    "desc": "打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作",
+    "lang": "Python"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南"
+  },
+  {
+    "title": "dtm-labs/dtm",
+    "url": "https://github.com/dtm-labs/dtm",
+    "desc": "🔥A cross-language distributed transaction solution. Support saga, tcc, xa, 2 phases messages. 跨语言分布式事务管理器",
+    "lang": "Go"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "lgwebdream/FE-Interview",
+    "url": "https://github.com/lgwebdream/FE-Interview",
+    "desc": "🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ 一款现代化的开源博客/CMS系统。",
+    "lang": "Java"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "imcuttle/mometa",
+    "url": "https://github.com/imcuttle/mometa",
+    "desc": "🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "byoungd/English-level-up-tips",
+    "url": "https://github.com/byoungd/English-level-up-tips",
+    "desc": "An advanced guide to learn English that might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ineo6/hosts",
+    "url": "https://github.com/ineo6/hosts",
+    "desc": "GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "KingRan/KR",
+    "url": "https://github.com/KingRan/KR",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "desc": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类"
+  },
+  {
+    "title": "KwaiAppTeam/SwiftPamphletApp",
+    "url": "https://github.com/KwaiAppTeam/SwiftPamphletApp",
+    "desc": "戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用",
+    "lang": "Swift"
+  },
+  {
+    "title": "xuxueli/xxl-job",
+    "url": "https://github.com/xuxueli/xxl-job",
+    "desc": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "lang": "Java"
+  },
+  {
+    "title": "ddlBoJack/Speech-Resources",
+    "url": "https://github.com/ddlBoJack/Speech-Resources",
+    "desc": "语音方向实验室/公司/资源/实习等，欢迎推荐或自荐（排名不分先后）"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "heibaiying/BigData-Notes",
+    "url": "https://github.com/heibaiying/BigData-Notes",
+    "desc": "大数据入门指南 ⭐",
+    "lang": "Java"
+  },
+  {
+    "title": "s-unscrupulous/idea_seat",
+    "url": "https://github.com/s-unscrupulous/idea_seat",
+    "desc": "IDEA 久坐提醒插件",
+    "lang": "Java"
+  },
+  {
+    "title": "forthespada/InterviewGuide",
+    "url": "https://github.com/forthespada/InterviewGuide",
+    "desc": "「InterviewGuide」一个收录优质计算机校招、社招面试常见面试题的仓库🔥🔥，以前叫做《逆袭进大厂》。目前已收录 C/C++ 、操作系统、数据结构、计算机网络、MySQL、Redis等面试资料,未来打算继续收录Java、Python、Go等面试常见问题，坚持将此仓库维护下去。"
+  }
+]
