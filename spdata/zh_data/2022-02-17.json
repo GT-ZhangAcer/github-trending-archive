@@ -1,0 +1,146 @@
+[
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。"
+  },
+  {
+    "title": "gedoor/legado",
+    "url": "https://github.com/gedoor/legado",
+    "desc": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "byoungd/English-level-up-tips",
+    "url": "https://github.com/byoungd/English-level-up-tips",
+    "desc": "An advanced guide to learn English that might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。"
+  },
+  {
+    "title": "dtm-labs/dtm",
+    "url": "https://github.com/dtm-labs/dtm",
+    "desc": "🔥A cross-language distributed transaction solution. Support saga, tcc, xa, 2 phases messages. 跨语言分布式事务管理器",
+    "lang": "Go"
+  },
+  {
+    "title": "heiyeluren/XMM",
+    "url": "https://github.com/heiyeluren/XMM",
+    "desc": "XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance. XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存的 分配/释放 工作，能自主构建高性能的 链表/树/哈希表等各类数据结构，能良好完美的逃逸掉Go内置的GC机制，是构建高性能程序基础设施。",
+    "lang": "Go"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "lgwebdream/FE-Interview",
+    "url": "https://github.com/lgwebdream/FE-Interview",
+    "desc": "🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "4ra1n/JavaSecInterview",
+    "url": "https://github.com/4ra1n/JavaSecInterview",
+    "desc": "打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "HTML"
+  },
+  {
+    "title": "ACh-K/Cubic-11",
+    "url": "https://github.com/ACh-K/Cubic-11",
+    "desc": "免費開源的 11×11 中文點陣體"
+  },
+  {
+    "title": "tychxn/jd-assistant",
+    "url": "https://github.com/tychxn/jd-assistant",
+    "desc": "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能",
+    "lang": "Python"
+  },
+  {
+    "title": "CFPAOrg/Minecraft-Mod-Language-Package",
+    "url": "https://github.com/CFPAOrg/Minecraft-Mod-Language-Package",
+    "desc": "A language package for Minecraft Mods.",
+    "lang": "C#"
+  },
+  {
+    "title": "personqianduixue/Math_Model",
+    "url": "https://github.com/personqianduixue/Math_Model",
+    "desc": "美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、数学建模美赛论文，数学建模国赛论文、LaTeX模板、国赛LaTeX模板、美赛LaTeX模板、mathorcup历年论文、研究生数学建模历年论文、电工杯、华中赛、APMCM亚太地区数学建模、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、数学建模算法、国赛评阅要点、数学建模word模板、软件模型算法汇总、MATLAB算法、常用Matlab代码、智能算法、现代的算法、图论算法、优化算法",
+    "lang": "MATLAB"
+  },
+  {
+    "title": "modood/Administrative-divisions-of-China",
+    "url": "https://github.com/modood/Administrative-divisions-of-China",
+    "desc": "中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
+    "lang": "Python"
+  },
+  {
+    "title": "TophantTechnology/ARL",
+    "url": "https://github.com/TophantTechnology/ARL",
+    "desc": "ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。",
+    "lang": "Python"
+  },
+  {
+    "title": "wangzhiwubigdata/God-Of-BigData",
+    "url": "https://github.com/wangzhiwubigdata/God-Of-BigData",
+    "desc": "专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive..."
+  },
+  {
+    "title": "aisuda/amis-editor-demo",
+    "url": "https://github.com/aisuda/amis-editor-demo",
+    "desc": "amis 可视化编辑器示例 http://aisuda.github.io/amis-editor-demo",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "KwaiAppTeam/SwiftPamphletApp",
+    "url": "https://github.com/KwaiAppTeam/SwiftPamphletApp",
+    "desc": "戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用",
+    "lang": "Swift"
+  },
+  {
+    "title": "YMFE/yapi",
+    "url": "https://github.com/YMFE/yapi",
+    "desc": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
+    "lang": "JavaScript"
+  }
+]
