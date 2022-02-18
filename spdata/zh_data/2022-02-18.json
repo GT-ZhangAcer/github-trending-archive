@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。"
+  },
+  {
+    "title": "heiyeluren/XMM",
+    "url": "https://github.com/heiyeluren/XMM",
+    "desc": "XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance. XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存的 分配/释放 工作，能自主构建高性能的 链表/树/哈希表等各类数据结构，能良好完美的逃逸掉Go内置的GC机制，是构建高性能程序基础设施。",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "easychen/pushdeer",
+    "url": "https://github.com/easychen/pushdeer",
+    "desc": "开放源码的无App推送服务，iOS14+扫码即用。🚧 快应用开发中",
+    "lang": "C"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "4ra1n/JavaSecInterview",
+    "url": "https://github.com/4ra1n/JavaSecInterview",
+    "desc": "打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作",
+    "lang": "Python"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  },
+  {
+    "title": "csguide-dabai/Programmer-look-at-China",
+    "url": "https://github.com/csguide-dabai/Programmer-look-at-China",
+    "desc": "介绍中国各二线以上城市的互联网环境以及生活成本"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "circlestarzero/GenshinMapAutoMarkTools",
+    "url": "https://github.com/circlestarzero/GenshinMapAutoMarkTools",
+    "desc": "Tools To add/delete/refresh resources mark in Genshin_Impact Map",
+    "lang": "Python"
+  },
+  {
+    "title": "cdle/sillyGirl",
+    "url": "https://github.com/cdle/sillyGirl",
+    "desc": "傻妞机器人",
+    "lang": "Go"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "SkywalkerJi/mdt",
+    "url": "https://github.com/SkywalkerJi/mdt",
+    "desc": "Yu-Gi-Oh! Master Duel Translation Script",
+    "lang": "Python"
+  },
+  {
+    "title": "personqianduixue/Math_Model",
+    "url": "https://github.com/personqianduixue/Math_Model",
+    "desc": "美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、数学建模美赛论文，数学建模国赛论文、LaTeX模板、国赛LaTeX模板、美赛LaTeX模板、mathorcup历年论文、研究生数学建模历年论文、电工杯、华中赛、APMCM亚太地区数学建模、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、数学建模算法、国赛评阅要点、数学建模word模板、软件模型算法汇总、MATLAB算法、常用Matlab代码、智能算法、现代的算法、图论算法、优化算法",
+    "lang": "MATLAB"
+  },
+  {
+    "title": "link1st/go-stress-testing",
+    "url": "https://github.com/link1st/go-stress-testing",
+    "desc": "go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】",
+    "lang": "Go"
+  },
+  {
+    "title": "fuzhengwei/itstack-demo-design",
+    "url": "https://github.com/fuzhengwei/itstack-demo-design",
+    "desc": "🎨 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn",
+    "lang": "Java"
+  },
+  {
+    "title": "rd2coding/Road2Coding",
+    "url": "https://github.com/rd2coding/Road2Coding",
+    "desc": "编程之路"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "dick20/MCM-ICM",
+    "url": "https://github.com/dick20/MCM-ICM",
+    "desc": "2004-2020美赛O奖论文",
+    "lang": "MATLAB"
+  },
+  {
+    "title": "easzlab/kubeasz",
+    "url": "https://github.com/easzlab/kubeasz",
+    "desc": "使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响",
+    "lang": "Jinja"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "forezp/SpringCloudLearning",
+    "url": "https://github.com/forezp/SpringCloudLearning",
+    "desc": "《史上最简单的Spring Cloud教程源码》",
+    "lang": "Java"
+  }
+]
