@@ -1,0 +1,152 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "bbfamily/abu",
+    "url": "https://github.com/bbfamily/abu",
+    "desc": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
+    "lang": "Python"
+  },
+  {
+    "title": "openatx/uiautomator2",
+    "url": "https://github.com/openatx/uiautomator2",
+    "desc": "Android Uiautomator2 Python Wrapper",
+    "lang": "Python"
+  },
+  {
+    "title": "ermaozi/get_subscribe",
+    "url": "https://github.com/ermaozi/get_subscribe",
+    "desc": "✈️ 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙",
+    "lang": "Python"
+  },
+  {
+    "title": "zhongxinghong/PKUAutoElective",
+    "url": "https://github.com/zhongxinghong/PKUAutoElective",
+    "desc": "北大选课网补退选阶段自动选课小工具",
+    "lang": "Python"
+  },
+  {
+    "title": "LyleMi/Learn-Web-Hacking",
+    "url": "https://github.com/LyleMi/Learn-Web-Hacking",
+    "desc": "Study Notes For Web Hacking / Web安全学习笔记",
+    "lang": "Python"
+  },
+  {
+    "title": "shinnytech/tqsdk-python",
+    "url": "https://github.com/shinnytech/tqsdk-python",
+    "desc": "天勤量化开发包, 期货量化, 实时行情/历史数据/实盘交易",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "PeiQi0/PeiQi-WIKI-PocSuite3",
+    "url": "https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3",
+    "desc": "基于Pocsuite3框架的 POC/EXP ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "circlestarzero/GenshinMapAutoMarkTools",
+    "url": "https://github.com/circlestarzero/GenshinMapAutoMarkTools",
+    "desc": "Tools To add/delete/refresh resources mark in Genshin_Impact Map",
+    "lang": "Python"
+  },
+  {
+    "title": "hhyo/Archery",
+    "url": "https://github.com/hhyo/Archery",
+    "desc": "SQL 审核查询平台",
+    "lang": "Python"
+  },
+  {
+    "title": "yangwohenmai/LSTM",
+    "url": "https://github.com/yangwohenmai/LSTM",
+    "desc": "基于LSTM神经网络的时间序列预测",
+    "lang": "Python"
+  },
+  {
+    "title": "78778443/QingScan",
+    "url": "https://github.com/78778443/QingScan",
+    "desc": "一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。",
+    "lang": "Python"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/Deep-Learning",
+    "url": "https://github.com/Jack-Cherish/Deep-Learning",
+    "desc": "💻深度学习实战：手写数字识别、Discuz验证码识别、垃圾分类、语义分割",
+    "lang": "Python"
+  },
+  {
+    "title": "waditu/czsc",
+    "url": "https://github.com/waditu/czsc",
+    "desc": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+    "lang": "Python"
+  },
+  {
+    "title": "lxflxfcl/monitor",
+    "url": "https://github.com/lxflxfcl/monitor",
+    "desc": "漏洞监控平台——Monitor。目前实现了监控GitHub、微软、CNNVD三者的漏洞信息，并使用企业微信实时推送。还可以使用邮箱推送，默认关闭。",
+    "lang": "Python"
+  },
+  {
+    "title": "JustMachiavelli/javsdt",
+    "url": "https://github.com/JustMachiavelli/javsdt",
+    "desc": "影片信息整理工具，抓取元数据nfo，自定义重命名文件(夹)，下载fanart裁剪poster，为emby、kodi、极影派铺路。",
+    "lang": "Python"
+  },
+  {
+    "title": "VMsec/ihoneyBakFileScan_Modify",
+    "url": "https://github.com/VMsec/ihoneyBakFileScan_Modify",
+    "desc": "批量网站备份文件扫描器，增加文件规则，优化内存占用",
+    "lang": "Python"
+  },
+  {
+    "title": "MorvanZhou/tutorials",
+    "url": "https://github.com/MorvanZhou/tutorials",
+    "desc": "机器学习相关教程",
+    "lang": "Python"
+  },
+  {
+    "title": "chineseocr/chineseocr",
+    "url": "https://github.com/chineseocr/chineseocr",
+    "desc": "yolo3+ocr",
+    "lang": "Python"
+  },
+  {
+    "title": "fkxxyz/rime-cloverpinyin",
+    "url": "https://github.com/fkxxyz/rime-cloverpinyin",
+    "desc": "🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！",
+    "lang": "Python"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "Jrohy/multi-v2ray",
+    "url": "https://github.com/Jrohy/multi-v2ray",
+    "desc": "v2ray/xray多用户管理部署程序",
+    "lang": "Python"
+  }
+]
