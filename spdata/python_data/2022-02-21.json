@@ -1,0 +1,152 @@
+[
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "cryptotwinsbr/spacecrypto-bot",
+    "url": "https://github.com/cryptotwinsbr/spacecrypto-bot",
+    "desc": "This is a free python bot program that crosses you to farm with auto click in space crypto NFT game, having fun :)",
+    "lang": "Python"
+  },
+  {
+    "title": "danielbeach/data-engineering-practice",
+    "url": "https://github.com/danielbeach/data-engineering-practice",
+    "desc": "Data Engineering Practice Problems",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "arc298/instagram-scraper",
+    "url": "https://github.com/arc298/instagram-scraper",
+    "desc": "Scrapes an instagram user's photos and videos",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "KurtBestor/Hitomi-Downloader",
+    "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+    "desc": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "careercup/CtCI-6th-Edition-Python",
+    "url": "https://github.com/careercup/CtCI-6th-Edition-Python",
+    "desc": "Cracking the Coding Interview 6th Ed. Python Solutions",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/mae",
+    "url": "https://github.com/facebookresearch/mae",
+    "desc": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+    "lang": "Python"
+  },
+  {
+    "title": "Mas0nShi/typoraCracker",
+    "url": "https://github.com/Mas0nShi/typoraCracker",
+    "desc": "A extract & decryption and pack & encryption tools for typora.",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "ly4k/Certipy",
+    "url": "https://github.com/ly4k/Certipy",
+    "desc": "Tool for Active Directory Certificate Services enumeration and abuse",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "cgtinker/BlendArMocap",
+    "url": "https://github.com/cgtinker/BlendArMocap",
+    "desc": "realtime motion tracking in blender using mediapipe and rigify",
+    "lang": "Python"
+  },
+  {
+    "title": "numpy/numpy",
+    "url": "https://github.com/numpy/numpy",
+    "desc": "The fundamental package for scientific computing with Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "InstaPy/InstaPy",
+    "url": "https://github.com/InstaPy/InstaPy",
+    "desc": "📷 Instagram Bot - Tool for automated Instagram interactions",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "oreilly-japan/deep-learning-from-scratch",
+    "url": "https://github.com/oreilly-japan/deep-learning-from-scratch",
+    "desc": "『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "desc": "Cross-platform, fast, feature-rich, GPU based terminal",
+    "lang": "Python"
+  },
+  {
+    "title": "Pycord-Development/pycord",
+    "url": "https://github.com/Pycord-Development/pycord",
+    "desc": "Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/microservices-demo",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "desc": "Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.",
+    "lang": "Python"
+  }
+]
