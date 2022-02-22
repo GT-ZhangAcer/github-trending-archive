@@ -1,0 +1,152 @@
+[
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "brohrer/sharpened_cosine_similarity_torch",
+    "url": "https://github.com/brohrer/sharpened_cosine_similarity_torch",
+    "desc": "A Sharpened Cosine Similarity layer for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "MIC-DKFZ/nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "desc": "A collection of simple python mini projects to enhance your python skills",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "obss/sahi",
+    "url": "https://github.com/obss/sahi",
+    "desc": "A lightweight vision library for performing large scale object detection/ instance segmentation.",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "cryptotwinsbr/spacecrypto-bot",
+    "url": "https://github.com/cryptotwinsbr/spacecrypto-bot",
+    "desc": "This is a free python bot program that crosses you to farm with auto click in space crypto NFT game, having fun :)",
+    "lang": "Python"
+  },
+  {
+    "title": "gokulapap/Reconator",
+    "url": "https://github.com/gokulapap/Reconator",
+    "desc": "Automated Recon for Pentesting & Bug Bounty",
+    "lang": "Python"
+  },
+  {
+    "title": "Pycord-Development/pycord",
+    "url": "https://github.com/Pycord-Development/pycord",
+    "desc": "Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API",
+    "lang": "Python"
+  },
+  {
+    "title": "openvinotoolkit/anomalib",
+    "url": "https://github.com/openvinotoolkit/anomalib",
+    "desc": "An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleClas",
+    "url": "https://github.com/PaddlePaddle/PaddleClas",
+    "desc": "A treasure chest for visual recognition powered by PaddlePaddle",
+    "lang": "Python"
+  },
+  {
+    "title": "cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions",
+    "url": "https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "lang": "Python"
+  },
+  {
+    "title": "0vercl0k/zenith",
+    "url": "https://github.com/0vercl0k/zenith",
+    "desc": "Zenith exploits a memory corruption vulnerability in the NetUSB driver to get remote-code execution on the TP-Link Archer C7 V5 router for Pwn2Own Austin 2021.",
+    "lang": "Python"
+  },
+  {
+    "title": "kedro-org/kedro",
+    "url": "https://github.com/kedro-org/kedro",
+    "desc": "A Python framework for creating reproducible, maintainable and modular data science code.",
+    "lang": "Python"
+  },
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "desc": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "lang": "Python"
+  },
+  {
+    "title": "rotemtzaban/STIT",
+    "url": "https://github.com/rotemtzaban/STIT",
+    "desc": "",
+    "lang": "Python"
+  }
+]

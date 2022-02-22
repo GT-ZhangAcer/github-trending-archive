@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。"
+  },
+  {
+    "title": "midisec/BypassAnti-Virus",
+    "url": "https://github.com/midisec/BypassAnti-Virus",
+    "desc": "免杀姿势学习、记录、复现。",
+    "lang": "C++"
+  },
+  {
+    "title": "helloexp/0day",
+    "url": "https://github.com/helloexp/0day",
+    "desc": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新",
+    "lang": "C"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "metowolf/vCards",
+    "url": "https://github.com/metowolf/vCards",
+    "desc": "📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "csguide-dabai/Programmer-look-at-China",
+    "url": "https://github.com/csguide-dabai/Programmer-look-at-China",
+    "desc": "介绍中国各二线以上城市的互联网环境以及生活成本",
+    "lang": "Shell"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "selfteaching/the-craft-of-selfteaching",
+    "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vvmdx/Sec-Interview-4-2023",
+    "url": "https://github.com/vvmdx/Sec-Interview-4-2023",
+    "desc": "一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~"
+  },
+  {
+    "title": "0x727/Space_view",
+    "url": "https://github.com/0x727/Space_view",
+    "desc": "Space_view 是一款Hunter(鹰图平台)或者FOFA平台 资产展示的浏览器油猴插件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skywind3000/kcp",
+    "url": "https://github.com/skywind3000/kcp",
+    "desc": "⚡ KCP - A Fast and Reliable ARQ Protocol",
+    "lang": "C"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "crisxuan/bestJavaer",
+    "url": "https://github.com/crisxuan/bestJavaer",
+    "desc": "这是一个成为更好的Java程序员的系列教程"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "desc": "收集整理 GitHub 上高质量、有趣的开源项目。"
+  },
+  {
+    "title": "qinguoyi/TinyWebServer",
+    "url": "https://github.com/qinguoyi/TinyWebServer",
+    "desc": "🔥 Linux下C++轻量级Web服务器",
+    "lang": "C++"
+  },
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "desc": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "YunaiV/onemall",
+    "url": "https://github.com/YunaiV/onemall",
+    "desc": "芋道 mall 商城，基于微服务的思想，构建在 B2C 电商场景下的项目实战。核心技术栈，是 Spring Boot + Dubbo 。未来，会重构成 Spring Cloud Alibaba 。",
+    "lang": "Java"
+  },
+  {
+    "title": "tangtangcoding/C-C-",
+    "url": "https://github.com/tangtangcoding/C-C-",
+    "desc": "程序员相关电子书资料免费分享，欢迎关注个人微信公众号：程序员编程指南"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "PGYER/codefever",
+    "url": "https://github.com/PGYER/codefever",
+    "desc": "CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!",
+    "lang": "PHP"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "vooidzero/B23Downloader",
+    "url": "https://github.com/vooidzero/B23Downloader",
+    "desc": "下载B站视频、直播、漫画（能看=能下载）。使用 Qt C++ 开发",
+    "lang": "C++"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11",
+    "lang": "C++"
+  }
+]
