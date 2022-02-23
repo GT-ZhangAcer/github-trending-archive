@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese)."
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "BySergeyDev/NvidiaRTX-LHRv2Unlocker",
+    "url": "https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker",
+    "desc": "The first fully automated BIOS modifier for RTX cards with LHR v2 lock."
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "J0hnbX/RedTeam-Resources",
+    "url": "https://github.com/J0hnbX/RedTeam-Resources",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "vvmdx/Sec-Interview-4-2023",
+    "url": "https://github.com/vvmdx/Sec-Interview-4-2023",
+    "desc": "一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "desc": "An updated version of the classic Basic Computer Games book, with well-written examples in a variety of common programming languages",
+    "lang": "C#"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "desc": "Build your personal knowledge base with Trilium Notes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "automerge/automerge",
+    "url": "https://github.com/automerge/automerge",
+    "desc": "A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danielbeach/data-engineering-practice",
+    "url": "https://github.com/danielbeach/data-engineering-practice",
+    "desc": "Data Engineering Practice Problems",
+    "lang": "Python"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "lang": "C"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "desc": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "lang": "Cuda"
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "desc": "mold: A Modern Linker",
+    "lang": "C++"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
+    "desc": "Anime Girls Holding Programming Books"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "ant-design/pro-components",
+    "url": "https://github.com/ant-design/pro-components",
+    "desc": "🏆 Use Ant Design like a Pro!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "aquasecurity/cloudsploit",
+    "url": "https://github.com/aquasecurity/cloudsploit",
+    "desc": "Cloud Security Posture Management (CSPM)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cube0x0/BofRoast",
+    "url": "https://github.com/cube0x0/BofRoast",
+    "desc": "Beacon Object Files for roasting Active Directory",
+    "lang": "C"
+  },
+  {
+    "title": "cosmtrek/air",
+    "url": "https://github.com/cosmtrek/air",
+    "desc": "☁️ Live reload for Go apps",
+    "lang": "Go"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "desc": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "lang": "JavaScript"
+  }
+]

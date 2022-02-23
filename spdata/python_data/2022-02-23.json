@@ -1,0 +1,152 @@
+[
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "J0hnbX/RedTeam-Resources",
+    "url": "https://github.com/J0hnbX/RedTeam-Resources",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "danielbeach/data-engineering-practice",
+    "url": "https://github.com/danielbeach/data-engineering-practice",
+    "desc": "Data Engineering Practice Problems",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "brohrer/sharpened_cosine_similarity_torch",
+    "url": "https://github.com/brohrer/sharpened_cosine_similarity_torch",
+    "desc": "A Sharpened Cosine Similarity layer for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "kubernetes-client/python",
+    "url": "https://github.com/kubernetes-client/python",
+    "desc": "Official Python client library for kubernetes",
+    "lang": "Python"
+  },
+  {
+    "title": "wilsonfreitas/awesome-quant",
+    "url": "https://github.com/wilsonfreitas/awesome-quant",
+    "desc": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "jinfagang/yolov7",
+    "url": "https://github.com/jinfagang/yolov7",
+    "desc": "🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
+    "lang": "Python"
+  },
+  {
+    "title": "carlospolop/PurplePanda",
+    "url": "https://github.com/carlospolop/PurplePanda",
+    "desc": "Identify privilege escalation paths within and across different clouds",
+    "lang": "Python"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "FederatedAI/FATE",
+    "url": "https://github.com/FederatedAI/FATE",
+    "desc": "An Industrial Grade Federated Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "OpenMMLab Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "simonw/google-drive-to-sqlite",
+    "url": "https://github.com/simonw/google-drive-to-sqlite",
+    "desc": "Create a SQLite database containing metadata from Google Drive",
+    "lang": "Python"
+  },
+  {
+    "title": "yuval-alaluf/stylegan3-editing",
+    "url": "https://github.com/yuval-alaluf/stylegan3-editing",
+    "desc": "Official Implementation of Third Time's the Charm? Image and Video Editing with StyleGAN3 https://arxiv.org/abs/2201.13433",
+    "lang": "Python"
+  },
+  {
+    "title": "SkywalkerJi/mdt",
+    "url": "https://github.com/SkywalkerJi/mdt",
+    "desc": "Yu-Gi-Oh! Master Duel Translation Script",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "gokulapap/Reconator",
+    "url": "https://github.com/gokulapap/Reconator",
+    "desc": "Automated Recon for Pentesting & Bug Bounty",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "SkywalkerJi/mdt",
+    "url": "https://github.com/SkywalkerJi/mdt",
+    "desc": "Yu-Gi-Oh! Master Duel Translation Script",
+    "lang": "Python"
+  },
+  {
+    "title": "wistbean/learn_python3_spider",
+    "url": "https://github.com/wistbean/learn_python3_spider",
+    "desc": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+    "lang": "Python"
+  },
+  {
+    "title": "bojone/bert4keras",
+    "url": "https://github.com/bojone/bert4keras",
+    "desc": "keras implement of transformers for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "Taonn/EmailAll",
+    "url": "https://github.com/Taonn/EmailAll",
+    "desc": "EmailAll is a powerful Email Collect tool — 一款强大的邮箱收集工具",
+    "lang": "Python"
+  },
+  {
+    "title": "fxsjy/jieba",
+    "url": "https://github.com/fxsjy/jieba",
+    "desc": "结巴中文分词",
+    "lang": "Python"
+  },
+  {
+    "title": "louisyoungx/JD-SHOPPER",
+    "url": "https://github.com/louisyoungx/JD-SHOPPER",
+    "desc": "京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)",
+    "lang": "Python"
+  },
+  {
+    "title": "pwxcoo/chinese-xinhua",
+    "url": "https://github.com/pwxcoo/chinese-xinhua",
+    "desc": "📙 中华新华字典数据库。包括歇后语，成语，词语，汉字。",
+    "lang": "Python"
+  },
+  {
+    "title": "ymcui/Chinese-BERT-wwm",
+    "url": "https://github.com/ymcui/Chinese-BERT-wwm",
+    "desc": "Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）",
+    "lang": "Python"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步机器人框架 / Asynchronous multi-platform robot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "ThekingMX1998/free-v2ray-code",
+    "url": "https://github.com/ThekingMX1998/free-v2ray-code",
+    "desc": "❤️发薪日资源发布❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "MorvanZhou/tutorials",
+    "url": "https://github.com/MorvanZhou/tutorials",
+    "desc": "机器学习相关教程",
+    "lang": "Python"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "desc": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "lang": "Python"
+  },
+  {
+    "title": "nl8590687/ASRT_SpeechRecognition",
+    "url": "https://github.com/nl8590687/ASRT_SpeechRecognition",
+    "desc": "A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统",
+    "lang": "Python"
+  },
+  {
+    "title": "zq1997/deepin-wine",
+    "url": "https://github.com/zq1997/deepin-wine",
+    "desc": "【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式",
+    "lang": "Python"
+  },
+  {
+    "title": "liangliangyy/DjangoBlog",
+    "url": "https://github.com/liangliangyy/DjangoBlog",
+    "desc": "🍺基于Django的博客系统",
+    "lang": "Python"
+  },
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "desc": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "lang": "Python"
+  },
+  {
+    "title": "hhyo/Archery",
+    "url": "https://github.com/hhyo/Archery",
+    "desc": "SQL 审核查询平台",
+    "lang": "Python"
+  },
+  {
+    "title": "BaiduSpider/BaiduSpider",
+    "url": "https://github.com/BaiduSpider/BaiduSpider",
+    "desc": "BaiduSpider，一个爬取百度搜索结果的爬虫，目前支持百度网页搜索，百度图片搜索，百度知道搜索，百度视频搜索，百度资讯搜索，百度文库搜索，百度经验搜索和百度百科搜索。",
+    "lang": "Python"
+  },
+  {
+    "title": "MoyuScript/bilibili-api",
+    "url": "https://github.com/MoyuScript/bilibili-api",
+    "desc": "哔哩哔哩的API调用模块",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleVideo",
+    "url": "https://github.com/PaddlePaddle/PaddleVideo",
+    "desc": "基于模块化的设计，提供丰富的视频算法实现、产业级的视频算法优化与应用，包括安防、体育、互联网、媒体等行业的动作定位与识别、行为分析、智能封面、视频标注、视频打标签等，涵盖动作识别与视频分类、动作定位、动作检测、多模态文本视频检索等技术。",
+    "lang": "Python"
+  },
+  {
+    "title": "shmilylty/OneForAll",
+    "url": "https://github.com/shmilylty/OneForAll",
+    "desc": "OneForAll是一款功能强大的子域收集工具",
+    "lang": "Python"
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "lang": "Python"
+  }
+]
