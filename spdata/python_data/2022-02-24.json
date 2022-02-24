@@ -1,0 +1,146 @@
+[
+  {
+    "title": "FederatedAI/FATE",
+    "url": "https://github.com/FederatedAI/FATE",
+    "desc": "An Industrial Grade Federated Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "saleor/saleor",
+    "url": "https://github.com/saleor/saleor",
+    "desc": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "secdev/scapy",
+    "url": "https://github.com/secdev/scapy",
+    "desc": "Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.",
+    "lang": "Python"
+  },
+  {
+    "title": "J0hnbX/RedTeam-Resources",
+    "url": "https://github.com/J0hnbX/RedTeam-Resources",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "nebuly-ai/nebullvm",
+    "url": "https://github.com/nebuly-ai/nebullvm",
+    "desc": "Easy-to-use library to boost AI inference leveraging multiple DL compilers",
+    "lang": "Python"
+  },
+  {
+    "title": "rotemtzaban/STIT",
+    "url": "https://github.com/rotemtzaban/STIT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "openvinotoolkit/anomalib",
+    "url": "https://github.com/openvinotoolkit/anomalib",
+    "desc": "An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "kubernetes-client/python",
+    "url": "https://github.com/kubernetes-client/python",
+    "desc": "Official Python client library for kubernetes",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "MIC-DKFZ/nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "python-pillow/Pillow",
+    "url": "https://github.com/python-pillow/Pillow",
+    "desc": "The friendly PIL fork (Python Imaging Library)",
+    "lang": "Python"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "danielbeach/data-engineering-practice",
+    "url": "https://github.com/danielbeach/data-engineering-practice",
+    "desc": "Data Engineering Practice Problems",
+    "lang": "Python"
+  },
+  {
+    "title": "kedro-org/kedro",
+    "url": "https://github.com/kedro-org/kedro",
+    "desc": "A Python framework for creating reproducible, maintainable and modular data science code.",
+    "lang": "Python"
+  },
+  {
+    "title": "isocpp/CppCoreGuidelines",
+    "url": "https://github.com/isocpp/CppCoreGuidelines",
+    "desc": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+    "lang": "Python"
+  },
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "desc": "A free, online learning platform to make quality education accessible for all.",
+    "lang": "Python"
+  },
+  {
+    "title": "SkywalkerJi/mdt",
+    "url": "https://github.com/SkywalkerJi/mdt",
+    "desc": "Yu-Gi-Oh! Master Duel Translation Script",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/bert",
+    "url": "https://github.com/google-research/bert",
+    "desc": "TensorFlow code and pre-trained models for BERT",
+    "lang": "Python"
+  }
+]
