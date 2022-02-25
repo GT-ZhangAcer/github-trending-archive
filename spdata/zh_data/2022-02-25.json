@@ -1,0 +1,145 @@
+[
+  {
+    "title": "louisyoungx/JD-SHOPPER",
+    "url": "https://github.com/louisyoungx/JD-SHOPPER",
+    "desc": "京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)",
+    "lang": "Python"
+  },
+  {
+    "title": "nusr/hacker-laws-zh",
+    "url": "https://github.com/nusr/hacker-laws-zh",
+    "desc": "💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "H5-Dooring/dooringx",
+    "url": "https://github.com/H5-Dooring/dooringx",
+    "desc": "快速高效搭建可视化拖拽平台",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "skywind3000/preserve-cd",
+    "url": "https://github.com/skywind3000/preserve-cd",
+    "desc": "Game Preservation Project"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "desc": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。"
+  },
+  {
+    "title": "huihut/interview",
+    "url": "https://github.com/huihut/interview",
+    "desc": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio…",
+    "lang": "C++"
+  },
+  {
+    "title": "taowen/awesome-lowcode",
+    "url": "https://github.com/taowen/awesome-lowcode",
+    "desc": "国内低代码平台从业者交流"
+  },
+  {
+    "title": "vvmdx/Sec-Interview-4-2023",
+    "url": "https://github.com/vvmdx/Sec-Interview-4-2023",
+    "desc": "一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~"
+  },
+  {
+    "title": "Naccl/NBlog",
+    "url": "https://github.com/Naccl/NBlog",
+    "desc": "🍓 Spring Boot + Vue 前后端分离博客系统 https://naccl.top",
+    "lang": "Java"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "modood/Administrative-divisions-of-China",
+    "url": "https://github.com/modood/Administrative-divisions-of-China",
+    "desc": "中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DuGuQiuBai/Java",
+    "url": "https://github.com/DuGuQiuBai/Java",
+    "desc": "27天成为Java大神",
+    "lang": "Java"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "binbyu/Reader",
+    "url": "https://github.com/binbyu/Reader",
+    "desc": "A win32 txt file reader",
+    "lang": "C"
+  },
+  {
+    "title": "648540858/wvp-GB28181-pro",
+    "url": "https://github.com/648540858/wvp-GB28181-pro",
+    "desc": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+    "lang": "Java"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openspug/spug",
+    "url": "https://github.com/openspug/spug",
+    "desc": "开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Char1esOrz/minerProxy",
+    "url": "https://github.com/Char1esOrz/minerProxy",
+    "desc": "以太坊矿池代理,可以自定义抽水地址和比例 ,go语言编写,性能极高。挂几个盗版狗minerproxyeth/minerproxy和MinerPr0xy/MinerProxy和nicococococ/MinerProxyLite和CharIesOrz/minerProxy和ryu-shen/minerProxy都是盗版加料的，大家注意分辨,可以查看git commits记录查看谁先发布的",
+    "lang": "Go"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "title": "louisyoungx/JD-SHOPPER",
+    "url": "https://github.com/louisyoungx/JD-SHOPPER",
+    "desc": "京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)",
+    "lang": "Python"
+  },
+  {
+    "title": "github/advisory-database",
+    "url": "https://github.com/github/advisory-database",
+    "desc": "Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software."
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "lang": "C"
+  },
+  {
+    "title": "jrouwe/JoltPhysics",
+    "url": "https://github.com/jrouwe/JoltPhysics",
+    "desc": "A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.",
+    "lang": "C++"
+  },
+  {
+    "title": "KumarRobotics/kr_autonomous_flight",
+    "url": "https://github.com/KumarRobotics/kr_autonomous_flight",
+    "desc": "Autonomous flight system for aerial robots",
+    "lang": "C++"
+  },
+  {
+    "title": "nusr/hacker-laws-zh",
+    "url": "https://github.com/nusr/hacker-laws-zh",
+    "desc": "💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)"
+  },
+  {
+    "title": "anderspitman/awesome-tunneling",
+    "url": "https://github.com/anderspitman/awesome-tunneling",
+    "desc": "List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting."
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "planetscale/beam",
+    "url": "https://github.com/planetscale/beam",
+    "desc": "A simple message board for your organization or project",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "KurtBestor/Hitomi-Downloader",
+    "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+    "desc": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "VoronDesign/Voron-2",
+    "url": "https://github.com/VoronDesign/Voron-2",
+    "desc": "Voron 2 CoreXY 3D Printer design"
+  },
+  {
+    "title": "vueComponent/ant-design-vue",
+    "url": "https://github.com/vueComponent/ant-design-vue",
+    "desc": "🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜",
+    "lang": "Vue"
+  },
+  {
+    "title": "SebLague/Geographical-Adventures",
+    "url": "https://github.com/SebLague/Geographical-Adventures",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "H5-Dooring/dooringx",
+    "url": "https://github.com/H5-Dooring/dooringx",
+    "desc": "快速高效搭建可视化拖拽平台",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "YaoApp/yao",
+    "url": "https://github.com/YaoApp/yao",
+    "desc": "Yao A low code engine to create web services and dashboard.",
+    "lang": "Go"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "lang": "Haskell"
+  },
+  {
+    "title": "skywind3000/preserve-cd",
+    "url": "https://github.com/skywind3000/preserve-cd",
+    "desc": "Game Preservation Project"
+  },
+  {
+    "title": "nkallen/plasticity",
+    "url": "https://github.com/nkallen/plasticity",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
+    "desc": "Anime Girls Holding Programming Books"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  }
+]
