@@ -1,0 +1,146 @@
+[
+  {
+    "title": "louisyoungx/JD-SHOPPER",
+    "url": "https://github.com/louisyoungx/JD-SHOPPER",
+    "desc": "京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)",
+    "lang": "Python"
+  },
+  {
+    "title": "nusr/hacker-laws-zh",
+    "url": "https://github.com/nusr/hacker-laws-zh",
+    "desc": "💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "skywind3000/preserve-cd",
+    "url": "https://github.com/skywind3000/preserve-cd",
+    "desc": "Game Preservation Project"
+  },
+  {
+    "title": "BoyceLig/Clash_Chinese_Patch",
+    "url": "https://github.com/BoyceLig/Clash_Chinese_Patch",
+    "desc": "Clash For Windows 汉化补丁和汉化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pofey/movie_robot",
+    "url": "https://github.com/pofey/movie_robot",
+    "desc": "可以自动从豆瓣用户的想看、在看、看过列表中自动获取电影，并通过mteam查找种子，提交到qbittorrent中下载（依赖Emby管理影视原数据）",
+    "lang": "Python"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "碧蓝航线脚本 Azur Lane automation bot (CN/EN/JP/TW) | 无缝委托科研，全自动大世界，马上使用马上接管全部游戏玩法，计划作战模式？感觉不如Alas......好用",
+    "lang": "Python"
+  },
+  {
+    "title": "DuGuQiuBai/Java",
+    "url": "https://github.com/DuGuQiuBai/Java",
+    "desc": "27天成为Java大神",
+    "lang": "Java"
+  },
+  {
+    "title": "openspug/spug",
+    "url": "https://github.com/openspug/spug",
+    "desc": "开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "Semporia/TikTok-Unlock",
+    "url": "https://github.com/Semporia/TikTok-Unlock",
+    "desc": "TikTok免拔卡解锁最新支持 iPhone （iOS 15.4） 、TikTok（V23.4.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！"
+  },
+  {
+    "title": "Personxy/xyMusic",
+    "url": "https://github.com/Personxy/xyMusic",
+    "desc": "",
+    "lang": "Vue"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "648540858/wvp-GB28181-pro",
+    "url": "https://github.com/648540858/wvp-GB28181-pro",
+    "desc": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+    "lang": "Java"
+  },
+  {
+    "title": "medcl/elasticsearch-analysis-ik",
+    "url": "https://github.com/medcl/elasticsearch-analysis-ik",
+    "desc": "The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.",
+    "lang": "Java"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "Mikaelemmmm/go-zero-looklook",
+    "url": "https://github.com/Mikaelemmmm/go-zero-looklook",
+    "desc": "🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。 go-zero项目地址: https://github.com/zeromicro/go-zero",
+    "lang": "Go"
+  },
+  {
+    "title": "unknwon/the-way-to-go_ZH_CN",
+    "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+    "desc": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+    "lang": "Go"
+  },
+  {
+    "title": "Char1esOrz/minerProxy",
+    "url": "https://github.com/Char1esOrz/minerProxy",
+    "desc": "以太坊矿池代理,可以自定义抽水地址和比例 ,go语言编写,性能极高。挂几个盗版狗minerproxyeth/minerproxy和MinerPr0xy/MinerProxy和nicococococ/MinerProxyLite和CharIesOrz/minerProxy和ryu-shen/minerProxy都是盗版加料的，大家注意分辨,可以查看git commits记录查看谁先发布的",
+    "lang": "Go"
+  },
+  {
+    "title": "binbyu/Reader",
+    "url": "https://github.com/binbyu/Reader",
+    "desc": "A win32 txt file reader",
+    "lang": "C"
+  },
+  {
+    "title": "wolverinn/Waking-Up",
+    "url": "https://github.com/wolverinn/Waking-Up",
+    "desc": "计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试🚀；可用于模拟面试、面试前复习、短期内快速备战面试..."
+  },
+  {
+    "title": "alibaba/COLA",
+    "url": "https://github.com/alibaba/COLA",
+    "desc": "🥤 COLA: Clean Object-oriented & Layered Architecture",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  }
+]

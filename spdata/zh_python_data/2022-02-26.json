@@ -1,0 +1,151 @@
+[
+  {
+    "title": "louisyoungx/JD-SHOPPER",
+    "url": "https://github.com/louisyoungx/JD-SHOPPER",
+    "desc": "京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)",
+    "lang": "Python"
+  },
+  {
+    "title": "pofey/movie_robot",
+    "url": "https://github.com/pofey/movie_robot",
+    "desc": "可以自动从豆瓣用户的想看、在看、看过列表中自动获取电影，并通过mteam查找种子，提交到qbittorrent中下载（依赖Emby管理影视原数据）",
+    "lang": "Python"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "碧蓝航线脚本 Azur Lane automation bot (CN/EN/JP/TW) | 无缝委托科研，全自动大世界，马上使用马上接管全部游戏玩法，计划作战模式？感觉不如Alas......好用",
+    "lang": "Python"
+  },
+  {
+    "title": "wistbean/learn_python3_spider",
+    "url": "https://github.com/wistbean/learn_python3_spider",
+    "desc": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheKingOfDuck/fuzzDicts",
+    "url": "https://github.com/TheKingOfDuck/fuzzDicts",
+    "desc": "Web Pentesting Fuzz 字典,一个就够了。",
+    "lang": "Python"
+  },
+  {
+    "title": "hhyo/Archery",
+    "url": "https://github.com/hhyo/Archery",
+    "desc": "SQL 审核查询平台",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "电影、电视剧自动PT下载、智能识别重命名、硬链接媒体库整理、PT保种签到等。TG交流：https://t.me/nastool_chat",
+    "lang": "Python"
+  },
+  {
+    "title": "7eu7d7/genshin_auto_fish",
+    "url": "https://github.com/7eu7d7/genshin_auto_fish",
+    "desc": "基于深度强化学习的原神自动钓鱼AI",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "dataabc/weiboSpider",
+    "url": "https://github.com/dataabc/weiboSpider",
+    "desc": "新浪微博爬虫，用python爬取新浪微博数据",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步机器人框架 / Asynchronous multi-platform robot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "openmlsys/openmlsys-zh",
+    "url": "https://github.com/openmlsys/openmlsys-zh",
+    "desc": "机器学习系统设计与实现",
+    "lang": "Python"
+  },
+  {
+    "title": "Skymine/xiangrikui-exp",
+    "url": "https://github.com/Skymine/xiangrikui-exp",
+    "desc": "向日葵RCE漏洞一键批量检测",
+    "lang": "Python"
+  },
+  {
+    "title": "ThekingMX1998/free-v2ray-code",
+    "url": "https://github.com/ThekingMX1998/free-v2ray-code",
+    "desc": "❤️发薪日资源发布❤️"
+  },
+  {
+    "title": "Python3WebSpider/ProxyPool",
+    "url": "https://github.com/Python3WebSpider/ProxyPool",
+    "desc": "An Efficient ProxyPool with Getter, Tester and Server",
+    "lang": "Python"
+  },
+  {
+    "title": "crow821/crowsec",
+    "url": "https://github.com/crow821/crowsec",
+    "desc": "视频课件和工具分享",
+    "lang": "Python"
+  },
+  {
+    "title": "SliShady/BingDwenDwen",
+    "url": "https://github.com/SliShady/BingDwenDwen",
+    "desc": "使用python绘制冰墩墩",
+    "lang": "Python"
+  },
+  {
+    "title": "yhy0/github-cve-monitor",
+    "url": "https://github.com/yhy0/github-cve-monitor",
+    "desc": "实时监控github上新增的cve和安全工具更新，多渠道推送通知",
+    "lang": "Python"
+  },
+  {
+    "title": "bubbliiiing/yolov4-pytorch",
+    "url": "https://github.com/bubbliiiing/yolov4-pytorch",
+    "desc": "这是一个YoloV4-pytorch的源码，可以用于训练自己的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "desc": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "lang": "Python"
+  },
+  {
+    "title": "liangliangyy/DjangoBlog",
+    "url": "https://github.com/liangliangyy/DjangoBlog",
+    "desc": "🍺基于Django的博客系统",
+    "lang": "Python"
+  },
+  {
+    "title": "bojone/bert4keras",
+    "url": "https://github.com/bojone/bert4keras",
+    "desc": "keras implement of transformers for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  }
+]

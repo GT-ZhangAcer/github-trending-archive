@@ -1,0 +1,152 @@
+[
+  {
+    "title": "louisyoungx/JD-SHOPPER",
+    "url": "https://github.com/louisyoungx/JD-SHOPPER",
+    "desc": "京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)",
+    "lang": "Python"
+  },
+  {
+    "title": "MHProDev/MHDDoS",
+    "url": "https://github.com/MHProDev/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, Cyber Attack With 36 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/torchrec",
+    "url": "https://github.com/pytorch/torchrec",
+    "desc": "Pytorch domain library for recommendation systems",
+    "lang": "Python"
+  },
+  {
+    "title": "crytic/slither",
+    "url": "https://github.com/crytic/slither",
+    "desc": "Static Analyzer for Solidity",
+    "lang": "Python"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection3d",
+    "url": "https://github.com/open-mmlab/mmdetection3d",
+    "desc": "OpenMMLab's next-generation platform for general 3D object detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "desc": "A free, online learning platform to make quality education accessible for all.",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "KurtBestor/Hitomi-Downloader",
+    "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+    "desc": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "pofey/movie_robot",
+    "url": "https://github.com/pofey/movie_robot",
+    "desc": "可以自动从豆瓣用户的想看、在看、看过列表中自动获取电影，并通过mteam查找种子，提交到qbittorrent中下载（依赖Emby管理影视原数据）",
+    "lang": "Python"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "碧蓝航线脚本 Azur Lane automation bot (CN/EN/JP/TW) | 无缝委托科研，全自动大世界，马上使用马上接管全部游戏玩法，计划作战模式？感觉不如Alas......好用",
+    "lang": "Python"
+  },
+  {
+    "title": "FederatedAI/FATE",
+    "url": "https://github.com/FederatedAI/FATE",
+    "desc": "An Industrial Grade Federated Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/stylegan3",
+    "url": "https://github.com/NVlabs/stylegan3",
+    "desc": "Official PyTorch implementation of StyleGAN3",
+    "lang": "Python"
+  },
+  {
+    "title": "Visual-Attention-Network/VAN-Classification",
+    "url": "https://github.com/Visual-Attention-Network/VAN-Classification",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "saleor/saleor",
+    "url": "https://github.com/saleor/saleor",
+    "desc": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
+    "lang": "Python"
+  },
+  {
+    "title": "ifzhang/ByteTrack",
+    "url": "https://github.com/ifzhang/ByteTrack",
+    "desc": "ByteTrack: Multi-Object Tracking by Associating Every Detection Box",
+    "lang": "Python"
+  },
+  {
+    "title": "matrix-org/synapse",
+    "url": "https://github.com/matrix-org/synapse",
+    "desc": "Synapse: Matrix homeserver written in Python 3/Twisted.",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamUltroid/Ultroid",
+    "url": "https://github.com/TeamUltroid/Ultroid",
+    "desc": "Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.",
+    "lang": "Python"
+  },
+  {
+    "title": "RangiLyu/nanodet",
+    "url": "https://github.com/RangiLyu/nanodet",
+    "desc": "NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "isl-org/Open3D-ML",
+    "url": "https://github.com/isl-org/Open3D-ML",
+    "desc": "An extension of Open3D to address 3D Machine Learning tasks",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "desc": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "lang": "Python"
+  }
+]
