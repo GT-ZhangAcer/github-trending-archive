@@ -1,0 +1,152 @@
+[
+  {
+    "title": "louisyoungx/JD-SHOPPER",
+    "url": "https://github.com/louisyoungx/JD-SHOPPER",
+    "desc": "京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)",
+    "lang": "Python"
+  },
+  {
+    "title": "h2y/Shadowrocket-ADBlock-Rules",
+    "url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
+    "desc": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。",
+    "lang": "Python"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "Jrohy/multi-v2ray",
+    "url": "https://github.com/Jrohy/multi-v2ray",
+    "desc": "v2ray/xray多用户管理部署程序",
+    "lang": "Python"
+  },
+  {
+    "title": "SkywalkerJi/mdt",
+    "url": "https://github.com/SkywalkerJi/mdt",
+    "desc": "Yu-Gi-Oh! Master Duel Translation Script",
+    "lang": "Python"
+  },
+  {
+    "title": "shmilylty/OneForAll",
+    "url": "https://github.com/shmilylty/OneForAll",
+    "desc": "OneForAll是一款功能强大的子域收集工具",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/dddd_trainer",
+    "url": "https://github.com/sml2h3/dddd_trainer",
+    "desc": "ddddocr训练工具",
+    "lang": "Python"
+  },
+  {
+    "title": "sirodeneko/genshin-sign",
+    "url": "https://github.com/sirodeneko/genshin-sign",
+    "desc": "原神自动签到",
+    "lang": "Python"
+  },
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "desc": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "lang": "Python"
+  },
+  {
+    "title": "Miraclelucy/dive_into_deep_learning",
+    "url": "https://github.com/Miraclelucy/dive_into_deep_learning",
+    "desc": "✔️李沐 【动手学深度学习】课程学习笔记：使用pycharm编程，基于pytorch框架实现。",
+    "lang": "Python"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "wbt5/real-url",
+    "url": "https://github.com/wbt5/real-url",
+    "desc": "获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。",
+    "lang": "Python"
+  },
+  {
+    "title": "RobAI-Lab/sspanel-mining",
+    "url": "https://github.com/RobAI-Lab/sspanel-mining",
+    "desc": "🥤 采集、清洗、分类、存储暴露在公网上的 sspanel-uim 站点",
+    "lang": "Python"
+  },
+  {
+    "title": "SliShady/BingDwenDwen",
+    "url": "https://github.com/SliShady/BingDwenDwen",
+    "desc": "使用python绘制冰墩墩",
+    "lang": "Python"
+  },
+  {
+    "title": "mrcaidev/uestc-temperature",
+    "url": "https://github.com/mrcaidev/uestc-temperature",
+    "desc": "电子科技大学本科生自动健康打卡。",
+    "lang": "Python"
+  },
+  {
+    "title": "ha0y/xiaomi_miot_raw",
+    "url": "https://github.com/ha0y/xiaomi_miot_raw",
+    "desc": "All-in-one & Easy-to-use. Integrate all your Xiaomi Smart Home - with a single integration and NO YAML files - into Home Assistant.",
+    "lang": "Python"
+  },
+  {
+    "title": "pofey/movie_robot",
+    "url": "https://github.com/pofey/movie_robot",
+    "desc": "可以自动从豆瓣用户的想看、在看、看过列表中自动获取电影，并通过mteam查找种子，提交到qbittorrent中下载（依赖Emby管理影视原数据）",
+    "lang": "Python"
+  },
+  {
+    "title": "7eu7d7/genshin_auto_fish",
+    "url": "https://github.com/7eu7d7/genshin_auto_fish",
+    "desc": "基于深度强化学习的原神自动钓鱼AI",
+    "lang": "Python"
+  },
+  {
+    "title": "tonquer/picacg-qt",
+    "url": "https://github.com/tonquer/picacg-qt",
+    "desc": "哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)",
+    "lang": "Python"
+  },
+  {
+    "title": "jiangxufeng/v2rayL",
+    "url": "https://github.com/jiangxufeng/v2rayL",
+    "desc": "v2ray linux GUI客户端，支持订阅、vemss、ss等协议，自动更新订阅、检查版本更新",
+    "lang": "Python"
+  },
+  {
+    "title": "ermaozi/get_subscribe",
+    "url": "https://github.com/ermaozi/get_subscribe",
+    "desc": "✈️ 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙",
+    "lang": "Python"
+  },
+  {
+    "title": "ZainCheung/netease-cloud",
+    "url": "https://github.com/ZainCheung/netease-cloud",
+    "desc": "网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署",
+    "lang": "Python"
+  },
+  {
+    "title": "wistbean/learn_python3_spider",
+    "url": "https://github.com/wistbean/learn_python3_spider",
+    "desc": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+    "lang": "Python"
+  }
+]

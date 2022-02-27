@@ -1,0 +1,143 @@
+[
+  {
+    "title": "almerico/bombardier",
+    "url": "https://github.com/almerico/bombardier",
+    "desc": "bombardier",
+    "lang": "Shell"
+  },
+  {
+    "title": "ministryofjustice/modernisation-platform",
+    "url": "https://github.com/ministryofjustice/modernisation-platform",
+    "desc": "A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform",
+    "lang": "HCL"
+  },
+  {
+    "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
+    "desc": "Anime Girls Holding Programming Books"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "desc": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "MHProDev/MHDDoS",
+    "url": "https://github.com/MHProDev/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, Cyber Attack With 36 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "palahsu/DDoS-Ripper",
+    "url": "https://github.com/palahsu/DDoS-Ripper",
+    "desc": "DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic",
+    "lang": "Python"
+  },
+  {
+    "title": "gkbrk/slowloris",
+    "url": "https://github.com/gkbrk/slowloris",
+    "desc": "Low bandwidth DoS tool. Slowloris rewrite in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "dj-nitehawk/FastEndpoints",
+    "url": "https://github.com/dj-nitehawk/FastEndpoints",
+    "desc": "A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern",
+    "lang": "C#"
+  },
+  {
+    "title": "cyprosecurity/API-SecurityEmpire",
+    "url": "https://github.com/cyprosecurity/API-SecurityEmpire",
+    "desc": "API Security Projecto aims to present unique attack & defense methods in API Security field"
+  },
+  {
+    "title": "iaddis/metalnes",
+    "url": "https://github.com/iaddis/metalnes",
+    "desc": "Transistor level NES simulation",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "QMHTMY/RustBook",
+    "url": "https://github.com/QMHTMY/RustBook",
+    "desc": "A book about Rust Data Structures and Algorithms.",
+    "lang": "Rust"
+  },
+  {
+    "title": "skywind3000/preserve-cd",
+    "url": "https://github.com/skywind3000/preserve-cd",
+    "desc": "Game Preservation Project"
+  },
+  {
+    "title": "phil-opp/blog_os",
+    "url": "https://github.com/phil-opp/blog_os",
+    "desc": "Writing an OS in Rust",
+    "lang": "HTML"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "desc": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "uberhalit/EldenRingFpsUnlockAndMore",
+    "url": "https://github.com/uberhalit/EldenRingFpsUnlockAndMore",
+    "desc": "A small utility to remove frame rate limit, change FOV and more for Elden Ring",
+    "lang": "C#"
+  },
+  {
+    "title": "YaoApp/yao",
+    "url": "https://github.com/YaoApp/yao",
+    "desc": "Yao A low code engine to create web services and dashboard.",
+    "lang": "Go"
+  },
+  {
+    "title": "nusr/hacker-laws-zh",
+    "url": "https://github.com/nusr/hacker-laws-zh",
+    "desc": "💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "solidlyexchange/solidly",
+    "url": "https://github.com/solidlyexchange/solidly",
+    "desc": "",
+    "lang": "Solidity"
+  },
+  {
+    "title": "shadowsocks/shadowsocks-rust",
+    "url": "https://github.com/shadowsocks/shadowsocks-rust",
+    "desc": "A Rust port of shadowsocks",
+    "lang": "Rust"
+  },
+  {
+    "title": "Fndroid/clash_for_windows_pkg",
+    "url": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "desc": "A Windows/macOS GUI based on Clash"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  }
+]

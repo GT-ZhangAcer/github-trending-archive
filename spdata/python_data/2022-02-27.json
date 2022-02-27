@@ -1,0 +1,152 @@
+[
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "MHProDev/MHDDoS",
+    "url": "https://github.com/MHProDev/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, Cyber Attack With 36 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "palahsu/DDoS-Ripper",
+    "url": "https://github.com/palahsu/DDoS-Ripper",
+    "desc": "DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic",
+    "lang": "Python"
+  },
+  {
+    "title": "gkbrk/slowloris",
+    "url": "https://github.com/gkbrk/slowloris",
+    "desc": "Low bandwidth DoS tool. Slowloris rewrite in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "malwaredllc/byob",
+    "url": "https://github.com/malwaredllc/byob",
+    "desc": "An open-source post-exploitation framework for students, researchers and developers.",
+    "lang": "Python"
+  },
+  {
+    "title": "louisyoungx/JD-SHOPPER",
+    "url": "https://github.com/louisyoungx/JD-SHOPPER",
+    "desc": "京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)",
+    "lang": "Python"
+  },
+  {
+    "title": "jseidl/GoldenEye",
+    "url": "https://github.com/jseidl/GoldenEye",
+    "desc": "GoldenEye Layer 7 (KeepAlive+NoCache) DoS Test Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "desc": "We have made you a wrapper you can't refuse",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/frame-interpolation",
+    "url": "https://github.com/google-research/frame-interpolation",
+    "desc": "FILM: Frame Interpolation for Large Motion, In arXiv 2022.",
+    "lang": "Python"
+  },
+  {
+    "title": "samuelcolvin/dirty-equals",
+    "url": "https://github.com/samuelcolvin/dirty-equals",
+    "desc": "Doing dirty (but extremely useful) things with equals.",
+    "lang": "Python"
+  },
+  {
+    "title": "JMTHON-AR/jmthon",
+    "url": "https://github.com/JMTHON-AR/jmthon",
+    "desc": "Telegram userbot in Arabic language speed and fast it import of catuserbot with some addition enjoy",
+    "lang": "Python"
+  },
+  {
+    "title": "H1R0GH057/Anonymous",
+    "url": "https://github.com/H1R0GH057/Anonymous",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "extremecoders-re/pyinstxtractor",
+    "url": "https://github.com/extremecoders-re/pyinstxtractor",
+    "desc": "PyInstaller Extractor",
+    "lang": "Python"
+  },
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "desc": "A free, online learning platform to make quality education accessible for all.",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/torchrec",
+    "url": "https://github.com/pytorch/torchrec",
+    "desc": "Pytorch domain library for recommendation systems",
+    "lang": "Python"
+  },
+  {
+    "title": "NotReallyShikhar/YukkiMusicBot",
+    "url": "https://github.com/NotReallyShikhar/YukkiMusicBot",
+    "desc": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
+    "lang": "Python"
+  },
+  {
+    "title": "VeNoMouS/cloudscraper",
+    "url": "https://github.com/VeNoMouS/cloudscraper",
+    "desc": "A Python module to bypass Cloudflare's anti-bot page.",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "crytic/slither",
+    "url": "https://github.com/crytic/slither",
+    "desc": "Static Analyzer for Solidity",
+    "lang": "Python"
+  },
+  {
+    "title": "iterativv/NostalgiaForInfinity",
+    "url": "https://github.com/iterativv/NostalgiaForInfinity",
+    "desc": "Trading strategy for the Freqtrade crypto bot",
+    "lang": "Python"
+  }
+]
