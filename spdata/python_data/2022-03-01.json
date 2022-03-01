@@ -1,0 +1,152 @@
+[
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "AlexTrushkovsky/NoWarDDoS",
+    "url": "https://github.com/AlexTrushkovsky/NoWarDDoS",
+    "desc": "DDoS Russian websites to help Ukraine to win this hybrid war",
+    "lang": "Python"
+  },
+  {
+    "title": "MHProDev/MHDDoS",
+    "url": "https://github.com/MHProDev/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, Cyber Attack With 40 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "palahsu/DDoS-Ripper",
+    "url": "https://github.com/palahsu/DDoS-Ripper",
+    "desc": "DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "LimerBoy/Impulse",
+    "url": "https://github.com/LimerBoy/Impulse",
+    "desc": "💣 Impulse Denial-of-service ToolKit",
+    "lang": "Python"
+  },
+  {
+    "title": "RunaCapital/awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "desc": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "jseidl/GoldenEye",
+    "url": "https://github.com/jseidl/GoldenEye",
+    "desc": "GoldenEye Layer 7 (KeepAlive+NoCache) DoS Test Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "Luzhnuy/attacker",
+    "url": "https://github.com/Luzhnuy/attacker",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "Ha3MrX/DDos-Attack",
+    "url": "https://github.com/Ha3MrX/DDos-Attack",
+    "desc": "DDos-Attack Is A Python script online Attack",
+    "lang": "Python"
+  },
+  {
+    "title": "gkbrk/slowloris",
+    "url": "https://github.com/gkbrk/slowloris",
+    "desc": "Low bandwidth DoS tool. Slowloris rewrite in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "desc": "Deep Learning for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "malwaredllc/byob",
+    "url": "https://github.com/malwaredllc/byob",
+    "desc": "An open-source post-exploitation framework for students, researchers and developers.",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "nn9dev/stemplayerplayer",
+    "url": "https://github.com/nn9dev/stemplayerplayer",
+    "desc": "A Player for Kanye West's Stem Player. Sort of an emulator.",
+    "lang": "Python"
+  },
+  {
+    "title": "monosans/proxy-scraper-checker",
+    "url": "https://github.com/monosans/proxy-scraper-checker",
+    "desc": "HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheSpeedX/TBomb",
+    "url": "https://github.com/TheSpeedX/TBomb",
+    "desc": "This is a SMS And Call Bomber For Linux And Termux",
+    "lang": "Python"
+  },
+  {
+    "title": "H1R0GH057/Anonymous",
+    "url": "https://github.com/H1R0GH057/Anonymous",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "instaloader/instaloader",
+    "url": "https://github.com/instaloader/instaloader",
+    "desc": "Download pictures (or videos) along with their captions and other metadata from Instagram.",
+    "lang": "Python"
+  },
+  {
+    "title": "JMTHON-AR/jmthon",
+    "url": "https://github.com/JMTHON-AR/jmthon",
+    "desc": "Telegram userbot in Arabic language speed and fast it import of catuserbot with some addition enjoy",
+    "lang": "Python"
+  },
+  {
+    "title": "cyweb/hammer",
+    "url": "https://github.com/cyweb/hammer",
+    "desc": "Hammer DDos Script - Python 3",
+    "lang": "Python"
+  },
+  {
+    "title": "Visual-Attention-Network/VAN-Classification",
+    "url": "https://github.com/Visual-Attention-Network/VAN-Classification",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "mikf/gallery-dl",
+    "url": "https://github.com/mikf/gallery-dl",
+    "desc": "Command-line program to download image galleries and collections from several image hosting sites",
+    "lang": "Python"
+  },
+  {
+    "title": "bhattsameer/Bombers",
+    "url": "https://github.com/bhattsameer/Bombers",
+    "desc": "SMS/Email/Whatsapp/Twitter/Instagram bombers Collection 💣💣💣 💥 Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.",
+    "lang": "Python"
+  }
+]
