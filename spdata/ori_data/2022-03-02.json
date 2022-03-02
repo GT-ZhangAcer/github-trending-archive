@@ -1,0 +1,147 @@
+[
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
+    "desc": "Anime Girls Holding Programming Books"
+  },
+  {
+    "title": "curated-intel/Ukraine-Cyber-Operations",
+    "url": "https://github.com/curated-intel/Ukraine-Cyber-Operations",
+    "desc": "Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine."
+  },
+  {
+    "title": "TheParmak/conti-leaks-englished",
+    "url": "https://github.com/TheParmak/conti-leaks-englished",
+    "desc": "Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "github/feedback",
+    "url": "https://github.com/github/feedback",
+    "desc": "Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!"
+  },
+  {
+    "title": "MHProDev/MHDDoS",
+    "url": "https://github.com/MHProDev/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, Cyber Attack With 40 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "desc": "The content behind MDN Web Docs",
+    "lang": "HTML"
+  },
+  {
+    "title": "FeeiCN/Security-PPT",
+    "url": "https://github.com/FeeiCN/Security-PPT",
+    "desc": "大安全各领域各公司各会议分享的PPT",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "techchipnet/CamPhish",
+    "url": "https://github.com/techchipnet/CamPhish",
+    "desc": "Grab cam shots from target's phone front camera or PC webcam just sending a link.",
+    "lang": "HTML"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "ddosify/ddosify",
+    "url": "https://github.com/ddosify/ddosify",
+    "desc": "High-performance load testing tool, written in Golang.",
+    "lang": "Go"
+  },
+  {
+    "title": "growthbook/growthbook",
+    "url": "https://github.com/growthbook/growthbook",
+    "desc": "Open Source Feature Flagging and A/B Testing Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "youzan/vant-weapp",
+    "url": "https://github.com/youzan/vant-weapp",
+    "desc": "轻量、可靠的小程序 UI 组件库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "desc": "一套面向扩展设计的企业级低代码技术体系",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "RunaCapital/awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "desc": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "apache/apisix",
+    "url": "https://github.com/apache/apisix",
+    "desc": "The Cloud-Native API Gateway",
+    "lang": "Lua"
+  },
+  {
+    "title": "SortableJS/Sortable",
+    "url": "https://github.com/SortableJS/Sortable",
+    "desc": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xuxueli/xxl-job",
+    "url": "https://github.com/xuxueli/xxl-job",
+    "desc": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "lang": "Java"
+  },
+  {
+    "title": "valyala/fasthttp",
+    "url": "https://github.com/valyala/fasthttp",
+    "desc": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+    "lang": "Go"
+  }
+]
