@@ -1,0 +1,150 @@
+[
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "FeeiCN/Security-PPT",
+    "url": "https://github.com/FeeiCN/Security-PPT",
+    "desc": "大安全各领域各公司各会议分享的PPT",
+    "lang": "Python"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "extreme-assistant/CVPR2022-Paper-Code-Interpretation",
+    "url": "https://github.com/extreme-assistant/CVPR2022-Paper-Code-Interpretation",
+    "desc": "cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理"
+  },
+  {
+    "title": "wmjordan/PDFPatcher",
+    "url": "https://github.com/wmjordan/PDFPatcher",
+    "desc": "PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等",
+    "lang": "C#"
+  },
+  {
+    "title": "dunwu/db-tutorial",
+    "url": "https://github.com/dunwu/db-tutorial",
+    "desc": "💾 db-tutorial 是一个数据库教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "medcl/elasticsearch-analysis-ik",
+    "url": "https://github.com/medcl/elasticsearch-analysis-ik",
+    "desc": "The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.",
+    "lang": "Java"
+  },
+  {
+    "title": "rootsongjc/kubernetes-handbook",
+    "url": "https://github.com/rootsongjc/kubernetes-handbook",
+    "desc": "Kubernetes中文指南/云原生应用架构实战手册 - https://jimmysong.io/kubernetes-handbook",
+    "lang": "Shell"
+  },
+  {
+    "title": "youzan/vant-weapp",
+    "url": "https://github.com/youzan/vant-weapp",
+    "desc": "轻量、可靠的小程序 UI 组件库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dianping/cat",
+    "url": "https://github.com/dianping/cat",
+    "desc": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",
+    "lang": "Java"
+  },
+  {
+    "title": "mumuy/relationship",
+    "url": "https://github.com/mumuy/relationship",
+    "desc": "Chinese kinship system.中国亲戚关系计算器 - 家庭称谓/称呼计算/亲戚关系算法/親戚稱呼計算機",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dundunnp/hamibot-auto_xuexiqiangguo",
+    "url": "https://github.com/dundunnp/hamibot-auto_xuexiqiangguo",
+    "desc": "每日拿63分(满63分)！所有模块均可自动完成，免root，四人赛双人对战秒答，基于Hamibot的安卓端学习强国自动化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "xiangmingzhe0928/hpv4g",
+    "url": "https://github.com/xiangmingzhe0928/hpv4g",
+    "desc": "hpv seckill 约苗 九价 疫苗秒杀 👧 💉",
+    "lang": "Python"
+  },
+  {
+    "title": "pppscn/SmsForwarder",
+    "url": "https://github.com/pppscn/SmsForwarder",
+    "desc": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+    "lang": "Java"
+  },
+  {
+    "title": "blogwy/BilibiliVideoDownload",
+    "url": "https://github.com/blogwy/BilibiliVideoDownload",
+    "desc": "跨平台下载bilibili视频桌面端软件，支持windows、macOS、Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "WeiYe-Jing/datax-web",
+    "url": "https://github.com/WeiYe-Jing/datax-web",
+    "desc": "DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。",
+    "lang": "Java"
+  },
+  {
+    "title": "CoderLeixiaoshuai/java-eight-part",
+    "url": "https://github.com/CoderLeixiaoshuai/java-eight-part",
+    "desc": "『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/canal",
+    "url": "https://github.com/alibaba/canal",
+    "desc": "阿里巴巴 MySQL binlog 增量订阅&消费组件",
+    "lang": "Java"
+  },
+  {
+    "title": "sunface/rust-course",
+    "url": "https://github.com/sunface/rust-course",
+    "desc": "“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石 — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍",
+    "lang": "Rust"
+  }
+]

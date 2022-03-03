@@ -1,0 +1,152 @@
+[
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "AlexTrushkovsky/NoWarDDoS",
+    "url": "https://github.com/AlexTrushkovsky/NoWarDDoS",
+    "desc": "DDoS Russian websites to help Ukraine to win this hybrid war",
+    "lang": "Python"
+  },
+  {
+    "title": "FeeiCN/Security-PPT",
+    "url": "https://github.com/FeeiCN/Security-PPT",
+    "desc": "大安全各领域各公司各会议分享的PPT",
+    "lang": "Python"
+  },
+  {
+    "title": "LimerBoy/Impulse",
+    "url": "https://github.com/LimerBoy/Impulse",
+    "desc": "💣 Impulse Denial-of-service ToolKit",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "cloud-custodian/cloud-custodian",
+    "url": "https://github.com/cloud-custodian/cloud-custodian",
+    "desc": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/vision",
+    "url": "https://github.com/pytorch/vision",
+    "desc": "Datasets, Transforms and Models specific to Computer Vision",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "scrapy/scrapy",
+    "url": "https://github.com/scrapy/scrapy",
+    "desc": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "MHProDev/MHDDoS",
+    "url": "https://github.com/MHProDev/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, Cyber Attack With 40 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "canonical/microk8s",
+    "url": "https://github.com/canonical/microk8s",
+    "desc": "MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.",
+    "lang": "Python"
+  },
+  {
+    "title": "getredash/redash",
+    "url": "https://github.com/getredash/redash",
+    "desc": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "Jxck-S/plane-notify",
+    "url": "https://github.com/Jxck-S/plane-notify",
+    "desc": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
+    "lang": "Python"
+  },
+  {
+    "title": "xmu-xiaoma666/External-Attention-pytorch",
+    "url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
+    "desc": "🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/vit-pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "desc": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "MIC-DKFZ/nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/mae",
+    "url": "https://github.com/facebookresearch/mae",
+    "desc": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+    "lang": "Python"
+  },
+  {
+    "title": "xiangmingzhe0928/hpv4g",
+    "url": "https://github.com/xiangmingzhe0928/hpv4g",
+    "desc": "hpv seckill 约苗 九价 疫苗秒杀 👧 💉",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "AnthonyCalandra/modern-cpp-features",
+    "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
+    "desc": "A cheatsheet of modern C++ language and library features.",
+    "lang": "Python"
+  },
+  {
+    "title": "mikel-brostrom/Yolov5_DeepSort_Pytorch",
+    "url": "https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch",
+    "desc": "Real-time multi-object tracker using YOLO v5 and deep sort",
+    "lang": "Python"
+  }
+]
