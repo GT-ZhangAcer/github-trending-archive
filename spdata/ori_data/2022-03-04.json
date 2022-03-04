@@ -1,0 +1,150 @@
+[
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "opengs/uashield",
+    "url": "https://github.com/opengs/uashield",
+    "desc": "Voluntary Ukraine security platform to counter attack Russian forces in the Internet",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "FeeiCN/Security-PPT",
+    "url": "https://github.com/FeeiCN/Security-PPT",
+    "desc": "Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT）",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "Arriven/db1000n",
+    "url": "https://github.com/Arriven/db1000n",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "Lojii/Knot",
+    "url": "https://github.com/Lojii/Knot",
+    "desc": "一款iOS端基于MITM(中间人攻击技术)实现的HTTPS抓包工具，完整的App，核心代码使用SwiftNIO实现",
+    "lang": "C"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "desc": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "desc": "一套面向扩展设计的企业级低代码技术体系",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "reactjs/reactjs.org",
+    "url": "https://github.com/reactjs/reactjs.org",
+    "desc": "The React documentation website",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "dunwu/db-tutorial",
+    "url": "https://github.com/dunwu/db-tutorial",
+    "desc": "💾 db-tutorial 是一个数据库教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a developer in 2022",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheParmak/conti-leaks-englished",
+    "url": "https://github.com/TheParmak/conti-leaks-englished",
+    "desc": "Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.",
+    "lang": "RichTextFormat"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "desc": "🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "desc": "The React Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eclipse-theia/theia",
+    "url": "https://github.com/eclipse-theia/theia",
+    "desc": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "desc": "人人可用的开源数据可视化分析工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "desc": "Algorithms implemented in Javascript for beginners, following best practices.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  }
+]

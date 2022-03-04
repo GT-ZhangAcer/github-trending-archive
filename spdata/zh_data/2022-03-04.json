@@ -1,0 +1,147 @@
+[
+  {
+    "title": "FeeiCN/Security-PPT",
+    "url": "https://github.com/FeeiCN/Security-PPT",
+    "desc": "Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT）",
+    "lang": "Python"
+  },
+  {
+    "title": "Lojii/Knot",
+    "url": "https://github.com/Lojii/Knot",
+    "desc": "一款iOS端基于MITM(中间人攻击技术)实现的HTTPS抓包工具，完整的App，核心代码使用SwiftNIO实现",
+    "lang": "C"
+  },
+  {
+    "title": "dunwu/db-tutorial",
+    "url": "https://github.com/dunwu/db-tutorial",
+    "desc": "💾 db-tutorial 是一个数据库教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "desc": "人人可用的开源数据可视化分析工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "changfengoss/pub",
+    "url": "https://github.com/changfengoss/pub",
+    "desc": "科学上网工具"
+  },
+  {
+    "title": "LandGrey/SpringBootVulExploit",
+    "url": "https://github.com/LandGrey/SpringBootVulExploit",
+    "desc": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
+    "lang": "Java"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "extreme-assistant/CVPR2022-Paper-Code-Interpretation",
+    "url": "https://github.com/extreme-assistant/CVPR2022-Paper-Code-Interpretation",
+    "desc": "cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ 一款现代化的开源博客/CMS系统。",
+    "lang": "Java"
+  },
+  {
+    "title": "taowen/awesome-lowcode",
+    "url": "https://github.com/taowen/awesome-lowcode",
+    "desc": "国内低代码平台从业者交流"
+  },
+  {
+    "title": "blogwy/BilibiliVideoDownload",
+    "url": "https://github.com/blogwy/BilibiliVideoDownload",
+    "desc": "跨平台下载bilibili视频桌面端软件，支持windows、macOS、Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "zkqiang/hangzhou-house-guide",
+    "url": "https://github.com/zkqiang/hangzhou-house-guide",
+    "desc": "2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "didi/LogiKM",
+    "url": "https://github.com/didi/LogiKM",
+    "desc": "一站式Apache Kafka集群指标监控与运维管控平台",
+    "lang": "Java"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "openatx/uiautomator2",
+    "url": "https://github.com/openatx/uiautomator2",
+    "desc": "Android Uiautomator2 Python Wrapper",
+    "lang": "Python"
+  },
+  {
+    "title": "midwayjs/midway",
+    "url": "https://github.com/midwayjs/midway",
+    "desc": "🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kekeimiku/kbz",
+    "url": "https://github.com/kekeimiku/kbz",
+    "desc": "读取王者荣耀对局内敌方位置，技能cd以及血量的小程序",
+    "lang": "C++"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点收集，及订阅链接分享。",
+    "lang": "Python"
+  },
+  {
+    "title": "youzan/vant-weapp",
+    "url": "https://github.com/youzan/vant-weapp",
+    "desc": "轻量、可靠的小程序 UI 组件库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+  },
+  {
+    "title": "Jack-Cherish/Machine-Learning",
+    "url": "https://github.com/Jack-Cherish/Machine-Learning",
+    "desc": "⚡机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "xuxueli/xxl-job",
+    "url": "https://github.com/xuxueli/xxl-job",
+    "desc": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "lang": "Java"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "FeeiCN/Security-PPT",
+    "url": "https://github.com/FeeiCN/Security-PPT",
+    "desc": "Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT）",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "desc": "Streamlit — The fastest way to build data apps in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Offensive Google framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "YuliangXiu/ICON",
+    "url": "https://github.com/YuliangXiu/ICON",
+    "desc": "ICON: Implicit Clothed humans Obtained from Normals",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmaction2",
+    "url": "https://github.com/open-mmlab/mmaction2",
+    "desc": "OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "desc": "An orchestration platform for the development, production, and observation of data assets.",
+    "lang": "Python"
+  },
+  {
+    "title": "spack/spack",
+    "url": "https://github.com/spack/spack",
+    "desc": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX Project",
+    "lang": "Python"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/tvm",
+    "url": "https://github.com/apache/tvm",
+    "desc": "Open deep learning compiler stack for cpu, gpu and specialized accelerators",
+    "lang": "Python"
+  },
+  {
+    "title": "cloud-custodian/cloud-custodian",
+    "url": "https://github.com/cloud-custodian/cloud-custodian",
+    "desc": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+    "lang": "Python"
+  },
+  {
+    "title": "samuelcolvin/pydantic",
+    "url": "https://github.com/samuelcolvin/pydantic",
+    "desc": "Data parsing and validation using Python type hints",
+    "lang": "Python"
+  },
+  {
+    "title": "saltstack/salt",
+    "url": "https://github.com/saltstack/salt",
+    "desc": "Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:",
+    "lang": "Python"
+  },
+  {
+    "title": "Jxck-S/plane-notify",
+    "url": "https://github.com/Jxck-S/plane-notify",
+    "desc": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
+    "lang": "Python"
+  },
+  {
+    "title": "dbt-labs/dbt-core",
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "OpenMMLab Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "EleutherAI/gpt-neox",
+    "url": "https://github.com/EleutherAI/gpt-neox",
+    "desc": "An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.",
+    "lang": "Python"
+  }
+]
