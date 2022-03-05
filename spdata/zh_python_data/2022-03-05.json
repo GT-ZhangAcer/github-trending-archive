@@ -1,0 +1,152 @@
+[
+  {
+    "title": "FeeiCN/Security-PPT",
+    "url": "https://github.com/FeeiCN/Security-PPT",
+    "desc": "Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT）",
+    "lang": "Python"
+  },
+  {
+    "title": "lucksec/Spring-Cloud-Gateway-CVE-2022-22947",
+    "url": "https://github.com/lucksec/Spring-Cloud-Gateway-CVE-2022-22947",
+    "desc": "CVE-2022-22947",
+    "lang": "Python"
+  },
+  {
+    "title": "xiangmingzhe0928/hpv4g",
+    "url": "https://github.com/xiangmingzhe0928/hpv4g",
+    "desc": "hpv seckill 约苗 九价 疫苗秒杀 👧 💉",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "bojone/bert4keras",
+    "url": "https://github.com/bojone/bert4keras",
+    "desc": "keras implement of transformers for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "injetlee/Python",
+    "url": "https://github.com/injetlee/Python",
+    "desc": "Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "openmlsys/openmlsys-zh",
+    "url": "https://github.com/openmlsys/openmlsys-zh",
+    "desc": "《机器学习系统：设计与实现》",
+    "lang": "Python"
+  },
+  {
+    "title": "wistbean/learn_python3_spider",
+    "url": "https://github.com/wistbean/learn_python3_spider",
+    "desc": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+    "lang": "Python"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点收集，及订阅链接分享。",
+    "lang": "Python"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "desc": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "lang": "Python"
+  },
+  {
+    "title": "shmilylty/OneForAll",
+    "url": "https://github.com/shmilylty/OneForAll",
+    "desc": "OneForAll是一款功能强大的子域收集工具",
+    "lang": "Python"
+  },
+  {
+    "title": "pyecharts/pyecharts",
+    "url": "https://github.com/pyecharts/pyecharts",
+    "desc": "🎨 Python Echarts Plotting Library",
+    "lang": "Python"
+  },
+  {
+    "title": "xiazhongyv/PKUAutoSubmit_online",
+    "url": "https://github.com/xiazhongyv/PKUAutoSubmit_online",
+    "desc": "萌新友好的，无需下载文件与配环境的，基于Github Actions的，P大学生出入校自动报备程序",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "电影、电视剧自动PT下载、智能识别重命名、硬链接媒体库整理、PT保种签到等",
+    "lang": "Python"
+  },
+  {
+    "title": "jerry3747/taobao_seckill",
+    "url": "https://github.com/jerry3747/taobao_seckill",
+    "desc": "淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党",
+    "lang": "Python"
+  },
+  {
+    "title": "shinnytech/tqsdk-python",
+    "url": "https://github.com/shinnytech/tqsdk-python",
+    "desc": "天勤量化开发包, 期货量化, 实时行情/历史数据/实盘交易",
+    "lang": "Python"
+  },
+  {
+    "title": "datawhalechina/fun-rec",
+    "url": "https://github.com/datawhalechina/fun-rec",
+    "desc": "本推荐算法教程主要是针对具有机器学习基础并想找推荐算法岗位的同学，教程由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。",
+    "lang": "Python"
+  },
+  {
+    "title": "vpei/Free-Node-Merge",
+    "url": "https://github.com/vpei/Free-Node-Merge",
+    "desc": "自动合并 ss ssr trojan vmess vless 等免费节点链接，科学上网，定阅免费机场。有资源网址，请加Telegram群：opmhth",
+    "lang": "Python"
+  },
+  {
+    "title": "liangliangyy/DjangoBlog",
+    "url": "https://github.com/liangliangyy/DjangoBlog",
+    "desc": "🍺基于Django的博客系统",
+    "lang": "Python"
+  },
+  {
+    "title": "TheKingOfDuck/fuzzDicts",
+    "url": "https://github.com/TheKingOfDuck/fuzzDicts",
+    "desc": "Web Pentesting Fuzz 字典,一个就够了。",
+    "lang": "Python"
+  },
+  {
+    "title": "QIN2DIM/epic-awesome-gamer",
+    "url": "https://github.com/QIN2DIM/epic-awesome-gamer",
+    "desc": "🛴 优雅地领取 Epic 免费游戏",
+    "lang": "Python"
+  },
+  {
+    "title": "lyhue1991/eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "desc": "Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋",
+    "lang": "Python"
+  }
+]
