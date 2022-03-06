@@ -1,0 +1,150 @@
+[
+  {
+    "title": "qinguoyi/TinyWebServer",
+    "url": "https://github.com/qinguoyi/TinyWebServer",
+    "desc": "🔥 Linux下C++轻量级Web服务器",
+    "lang": "C++"
+  },
+  {
+    "title": "dunwu/db-tutorial",
+    "url": "https://github.com/dunwu/db-tutorial",
+    "desc": "💾 db-tutorial 是一个数据库教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "FeeiCN/Security-PPT",
+    "url": "https://github.com/FeeiCN/Security-PPT",
+    "desc": "Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT）",
+    "lang": "Python"
+  },
+  {
+    "title": "Uahh/ToastFish",
+    "url": "https://github.com/Uahh/ToastFish",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "ripperhe/Bob",
+    "url": "https://github.com/ripperhe/Bob",
+    "desc": "Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点收集，及订阅链接分享。",
+    "lang": "Python"
+  },
+  {
+    "title": "skywind3000/preserve-iso",
+    "url": "https://github.com/skywind3000/preserve-iso",
+    "desc": "绝版软件保护工程"
+  },
+  {
+    "title": "nilaoda/N_m3u8DL-CLI",
+    "url": "https://github.com/nilaoda/N_m3u8DL-CLI",
+    "desc": "[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.",
+    "lang": "C#"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "Markdown"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ 一款现代化的开源博客/CMS系统。",
+    "lang": "Java"
+  },
+  {
+    "title": "opensumi/ide-startup",
+    "url": "https://github.com/opensumi/ide-startup",
+    "desc": "Quick starter for OpenSumi Web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mamoe/mirai",
+    "url": "https://github.com/mamoe/mirai",
+    "desc": "高效率 QQ 机器人支持库",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "docmirror/dev-sidecar",
+    "url": "https://github.com/docmirror/dev-sidecar",
+    "desc": "开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leiurayer/downkyi",
+    "url": "https://github.com/leiurayer/downkyi",
+    "desc": "哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持4K，支持解除地区限制下载，提供工具箱（音视频提取、去水印等）。",
+    "lang": "C#"
+  },
+  {
+    "title": "kenzok8/openwrt-packages",
+    "url": "https://github.com/kenzok8/openwrt-packages",
+    "desc": "openwrt常用软件包",
+    "lang": "HTML"
+  },
+  {
+    "title": "honghuangdc/soybean-admin",
+    "url": "https://github.com/honghuangdc/soybean-admin",
+    "desc": "soybean admin - a beautiful vue admin template, based on Vue3、Vite、Naive UI、TypeScript. 基于Vite + Vue3 + NaiveUI + TypeScript的漂亮清新的中后台管理模版",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Misaka-blog/KOXray",
+    "url": "https://github.com/Misaka-blog/KOXray",
+    "desc": "某容器云部署Xray高性能代理服务",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "kkkyg/CFwarp",
+    "url": "https://github.com/kkkyg/CFwarp",
+    "desc": "Cloudflare WARP 多功能一键脚本，screen一键手动/自动刷新支持Netflix奈飞的IP（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP的时间段间隔，2：自定义设置奈飞的IP区域，3：自定义设置仅刷IP区域），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…",
+    "lang": "Shell"
+  },
+  {
+    "title": "fingerchar/fingernft",
+    "url": "https://github.com/fingerchar/fingernft",
+    "desc": "FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。",
+    "lang": "CSS"
+  },
+  {
+    "title": "whyour/qinglong",
+    "url": "https://github.com/whyour/qinglong",
+    "desc": "支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "Mrs4s/go-cqhttp",
+    "url": "https://github.com/Mrs4s/go-cqhttp",
+    "desc": "cqhttp的golang实现，轻量、原生跨平台.",
+    "lang": "Go"
+  },
+  {
+    "title": "fuzhengwei/itstack-demo-design",
+    "url": "https://github.com/fuzhengwei/itstack-demo-design",
+    "desc": "🎨 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn",
+    "lang": "Java"
+  }
+]
