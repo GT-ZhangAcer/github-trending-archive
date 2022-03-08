@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmediting",
+    "url": "https://github.com/open-mmlab/mmediting",
+    "desc": "OpenMMLab Image and Video Editing Toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "pyg-team/pytorch_geometric",
+    "url": "https://github.com/pyg-team/pytorch_geometric",
+    "desc": "Graph Neural Network Library for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "alexmon1989/russia_ddos",
+    "url": "https://github.com/alexmon1989/russia_ddos",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "faisalfs10x/Webmin-CVE-2022-0824-revshell",
+    "url": "https://github.com/faisalfs10x/Webmin-CVE-2022-0824-revshell",
+    "desc": "Webmin CVE-2022-0824 Post-Auth Reverse Shell",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "bottlesdevs/Bottles",
+    "url": "https://github.com/bottlesdevs/Bottles",
+    "desc": "Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "mttr2021/MTTR",
+    "url": "https://github.com/mttr2021/MTTR",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "royorel/StyleSDF",
+    "url": "https://github.com/royorel/StyleSDF",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "alievk/avatarify-python",
+    "url": "https://github.com/alievk/avatarify-python",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "lang": "Python"
+  },
+  {
+    "title": "UzJu/Cloud-Bucket-Leak-Detection-Tools",
+    "url": "https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools",
+    "desc": "六大云存储，泄露利用检测工具",
+    "lang": "Python"
+  },
+  {
+    "title": "rrazvd/bbb-face-recognizer",
+    "url": "https://github.com/rrazvd/bbb-face-recognizer",
+    "desc": "Face recognition system using MTCNN, FACENET, SVM and FAST API to track participants of Big Brother Brasil in real time.",
+    "lang": "Python"
+  },
+  {
+    "title": "smicallef/spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "lang": "Python"
+  },
+  {
+    "title": "django/django",
+    "url": "https://github.com/django/django",
+    "desc": "The Web framework for perfectionists with deadlines.",
+    "lang": "Python"
+  }
+]

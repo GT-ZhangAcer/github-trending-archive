@@ -1,0 +1,147 @@
+[
+  {
+    "title": "sunface/rust-by-practice",
+    "url": "https://github.com/sunface/rust-by-practice",
+    "desc": "Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.",
+    "lang": "Rust"
+  },
+  {
+    "title": "samber/lo",
+    "url": "https://github.com/samber/lo",
+    "desc": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "lang": "Go"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C++"
+  },
+  {
+    "title": "YaoApp/yao",
+    "url": "https://github.com/YaoApp/yao",
+    "desc": "Yao A low code engine to create web services and dashboard.",
+    "lang": "Go"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "devsuperior/sds-dsmovie",
+    "url": "https://github.com/devsuperior/sds-dsmovie",
+    "desc": ""
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "italiaremote/awesome-italia-remote",
+    "url": "https://github.com/italiaremote/awesome-italia-remote",
+    "desc": "A list of remote-friendly or full-remote companies that targets Italian talents.",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "zkqiang/hangzhou-house-guide",
+    "url": "https://github.com/zkqiang/hangzhou-house-guide",
+    "desc": "2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "arthurspk/guiadevbrasil",
+    "url": "https://github.com/arthurspk/guiadevbrasil",
+    "desc": "GUIA EXTENSO DE PROGRAMAÇÃO:"
+  },
+  {
+    "title": "probml/pml-book",
+    "url": "https://github.com/probml/pml-book",
+    "desc": "Probabilistic Machine Learning - a book series by Kevin Murphy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "checkra1n/PongoOS",
+    "url": "https://github.com/checkra1n/PongoOS",
+    "desc": "pongoOS",
+    "lang": "C"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "desc": "GitHub Actions virtual environments",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "nkallen/plasticity",
+    "url": "https://github.com/nkallen/plasticity",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "open-mmlab/mmediting",
+    "url": "https://github.com/open-mmlab/mmediting",
+    "desc": "OpenMMLab Image and Video Editing Toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "Lakr233/Rayon",
+    "url": "https://github.com/Lakr233/Rayon",
+    "desc": "yet another SSH machine manager",
+    "lang": "Swift"
+  },
+  {
+    "title": "web-platform-tests/wpt",
+    "url": "https://github.com/web-platform-tests/wpt",
+    "desc": "Test suites for Web platform specs — including WHATWG, W3C, and others",
+    "lang": "HTML"
+  },
+  {
+    "title": "UnblockNeteaseMusic/server",
+    "url": "https://github.com/UnblockNeteaseMusic/server",
+    "desc": "Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+  }
+]
