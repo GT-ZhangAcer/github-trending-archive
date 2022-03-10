@@ -1,0 +1,152 @@
+[
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "VHellendoorn/Code-LMs",
+    "url": "https://github.com/VHellendoorn/Code-LMs",
+    "desc": "Guide to using pre-trained large language models of source code",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/kubric",
+    "url": "https://github.com/google-research/kubric",
+    "desc": "A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlalchemy/sqlalchemy",
+    "url": "https://github.com/sqlalchemy/sqlalchemy",
+    "desc": "The Database Toolkit for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "royorel/StyleSDF",
+    "url": "https://github.com/royorel/StyleSDF",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/Paddle",
+    "url": "https://github.com/PaddlePaddle/Paddle",
+    "desc": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training",
+    "lang": "Python"
+  },
+  {
+    "title": "joshpatten/PVE-VDIClient",
+    "url": "https://github.com/joshpatten/PVE-VDIClient",
+    "desc": "Proxmox based VDI client",
+    "lang": "Python"
+  },
+  {
+    "title": "man-group/notebooker",
+    "url": "https://github.com/man-group/notebooker",
+    "desc": "Productionise & schedule your Jupyter Notebooks as easily as you wrote them.",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "deepcam-cn/yolov5-face",
+    "url": "https://github.com/deepcam-cn/yolov5-face",
+    "desc": "YOLO5Face: Why Reinventing a Face Detector (https://arxiv.org/abs/2105.12931)",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/dino",
+    "url": "https://github.com/facebookresearch/dino",
+    "desc": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO",
+    "lang": "Python"
+  },
+  {
+    "title": "mlflow/mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "desc": "Open source platform for the machine learning lifecycle",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/Mask2Former",
+    "url": "https://github.com/facebookresearch/Mask2Former",
+    "desc": "Code release for Masked-attention Mask Transformer for Universal Image Segmentation",
+    "lang": "Python"
+  },
+  {
+    "title": "libffcv/ffcv",
+    "url": "https://github.com/libffcv/ffcv",
+    "desc": "FFCV: Fast Forward Computer Vision (and other ML workloads!)",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX Project",
+    "lang": "Python"
+  },
+  {
+    "title": "PyGithub/PyGithub",
+    "url": "https://github.com/PyGithub/PyGithub",
+    "desc": "Typed interactions with the GitHub API v3",
+    "lang": "Python"
+  },
+  {
+    "title": "demisto/content",
+    "url": "https://github.com/demisto/content",
+    "desc": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
+    "lang": "Python"
+  }
+]

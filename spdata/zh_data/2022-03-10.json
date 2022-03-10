@@ -1,0 +1,146 @@
+[
+  {
+    "title": "darbra/sperm",
+    "url": "https://github.com/darbra/sperm",
+    "desc": "浏览过的精彩逆向文章汇总，值得一看"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "J0o1ey/BountyHunterInChina",
+    "url": "https://github.com/J0o1ey/BountyHunterInChina",
+    "desc": "重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例"
+  },
+  {
+    "title": "zkqiang/hangzhou-house-guide",
+    "url": "https://github.com/zkqiang/hangzhou-house-guide",
+    "desc": "2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fengdu78/deeplearning_ai_books",
+    "url": "https://github.com/fengdu78/deeplearning_ai_books",
+    "desc": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
+    "lang": "HTML"
+  },
+  {
+    "title": "imfiver/CVE-2022-0847",
+    "url": "https://github.com/imfiver/CVE-2022-0847",
+    "desc": "CVE-2022-0847-DirtyPipe-Exploit CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。 CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此漏洞命名为“Dirty Pipe”",
+    "lang": "Shell"
+  },
+  {
+    "title": "UnblockNeteaseMusic/server",
+    "url": "https://github.com/UnblockNeteaseMusic/server",
+    "desc": "Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rbmonster/learning-note",
+    "url": "https://github.com/rbmonster/learning-note",
+    "desc": "java开发 面试八股文（个人的面试及工作总结）",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "desc": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "lang": "C#"
+  },
+  {
+    "title": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "desc": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "desc": "C++那些事",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/x-render",
+    "url": "https://github.com/alibaba/x-render",
+    "desc": "🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/canal",
+    "url": "https://github.com/alibaba/canal",
+    "desc": "阿里巴巴 MySQL binlog 增量订阅&消费组件",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "jekip/naive-ui-admin",
+    "url": "https://github.com/jekip/naive-ui-admin",
+    "desc": "Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。",
+    "lang": "Vue"
+  },
+  {
+    "title": "SharingSource/LogicStack-LeetCode",
+    "url": "https://github.com/SharingSource/LogicStack-LeetCode",
+    "desc": "公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "yangzongzhuan/RuoYi-Vue3",
+    "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+    "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "hong52ni/JavaAdvance-Interview",
+    "url": "https://github.com/hong52ni/JavaAdvance-Interview",
+    "desc": "2022java面试题、JVM面试题、多线程面试题、并发编程、Redis面试题、MySQL面试题、Java2022面试题、Netty面试题、Elasticsearch面试题、Tomcat面试题、Dubbo面试题、Kafka面试题、Linux面试题、2021面试题、java面试、2022面试题，Java面试题、设计模式面试题、Spring面试题、MyBatis面试题、Memcached面试题、MongoDB面试题、ZooKeepe面试题、RabbitMQ面试题、HTML面试题、CSS面试题、Vue面试题、React面试题、JavaScript面试题、2021java面试题、2021java面试、Java2021面试题、2022java面试"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "gys619/Absinthe",
+    "url": "https://github.com/gys619/Absinthe",
+    "desc": "一个兴趣使然的库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "desc": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "wolverinn/Waking-Up",
+    "url": "https://github.com/wolverinn/Waking-Up",
+    "desc": "计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试🚀；可用于模拟面试、面试前复习、短期内快速备战面试..."
+  }
+]
