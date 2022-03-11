@@ -1,0 +1,152 @@
+[
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training",
+    "lang": "Python"
+  },
+  {
+    "title": "searx/searx",
+    "url": "https://github.com/searx/searx",
+    "desc": "Privacy-respecting metasearch engine",
+    "lang": "Python"
+  },
+  {
+    "title": "VHellendoorn/Code-LMs",
+    "url": "https://github.com/VHellendoorn/Code-LMs",
+    "desc": "Guide to using pre-trained large language models of source code",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/kubric",
+    "url": "https://github.com/google-research/kubric",
+    "desc": "A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "alievk/avatarify-python",
+    "url": "https://github.com/alievk/avatarify-python",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "larymak/Python-project-Scripts",
+    "url": "https://github.com/larymak/Python-project-Scripts",
+    "desc": "This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo",
+    "lang": "Python"
+  },
+  {
+    "title": "TeoCalvo/sql_gc",
+    "url": "https://github.com/TeoCalvo/sql_gc",
+    "desc": "Curso de SQL do Zero com dados da Gamers Club",
+    "lang": "Python"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "MVIG-SJTU/AlphaPose",
+    "url": "https://github.com/MVIG-SJTU/AlphaPose",
+    "desc": "Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/alphafold",
+    "url": "https://github.com/deepmind/alphafold",
+    "desc": "Open source code for AlphaFold.",
+    "lang": "Python"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "desc": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "lang": "Python"
+  },
+  {
+    "title": "libffcv/ffcv",
+    "url": "https://github.com/libffcv/ffcv",
+    "desc": "FFCV: Fast Forward Computer Vision (and other ML workloads!)",
+    "lang": "Python"
+  },
+  {
+    "title": "nccgroup/ScoutSuite",
+    "url": "https://github.com/nccgroup/ScoutSuite",
+    "desc": "Multi-Cloud Security Auditing Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "PantsuDango/Dango-Translator",
+    "url": "https://github.com/PantsuDango/Dango-Translator",
+    "desc": "团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "lang": "Python"
+  },
+  {
+    "title": "kubernetes-client/python",
+    "url": "https://github.com/kubernetes-client/python",
+    "desc": "Official Python client library for kubernetes",
+    "lang": "Python"
+  },
+  {
+    "title": "samuelcolvin/pydantic",
+    "url": "https://github.com/samuelcolvin/pydantic",
+    "desc": "Data parsing and validation using Python type hints",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlalchemy/sqlalchemy",
+    "url": "https://github.com/sqlalchemy/sqlalchemy",
+    "desc": "The Database Toolkit for Python",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "title": "J0o1ey/BountyHunterInChina",
+    "url": "https://github.com/J0o1ey/BountyHunterInChina",
+    "desc": "重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "darbra/sperm",
+    "url": "https://github.com/darbra/sperm",
+    "desc": "浏览过的精彩逆向文章汇总，值得一看"
+  },
+  {
+    "title": "xinliangnote/go-gin-api",
+    "url": "https://github.com/xinliangnote/go-gin-api",
+    "desc": "基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。",
+    "lang": "Go"
+  },
+  {
+    "title": "Misaka-blog/KOXray",
+    "url": "https://github.com/Misaka-blog/KOXray",
+    "desc": "某容器云部署Xray高性能代理服务",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "desc": "7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",
+    "lang": "Go"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "varletjs/varlet",
+    "url": "https://github.com/varletjs/varlet",
+    "desc": "基于 Vue3 的 Material design 风格移动端组件库 Material design mobile component library for Vue3",
+    "lang": "Vue"
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome",
+    "desc": "后端架构师技术图谱"
+  },
+  {
+    "title": "nilaoda/BBDown",
+    "url": "https://github.com/nilaoda/BBDown",
+    "desc": "Bilibili Downloader. 一款命令行式哔哩哔哩下载器.",
+    "lang": "C#"
+  },
+  {
+    "title": "baidu/amis",
+    "url": "https://github.com/baidu/amis",
+    "desc": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CodingDocs/awesome-java",
+    "url": "https://github.com/CodingDocs/awesome-java",
+    "desc": "Collection of awesome Java project on Github(非常棒的 Java 开源项目集合)."
+  },
+  {
+    "title": "elunez/eladmin",
+    "url": "https://github.com/elunez/eladmin",
+    "desc": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由",
+    "lang": "Java"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "PantsuDango/Dango-Translator",
+    "url": "https://github.com/PantsuDango/Dango-Translator",
+    "desc": "团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/x-render",
+    "url": "https://github.com/alibaba/x-render",
+    "desc": "🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "UnblockNeteaseMusic/server",
+    "url": "https://github.com/UnblockNeteaseMusic/server",
+    "desc": "Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "YMFE/yapi",
+    "url": "https://github.com/YMFE/yapi",
+    "desc": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rbmonster/learning-note",
+    "url": "https://github.com/rbmonster/learning-note",
+    "desc": "java开发 面试八股文（个人的面试及工作总结）",
+    "lang": "Java"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
+    "lang": "Java"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "Alinshans/MyTinySTL",
+    "url": "https://github.com/Alinshans/MyTinySTL",
+    "desc": "Achieve a tiny STL in C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "CodFrm/cxmooc-tools",
+    "url": "https://github.com/CodFrm/cxmooc-tools",
+    "desc": "一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)",
+    "lang": "TypeScript"
+  }
+]
