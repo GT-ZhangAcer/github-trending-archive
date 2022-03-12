@@ -1,0 +1,152 @@
+[
+  {
+    "title": "facebookresearch/StyleNeRF",
+    "url": "https://github.com/facebookresearch/StyleNeRF",
+    "desc": "This is the open source implementation of the ICLR2022 paper StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "alievk/avatarify-python",
+    "url": "https://github.com/alievk/avatarify-python",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "speechbrain/speechbrain",
+    "url": "https://github.com/speechbrain/speechbrain",
+    "desc": "A PyTorch-based Speech Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "searxng/searxng",
+    "url": "https://github.com/searxng/searxng",
+    "desc": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+    "lang": "Python"
+  },
+  {
+    "title": "alecmuffett/real-world-onion-sites",
+    "url": "https://github.com/alecmuffett/real-world-onion-sites",
+    "desc": "This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.",
+    "lang": "Python"
+  },
+  {
+    "title": "celery/celery",
+    "url": "https://github.com/celery/celery",
+    "desc": "Distributed Task Queue (development branch)",
+    "lang": "Python"
+  },
+  {
+    "title": "firstlookmedia/dangerzone",
+    "url": "https://github.com/firstlookmedia/dangerzone",
+    "desc": "Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs",
+    "lang": "Python"
+  },
+  {
+    "title": "searx/searx",
+    "url": "https://github.com/searx/searx",
+    "desc": "Privacy-respecting metasearch engine",
+    "lang": "Python"
+  },
+  {
+    "title": "larymak/Python-project-Scripts",
+    "url": "https://github.com/larymak/Python-project-Scripts",
+    "desc": "This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo",
+    "lang": "Python"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/python-docs-samples",
+    "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+    "desc": "Code samples used on cloud.google.com",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "ppogg/YOLOv5-Lite",
+    "url": "https://github.com/ppogg/YOLOv5-Lite",
+    "desc": "🍅🍅🍅YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 930+kb (int8) and 1.7M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size is 320×320~",
+    "lang": "Python"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "milesial/Pytorch-UNet",
+    "url": "https://github.com/milesial/Pytorch-UNet",
+    "desc": "PyTorch implementation of the U-Net for image semantic segmentation with high quality images",
+    "lang": "Python"
+  },
+  {
+    "title": "Accenture/VulFi",
+    "url": "https://github.com/Accenture/VulFi",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/kubric",
+    "url": "https://github.com/google-research/kubric",
+    "desc": "A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/playwright-python",
+    "url": "https://github.com/microsoft/playwright-python",
+    "desc": "Python version of the Playwright testing and automation library.",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/data",
+    "url": "https://github.com/pytorch/data",
+    "desc": "A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/Paddle",
+    "url": "https://github.com/PaddlePaddle/Paddle",
+    "desc": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "title": "darbra/sperm",
+    "url": "https://github.com/darbra/sperm",
+    "desc": "浏览过的精彩逆向文章汇总，值得一看"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "PGYER/codefever",
+    "url": "https://github.com/PGYER/codefever",
+    "desc": "CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!",
+    "lang": "PHP"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "desc": "C++那些事",
+    "lang": "C++"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "extreme-assistant/CVPR2022-Paper-Code-Interpretation",
+    "url": "https://github.com/extreme-assistant/CVPR2022-Paper-Code-Interpretation",
+    "desc": "cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理"
+  },
+  {
+    "title": "Mikaelemmmm/go-zero-looklook",
+    "url": "https://github.com/Mikaelemmmm/go-zero-looklook",
+    "desc": "🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.",
+    "lang": "Go"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "openmlsys/openmlsys-zh",
+    "url": "https://github.com/openmlsys/openmlsys-zh",
+    "desc": "《机器学习系统：设计与实现》",
+    "lang": "TeX"
+  },
+  {
+    "title": "Misaka-blog/KOXray",
+    "url": "https://github.com/Misaka-blog/KOXray",
+    "desc": "某容器云部署Xray高性能代理服务",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "niuhuan/pikapika",
+    "url": "https://github.com/niuhuan/pikapika",
+    "desc": "(R18) 美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS，并上传了APK和IPA。类似哔咔漫画。",
+    "lang": "Dart"
+  },
+  {
+    "title": "yanfeizhang/coder-kung-fu",
+    "url": "https://github.com/yanfeizhang/coder-kung-fu",
+    "desc": "开发内功修炼",
+    "lang": "C"
+  },
+  {
+    "title": "biaochenxuying/blog",
+    "url": "https://github.com/biaochenxuying/blog",
+    "desc": "大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。",
+    "lang": "HTML"
+  },
+  {
+    "title": "rbmonster/learning-note",
+    "url": "https://github.com/rbmonster/learning-note",
+    "desc": "java开发 面试八股文（个人的面试及工作总结）",
+    "lang": "Java"
+  },
+  {
+    "title": "EdgeSecurityTeam/Vulnerability",
+    "url": "https://github.com/EdgeSecurityTeam/Vulnerability",
+    "desc": "此项目将不定期从棱角社区对外进行公布一些最新漏洞。"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dromara/hutool",
+    "url": "https://github.com/dromara/hutool",
+    "desc": "🍬A set of tools that keep Java sweet.",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/x-render",
+    "url": "https://github.com/alibaba/x-render",
+    "desc": "🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JakHuang/form-generator",
+    "url": "https://github.com/JakHuang/form-generator",
+    "desc": "✨Element UI表单设计及代码生成器",
+    "lang": "Vue"
+  },
+  {
+    "title": "xinliangnote/go-gin-api",
+    "url": "https://github.com/xinliangnote/go-gin-api",
+    "desc": "基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。",
+    "lang": "Go"
+  },
+  {
+    "title": "cosen1024/Java-Interview",
+    "url": "https://github.com/cosen1024/Java-Interview",
+    "desc": "「Java面试小抄」一份通向理想互联网公司的面试汇总，包括 Java基础、Java并发、JVM、MySQL、Redis、Spring、MyBatis、Kafka、计算机操作系统、计算机网络、系统设计、分布式、Java 项目实战等"
+  },
+  {
+    "title": "yaklang/yakit",
+    "url": "https://github.com/yaklang/yakit",
+    "desc": "Cyber Security ALL-IN-ONE Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fengdu78/deeplearning_ai_books",
+    "url": "https://github.com/fengdu78/deeplearning_ai_books",
+    "desc": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
+    "lang": "HTML"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "jdf2e/nutui",
+    "url": "https://github.com/jdf2e/nutui",
+    "desc": "京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)",
+    "lang": "Vue"
+  }
+]

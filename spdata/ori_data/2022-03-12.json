@@ -1,0 +1,145 @@
+[
+  {
+    "title": "liamg/traitor",
+    "url": "https://github.com/liamg/traitor",
+    "desc": "⬆️ ☠️ Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock",
+    "lang": "Go"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "desc": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers"
+  },
+  {
+    "title": "giltayar/proposal-types-as-comments",
+    "url": "https://github.com/giltayar/proposal-types-as-comments",
+    "desc": "ECMAScript proposal for type syntax that is erased - Stage 0",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebookresearch/StyleNeRF",
+    "url": "https://github.com/facebookresearch/StyleNeRF",
+    "desc": "This is the open source implementation of the ICLR2022 paper StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis",
+    "lang": "Python"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sysdream/ligolo",
+    "url": "https://github.com/sysdream/ligolo",
+    "desc": "Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/",
+    "lang": "Go"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "desc": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars."
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "lang": "Swift"
+  },
+  {
+    "title": "deepmind/ithaca",
+    "url": "https://github.com/deepmind/ithaca",
+    "desc": "Restoring and attributing ancient texts using deep neural networks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "darbra/sperm",
+    "url": "https://github.com/darbra/sperm",
+    "desc": "浏览过的精彩逆向文章汇总，值得一看"
+  },
+  {
+    "title": "devkodeio/the-dom-challenge",
+    "url": "https://github.com/devkodeio/the-dom-challenge",
+    "desc": "DOM Challenge is a 60-90 minutes online weekly challenge related to frontend development consisting of industrial level machine round questions.",
+    "lang": "HTML"
+  },
+  {
+    "title": "mattermost/mattermost-server",
+    "url": "https://github.com/mattermost/mattermost-server",
+    "desc": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.",
+    "lang": "Go"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "gorhill/uBlock",
+    "url": "https://github.com/gorhill/uBlock",
+    "desc": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "desc": "Updated list of public BitTorrent trackers"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "desc": "深度学习经典、新论文逐段精读"
+  },
+  {
+    "title": "nrwl/nx",
+    "url": "https://github.com/nrwl/nx",
+    "desc": "Smart, Fast and Extensible Build System",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C++"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "ververica/flink-cdc-connectors",
+    "url": "https://github.com/ververica/flink-cdc-connectors",
+    "desc": "Change Data Capture (CDC) Connectors for Apache Flink",
+    "lang": "Java"
+  },
+  {
+    "title": "loggie-io/loggie",
+    "url": "https://github.com/loggie-io/loggie",
+    "desc": "A lightweight, cloud-native data transfer agent and aggregator",
+    "lang": "Go"
+  },
+  {
+    "title": "xiaorouji/openwrt-passwall",
+    "url": "https://github.com/xiaorouji/openwrt-passwall",
+    "desc": "",
+    "lang": "C"
+  }
+]
