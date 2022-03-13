@@ -1,0 +1,152 @@
+[
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "desc": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "probml/pyprobml",
+    "url": "https://github.com/probml/pyprobml",
+    "desc": "Python code for Probabilistic Machine learning book by Kevin Murphy",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/data",
+    "url": "https://github.com/pytorch/data",
+    "desc": "A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "ckkelvinchan/RealBasicVSR",
+    "url": "https://github.com/ckkelvinchan/RealBasicVSR",
+    "desc": "Official repository of RealBasicVSR: Investigating Tradeoffs in Real-World Video Super-Resolution",
+    "lang": "Python"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "desc": "Automated cryptocurrency trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "python-pillow/Pillow",
+    "url": "https://github.com/python-pillow/Pillow",
+    "desc": "The friendly PIL fork (Python Imaging Library)",
+    "lang": "Python"
+  },
+  {
+    "title": "StevenBlack/hosts",
+    "url": "https://github.com/StevenBlack/hosts",
+    "desc": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+    "lang": "Python"
+  },
+  {
+    "title": "MHProDev/MHDDoS",
+    "url": "https://github.com/MHProDev/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, Cyber Attack With 50 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "giswqs/geemap",
+    "url": "https://github.com/giswqs/geemap",
+    "desc": "A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheScienceElf/Video-to-Text",
+    "url": "https://github.com/TheScienceElf/Video-to-Text",
+    "desc": "Tools to convert video files into ASCII art, and make self-contained playback executables.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/StyleNeRF",
+    "url": "https://github.com/facebookresearch/StyleNeRF",
+    "desc": "This is the open source implementation of the ICLR2022 paper StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "searx/searx",
+    "url": "https://github.com/searx/searx",
+    "desc": "Privacy-respecting metasearch engine",
+    "lang": "Python"
+  },
+  {
+    "title": "remzi-arpacidusseau/ostep-homework",
+    "url": "https://github.com/remzi-arpacidusseau/ostep-homework",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "BishopFox/Imperva_gzip_WAF_Bypass",
+    "url": "https://github.com/BishopFox/Imperva_gzip_WAF_Bypass",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "anasty17/mirror-leech-telegram-bot",
+    "url": "https://github.com/anasty17/mirror-leech-telegram-bot",
+    "desc": "Aria/qBittorrent Telegram mirror/leech bot",
+    "lang": "Python"
+  },
+  {
+    "title": "arc298/instagram-scraper",
+    "url": "https://github.com/arc298/instagram-scraper",
+    "desc": "Scrapes an instagram user's photos and videos",
+    "lang": "Python"
+  },
+  {
+    "title": "Matioupi/realtime-adsb-out",
+    "url": "https://github.com/Matioupi/realtime-adsb-out",
+    "desc": "Realtime ADSB-OUT simulation",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "ankitects/anki",
+    "url": "https://github.com/ankitects/anki",
+    "desc": "Anki for desktop computers",
+    "lang": "Python"
+  }
+]

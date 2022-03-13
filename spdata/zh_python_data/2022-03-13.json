@@ -1,0 +1,152 @@
+[
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "desc": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "Johnserf-Seed/TikTokDownload",
+    "url": "https://github.com/Johnserf-Seed/TikTokDownload",
+    "desc": "抖音去水印视频批量下载 编译版本下载https://github.com/Johnserf-Seed/TikTokDownload/tags",
+    "lang": "Python"
+  },
+  {
+    "title": "git-yusteven/openit",
+    "url": "https://github.com/git-yusteven/openit",
+    "desc": "🪜🧱🪜Openit订阅致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "lawlite19/MachineLearning_Python",
+    "url": "https://github.com/lawlite19/MachineLearning_Python",
+    "desc": "机器学习算法python实现",
+    "lang": "Python"
+  },
+  {
+    "title": "shengqiangzhang/examples-of-web-crawlers",
+    "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "desc": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步机器人框架 / Asynchronous multi-platform robot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "waditu/czsc",
+    "url": "https://github.com/waditu/czsc",
+    "desc": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+    "lang": "Python"
+  },
+  {
+    "title": "SkywalkerJi/mdt",
+    "url": "https://github.com/SkywalkerJi/mdt",
+    "desc": "Yu-Gi-Oh! Master Duel Translation Script",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "conwnet/wpa-dictionary",
+    "url": "https://github.com/conwnet/wpa-dictionary",
+    "desc": "WPA/WPA2 密码字典，用于 wifi 密码暴力破解",
+    "lang": "Python"
+  },
+  {
+    "title": "wbt5/real-url",
+    "url": "https://github.com/wbt5/real-url",
+    "desc": "获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "DA-southampton/NLP_ability",
+    "url": "https://github.com/DA-southampton/NLP_ability",
+    "desc": "总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括面试题，各种基础知识，工程能力等等，提升核心竞争力",
+    "lang": "Python"
+  },
+  {
+    "title": "Micro-sheep/efinance",
+    "url": "https://github.com/Micro-sheep/efinance",
+    "desc": "efinance 是一个可以快速获取基金、股票、债券、期货数据的 Python 库，回测以及量化交易的好帮手！🚀🚀🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "zhzyker/exphub",
+    "url": "https://github.com/zhzyker/exphub",
+    "desc": "Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340",
+    "lang": "Python"
+  },
+  {
+    "title": "qukequke/bert-crf-token_classification_ner",
+    "url": "https://github.com/qukequke/bert-crf-token_classification_ner",
+    "desc": "bert、roberta ner命名实体识别",
+    "lang": "Python"
+  },
+  {
+    "title": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。",
+    "lang": "Python"
+  },
+  {
+    "title": "DropsDevopsOrg/ECommerceCrawlers",
+    "url": "https://github.com/DropsDevopsOrg/ECommerceCrawlers",
+    "desc": "实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目:",
+    "lang": "Python"
+  },
+  {
+    "title": "ExpLangcn/FuYao",
+    "url": "https://github.com/ExpLangcn/FuYao",
+    "desc": "FuYao - 扶摇直上九万里！自动化进行资产探测及漏洞扫描｜适用黑客进行赏金活动、SRC活动、大规模攻击使用",
+    "lang": "Python"
+  },
+  {
+    "title": "minivision-ai/photo2cartoon",
+    "url": "https://github.com/minivision-ai/photo2cartoon",
+    "desc": "人像卡通化探索项目 (photo-to-cartoon translation project)",
+    "lang": "Python"
+  },
+  {
+    "title": "jiangxufeng/v2rayL",
+    "url": "https://github.com/jiangxufeng/v2rayL",
+    "desc": "v2ray linux GUI客户端，支持订阅、vemss、ss等协议，自动更新订阅、检查版本更新",
+    "lang": "Python"
+  }
+]
