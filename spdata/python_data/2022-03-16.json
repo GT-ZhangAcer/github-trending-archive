@@ -1,0 +1,152 @@
+[
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "aws-samples/aws-security-reference-architecture-examples",
+    "url": "https://github.com/aws-samples/aws-security-reference-architecture-examples",
+    "desc": "Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using CloudFormation and Customizations for AWS Control Tower.",
+    "lang": "Python"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "desc": "Experience macOS just like before",
+    "lang": "Python"
+  },
+  {
+    "title": "AtsushiSakai/PythonRobotics",
+    "url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "desc": "Python sample codes for robotics algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/DeepSpeed",
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/microservices-demo",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "desc": "Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "thehackersbrain/CVE-2021-41773",
+    "url": "https://github.com/thehackersbrain/CVE-2021-41773",
+    "desc": "Apache2 2.4.49 - LFI & RCE Exploit - CVE-2021-41773",
+    "lang": "Python"
+  },
+  {
+    "title": "FirmWire/FirmWire",
+    "url": "https://github.com/FirmWire/FirmWire",
+    "desc": "FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares",
+    "lang": "Python"
+  },
+  {
+    "title": "git-yusteven/openit",
+    "url": "https://github.com/git-yusteven/openit",
+    "desc": "🪜🧱🪜Openit订阅致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "frappe/frappe",
+    "url": "https://github.com/frappe/frappe",
+    "desc": "Low code web framework for real world applications, in Python and Javascript",
+    "lang": "Python"
+  },
+  {
+    "title": "asottile/pyupgrade",
+    "url": "https://github.com/asottile/pyupgrade",
+    "desc": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+    "lang": "Python"
+  },
+  {
+    "title": "bellingcat/telegram-phone-number-checker",
+    "url": "https://github.com/bellingcat/telegram-phone-number-checker",
+    "desc": "This script lets you check whether a specific phone number is connected to a Telegram account.",
+    "lang": "Python"
+  },
+  {
+    "title": "pre-commit/pre-commit",
+    "url": "https://github.com/pre-commit/pre-commit",
+    "desc": "A framework for managing and maintaining multi-language pre-commit hooks.",
+    "lang": "Python"
+  },
+  {
+    "title": "tr0uble-mAker/POC-bomber",
+    "url": "https://github.com/tr0uble-mAker/POC-bomber",
+    "desc": "利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "jindongwang/transferlearning",
+    "url": "https://github.com/jindongwang/transferlearning",
+    "desc": "Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习",
+    "lang": "Python"
+  },
+  {
+    "title": "davidteather/TikTok-Api",
+    "url": "https://github.com/davidteather/TikTok-Api",
+    "desc": "The Unofficial TikTok API Wrapper In Python",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "layumi/Person_reID_baseline_pytorch",
+    "url": "https://github.com/layumi/Person_reID_baseline_pytorch",
+    "desc": "Pytorch ReID: A tiny, friendly, strong pytorch implement of object re-identification baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial",
+    "lang": "Python"
+  },
+  {
+    "title": "pixelbubble/DomainAlerting",
+    "url": "https://github.com/pixelbubble/DomainAlerting",
+    "desc": "Daily alert when a new domain name is registered and contains your keywords",
+    "lang": "Python"
+  },
+  {
+    "title": "crytic/slither",
+    "url": "https://github.com/crytic/slither",
+    "desc": "Static Analyzer for Solidity",
+    "lang": "Python"
+  }
+]
