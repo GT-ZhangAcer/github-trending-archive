@@ -1,0 +1,152 @@
+[
+  {
+    "title": "diphosphane/CodeCraft2022-benchmark",
+    "url": "https://github.com/diphosphane/CodeCraft2022-benchmark",
+    "desc": "a benchmark for Huawei CodeCraft 2022 判题器 算分器",
+    "lang": "Python"
+  },
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "desc": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "lang": "Python"
+  },
+  {
+    "title": "TophantTechnology/ARL",
+    "url": "https://github.com/TophantTechnology/ARL",
+    "desc": "ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。",
+    "lang": "Python"
+  },
+  {
+    "title": "tr0uble-mAker/POC-bomber",
+    "url": "https://github.com/tr0uble-mAker/POC-bomber",
+    "desc": "利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "url": "https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "desc": "使用Bert，ERNIE，进行中文文本分类",
+    "lang": "Python"
+  },
+  {
+    "title": "liuhuanyong/QASystemOnMedicalKG",
+    "url": "https://github.com/liuhuanyong/QASystemOnMedicalKG",
+    "desc": "A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。",
+    "lang": "Python"
+  },
+  {
+    "title": "bubbliiiing/yolo3-pytorch",
+    "url": "https://github.com/bubbliiiing/yolo3-pytorch",
+    "desc": "这是一个yolo3-pytorch的源码，可以用于训练自己的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "a312863063/generators-with-stylegan2",
+    "url": "https://github.com/a312863063/generators-with-stylegan2",
+    "desc": "Here is a series of face generators based on StyleGAN2",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  },
+  {
+    "title": "Miraclelucy/dive_into_deep_learning",
+    "url": "https://github.com/Miraclelucy/dive_into_deep_learning",
+    "desc": "✔️李沐 【动手学深度学习】课程学习笔记：使用pycharm编程，基于pytorch框架实现。",
+    "lang": "Python"
+  },
+  {
+    "title": "Javacr/PyQt5-YOLOv5",
+    "url": "https://github.com/Javacr/PyQt5-YOLOv5",
+    "desc": "YOLOv5检测界面-PyQt5实现",
+    "lang": "Python"
+  },
+  {
+    "title": "PyQt5/PyQt",
+    "url": "https://github.com/PyQt5/PyQt",
+    "desc": "PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5",
+    "lang": "Python"
+  },
+  {
+    "title": "qukequke/university-knowledge-map",
+    "url": "https://github.com/qukequke/university-knowledge-map",
+    "desc": "基于国内大学构造的neo4j知识图谱，并进行简单问答，帮助了解大学，填报高考志愿",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "bubbliiiing/yolov4-pytorch",
+    "url": "https://github.com/bubbliiiing/yolov4-pytorch",
+    "desc": "这是一个YoloV4-pytorch的源码，可以用于训练自己的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "Womsxd/AutoMihoyoBBS",
+    "url": "https://github.com/Womsxd/AutoMihoyoBBS",
+    "desc": "米游社辅助签到，支持米游币，原神，崩坏三",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "dataabc/weibo-search",
+    "url": "https://github.com/dataabc/weibo-search",
+    "desc": "获取微博搜索结果信息，搜索即可以是微博关键词搜索，也可以是微博话题搜索",
+    "lang": "Python"
+  },
+  {
+    "title": "tianqiraf/DouZero_For_HappyDouDiZhu",
+    "url": "https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu",
+    "desc": "基于DouZero定制AI实战欢乐斗地主",
+    "lang": "Python"
+  },
+  {
+    "title": "ymcui/Chinese-BERT-wwm",
+    "url": "https://github.com/ymcui/Chinese-BERT-wwm",
+    "desc": "Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）",
+    "lang": "Python"
+  },
+  {
+    "title": "HIT-SCIR/ltp",
+    "url": "https://github.com/HIT-SCIR/ltp",
+    "desc": "Language Technology Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "0x727/ShuiZe_0x727",
+    "url": "https://github.com/0x727/ShuiZe_0x727",
+    "desc": "信息收集自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "git-yusteven/openit",
+    "url": "https://github.com/git-yusteven/openit",
+    "desc": "🪜🧱🪜Openit订阅致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "title": "diphosphane/CodeCraft2022-benchmark",
+    "url": "https://github.com/diphosphane/CodeCraft2022-benchmark",
+    "desc": "a benchmark for Huawei CodeCraft 2022 判题器 算分器",
+    "lang": "Python"
+  },
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "desc": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "lang": "Python"
+  },
+  {
+    "title": "IrineSistiana/udpme",
+    "url": "https://github.com/IrineSistiana/udpme",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "peng-zhihui/Dummy-Robot",
+    "url": "https://github.com/peng-zhihui/Dummy-Robot",
+    "desc": "我的超迷你机械臂机器人项目。",
+    "lang": "C"
+  },
+  {
+    "title": "Yin-Hongwei/music-website",
+    "url": "https://github.com/Yin-Hongwei/music-website",
+    "desc": "🎧 Vue + SpringBoot + MyBatis 音乐网站",
+    "lang": "Vue"
+  },
+  {
+    "title": "yifeikong/reverse-interview-zh",
+    "url": "https://github.com/yifeikong/reverse-interview-zh",
+    "desc": "技术面试最后反问面试官的话"
+  },
+  {
+    "title": "TophantTechnology/ARL",
+    "url": "https://github.com/TophantTechnology/ARL",
+    "desc": "ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。",
+    "lang": "Python"
+  },
+  {
+    "title": "tr0uble-mAker/POC-bomber",
+    "url": "https://github.com/tr0uble-mAker/POC-bomber",
+    "desc": "利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点",
+    "lang": "Python"
+  },
+  {
+    "title": "LandGrey/SpringBootVulExploit",
+    "url": "https://github.com/LandGrey/SpringBootVulExploit",
+    "desc": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
+    "lang": "Java"
+  },
+  {
+    "title": "huiyadanli/RevokeMsgPatcher",
+    "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
+    "desc": "A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
+    "lang": "C#"
+  },
+  {
+    "title": "yaklang/yakit",
+    "url": "https://github.com/yaklang/yakit",
+    "desc": "Cyber Security ALL-IN-ONE Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lsky-org/lsky-pro",
+    "url": "https://github.com/lsky-org/lsky-pro",
+    "desc": "☁️兰空图床(Lsky Pro) - Your photo album on the cloud.",
+    "lang": "Blade"
+  },
+  {
+    "title": "baidu/amis",
+    "url": "https://github.com/baidu/amis",
+    "desc": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TencentCloud/TIMSDK",
+    "url": "https://github.com/TencentCloud/TIMSDK",
+    "desc": "腾讯云即时通信 IM 服务，国内下载镜像：",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "Sunnyyoung/WeChatTweak-macOS",
+    "url": "https://github.com/Sunnyyoung/WeChatTweak-macOS",
+    "desc": "A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "648540858/wvp-GB28181-pro",
+    "url": "https://github.com/648540858/wvp-GB28181-pro",
+    "desc": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+    "lang": "Java"
+  },
+  {
+    "title": "wyattzheng/chaoxing-xuexitong-autoflush",
+    "url": "https://github.com/wyattzheng/chaoxing-xuexitong-autoflush",
+    "desc": "超星学习通全自动无人值守刷课程序，使用协议发包来实现，无需浏览器，支持自动过视频。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "url": "https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "desc": "使用Bert，ERNIE，进行中文文本分类",
+    "lang": "Python"
+  },
+  {
+    "title": "mohuangrui/ucasthesis",
+    "url": "https://github.com/mohuangrui/ucasthesis",
+    "desc": "LaTeX Thesis Template for the University of Chinese Academy of Sciences",
+    "lang": "TeX"
+  },
+  {
+    "title": "RanKKI/LawRefBook",
+    "url": "https://github.com/RanKKI/LawRefBook",
+    "desc": "中华人民共和国法律手册",
+    "lang": "Swift"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+    "lang": "JavaScript"
+  }
+]
