@@ -1,0 +1,150 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "Tas9er/ByPassBehinder4J",
+    "url": "https://github.com/Tas9er/ByPassBehinder4J",
+    "desc": "冰蝎Java WebShell自动化免杀生成"
+  },
+  {
+    "title": "peng-zhihui/Dummy-Robot",
+    "url": "https://github.com/peng-zhihui/Dummy-Robot",
+    "desc": "我的超迷你机械臂机器人项目。",
+    "lang": "C"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "RanKKI/LawRefBook",
+    "url": "https://github.com/RanKKI/LawRefBook",
+    "desc": "中华人民共和国法律手册",
+    "lang": "Swift"
+  },
+  {
+    "title": "ehids/ecapture",
+    "url": "https://github.com/ehids/ecapture",
+    "desc": "ecapture是一款无需CA证书，就可以进行HTTPS通讯明文抓包的工具。",
+    "lang": "C"
+  },
+  {
+    "title": "wyt1215819315/autoplan",
+    "url": "https://github.com/wyt1215819315/autoplan",
+    "desc": "这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top",
+    "lang": "Java"
+  },
+  {
+    "title": "diphosphane/CodeCraft2022-benchmark",
+    "url": "https://github.com/diphosphane/CodeCraft2022-benchmark",
+    "desc": "a benchmark for Huawei CodeCraft 2022 判题器 算分器",
+    "lang": "Python"
+  },
+  {
+    "title": "cookieY/Yearning",
+    "url": "https://github.com/cookieY/Yearning",
+    "desc": "🐳 A most popular sql audit platform for mysql",
+    "lang": "Go"
+  },
+  {
+    "title": "wondertrader/wondertrader",
+    "url": "https://github.com/wondertrader/wondertrader",
+    "desc": "WonderTrader——量化研发交易一站式框架",
+    "lang": "C++"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "Uahh/ToastFish",
+    "url": "https://github.com/Uahh/ToastFish",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "desc": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "lang": "Python"
+  },
+  {
+    "title": "Blinue/Magpie",
+    "url": "https://github.com/Blinue/Magpie",
+    "desc": "使游戏窗口全屏显示",
+    "lang": "HLSL"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "diphosphane/CodeCraft2022-PressureGenerator",
+    "url": "https://github.com/diphosphane/CodeCraft2022-PressureGenerator",
+    "desc": "a pressure data generator made for CodeCraft-2022 华为CodeCraft2022数据压测生成器",
+    "lang": "Python"
+  },
+  {
+    "title": "wyattzheng/chaoxing-xuexitong-autoflush",
+    "url": "https://github.com/wyattzheng/chaoxing-xuexitong-autoflush",
+    "desc": "超星学习通全自动无人值守刷课程序，使用协议发包来实现，无需浏览器，支持自动过视频。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "w7corp/easywechat",
+    "url": "https://github.com/w7corp/easywechat",
+    "desc": "📦 一个 PHP 微信 SDK",
+    "lang": "PHP"
+  },
+  {
+    "title": "unknwon/the-way-to-go_ZH_CN",
+    "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+    "desc": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+    "lang": "Go"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "desc": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类"
+  },
+  {
+    "title": "KingRan/KR",
+    "url": "https://github.com/KingRan/KR",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Sunnyyoung/WeChatTweak-macOS",
+    "url": "https://github.com/Sunnyyoung/WeChatTweak-macOS",
+    "desc": "A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "CoderLeixiaoshuai/java-eight-part",
+    "url": "https://github.com/CoderLeixiaoshuai/java-eight-part",
+    "desc": "『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！",
+    "lang": "Java"
+  }
+]
