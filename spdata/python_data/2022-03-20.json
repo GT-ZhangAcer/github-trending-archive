@@ -1,0 +1,152 @@
+[
+  {
+    "title": "microsoft/routeros-scanner",
+    "url": "https://github.com/microsoft/routeros-scanner",
+    "desc": "Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "DingXiaoH/RepLKNet-pytorch",
+    "url": "https://github.com/DingXiaoH/RepLKNet-pytorch",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Unknow101/FuckThatPacker",
+    "url": "https://github.com/Unknow101/FuckThatPacker",
+    "desc": "A simple python packer to easily bypass Windows Defender",
+    "lang": "Python"
+  },
+  {
+    "title": "theOehrly/Fast-F1",
+    "url": "https://github.com/theOehrly/Fast-F1",
+    "desc": "FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "apchenstu/TensoRF",
+    "url": "https://github.com/apchenstu/TensoRF",
+    "desc": "Tensorial Radiance Fields, a novel approach to model and reconstruct radiance fields",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "desc": "We have made you a wrapper you can't refuse",
+    "lang": "Python"
+  },
+  {
+    "title": "josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "desc": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "lang": "Python"
+  },
+  {
+    "title": "neuralchen/SimSwap",
+    "url": "https://github.com/neuralchen/SimSwap",
+    "desc": "An arbitrary face-swapping framework on images and videos with one single trained model!",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "palahsu/DDoS-Ripper",
+    "url": "https://github.com/palahsu/DDoS-Ripper",
+    "desc": "DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic",
+    "lang": "Python"
+  },
+  {
+    "title": "devicons/devicon",
+    "url": "https://github.com/devicons/devicon",
+    "desc": "Set of icons representing programming languages, designing & development tools",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "aladdinpersson/Machine-Learning-Collection",
+    "url": "https://github.com/aladdinpersson/Machine-Learning-Collection",
+    "desc": "A resource for learning about ML, DL, PyTorch and TensorFlow. Feedback always appreciated :)",
+    "lang": "Python"
+  },
+  {
+    "title": "Aleph-Alpha/magma",
+    "url": "https://github.com/Aleph-Alpha/magma",
+    "desc": "MAGMA - a GPT-style multimodal model that can understand any combination of images and language",
+    "lang": "Python"
+  },
+  {
+    "title": "ParthJadhav/Tkinter-Designer",
+    "url": "https://github.com/ParthJadhav/Tkinter-Designer",
+    "desc": "Create Beautiful Tkinter GUIs by Drag and Drop ☄️",
+    "lang": "Python"
+  },
+  {
+    "title": "Manisso/fsociety",
+    "url": "https://github.com/Manisso/fsociety",
+    "desc": "fsociety Hacking Tools Pack – A Penetration Testing Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "KurtBestor/Hitomi-Downloader",
+    "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+    "desc": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "kivy/kivy",
+    "url": "https://github.com/kivy/kivy",
+    "desc": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/kubric",
+    "url": "https://github.com/google-research/kubric",
+    "desc": "A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  }
+]

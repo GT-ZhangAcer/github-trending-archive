@@ -1,0 +1,149 @@
+[
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/routeros-scanner",
+    "url": "https://github.com/microsoft/routeros-scanner",
+    "desc": "Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "desc": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "kabinspace/AstroVim",
+    "url": "https://github.com/kabinspace/AstroVim",
+    "desc": "AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "lang": "Lua"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "desc": "🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。",
+    "lang": "C#"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "DingXiaoH/RepLKNet-pytorch",
+    "url": "https://github.com/DingXiaoH/RepLKNet-pytorch",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "remix-run/grunge-stack",
+    "url": "https://github.com/remix-run/grunge-stack",
+    "desc": "The Remix Stack for deploying to AWS with DynamoDB, authentication, testing, linting, formatting, etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南"
+  },
+  {
+    "title": "dair-ai/ML-Course-Notes",
+    "url": "https://github.com/dair-ai/ML-Course-Notes",
+    "desc": "🎓 Sharing course notes on all topics related to machine learning, NLP, and AI"
+  },
+  {
+    "title": "remix-run/blues-stack",
+    "url": "https://github.com/remix-run/blues-stack",
+    "desc": "The Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "openmlsys/openmlsys-zh",
+    "url": "https://github.com/openmlsys/openmlsys-zh",
+    "desc": "《Machine Learning Systems: Design and Implementation》- Chinese Version",
+    "lang": "TeX"
+  },
+  {
+    "title": "Unknow101/FuckThatPacker",
+    "url": "https://github.com/Unknow101/FuckThatPacker",
+    "desc": "A simple python packer to easily bypass Windows Defender",
+    "lang": "Python"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ppy/osu",
+    "url": "https://github.com/ppy/osu",
+    "desc": "rhythm is just a *click* away!",
+    "lang": "C#"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "desc": "A V2Ray client for Windows, support Xray core and v2fly core",
+    "lang": "C#"
+  },
+  {
+    "title": "theOehrly/Fast-F1",
+    "url": "https://github.com/theOehrly/Fast-F1",
+    "desc": "FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry",
+    "lang": "Python"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "desc": "🔥 🔥 🔥 Open Source Airtable Alternative",
+    "lang": "Vue"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "desc": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
+    "lang": "JavaScript"
+  }
+]

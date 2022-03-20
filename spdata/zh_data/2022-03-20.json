@@ -1,0 +1,148 @@
+[
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "desc": "🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。",
+    "lang": "C#"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南"
+  },
+  {
+    "title": "openmlsys/openmlsys-zh",
+    "url": "https://github.com/openmlsys/openmlsys-zh",
+    "desc": "《Machine Learning Systems: Design and Implementation》- Chinese Version",
+    "lang": "TeX"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "desc": "C++那些事",
+    "lang": "C++"
+  },
+  {
+    "title": "Dapp-Learning-DAO/Dapp-Learning",
+    "url": "https://github.com/Dapp-Learning-DAO/Dapp-Learning",
+    "desc": "Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "skywind3000/awesome-cheatsheets",
+    "url": "https://github.com/skywind3000/awesome-cheatsheets",
+    "desc": "超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 ⚡",
+    "lang": "Shell"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "Mrs4s/go-cqhttp",
+    "url": "https://github.com/Mrs4s/go-cqhttp",
+    "desc": "cqhttp的golang实现，轻量、原生跨平台.",
+    "lang": "Go"
+  },
+  {
+    "title": "RanKKI/LawRefBook",
+    "url": "https://github.com/RanKKI/LawRefBook",
+    "desc": "中华人民共和国法律手册",
+    "lang": "Swift"
+  },
+  {
+    "title": "wyt1215819315/autoplan",
+    "url": "https://github.com/wyt1215819315/autoplan",
+    "desc": "这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top",
+    "lang": "Java"
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "desc": "适用于新系统UI的哔哩",
+    "lang": "C#"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "blackmatrix7/ios_rule_script",
+    "url": "https://github.com/blackmatrix7/ios_rule_script",
+    "desc": "各平台的分流规则、复写规则及自动化脚本。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Blinue/Magpie",
+    "url": "https://github.com/Blinue/Magpie",
+    "desc": "使游戏窗口全屏显示",
+    "lang": "HLSL"
+  },
+  {
+    "title": "ronggang/PT-Plugin-Plus",
+    "url": "https://github.com/ronggang/PT-Plugin-Plus",
+    "desc": "PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "vaxilu/x-ui",
+    "url": "https://github.com/vaxilu/x-ui",
+    "desc": "支持多协议多用户的 xray 面板",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vernesong/OpenClash",
+    "url": "https://github.com/vernesong/OpenClash",
+    "desc": "A Clash Client For OpenWrt",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dundunnp/hamibot-auto_xuexiqiangguo",
+    "url": "https://github.com/dundunnp/hamibot-auto_xuexiqiangguo",
+    "desc": "每日拿63分(满63分)！所有模块均可自动完成，免root，四人赛双人对战秒答，基于Hamibot的安卓端学习强国自动化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  }
+]
