@@ -1,0 +1,151 @@
+[
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "desc": "Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "desc": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "desc": "🔥 🔥 🔥 Open Source Airtable Alternative",
+    "lang": "Vue"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "desc": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "lang": "C++"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jonkpirateboy/Pass-fur-alle",
+    "url": "https://github.com/jonkpirateboy/Pass-fur-alle",
+    "desc": "Since Polisens web queueing solution for getting a passport sucks, and it is more or less impossible to book a time, I wrote this small python script. What it does is that it automates the searching for a bookable time. In the file you just change the constants to your information and away you go. :)",
+    "lang": "Python"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "openmlsys/openmlsys-zh",
+    "url": "https://github.com/openmlsys/openmlsys-zh",
+    "desc": "《Machine Learning Systems: Design and Implementation》- Chinese Version",
+    "lang": "TeX"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "meilisearch/meilisearch",
+    "url": "https://github.com/meilisearch/meilisearch",
+    "desc": "Powerful, fast, and an easy to use search engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "EAimTY/tuic",
+    "url": "https://github.com/EAimTY/tuic",
+    "desc": "Delicately-TUICed high-performance proxy built on top of the QUIC protocol",
+    "lang": "Rust"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "desc": "👽 Open source API development ecosystem - https://hoppscotch.io",
+    "lang": "Vue"
+  },
+  {
+    "title": "guzzle/guzzle",
+    "url": "https://github.com/guzzle/guzzle",
+    "desc": "Guzzle, an extensible PHP HTTP client",
+    "lang": "PHP"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "mrd0x/BITB",
+    "url": "https://github.com/mrd0x/BITB",
+    "desc": "Browser In The Browser (BITB) Templates",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "getActivity/AndroidGithubBoss",
+    "url": "https://github.com/getActivity/AndroidGithubBoss",
+    "desc": "统计 Android 开源大佬"
+  },
+  {
+    "title": "adrianhajdin/project_mern_memories",
+    "url": "https://github.com/adrianhajdin/project_mern_memories",
+    "desc": "This is a code repository for the corresponding video tutorial. Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AI4Finance-Foundation/FinRL",
+    "url": "https://github.com/AI4Finance-Foundation/FinRL",
+    "desc": "FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "amplication/amplication",
+    "url": "https://github.com/amplication/amplication",
+    "desc": "Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cosmos/cosmos-sdk",
+    "url": "https://github.com/cosmos/cosmos-sdk",
+    "desc": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "lang": "Go"
+  },
+  {
+    "title": "liamg/traitor",
+    "url": "https://github.com/liamg/traitor",
+    "desc": "⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock",
+    "lang": "Go"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "Go"
+  }
+]

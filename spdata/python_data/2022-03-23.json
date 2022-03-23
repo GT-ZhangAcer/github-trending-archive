@@ -1,0 +1,152 @@
+[
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "jonkpirateboy/Pass-fur-alle",
+    "url": "https://github.com/jonkpirateboy/Pass-fur-alle",
+    "desc": "Since Polisens web queueing solution for getting a passport sucks, and it is more or less impossible to book a time, I wrote this small python script. What it does is that it automates the searching for a bookable time. In the file you just change the constants to your information and away you go. :)",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "elastic/helm-charts",
+    "url": "https://github.com/elastic/helm-charts",
+    "desc": "You know, for Kubernetes",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "linkedin/FastTreeSHAP",
+    "url": "https://github.com/linkedin/FastTreeSHAP",
+    "desc": "Fast SHAP value computation for interpreting tree-based models",
+    "lang": "Python"
+  },
+  {
+    "title": "elastic/detection-rules",
+    "url": "https://github.com/elastic/detection-rules",
+    "desc": "Rules for Elastic Security's detection engine",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/pifuhd",
+    "url": "https://github.com/facebookresearch/pifuhd",
+    "desc": "High-Resolution 3D Human Digitization from A Single Image.",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "AsahiLinux/asahi-installer",
+    "url": "https://github.com/AsahiLinux/asahi-installer",
+    "desc": "Asahi Linux installer",
+    "lang": "Python"
+  },
+  {
+    "title": "cyrus-and/gdb-dashboard",
+    "url": "https://github.com/cyrus-and/gdb-dashboard",
+    "desc": "Modular visual interface for GDB in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamUltroid/Ultroid",
+    "url": "https://github.com/TeamUltroid/Ultroid",
+    "desc": "Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/kubric",
+    "url": "https://github.com/google-research/kubric",
+    "desc": "A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.",
+    "lang": "Python"
+  },
+  {
+    "title": "mne-tools/mne-python",
+    "url": "https://github.com/mne-tools/mne-python",
+    "desc": "MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "goauthentik/authentik",
+    "url": "https://github.com/goauthentik/authentik",
+    "desc": "The authentication glue you need.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "electricitymap/electricitymap-contrib",
+    "url": "https://github.com/electricitymap/electricitymap-contrib",
+    "desc": "A real-time visualisation of the CO2 emissions of electricity consumption",
+    "lang": "Python"
+  },
+  {
+    "title": "allegroai/clearml",
+    "url": "https://github.com/allegroai/clearml",
+    "desc": "ClearML - Auto-Magical CI/CD to streamline your ML workflow. Experiment Manager, MLOps and Data-Management",
+    "lang": "Python"
+  },
+  {
+    "title": "fxsjy/jieba",
+    "url": "https://github.com/fxsjy/jieba",
+    "desc": "结巴中文分词",
+    "lang": "Python"
+  },
+  {
+    "title": "blakeblackshear/frigate",
+    "url": "https://github.com/blakeblackshear/frigate",
+    "desc": "NVR with realtime local object detection for IP cameras",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-cli-extensions",
+    "url": "https://github.com/Azure/azure-cli-extensions",
+    "desc": "Public Repository for Extensions of Azure CLI.",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  }
+]
