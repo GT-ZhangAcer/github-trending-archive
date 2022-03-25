@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BetaSu/fe-hunter",
+    "url": "https://github.com/BetaSu/fe-hunter",
+    "desc": "前端赏金猎人，悬赏 前端高质量问题 的答案",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/lowcode-demo",
+    "url": "https://github.com/alibaba/lowcode-demo",
+    "desc": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "desc": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "lang": "HTML"
+  },
+  {
+    "title": "Semporia/TikTok-Unlock",
+    "url": "https://github.com/Semporia/TikTok-Unlock",
+    "desc": "TikTok免拔卡解锁最新支持 iPhone （iOS 15.4） 、TikTok（V23.6.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！"
+  },
+  {
+    "title": "focus-creative-games/huatuo",
+    "url": "https://github.com/focus-creative-games/huatuo",
+    "desc": "零成本、高性能的unity c#的热更新方案。 Zero-cost, high-performance unity c# hot update solution",
+    "lang": "C++"
+  },
+  {
+    "title": "f0ng/captcha-killer-modified",
+    "url": "https://github.com/f0ng/captcha-killer-modified",
+    "desc": "captcha-killer的修改版，主要用于验证码爆破，适配新版Burpsuite",
+    "lang": "Java"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Activiti + Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "521xueweihan/OneFile",
+    "url": "https://github.com/521xueweihan/OneFile",
+    "desc": "只有一个文件！",
+    "lang": "Shell"
+  },
+  {
+    "title": "liupan1890/aliyunpan",
+    "url": "https://github.com/liupan1890/aliyunpan",
+    "desc": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "selfteaching/the-craft-of-selfteaching",
+    "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "cloudreve/Cloudreve",
+    "url": "https://github.com/cloudreve/Cloudreve",
+    "desc": "🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",
+    "lang": "Go"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "SharingSource/LogicStack-LeetCode",
+    "url": "https://github.com/SharingSource/LogicStack-LeetCode",
+    "desc": "公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码"
+  },
+  {
+    "title": "wuyouzhuguli/SpringAll",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "desc": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc",
+    "lang": "Java"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "PKUanonym/REKCARC-TSC-UHT",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "desc": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
+    "lang": "HTML"
+  },
+  {
+    "title": "SocialSisterYi/bilibili-API-collect",
+    "url": "https://github.com/SocialSisterYi/bilibili-API-collect",
+    "desc": "哔哩哔哩-API收集整理【不断更新中....】"
+  },
+  {
+    "title": "bojone/bert4keras",
+    "url": "https://github.com/bojone/bert4keras",
+    "desc": "keras implement of transformers for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "chenhb23/lanzouyun-disk",
+    "url": "https://github.com/chenhb23/lanzouyun-disk",
+    "desc": "蓝奏云网盘、客户端，支持 macos 和 windows，支持登录、大文件批量断点上传 / 下载、URL 解析，使用 electron 构建。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  }
+]

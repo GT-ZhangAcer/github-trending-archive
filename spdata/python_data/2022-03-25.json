@@ -1,0 +1,152 @@
+[
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  },
+  {
+    "title": "jonkpirateboy/Pass-fur-alle",
+    "url": "https://github.com/jonkpirateboy/Pass-fur-alle",
+    "desc": "Since Polisens web queueing solution for getting a passport sucks, and it is more or less impossible to book a time, I wrote this small python script. What it does is that it automates the searching for a bookable time. In the file you just change the constants to your information and away you go. :)",
+    "lang": "Python"
+  },
+  {
+    "title": "googlefonts/morisawa-biz-ud-mincho",
+    "url": "https://github.com/googlefonts/morisawa-biz-ud-mincho",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/sionna",
+    "url": "https://github.com/NVlabs/sionna",
+    "desc": "Sionna: An Open-Source Library for Next-Generation Physical Layer Research",
+    "lang": "Python"
+  },
+  {
+    "title": "googlefonts/morisawa-biz-ud-gothic",
+    "url": "https://github.com/googlefonts/morisawa-biz-ud-gothic",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "redis/redis-py",
+    "url": "https://github.com/redis/redis-py",
+    "desc": "Redis Python Client",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "cyrus-and/gdb-dashboard",
+    "url": "https://github.com/cyrus-and/gdb-dashboard",
+    "desc": "Modular visual interface for GDB in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "cookiecutter/cookiecutter-django",
+    "url": "https://github.com/cookiecutter/cookiecutter-django",
+    "desc": "Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.",
+    "lang": "Python"
+  },
+  {
+    "title": "canonical/cloud-init",
+    "url": "https://github.com/canonical/cloud-init",
+    "desc": "Official upstream for the cloud-init: cloud instance initialization",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/NeuralSpeech",
+    "url": "https://github.com/microsoft/NeuralSpeech",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "pallets/jinja",
+    "url": "https://github.com/pallets/jinja",
+    "desc": "A very fast and expressive template engine.",
+    "lang": "Python"
+  },
+  {
+    "title": "robotframework/robotframework",
+    "url": "https://github.com/robotframework/robotframework",
+    "desc": "Generic automation framework for acceptance testing and RPA",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "iterativv/NostalgiaForInfinity",
+    "url": "https://github.com/iterativv/NostalgiaForInfinity",
+    "desc": "Trading strategy for the Freqtrade crypto bot",
+    "lang": "Python"
+  },
+  {
+    "title": "WongKinYiu/yolor",
+    "url": "https://github.com/WongKinYiu/yolor",
+    "desc": "implementation of paper - You Only Learn One Representation: Unified Network for Multiple Tasks (https://arxiv.org/abs/2105.04206)",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/stylegan3",
+    "url": "https://github.com/NVlabs/stylegan3",
+    "desc": "Official PyTorch implementation of StyleGAN3",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/DeepSpeed",
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/mae",
+    "url": "https://github.com/facebookresearch/mae",
+    "desc": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  }
+]
