@@ -1,0 +1,152 @@
+[
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "orchest/orchest",
+    "url": "https://github.com/orchest/orchest",
+    "desc": "Build data pipelines, the easy way 🛠️",
+    "lang": "Python"
+  },
+  {
+    "title": "jonkpirateboy/Pass-fur-alle",
+    "url": "https://github.com/jonkpirateboy/Pass-fur-alle",
+    "desc": "Since Polisens web queueing solution for getting a passport sucks, and it is more or less impossible to book a time, I wrote this small python script. What it does is that it automates the searching for a bookable time. In the file you just change the constants to your information and away you go. :)",
+    "lang": "Python"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/sionna",
+    "url": "https://github.com/NVlabs/sionna",
+    "desc": "Sionna: An Open-Source Library for Next-Generation Physical Layer Research",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "iterativv/NostalgiaForInfinity",
+    "url": "https://github.com/iterativv/NostalgiaForInfinity",
+    "desc": "Trading strategy for the Freqtrade crypto bot",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/alphafold",
+    "url": "https://github.com/deepmind/alphafold",
+    "desc": "Open source code for AlphaFold.",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "codeyso/CodeTest",
+    "url": "https://github.com/codeyso/CodeTest",
+    "desc": "脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions",
+    "url": "https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "getmanfred/mac",
+    "url": "https://github.com/getmanfred/mac",
+    "desc": "Manfred Awesomic CV",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/mae",
+    "url": "https://github.com/facebookresearch/mae",
+    "desc": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+    "lang": "Python"
+  },
+  {
+    "title": "locustio/locust",
+    "url": "https://github.com/locustio/locust",
+    "desc": "Scalable user load testing tool written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "flyteorg/flyte",
+    "url": "https://github.com/flyteorg/flyte",
+    "desc": "Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/clip-as-service",
+    "url": "https://github.com/jina-ai/clip-as-service",
+    "desc": "Embed images and sentences into fixed-length vectors with CLIP",
+    "lang": "Python"
+  },
+  {
+    "title": "googlefonts/morisawa-biz-ud-gothic",
+    "url": "https://github.com/googlefonts/morisawa-biz-ud-gothic",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "icyguider/ICMP-TransferTools",
+    "url": "https://github.com/icyguider/ICMP-TransferTools",
+    "desc": "Transfer files to and from a Windows host via ICMP in restricted network environments.",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  }
+]

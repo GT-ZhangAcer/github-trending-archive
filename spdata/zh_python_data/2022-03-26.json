@@ -1,0 +1,152 @@
+[
+  {
+    "title": "codeyso/CodeTest",
+    "url": "https://github.com/codeyso/CodeTest",
+    "desc": "脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "wistbean/learn_python3_spider",
+    "url": "https://github.com/wistbean/learn_python3_spider",
+    "desc": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "电影、电视剧自动PT下载、聚合搜索、智能识别重命名、硬链接媒体库整理、PT保种签到等",
+    "lang": "Python"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "zq1997/deepin-wine",
+    "url": "https://github.com/zq1997/deepin-wine",
+    "desc": "【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式",
+    "lang": "Python"
+  },
+  {
+    "title": "lyhue1991/eat_pytorch_in_20_days",
+    "url": "https://github.com/lyhue1991/eat_pytorch_in_20_days",
+    "desc": "Pytorch🍊🍉 is delicious, just eat it! 😋😋",
+    "lang": "Python"
+  },
+  {
+    "title": "666wcy/ARPT-Bot",
+    "url": "https://github.com/666wcy/ARPT-Bot",
+    "desc": "一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。",
+    "lang": "Python"
+  },
+  {
+    "title": "0x727/ShuiZe_0x727",
+    "url": "https://github.com/0x727/ShuiZe_0x727",
+    "desc": "信息收集自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "lixi5338619/lxSpider",
+    "url": "https://github.com/lixi5338619/lxSpider",
+    "desc": "爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说、招标网、采购网、小红书、大众点评、推特、脉脉》",
+    "lang": "Python"
+  },
+  {
+    "title": "bojone/bert4keras",
+    "url": "https://github.com/bojone/bert4keras",
+    "desc": "keras implement of transformers for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "Ryze-T/cdb-wds",
+    "url": "https://github.com/Ryze-T/cdb-wds",
+    "desc": "利用白名单文件 cdb.exe 执行 shellcode",
+    "lang": "Python"
+  },
+  {
+    "title": "PDWR/AVKiller",
+    "url": "https://github.com/PDWR/AVKiller",
+    "desc": "利用图形化识别技术快速关闭目标机器上的杀毒软件",
+    "lang": "Python"
+  },
+  {
+    "title": "hhyo/Archery",
+    "url": "https://github.com/hhyo/Archery",
+    "desc": "SQL 审核查询平台",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "HIT-SCIR/ltp",
+    "url": "https://github.com/HIT-SCIR/ltp",
+    "desc": "Language Technology Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
+    "lang": "Python"
+  },
+  {
+    "title": "lyhue1991/eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "desc": "Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋",
+    "lang": "Python"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "TurboWay/bigdata_analyse",
+    "url": "https://github.com/TurboWay/bigdata_analyse",
+    "desc": "大数据分析项目",
+    "lang": "Python"
+  },
+  {
+    "title": "bubbliiiing/yolov4-pytorch",
+    "url": "https://github.com/bubbliiiing/yolov4-pytorch",
+    "desc": "这是一个YoloV4-pytorch的源码，可以用于训练自己的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "pwxcoo/chinese-xinhua",
+    "url": "https://github.com/pwxcoo/chinese-xinhua",
+    "desc": "📙 中华新华字典数据库。包括歇后语，成语，词语，汉字。",
+    "lang": "Python"
+  },
+  {
+    "title": "Dod-o/Statistical-Learning-Method_Code",
+    "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+    "desc": "手写实现李航《统计学习方法》书中全部算法",
+    "lang": "Python"
+  },
+  {
+    "title": "Boris-code/feapder",
+    "url": "https://github.com/Boris-code/feapder",
+    "desc": "Feapder is an easy to use, powerful crawler framework | Feapder是一款上手简单，功能强大的Python爬虫框架",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "cloudreve/Cloudreve",
+    "url": "https://github.com/cloudreve/Cloudreve",
+    "desc": "🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",
+    "lang": "Go"
+  },
+  {
+    "title": "hehonghui/the-economist-ebooks",
+    "url": "https://github.com/hehonghui/the-economist-ebooks",
+    "desc": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
+    "lang": "CSS"
+  },
+  {
+    "title": "afatcoder/LeetcodeTop",
+    "url": "https://github.com/afatcoder/LeetcodeTop",
+    "desc": "汇总各大互联网公司容易考察的高频leetcode题🔥"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "BetaSu/fe-hunter",
+    "url": "https://github.com/BetaSu/fe-hunter",
+    "desc": "前端赏金猎人，悬赏 前端高质量问题 的答案",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "focus-creative-games/huatuo",
+    "url": "https://github.com/focus-creative-games/huatuo",
+    "desc": "零成本、高性能的unity c#的热更新方案。 Zero-cost, high-performance unity c# hot update solution",
+    "lang": "C++"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "desc": "🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）",
+    "lang": "Java"
+  },
+  {
+    "title": "sunface/rust-course",
+    "url": "https://github.com/sunface/rust-course",
+    "desc": "“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石 — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍",
+    "lang": "Rust"
+  },
+  {
+    "title": "Tencent/puerts",
+    "url": "https://github.com/Tencent/puerts",
+    "desc": "Write your game with TypeScript in UE4 or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）",
+    "lang": "C"
+  },
+  {
+    "title": "Jackpopc/CS-Books-Store",
+    "url": "https://github.com/Jackpopc/CS-Books-Store",
+    "desc": "你想要的计算机经典书籍，这里都有！"
+  },
+  {
+    "title": "Kooklen/vue-music-player",
+    "url": "https://github.com/Kooklen/vue-music-player",
+    "desc": "",
+    "lang": "Vue"
+  },
+  {
+    "title": "codeyso/CodeTest",
+    "url": "https://github.com/codeyso/CodeTest",
+    "desc": "脚本工具合集GUI版本，内置漏洞验证、利用模块，可自定义脚本实现批量验证。",
+    "lang": "Python"
+  },
+  {
+    "title": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "desc": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "calibtoolkit/calibration_kit",
+    "url": "https://github.com/calibtoolkit/calibration_kit",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "vooidzero/B23Downloader",
+    "url": "https://github.com/vooidzero/B23Downloader",
+    "desc": "下载B站视频、直播、漫画（能看=能下载）。使用 Qt C++ 开发",
+    "lang": "C++"
+  },
+  {
+    "title": "liupan1890/aliyunpan",
+    "url": "https://github.com/liupan1890/aliyunpan",
+    "desc": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "521xueweihan/OneFile",
+    "url": "https://github.com/521xueweihan/OneFile",
+    "desc": "只有一个文件！",
+    "lang": "Shell"
+  },
+  {
+    "title": "wistbean/learn_python3_spider",
+    "url": "https://github.com/wistbean/learn_python3_spider",
+    "desc": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+    "lang": "Python"
+  },
+  {
+    "title": "DivineEngine/Profiles",
+    "url": "https://github.com/DivineEngine/Profiles",
+    "desc": "🌐Dial-up Internet access"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "focus-creative-games/luban",
+    "url": "https://github.com/focus-creative-games/luban",
+    "desc": "你的最佳游戏配置解决方案 {excel, csv, xls, xlsx, json, bson, xml, yaml, lua, unity scriptableobject} => {json, bson, xml, lua, yaml, protobuf(pb), msgpack, flatbuffers, erlang, custom template} data + {c++, java, c#, go(golang), lua, javascript(js), typescript(ts), erlang, rust, protobuf schema, flatbuffers schema, custom template} code。 不仅仅是导表工具。支持unity , …",
+    "lang": "C#"
+  }
+]
