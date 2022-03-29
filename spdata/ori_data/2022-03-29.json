@@ -1,0 +1,147 @@
+[
+  {
+    "title": "bullet-train-co/bullet_train",
+    "url": "https://github.com/bullet-train-co/bullet_train",
+    "desc": "The Open Source Ruby on Rails SaaS Framework",
+    "lang": "Ruby"
+  },
+  {
+    "title": "ehids/ecapture",
+    "url": "https://github.com/ehids/ecapture",
+    "desc": "capture SSL/TLS text content without CA cert by eBPF.",
+    "lang": "C"
+  },
+  {
+    "title": "wangyuan389/mall-cook",
+    "url": "https://github.com/wangyuan389/mall-cook",
+    "desc": "商城低代码平台，可视化搭建H5、小程序多端商城",
+    "lang": "Vue"
+  },
+  {
+    "title": "apple/swift-async-algorithms",
+    "url": "https://github.com/apple/swift-async-algorithms",
+    "desc": "Async Algorithms for Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "mtlynch/picoshare",
+    "url": "https://github.com/mtlynch/picoshare",
+    "desc": "A minimalist, easy-to-host service for sharing images and other files",
+    "lang": "Go"
+  },
+  {
+    "title": "liyupi/mianshiya-public",
+    "url": "https://github.com/liyupi/mianshiya-public",
+    "desc": "干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "JD331/JD331",
+    "url": "https://github.com/JD331/JD331",
+    "desc": ""
+  },
+  {
+    "title": "NVlabs/eg3d",
+    "url": "https://github.com/NVlabs/eg3d",
+    "desc": ""
+  },
+  {
+    "title": "Bonfee/CVE-2022-0995",
+    "url": "https://github.com/Bonfee/CVE-2022-0995",
+    "desc": "CVE-2022-0995 exploit",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "lang": "C++"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "desc": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "lang": "Cuda"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "breakthecode2/neo",
+    "url": "https://github.com/breakthecode2/neo",
+    "desc": "A plugin that enables usage of cheatcodes in Break The Code 2",
+    "lang": "SCSS"
+  },
+  {
+    "title": "AI4Finance-Foundation/FinRL",
+    "url": "https://github.com/AI4Finance-Foundation/FinRL",
+    "desc": "FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "restic/restic",
+    "url": "https://github.com/restic/restic",
+    "desc": "Fast, secure, efficient backup program",
+    "lang": "Go"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+    "desc": "📺 A place to discover the latest machine learning courses on YouTube."
+  },
+  {
+    "title": "techno-tim/k3s-ansible",
+    "url": "https://github.com/techno-tim/k3s-ansible",
+    "desc": "A fully automated HA k3s etcd install with kube-vip, MetalLB, and more",
+    "lang": "Jinja"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "lang": "Go"
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "desc": "适用于新系统UI的哔哩",
+    "lang": "C#"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "lang": "Python"
+  }
+]

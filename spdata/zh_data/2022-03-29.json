@@ -1,0 +1,145 @@
+[
+  {
+    "title": "ehids/ecapture",
+    "url": "https://github.com/ehids/ecapture",
+    "desc": "capture SSL/TLS text content without CA cert by eBPF.",
+    "lang": "C"
+  },
+  {
+    "title": "wangyuan389/mall-cook",
+    "url": "https://github.com/wangyuan389/mall-cook",
+    "desc": "商城低代码平台，可视化搭建H5、小程序多端商城",
+    "lang": "Vue"
+  },
+  {
+    "title": "liyupi/mianshiya-public",
+    "url": "https://github.com/liyupi/mianshiya-public",
+    "desc": "干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "JD331/JD331",
+    "url": "https://github.com/JD331/JD331",
+    "desc": ""
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "desc": "适用于新系统UI的哔哩",
+    "lang": "C#"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "liupan1890/aliyunpan",
+    "url": "https://github.com/liupan1890/aliyunpan",
+    "desc": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "lengfengwujing/IWantToRun",
+    "url": "https://github.com/lengfengwujing/IWantToRun",
+    "desc": ""
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "changfengoss/pub",
+    "url": "https://github.com/changfengoss/pub",
+    "desc": "科学上网工具"
+  },
+  {
+    "title": "obpo-project/obpo-plugin",
+    "url": "https://github.com/obpo-project/obpo-plugin",
+    "desc": "An ida plugin for recovering control flow flattening",
+    "lang": "Python"
+  },
+  {
+    "title": "MLEveryday/100-Days-Of-ML-Code",
+    "url": "https://github.com/MLEveryday/100-Days-Of-ML-Code",
+    "desc": "100-Days-Of-ML-Code中文版",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Yuzuki999/Mianliu-809",
+    "url": "https://github.com/Yuzuki999/Mianliu-809",
+    "desc": "关于最近的手机电视809免流"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "desc": "🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）",
+    "lang": "Java"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "desc": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "lang": "HTML"
+  },
+  {
+    "title": "XrayR-project/XrayR",
+    "url": "https://github.com/XrayR-project/XrayR",
+    "desc": "A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",
+    "lang": "Go"
+  },
+  {
+    "title": "dromara/hertzbeat",
+    "url": "https://github.com/dromara/hertzbeat",
+    "desc": "易用友好的云监控系统。网站监测，PING连通性，端口可用性，数据库，操作系统，API监控，自定义监控，阈值告警，告警通知(邮件微信钉钉飞书)。",
+    "lang": "Java"
+  },
+  {
+    "title": "YotaGit/AlgorithmRestore",
+    "url": "https://github.com/YotaGit/AlgorithmRestore",
+    "desc": "App和Web逆向算法还原案例源码分享",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/APIJSON",
+    "url": "https://github.com/Tencent/APIJSON",
+    "desc": "🚀 零代码、全自动、强安全 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.",
+    "lang": "Java"
+  },
+  {
+    "title": "destan19/OpenAppFilter",
+    "url": "https://github.com/destan19/OpenAppFilter",
+    "desc": "App filtering is a parent management plug-in based on OpenWrt, which supports app filtering for games, videos, chats, downloads, etc.",
+    "lang": "C"
+  },
+  {
+    "title": "fex-team/ueditor",
+    "url": "https://github.com/fex-team/ueditor",
+    "desc": "rich text 富文本编辑器",
+    "lang": "JavaScript"
+  }
+]

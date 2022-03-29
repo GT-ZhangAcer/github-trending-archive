@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "oconnor663/sha256_project",
+    "url": "https://github.com/oconnor663/sha256_project",
+    "desc": "developed for NYU Tandon's Applied Cryptography course",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "JannisKirschner/SymbolicExecutionDemystified",
+    "url": "https://github.com/JannisKirschner/SymbolicExecutionDemystified",
+    "desc": "Slides and Material for SymbolicExecutionDemystified Presentation @ Insomni'Hack 2022",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "MrMimic/data-scientist-roadmap",
+    "url": "https://github.com/MrMimic/data-scientist-roadmap",
+    "desc": "Toturials coming with the data science roadmap picture.",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/GroupViT",
+    "url": "https://github.com/NVlabs/GroupViT",
+    "desc": "Official PyTorch implementation of GroupViT: Semantic Segmentation Emerges from Text Supervision, CVPR 2022.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/recommenders",
+    "url": "https://github.com/microsoft/recommenders",
+    "desc": "Best Practices on Recommendation Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "obpo-project/obpo-plugin",
+    "url": "https://github.com/obpo-project/obpo-plugin",
+    "desc": "An ida plugin for recovering control flow flattening",
+    "lang": "Python"
+  },
+  {
+    "title": "danielgatis/rembg",
+    "url": "https://github.com/danielgatis/rembg",
+    "desc": "Rembg is a tool to remove images background.",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "lang": "Python"
+  },
+  {
+    "title": "saleor/saleor",
+    "url": "https://github.com/saleor/saleor",
+    "desc": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
+    "lang": "Python"
+  },
+  {
+    "title": "wilsonfreitas/awesome-quant",
+    "url": "https://github.com/wilsonfreitas/awesome-quant",
+    "desc": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and web app—powerful open source team chat",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/vit-pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "desc": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "jerry-git/learn-python3",
+    "url": "https://github.com/jerry-git/learn-python3",
+    "desc": "Jupyter notebooks for teaching/learning Python 3",
+    "lang": "Python"
+  },
+  {
+    "title": "adap/flower",
+    "url": "https://github.com/adap/flower",
+    "desc": "Flower - A Friendly Federated Learning Framework",
+    "lang": "Python"
+  }
+]
