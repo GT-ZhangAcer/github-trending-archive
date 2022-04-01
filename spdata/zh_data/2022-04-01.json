@@ -1,0 +1,145 @@
+[
+  {
+    "title": "craig/SpringCore0day",
+    "url": "https://github.com/craig/SpringCore0day",
+    "desc": "SpringCore0day from https://share.vx-underground.org/ & some additional links",
+    "lang": "Python"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "desc": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "lang": "HTML"
+  },
+  {
+    "title": "chaosec2021/Spring-cloud-function-SpEL-RCE",
+    "url": "https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE",
+    "desc": "Spring-cloud-function-SpEL-RCE 批量检测脚本，反弹shell_EXP,欢迎师傅们试用",
+    "lang": "Python"
+  },
+  {
+    "title": "Twelve-blog/Study_hamibot",
+    "url": "https://github.com/Twelve-blog/Study_hamibot",
+    "desc": "Study for the sake of study",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+  },
+  {
+    "title": "varletjs/varlet",
+    "url": "https://github.com/varletjs/varlet",
+    "desc": "基于 Vue3 的 Material design 风格移动端组件库 Material design mobile component library for Vue3",
+    "lang": "Vue"
+  },
+  {
+    "title": "luckyfuture0177/ReZeroBypassAV",
+    "url": "https://github.com/luckyfuture0177/ReZeroBypassAV",
+    "desc": "从零开始学免杀"
+  },
+  {
+    "title": "the1812/Malware-Patch",
+    "url": "https://github.com/the1812/Malware-Patch",
+    "desc": "阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.",
+    "lang": "C#"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "desc": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类"
+  },
+  {
+    "title": "jCodeLife/mind-map",
+    "url": "https://github.com/jCodeLife/mind-map",
+    "desc": "🖼个人思维导图笔记，已整理ES6、Vue、TS ... 持续更新中，欢迎 PR 和 Start~"
+  },
+  {
+    "title": "wechat-miniprogram/miniprogram-demo",
+    "url": "https://github.com/wechat-miniprogram/miniprogram-demo",
+    "desc": "微信小程序组件 / API / 云开发示例",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "semicons/java_oci_manage",
+    "url": "https://github.com/semicons/java_oci_manage",
+    "desc": "R探长Bot"
+  },
+  {
+    "title": "dundunnp/auto_xuexiqiangguo",
+    "url": "https://github.com/dundunnp/auto_xuexiqiangguo",
+    "desc": "每日拿满63分！免root，四人赛双人对战秒答，安卓端学习强国自动化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "hhyo/Archery",
+    "url": "https://github.com/hhyo/Archery",
+    "desc": "SQL 审核查询平台",
+    "lang": "Python"
+  },
+  {
+    "title": "MLEveryday/100-Days-Of-ML-Code",
+    "url": "https://github.com/MLEveryday/100-Days-Of-ML-Code",
+    "desc": "100-Days-Of-ML-Code中文版",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "Galaxy8053/v2ray",
+    "url": "https://github.com/Galaxy8053/v2ray",
+    "desc": ""
+  },
+  {
+    "title": "Sunnyyoung/WeChatTweak-macOS",
+    "url": "https://github.com/Sunnyyoung/WeChatTweak-macOS",
+    "desc": "A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "fofapro/vulfocus",
+    "url": "https://github.com/fofapro/vulfocus",
+    "desc": "🚀Vulfocus 是一个漏洞集成平台，将漏洞环境 docker 镜像，放入即可使用，开箱即用。",
+    "lang": "Vue"
+  },
+  {
+    "title": "LandGrey/SpringBootVulExploit",
+    "url": "https://github.com/LandGrey/SpringBootVulExploit",
+    "desc": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
+    "lang": "Java"
+  },
+  {
+    "title": "git-yusteven/openit",
+    "url": "https://github.com/git-yusteven/openit",
+    "desc": "Openit订阅致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "unknwon/the-way-to-go_ZH_CN",
+    "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+    "desc": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+    "lang": "Go"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "craig/SpringCore0day",
+    "url": "https://github.com/craig/SpringCore0day",
+    "desc": "SpringCore0day from https://share.vx-underground.org/ & some additional links",
+    "lang": "Python"
+  },
+  {
+    "title": "BobTheShoplifter/Spring4Shell-POC",
+    "url": "https://github.com/BobTheShoplifter/Spring4Shell-POC",
+    "desc": "Spring4Shell Proof Of Concept/Information CVE-2022-22965",
+    "lang": "Python"
+  },
+  {
+    "title": "Retrospected/spring-rce-poc",
+    "url": "https://github.com/Retrospected/spring-rce-poc",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone.",
+    "lang": "Python"
+  },
+  {
+    "title": "dinosn/CVE-2022-22963",
+    "url": "https://github.com/dinosn/CVE-2022-22963",
+    "desc": "CVE-2022-22963 PoC",
+    "lang": "Python"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "chaosec2021/Spring-cloud-function-SpEL-RCE",
+    "url": "https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE",
+    "desc": "Spring-cloud-function-SpEL-RCE 批量检测脚本，反弹shell_EXP,欢迎师傅们试用",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/nvdiffrec",
+    "url": "https://github.com/NVlabs/nvdiffrec",
+    "desc": "Official code for the CVPR 2022 (oral) paper Extracting Triangular 3D Models, Materials, and Lighting From Images.",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "desc": "An orchestration platform for the development, production, and observation of data assets.",
+    "lang": "Python"
+  },
+  {
+    "title": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "desc": "A supercharged version of paperless: scan, index and archive all your physical documents",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmaction2",
+    "url": "https://github.com/open-mmlab/mmaction2",
+    "desc": "OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/fairseq",
+    "url": "https://github.com/pytorch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and web app—powerful open source team chat",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "crytic/slither",
+    "url": "https://github.com/crytic/slither",
+    "desc": "Static Analyzer for Solidity",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/vit-pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "desc": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "SysCV/transfiner",
+    "url": "https://github.com/SysCV/transfiner",
+    "desc": "Mask Transfiner for High-Quality Instance Segmentation, CVPR 2022",
+    "lang": "Python"
+  },
+  {
+    "title": "dinosn/spring-core-rce",
+    "url": "https://github.com/dinosn/spring-core-rce",
+    "desc": "Spring core rce",
+    "lang": "Python"
+  },
+  {
+    "title": "salesforce/CodeGen",
+    "url": "https://github.com/salesforce/CodeGen",
+    "desc": "CodeGen is an open-source model for program synthesis. Competitive with OpenAI Codex.",
+    "lang": "Python"
+  },
+  {
+    "title": "BugAlertDotOrg/bugalert",
+    "url": "https://github.com/BugAlertDotOrg/bugalert",
+    "desc": "",
+    "lang": "Python"
+  }
+]
