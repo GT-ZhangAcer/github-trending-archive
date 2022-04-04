@@ -1,0 +1,152 @@
+[
+  {
+    "title": "rdeepak2002/reddit-place-script-2022",
+    "url": "https://github.com/rdeepak2002/reddit-place-script-2022",
+    "desc": "Script to draw an image onto r/place (https://www.reddit.com/r/place/)",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "placeDE/pixel",
+    "url": "https://github.com/placeDE/pixel",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "ThioJoe/YT-Spammer-Purge",
+    "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
+    "desc": "Allows you easily scan for and delete scam comments using several methods.",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "orchest/orchest",
+    "url": "https://github.com/orchest/orchest",
+    "desc": "Build data pipelines, the easy way 🛠️",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "theinternetftw/xkcd2601",
+    "url": "https://github.com/theinternetftw/xkcd2601",
+    "desc": "Transcription of xkcd 2601 to runnable logo code",
+    "lang": "Python"
+  },
+  {
+    "title": "django/django",
+    "url": "https://github.com/django/django",
+    "desc": "The Web framework for perfectionists with deadlines.",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "desc": "Optional static typing for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "desc": "The Python programming language",
+    "lang": "Python"
+  },
+  {
+    "title": "porthole-ascend-cinnamon/mhddos_proxy",
+    "url": "https://github.com/porthole-ascend-cinnamon/mhddos_proxy",
+    "desc": "MHDDoS automation wrapper",
+    "lang": "Python"
+  },
+  {
+    "title": "ageitgey/face_recognition",
+    "url": "https://github.com/ageitgey/face_recognition",
+    "desc": "The world's simplest facial recognition api for Python and the command line",
+    "lang": "Python"
+  },
+  {
+    "title": "ASebastian27/Reddit-Account-Generator",
+    "url": "https://github.com/ASebastian27/Reddit-Account-Generator",
+    "desc": "(Semi)Automagically generates Reddit accounts",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "desc": "Automated cryptocurrency trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "salesforce/CodeGen",
+    "url": "https://github.com/salesforce/CodeGen",
+    "desc": "CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.",
+    "lang": "Python"
+  }
+]

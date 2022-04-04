@@ -1,0 +1,152 @@
+[
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  },
+  {
+    "title": "ermaozi/get_subscribe",
+    "url": "https://github.com/ermaozi/get_subscribe",
+    "desc": "✈️ 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "电影、电视剧自动PT下载、聚合搜索、智能识别重命名、硬链接媒体库整理、PT保种签到等",
+    "lang": "Python"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "ha0y/xiaomi_miot_raw",
+    "url": "https://github.com/ha0y/xiaomi_miot_raw",
+    "desc": "All-in-one & Easy-to-use. Integrate all your Xiaomi Smart Home - with a single integration and NO YAML files - into Home Assistant.",
+    "lang": "Python"
+  },
+  {
+    "title": "xiaoming2028/FreePAC",
+    "url": "https://github.com/xiaoming2028/FreePAC",
+    "desc": "科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具",
+    "lang": "Python"
+  },
+  {
+    "title": "649453932/Chinese-Text-Classification-Pytorch",
+    "url": "https://github.com/649453932/Chinese-Text-Classification-Pytorch",
+    "desc": "中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "Miraclelucy/dive_into_deep_learning",
+    "url": "https://github.com/Miraclelucy/dive_into_deep_learning",
+    "desc": "✔️李沐 【动手学深度学习】课程学习笔记：使用pycharm编程，基于pytorch框架实现。",
+    "lang": "Python"
+  },
+  {
+    "title": "lawlite19/MachineLearning_Python",
+    "url": "https://github.com/lawlite19/MachineLearning_Python",
+    "desc": "机器学习算法python实现",
+    "lang": "Python"
+  },
+  {
+    "title": "bubbliiiing/yolo3-pytorch",
+    "url": "https://github.com/bubbliiiing/yolo3-pytorch",
+    "desc": "这是一个yolo3-pytorch的源码，可以用于训练自己的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "vpei/Free-Node-Merge",
+    "url": "https://github.com/vpei/Free-Node-Merge",
+    "desc": "自动合并 ss ssr trojan vmess vless 等免费节点链接，科学上网，定阅免费机场。有资源网址，请加Telegram群：opmhth",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "gxcuizy/Python",
+    "url": "https://github.com/gxcuizy/Python",
+    "desc": "Python3编写的各种大小程序，包含从零学Python系列、12306抢票、省市区地址库以及系列网站爬虫等学习源码",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "Openit订阅致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "sirodeneko/genshin-sign",
+    "url": "https://github.com/sirodeneko/genshin-sign",
+    "desc": "原神自动签到",
+    "lang": "Python"
+  },
+  {
+    "title": "pwxcoo/chinese-xinhua",
+    "url": "https://github.com/pwxcoo/chinese-xinhua",
+    "desc": "📙 中华新华字典数据库。包括歇后语，成语，词语，汉字。",
+    "lang": "Python"
+  },
+  {
+    "title": "ddgth/cf2dns",
+    "url": "https://github.com/ddgth/cf2dns",
+    "desc": "筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式",
+    "lang": "Python"
+  },
+  {
+    "title": "SkywalkerJi/mdt",
+    "url": "https://github.com/SkywalkerJi/mdt",
+    "desc": "Yu-Gi-Oh! Master Duel Translation Script",
+    "lang": "Python"
+  },
+  {
+    "title": "waditu/tushare",
+    "url": "https://github.com/waditu/tushare",
+    "desc": "TuShare is a utility for crawling historical data of China stocks",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "waditu/czsc",
+    "url": "https://github.com/waditu/czsc",
+    "desc": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+    "lang": "Python"
+  },
+  {
+    "title": "princewen/tensorflow_practice",
+    "url": "https://github.com/princewen/tensorflow_practice",
+    "desc": "tensorflow实战练习，包括强化学习、推荐系统、nlp等",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步机器人框架 / Asynchronous multi-platform robot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Kr1s77/awesome-python-login-model",
+    "url": "https://github.com/Kr1s77/awesome-python-login-model",
+    "desc": "😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟",
+    "lang": "Python"
+  },
+  {
+    "title": "Jrohy/multi-v2ray",
+    "url": "https://github.com/Jrohy/multi-v2ray",
+    "desc": "v2ray/xray多用户管理部署程序",
+    "lang": "Python"
+  }
+]

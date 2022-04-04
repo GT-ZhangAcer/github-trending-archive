@@ -1,0 +1,147 @@
+[
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "xioacd99/study-is-wonderful",
+    "url": "https://github.com/xioacd99/study-is-wonderful",
+    "desc": "awesome public courses and wonderful study resource"
+  },
+  {
+    "title": "catvod/CatVodTVSpider",
+    "url": "https://github.com/catvod/CatVodTVSpider",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "changfengoss/pub",
+    "url": "https://github.com/changfengoss/pub",
+    "desc": "科学上网工具"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，自动刷图、智能基建换班，全日常一键长草！",
+    "lang": "C++"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliToolPro",
+    "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+    "desc": "B 站（bilibili）自动任务工具，支持docker、青龙、腾讯云函数等多种部署方式。",
+    "lang": "C#"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "HeKun-NVIDIA/CUDA-Programming-Guide-in-Chinese",
+    "url": "https://github.com/HeKun-NVIDIA/CUDA-Programming-Guide-in-Chinese",
+    "desc": "This is a Chinese translation of the CUDA programming guide"
+  },
+  {
+    "title": "kiddin9/OpenWrt_x86-r2s-r4s",
+    "url": "https://github.com/kiddin9/OpenWrt_x86-r2s-r4s",
+    "desc": "Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B",
+    "lang": "Shell"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "vpncn/vpncn.github.io",
+    "url": "https://github.com/vpncn/vpncn.github.io",
+    "desc": "2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。",
+    "lang": "HTML"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  },
+  {
+    "title": "dromara/hertzbeat",
+    "url": "https://github.com/dromara/hertzbeat",
+    "desc": "易用友好的云监控系统。网站监测，PING连通性，端口可用性，数据库，操作系统，API监控，自定义监控，阈值告警，告警通知(邮件微信钉钉飞书)。",
+    "lang": "Java"
+  },
+  {
+    "title": "YuehaiTeam/cocogoat",
+    "url": "https://github.com/YuehaiTeam/cocogoat",
+    "desc": "A toolbox for Genshin Impact 100% running in browser. 纯网页端的原神工具箱，保证每一行代码都是熬夜加班打造。",
+    "lang": "Vue"
+  },
+  {
+    "title": "zengkaipeng/CSLabInfo2022",
+    "url": "https://github.com/zengkaipeng/CSLabInfo2022",
+    "desc": "关于2022年CS保研实验室/导师招生广告的汇总。欢迎想要打广告的小伙伴积极pr，资瓷一下互联网精神吼不吼啊？"
+  },
+  {
+    "title": "ermaozi/get_subscribe",
+    "url": "https://github.com/ermaozi/get_subscribe",
+    "desc": "✈️ 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙",
+    "lang": "Python"
+  },
+  {
+    "title": "msechen/jdrain",
+    "url": "https://github.com/msechen/jdrain",
+    "desc": "甘露殿监控脚本仓库，不对癞皮狗开放，谢谢合作",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xiandanin/magnetW",
+    "url": "https://github.com/xiandanin/magnetW",
+    "desc": "磁力链接聚合搜索",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Le-niao/Yunzai-Bot",
+    "url": "https://github.com/Le-niao/Yunzai-Bot",
+    "desc": "原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "电影、电视剧自动PT下载、聚合搜索、智能识别重命名、硬链接媒体库整理、PT保种签到等",
+    "lang": "Python"
+  },
+  {
+    "title": "whyour/qinglong",
+    "url": "https://github.com/whyour/qinglong",
+    "desc": "支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "imtsuki/bupt-ncov-report-action",
+    "url": "https://github.com/imtsuki/bupt-ncov-report-action",
+    "desc": "🦠 使用 GitHub Actions 自动填报北邮 COVID-19 疫情信息",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  }
+]
