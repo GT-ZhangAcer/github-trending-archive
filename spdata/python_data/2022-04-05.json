@@ -1,0 +1,152 @@
+[
+  {
+    "title": "rdeepak2002/reddit-place-script-2022",
+    "url": "https://github.com/rdeepak2002/reddit-place-script-2022",
+    "desc": "Script to draw an image onto r/place (https://www.reddit.com/r/place/)",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "lukas-blecher/LaTeX-OCR",
+    "url": "https://github.com/lukas-blecher/LaTeX-OCR",
+    "desc": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+    "lang": "Python"
+  },
+  {
+    "title": "placeDE/pixel",
+    "url": "https://github.com/placeDE/pixel",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "ThioJoe/YT-Spammer-Purge",
+    "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
+    "desc": "Allows you easily scan for and delete scam comments using several methods.",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "kubeflow/pipelines",
+    "url": "https://github.com/kubeflow/pipelines",
+    "desc": "Machine Learning Pipelines for Kubeflow",
+    "lang": "Python"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "neetcode-gh/leetcode",
+    "url": "https://github.com/neetcode-gh/leetcode",
+    "desc": "Leetcode solutions",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/data-science-ipython-notebooks",
+    "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+    "desc": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+    "lang": "Python"
+  },
+  {
+    "title": "Geosearchef/placebot",
+    "url": "https://github.com/Geosearchef/placebot",
+    "desc": "A bot for the reddit r/place event 2022",
+    "lang": "Python"
+  },
+  {
+    "title": "QIN2DIM/V2RayCloudSpider",
+    "url": "https://github.com/QIN2DIM/V2RayCloudSpider",
+    "desc": "​🚀 采集|免费|优质|的订阅链接；科学上网，从娃娃抓起！",
+    "lang": "Python"
+  },
+  {
+    "title": "emalderson/ThePhish",
+    "url": "https://github.com/emalderson/ThePhish",
+    "desc": "ThePhish: an automated phishing email analysis tool",
+    "lang": "Python"
+  },
+  {
+    "title": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "desc": "The Python programming language",
+    "lang": "Python"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "ageitgey/face_recognition",
+    "url": "https://github.com/ageitgey/face_recognition",
+    "desc": "The world's simplest facial recognition api for Python and the command line",
+    "lang": "Python"
+  },
+  {
+    "title": "DeepLabCut/DeepLabCut",
+    "url": "https://github.com/DeepLabCut/DeepLabCut",
+    "desc": "Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans",
+    "lang": "Python"
+  },
+  {
+    "title": "salesforce/CodeGen",
+    "url": "https://github.com/salesforce/CodeGen",
+    "desc": "CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.",
+    "lang": "Python"
+  },
+  {
+    "title": "XargonWan/RetroDECK",
+    "url": "https://github.com/XargonWan/RetroDECK",
+    "desc": "Easy and fancy enviornment for managing and launching your retro games on Steam Deck without reliying on a custom firmware.",
+    "lang": "Python"
+  },
+  {
+    "title": "porthole-ascend-cinnamon/mhddos_proxy",
+    "url": "https://github.com/porthole-ascend-cinnamon/mhddos_proxy",
+    "desc": "MHDDoS automation wrapper",
+    "lang": "Python"
+  },
+  {
+    "title": "ASebastian27/Reddit-Account-Generator",
+    "url": "https://github.com/ASebastian27/Reddit-Account-Generator",
+    "desc": "(Semi)Automagically generates Reddit accounts",
+    "lang": "Python"
+  }
+]

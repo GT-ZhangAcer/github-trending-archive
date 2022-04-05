@@ -1,0 +1,152 @@
+[
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "QIN2DIM/V2RayCloudSpider",
+    "url": "https://github.com/QIN2DIM/V2RayCloudSpider",
+    "desc": "​🚀 采集|免费|优质|的订阅链接；科学上网，从娃娃抓起！",
+    "lang": "Python"
+  },
+  {
+    "title": "SkywalkerJi/mdt",
+    "url": "https://github.com/SkywalkerJi/mdt",
+    "desc": "Yu-Gi-Oh! Master Duel Translation Script",
+    "lang": "Python"
+  },
+  {
+    "title": "rachpt/lanzou-gui",
+    "url": "https://github.com/rachpt/lanzou-gui",
+    "desc": "蓝奏云 | 蓝奏云客户端 | 蓝奏网盘 GUI版本",
+    "lang": "Python"
+  },
+  {
+    "title": "Evil0ctal/TikTokDownloader_PyWebIO",
+    "url": "https://github.com/Evil0ctal/TikTokDownloader_PyWebIO",
+    "desc": "基于抖音官方API，实现在线批量Douyin/TikTok解析下载无水印视频/图集，并将结果显示在网页上。同时支持API调用，可配合iOS快捷指令APP实现应用内下载。",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "Openit订阅致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "MoyuScript/bilibili-api",
+    "url": "https://github.com/MoyuScript/bilibili-api",
+    "desc": "哔哩哔哩的API调用模块",
+    "lang": "Python"
+  },
+  {
+    "title": "xiaotudui/pytorch-tutorial",
+    "url": "https://github.com/xiaotudui/pytorch-tutorial",
+    "desc": "PyTorch深度学习快速入门教程（绝对通俗易懂！）",
+    "lang": "Python"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  },
+  {
+    "title": "7eu7d7/genshin_auto_fish",
+    "url": "https://github.com/7eu7d7/genshin_auto_fish",
+    "desc": "基于深度强化学习的原神自动钓鱼AI",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/Deep-Learning",
+    "url": "https://github.com/Jack-Cherish/Deep-Learning",
+    "desc": "💻深度学习实战：手写数字识别、Discuz验证码识别、垃圾分类、语义分割",
+    "lang": "Python"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "lawlite19/MachineLearning_Python",
+    "url": "https://github.com/lawlite19/MachineLearning_Python",
+    "desc": "机器学习算法python实现",
+    "lang": "Python"
+  },
+  {
+    "title": "FeeiCN/Security-PPT",
+    "url": "https://github.com/FeeiCN/Security-PPT",
+    "desc": "Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT）",
+    "lang": "Python"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "电影、电视剧、动漫自动PT下载、聚合搜索、智能识别重命名、硬链接媒体库整理、PT保种签到等",
+    "lang": "Python"
+  },
+  {
+    "title": "shidenggui/easytrader",
+    "url": "https://github.com/shidenggui/easytrader",
+    "desc": "提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件",
+    "lang": "Python"
+  },
+  {
+    "title": "zq1997/deepin-wine",
+    "url": "https://github.com/zq1997/deepin-wine",
+    "desc": "【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/trt-samples-for-hackathon-cn",
+    "url": "https://github.com/NVIDIA/trt-samples-for-hackathon-cn",
+    "desc": "Simple samples for TensorRT programming",
+    "lang": "Python"
+  },
+  {
+    "title": "YaoFANGUK/video-subtitle-extractor",
+    "url": "https://github.com/YaoFANGUK/video-subtitle-extractor",
+    "desc": "视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.",
+    "lang": "Python"
+  },
+  {
+    "title": "bbfamily/abu",
+    "url": "https://github.com/bbfamily/abu",
+    "desc": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
+    "lang": "Python"
+  },
+  {
+    "title": "Mondayfirst/XXQG_TiKu",
+    "url": "https://github.com/Mondayfirst/XXQG_TiKu",
+    "desc": "学习强国_挑战答题题库（2021.03.31更新题库）",
+    "lang": "Python"
+  },
+  {
+    "title": "lyhue1991/eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "desc": "Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋",
+    "lang": "Python"
+  },
+  {
+    "title": "dyh/unbox_yolov5_deepsort_counting",
+    "url": "https://github.com/dyh/unbox_yolov5_deepsort_counting",
+    "desc": "yolov5 deepsort 行人 车辆 跟踪 检测 计数",
+    "lang": "Python"
+  }
+]

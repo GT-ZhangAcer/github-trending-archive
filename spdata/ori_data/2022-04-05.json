@@ -1,0 +1,150 @@
+[
+  {
+    "title": "rdeepak2002/reddit-place-script-2022",
+    "url": "https://github.com/rdeepak2002/reddit-place-script-2022",
+    "desc": "Script to draw an image onto r/place (https://www.reddit.com/r/place/)",
+    "lang": "Python"
+  },
+  {
+    "title": "sultim-t/prboom-plus-rt",
+    "url": "https://github.com/sultim-t/prboom-plus-rt",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "JaimeObregon/subvenciones",
+    "url": "https://github.com/JaimeObregon/subvenciones",
+    "desc": "Volcado de la Base de Datos Nacional de Subvenciones (BDNS).",
+    "lang": "Shell"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "s0md3v/Smap",
+    "url": "https://github.com/s0md3v/Smap",
+    "desc": "a drop-in replacement for Nmap powered by shodan.io",
+    "lang": "Go"
+  },
+  {
+    "title": "arthurspk/guiadofrontend",
+    "url": "https://github.com/arthurspk/guiadofrontend",
+    "desc": "Guia do Desenvolvedor Front-end"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "NCSC-NL/spring4shell",
+    "url": "https://github.com/NCSC-NL/spring4shell",
+    "desc": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "trufflesecurity/trufflehog",
+    "url": "https://github.com/trufflesecurity/trufflehog",
+    "desc": "Find credentials all over the place",
+    "lang": "Go"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "kestra-io/kestra",
+    "url": "https://github.com/kestra-io/kestra",
+    "desc": "Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
+    "lang": "Java"
+  },
+  {
+    "title": "mytechnotalent/Hacking-Windows",
+    "url": "https://github.com/mytechnotalent/Hacking-Windows",
+    "desc": "A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.",
+    "lang": "C"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sean529/robFood",
+    "url": "https://github.com/sean529/robFood",
+    "desc": "因为上海疫情，用于抢菜~",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "VoronDesign/VoronUsers",
+    "url": "https://github.com/VoronDesign/VoronUsers",
+    "desc": "Voron Community mods, slicer profiles and firmware configurations.",
+    "lang": "GAP"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "lang": "C#"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "ArduPilot/ardupilot",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "desc": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "lang": "C++"
+  },
+  {
+    "title": "actions/runner",
+    "url": "https://github.com/actions/runner",
+    "desc": "The Runner for GitHub Actions 🚀",
+    "lang": "C#"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "requarks/wiki",
+    "url": "https://github.com/requarks/wiki",
+    "desc": "Wiki.js | A modern and powerful wiki app built on Node.js",
+    "lang": "Vue"
+  },
+  {
+    "title": "PlaceNL/Bot",
+    "url": "https://github.com/PlaceNL/Bot",
+    "desc": "De r/place bot voor r/PlaceNL.",
+    "lang": "JavaScript"
+  }
+]
