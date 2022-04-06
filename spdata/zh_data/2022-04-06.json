@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shuax/chrome_plus",
+    "url": "https://github.com/shuax/chrome_plus",
+    "desc": "Chrome 增强软件",
+    "lang": "C++"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "shuax/edge_plus",
+    "url": "https://github.com/shuax/edge_plus",
+    "desc": "Chromium-based Edge 增强软件",
+    "lang": "C++"
+  },
+  {
+    "title": "yaklang/yakit",
+    "url": "https://github.com/yaklang/yakit",
+    "desc": "Cyber Security ALL-IN-ONE Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "desc": "适用于新系统UI的哔哩",
+    "lang": "C#"
+  },
+  {
+    "title": "sean529/robFood",
+    "url": "https://github.com/sean529/robFood",
+    "desc": "因为上海疫情，用于抢菜~",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliToolPro",
+    "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+    "desc": "B 站（bilibili）自动任务工具，支持docker、青龙、腾讯云函数等多种部署方式。",
+    "lang": "C#"
+  },
+  {
+    "title": "Jack-Cherish/PythonPark",
+    "url": "https://github.com/Jack-Cherish/PythonPark",
+    "desc": "Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。",
+    "lang": "Python"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "Openit订阅致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "Pawdroid/Free-servers",
+    "url": "https://github.com/Pawdroid/Free-servers",
+    "desc": "🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子"
+  },
+  {
+    "title": "YuehaiTeam/cocogoat",
+    "url": "https://github.com/YuehaiTeam/cocogoat",
+    "desc": "A toolbox for Genshin Impact 100% running in browser. 纯网页端的原神工具箱，保证每一行代码都是熬夜加班打造。",
+    "lang": "Vue"
+  },
+  {
+    "title": "jerrykuku/luci-app-vssr",
+    "url": "https://github.com/jerrykuku/luci-app-vssr",
+    "desc": "HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。",
+    "lang": "Lua"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ 一款现代化的开源博客 / CMS 系统。",
+    "lang": "Java"
+  },
+  {
+    "title": "peng-zhihui/HoloCubic",
+    "url": "https://github.com/peng-zhihui/HoloCubic",
+    "desc": "带网络功能的伪全息透明显示桌面站",
+    "lang": "C"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "desc": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类"
+  },
+  {
+    "title": "wangtai/django_render",
+    "url": "https://github.com/wangtai/django_render",
+    "desc": "一个非常轻量Django URL 的装饰器",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "fingerchar/fingernft",
+    "url": "https://github.com/fingerchar/fingernft",
+    "desc": "FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。",
+    "lang": "CSS"
+  },
+  {
+    "title": "walle1798/WALL.E",
+    "url": "https://github.com/walle1798/WALL.E",
+    "desc": "请遵守GPL开源协议，切勿滥用盈利！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Fafa-DL/Lhy_Machine_Learning",
+    "url": "https://github.com/Fafa-DL/Lhy_Machine_Learning",
+    "desc": "李宏毅2021春季机器学习课程课件及作业",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "woshiwzy/OpenProxyJ",
+    "url": "https://github.com/woshiwzy/OpenProxyJ",
+    "desc": "a proxy for http & https ,write by java,no dependences for other tech",
+    "lang": "Java"
+  }
+]

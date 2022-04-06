@@ -1,0 +1,152 @@
+[
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/PythonPark",
+    "url": "https://github.com/Jack-Cherish/PythonPark",
+    "desc": "Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "Openit订阅致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "wangtai/django_render",
+    "url": "https://github.com/wangtai/django_render",
+    "desc": "一个非常轻量Django URL 的装饰器",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "ccwav/QL_DIYBOT",
+    "url": "https://github.com/ccwav/QL_DIYBOT",
+    "desc": "写点有用且好玩的bot模块",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shidenggui/easyquotation",
+    "url": "https://github.com/shidenggui/easyquotation",
+    "desc": "实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情",
+    "lang": "Python"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "Havana3351/Low-cost-remote-monitor",
+    "url": "https://github.com/Havana3351/Low-cost-remote-monitor",
+    "desc": "这是一个由树莓派终端做摄像头，远程访问通过web服务实现的，低成本远程监控解决方案。This is a low-cost remote monitoring solution using a Raspberry Pi terminal as a camera and remote access through web services.",
+    "lang": "Python"
+  },
+  {
+    "title": "Evil0ctal/TikTokDownloader_PyWebIO",
+    "url": "https://github.com/Evil0ctal/TikTokDownloader_PyWebIO",
+    "desc": "基于抖音官方API，实现在线批量Douyin/TikTok解析下载无水印视频/图集，并将结果显示在网页上。同时支持API调用，可配合iOS快捷指令APP实现应用内下载。",
+    "lang": "Python"
+  },
+  {
+    "title": "lyhue1991/eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "desc": "Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋",
+    "lang": "Python"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/python-spider",
+    "url": "https://github.com/Jack-Cherish/python-spider",
+    "desc": "🌈Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等",
+    "lang": "Python"
+  },
+  {
+    "title": "h2y/Shadowrocket-ADBlock-Rules",
+    "url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
+    "desc": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。",
+    "lang": "Python"
+  },
+  {
+    "title": "QIN2DIM/V2RayCloudSpider",
+    "url": "https://github.com/QIN2DIM/V2RayCloudSpider",
+    "desc": "​🚀 采集|免费|优质|的订阅链接；科学上网，从娃娃抓起！",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/trt-samples-for-hackathon-cn",
+    "url": "https://github.com/NVIDIA/trt-samples-for-hackathon-cn",
+    "desc": "Simple samples for TensorRT programming",
+    "lang": "Python"
+  },
+  {
+    "title": "xiaoxindada/SGSI-build-tool",
+    "url": "https://github.com/xiaoxindada/SGSI-build-tool",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "liangliangyy/DjangoBlog",
+    "url": "https://github.com/liangliangyy/DjangoBlog",
+    "desc": "🍺基于Django的博客系统",
+    "lang": "Python"
+  },
+  {
+    "title": "wistbean/learn_python3_spider",
+    "url": "https://github.com/wistbean/learn_python3_spider",
+    "desc": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+    "lang": "Python"
+  },
+  {
+    "title": "MorvanZhou/tutorials",
+    "url": "https://github.com/MorvanZhou/tutorials",
+    "desc": "机器学习相关教程",
+    "lang": "Python"
+  },
+  {
+    "title": "QUANTAXIS/QUANTAXIS",
+    "url": "https://github.com/QUANTAXIS/QUANTAXIS",
+    "desc": "QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "电影、电视剧、动漫自动PT下载、聚合搜索、智能识别重命名、硬链接媒体库整理、PT保种签到等",
+    "lang": "Python"
+  },
+  {
+    "title": "shidenggui/easytrader",
+    "url": "https://github.com/shidenggui/easytrader",
+    "desc": "提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件",
+    "lang": "Python"
+  }
+]
