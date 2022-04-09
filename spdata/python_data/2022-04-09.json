@@ -1,0 +1,152 @@
+[
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "probml/pyprobml",
+    "url": "https://github.com/probml/pyprobml",
+    "desc": "Python code for Probabilistic Machine learning book by Kevin Murphy",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/data-science-ipython-notebooks",
+    "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+    "desc": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+    "lang": "Python"
+  },
+  {
+    "title": "huzongxiang/CrystalNetwork",
+    "url": "https://github.com/huzongxiang/CrystalNetwork",
+    "desc": "GrysNet is a neural network package that allows researchers to train custom models for crystal modeling tasks. It aims to accelerate the research and application of material science.",
+    "lang": "Python"
+  },
+  {
+    "title": "mlfoundations/open_clip",
+    "url": "https://github.com/mlfoundations/open_clip",
+    "desc": "An open source implementation of CLIP.",
+    "lang": "Python"
+  },
+  {
+    "title": "ThioJoe/YT-Spammer-Purge",
+    "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
+    "desc": "Allows you easily scan for and delete scam comments using several methods.",
+    "lang": "Python"
+  },
+  {
+    "title": "neetcode-gh/leetcode",
+    "url": "https://github.com/neetcode-gh/leetcode",
+    "desc": "Leetcode solutions",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/WSL",
+    "url": "https://github.com/microsoft/WSL",
+    "desc": "Issues found on WSL",
+    "lang": "Python"
+  },
+  {
+    "title": "tzutalin/labelImg",
+    "url": "https://github.com/tzutalin/labelImg",
+    "desc": "🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images",
+    "lang": "Python"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/PythonPark",
+    "url": "https://github.com/Jack-Cherish/PythonPark",
+    "desc": "Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "Openit订阅致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "DataDog/dd-trace-py",
+    "url": "https://github.com/DataDog/dd-trace-py",
+    "desc": "Datadog Python APM Client",
+    "lang": "Python"
+  },
+  {
+    "title": "TJU-DRL-LAB/AI-Optimizer",
+    "url": "https://github.com/TJU-DRL-LAB/AI-Optimizer",
+    "desc": "The next generation deep reinforcement learning tookit",
+    "lang": "Python"
+  },
+  {
+    "title": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "desc": "The Python programming language",
+    "lang": "Python"
+  },
+  {
+    "title": "ankurchavda/streamify",
+    "url": "https://github.com/ankurchavda/streamify",
+    "desc": "A data engineering project with Kafka, Spark Streaming, dbt, Docker, Airflow, Terraform, GCP and much more!",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "drivendata/cookiecutter-data-science",
+    "url": "https://github.com/drivendata/cookiecutter-data-science",
+    "desc": "A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.",
+    "lang": "Python"
+  },
+  {
+    "title": "wangtai/django_render",
+    "url": "https://github.com/wangtai/django_render",
+    "desc": "一个非常轻量Django URL 的装饰器",
+    "lang": "Python"
+  }
+]
