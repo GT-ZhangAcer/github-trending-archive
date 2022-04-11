@@ -1,0 +1,152 @@
+[
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "joshpatten/PVE-VDIClient",
+    "url": "https://github.com/joshpatten/PVE-VDIClient",
+    "desc": "Proxmox based VDI client",
+    "lang": "Python"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "desc": "The Python programming language",
+    "lang": "Python"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "desc": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/maxim",
+    "url": "https://github.com/google-research/maxim",
+    "desc": "[CVPR 2022 Oral] Official repository for MAXIM: Multi-Axis MLP for Image Processing. SOTA for denoising, deblurring, deraining, dehazing, and enhancement.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "desc": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "lang": "Python"
+  },
+  {
+    "title": "py-pdf/PyPDF2",
+    "url": "https://github.com/py-pdf/PyPDF2",
+    "desc": "A utility to read and write PDFs with Python",
+    "lang": "Python"
+  },
+  {
+    "title": "useragents/Proxyless-TikTok-Username-Checker",
+    "url": "https://github.com/useragents/Proxyless-TikTok-Username-Checker",
+    "desc": "Loops through a list of usernames to check if they are available or unavailable",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "Jrohy/multi-v2ray",
+    "url": "https://github.com/Jrohy/multi-v2ray",
+    "desc": "v2ray/xray多用户管理部署程序",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/guided-diffusion",
+    "url": "https://github.com/openai/guided-diffusion",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "JTiger0431/DingdongHelper",
+    "url": "https://github.com/JTiger0431/DingdongHelper",
+    "desc": "叮咚买菜助手",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "desc": "PyTorch package for the discrete VAE used for DALL·E.",
+    "lang": "Python"
+  },
+  {
+    "title": "TJU-DRL-LAB/AI-Optimizer",
+    "url": "https://github.com/TJU-DRL-LAB/AI-Optimizer",
+    "desc": "The next generation deep reinforcement learning tookit",
+    "lang": "Python"
+  },
+  {
+    "title": "Ganapati/RsaCtfTool",
+    "url": "https://github.com/Ganapati/RsaCtfTool",
+    "desc": "RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data",
+    "lang": "Python"
+  },
+  {
+    "title": "simple-login/app",
+    "url": "https://github.com/simple-login/app",
+    "desc": "The SimpleLogin back-end",
+    "lang": "Python"
+  },
+  {
+    "title": "careercup/CtCI-6th-Edition-Python",
+    "url": "https://github.com/careercup/CtCI-6th-Edition-Python",
+    "desc": "Cracking the Coding Interview 6th Ed. Python Solutions",
+    "lang": "Python"
+  },
+  {
+    "title": "AlexxIT/SonoffLAN",
+    "url": "https://github.com/AlexxIT/SonoffLAN",
+    "desc": "Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant",
+    "lang": "Python"
+  }
+]
