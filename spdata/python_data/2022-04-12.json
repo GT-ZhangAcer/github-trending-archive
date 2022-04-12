@@ -1,0 +1,152 @@
+[
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdeploy",
+    "url": "https://github.com/open-mmlab/mmdeploy",
+    "desc": "OpenMMLab Model Deployment Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "fullhunt/spring4shell-scan",
+    "url": "https://github.com/fullhunt/spring4shell-scan",
+    "desc": "A fully automated, reliable, and accurate scanner for finding Spring4Shell and Spring Cloud RCE vulnerabilities",
+    "lang": "Python"
+  },
+  {
+    "title": "triton-inference-server/server",
+    "url": "https://github.com/triton-inference-server/server",
+    "desc": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "desc": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "pinry/pinry",
+    "url": "https://github.com/pinry/pinry",
+    "desc": "Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.",
+    "lang": "Python"
+  },
+  {
+    "title": "rly0nheart/octosuite",
+    "url": "https://github.com/rly0nheart/octosuite",
+    "desc": "Advanced Github OSINT Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/maxim",
+    "url": "https://github.com/google-research/maxim",
+    "desc": "[CVPR 2022 Oral] Official repository for MAXIM: Multi-Axis MLP for Image Processing. SOTA for denoising, deblurring, deraining, dehazing, and enhancement.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmsegmentation",
+    "url": "https://github.com/open-mmlab/mmsegmentation",
+    "desc": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "obss/sahi",
+    "url": "https://github.com/obss/sahi",
+    "desc": "A lightweight vision library for performing large scale object detection/ instance segmentation.",
+    "lang": "Python"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/PaLM-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-pytorch",
+    "desc": "Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways",
+    "lang": "Python"
+  },
+  {
+    "title": "awslabs/gluon-ts",
+    "url": "https://github.com/awslabs/gluon-ts",
+    "desc": "Probabilistic time series modeling in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/pytorch3d",
+    "url": "https://github.com/facebookresearch/pytorch3d",
+    "desc": "PyTorch3D is FAIR's library of reusable components for deep learning with 3D data",
+    "lang": "Python"
+  },
+  {
+    "title": "bentoml/BentoML",
+    "url": "https://github.com/bentoml/BentoML",
+    "desc": "The Unified Model Serving Framework 🍱",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/clip-as-service",
+    "url": "https://github.com/jina-ai/clip-as-service",
+    "desc": "Embed images and sentences into fixed-length vectors with CLIP",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "OpenMMLab Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "desc": "The Python programming language",
+    "lang": "Python"
+  },
+  {
+    "title": "uber/causalml",
+    "url": "https://github.com/uber/causalml",
+    "desc": "Uplift modeling and causal inference with machine learning algorithms",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "desc": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "lang": "Python"
+  }
+]

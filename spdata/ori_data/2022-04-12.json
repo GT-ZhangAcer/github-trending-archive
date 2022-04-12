@@ -1,0 +1,146 @@
+[
+  {
+    "title": "ekzhang/bore",
+    "url": "https://github.com/ekzhang/bore",
+    "desc": "🕳 bore is a simple CLI tool for making tunnels to localhost",
+    "lang": "Rust"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "desc": "Run Nintendo Switch homebrew & games on your Android device!",
+    "lang": "C++"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "JannsenYang/dingdong-helper",
+    "url": "https://github.com/JannsenYang/dingdong-helper",
+    "desc": "叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可",
+    "lang": "Java"
+  },
+  {
+    "title": "iced-rs/iced",
+    "url": "https://github.com/iced-rs/iced",
+    "desc": "A cross-platform GUI library for Rust, inspired by Elm",
+    "lang": "Rust"
+  },
+  {
+    "title": "AgainstTheWest/NginxDay",
+    "url": "https://github.com/AgainstTheWest/NginxDay",
+    "desc": "Nginx 18.1 04/09/22 zero-day repo"
+  },
+  {
+    "title": "a-little-org-called-mario/a-little-game-called-mario",
+    "url": "https://github.com/a-little-org-called-mario/a-little-game-called-mario",
+    "desc": "open source collective hell game",
+    "lang": "GDScript"
+  },
+  {
+    "title": "arthurspk/guiadevbrasil",
+    "url": "https://github.com/arthurspk/guiadevbrasil",
+    "desc": "GUIA EXTENSO DE PROGRAMAÇÃO:"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "robmarkcole/satellite-image-deep-learning",
+    "url": "https://github.com/robmarkcole/satellite-image-deep-learning",
+    "desc": "Resources for deep learning with satellite & aerial imagery"
+  },
+  {
+    "title": "goldbergyoni/javascript-testing-best-practices",
+    "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+    "desc": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "rome/tools",
+    "url": "https://github.com/rome/tools",
+    "desc": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+    "lang": "Rust"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "H-M-H/Weylus",
+    "url": "https://github.com/H-M-H/Weylus",
+    "desc": "Use your tablet as graphic tablet/touch screen on your computer.",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "desc": "📋 React Hooks for form state management and validation (Web + React Native)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "blackmatrix7/ios_rule_script",
+    "url": "https://github.com/blackmatrix7/ios_rule_script",
+    "desc": "各平台的分流规则、复写规则及自动化脚本。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mrd0x/BITB",
+    "url": "https://github.com/mrd0x/BITB",
+    "desc": "Browser In The Browser (BITB) Templates",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。"
+  },
+  {
+    "title": "arthurspk/guiadofrontend",
+    "url": "https://github.com/arthurspk/guiadofrontend",
+    "desc": "Guia do Desenvolvedor Front-end"
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "desc": "Solidity, the Smart Contract Programming Language",
+    "lang": "C++"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "desc": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
+    "lang": "JavaScript"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "lang": "Python"
+  },
+  {
+    "title": "Johnserf-Seed/TikTokDownload",
+    "url": "https://github.com/Johnserf-Seed/TikTokDownload",
+    "desc": "抖音去水印视频批量下载 编译版本下载https://github.com/Johnserf-Seed/TikTokDownload/tags",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "pythonstock/stock",
+    "url": "https://github.com/pythonstock/stock",
+    "desc": "stock，股票系统。使用python进行开发。",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/models",
+    "url": "https://github.com/PaddlePaddle/models",
+    "desc": "Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）",
+    "lang": "Python"
+  },
+  {
+    "title": "wistbean/learn_python3_spider",
+    "url": "https://github.com/wistbean/learn_python3_spider",
+    "desc": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+    "lang": "Python"
+  },
+  {
+    "title": "TheKingOfDuck/fuzzDicts",
+    "url": "https://github.com/TheKingOfDuck/fuzzDicts",
+    "desc": "Web Pentesting Fuzz 字典,一个就够了。",
+    "lang": "Python"
+  },
+  {
+    "title": "bubbliiiing/yolov4-pytorch",
+    "url": "https://github.com/bubbliiiing/yolov4-pytorch",
+    "desc": "这是一个YoloV4-pytorch的源码，可以用于训练自己的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "littlecodersh/ItChat",
+    "url": "https://github.com/littlecodersh/ItChat",
+    "desc": "A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。",
+    "lang": "Python"
+  },
+  {
+    "title": "shmilylty/OneForAll",
+    "url": "https://github.com/shmilylty/OneForAll",
+    "desc": "OneForAll是一款功能强大的子域收集工具",
+    "lang": "Python"
+  },
+  {
+    "title": "sfyc23/EverydayWechat",
+    "url": "https://github.com/sfyc23/EverydayWechat",
+    "desc": "微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）",
+    "lang": "Python"
+  },
+  {
+    "title": "openatx/uiautomator2",
+    "url": "https://github.com/openatx/uiautomator2",
+    "desc": "Android Uiautomator2 Python Wrapper",
+    "lang": "Python"
+  },
+  {
+    "title": "kevin-meng/2022shanghai-covid",
+    "url": "https://github.com/kevin-meng/2022shanghai-covid",
+    "desc": "2022年本轮上海疫情爆发, 为了便于大家把握本社区和周边环境情况. 整理便民信息以及可视化展示",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "jhao104/proxy_pool",
+    "url": "https://github.com/jhao104/proxy_pool",
+    "desc": "Python爬虫代理IP池(proxy pool)",
+    "lang": "Python"
+  },
+  {
+    "title": "CodecWang/opencv-python-tutorial",
+    "url": "https://github.com/CodecWang/opencv-python-tutorial",
+    "desc": "📖 OpenCV-Python image processing tutorial for beginners",
+    "lang": "Python"
+  },
+  {
+    "title": "shengqiangzhang/examples-of-web-crawlers",
+    "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "desc": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "itcharge/LeetCode-Py",
+    "url": "https://github.com/itcharge/LeetCode-Py",
+    "desc": "⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。",
+    "lang": "Python"
+  },
+  {
+    "title": "666wcy/ARPT-Bot",
+    "url": "https://github.com/666wcy/ARPT-Bot",
+    "desc": "一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。",
+    "lang": "Python"
+  },
+  {
+    "title": "liuhuanyong/QASystemOnMedicalKG",
+    "url": "https://github.com/liuhuanyong/QASystemOnMedicalKG",
+    "desc": "A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。",
+    "lang": "Python"
+  },
+  {
+    "title": "DA-southampton/NLP_ability",
+    "url": "https://github.com/DA-southampton/NLP_ability",
+    "desc": "总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括面试题，各种基础知识，工程能力等等，提升核心竞争力",
+    "lang": "Python"
+  },
+  {
+    "title": "dataabc/weiboSpider",
+    "url": "https://github.com/dataabc/weiboSpider",
+    "desc": "新浪微博爬虫，用python爬取新浪微博数据",
+    "lang": "Python"
+  },
+  {
+    "title": "apachecn/ailearning",
+    "url": "https://github.com/apachecn/ailearning",
+    "desc": "AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2",
+    "lang": "Python"
+  }
+]
