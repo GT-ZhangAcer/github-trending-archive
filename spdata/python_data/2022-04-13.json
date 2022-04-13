@@ -1,0 +1,152 @@
+[
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "Sjj1024/QiangCai",
+    "url": "https://github.com/Sjj1024/QiangCai",
+    "desc": "上海疫情被封在家，开始抢菜之路，美团抢菜，叮咚抢菜，抢菜",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "mlcommons/inference",
+    "url": "https://github.com/mlcommons/inference",
+    "desc": "Reference implementations of MLPerf™ inference benchmarks",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "locustio/locust",
+    "url": "https://github.com/locustio/locust",
+    "desc": "Scalable user load testing tool written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "cider-security-research/cicd-goat",
+    "url": "https://github.com/cider-security-research/cicd-goat",
+    "desc": "A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/mae",
+    "url": "https://github.com/facebookresearch/mae",
+    "desc": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "jhao104/proxy_pool",
+    "url": "https://github.com/jhao104/proxy_pool",
+    "desc": "Python爬虫代理IP池(proxy pool)",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/pytorch3d",
+    "url": "https://github.com/facebookresearch/pytorch3d",
+    "desc": "PyTorch3D is FAIR's library of reusable components for deep learning with 3D data",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "torrinworx/Blend_My_NFTs",
+    "url": "https://github.com/torrinworx/Blend_My_NFTs",
+    "desc": "Easily generate thousands of 3D models, images, and animation NFTs automatically in Blender with Blend_My_NFTs.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "rly0nheart/octosuite",
+    "url": "https://github.com/rly0nheart/octosuite",
+    "desc": "Advanced Github OSINT Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "azhan1998/sam_buy",
+    "url": "https://github.com/azhan1998/sam_buy",
+    "desc": "山姆买菜",
+    "lang": "Python"
+  },
+  {
+    "title": "awslabs/gluon-ts",
+    "url": "https://github.com/awslabs/gluon-ts",
+    "desc": "Probabilistic time series modeling in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "awslabs/aws-data-wrangler",
+    "url": "https://github.com/awslabs/aws-data-wrangler",
+    "desc": "Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).",
+    "lang": "Python"
+  },
+  {
+    "title": "automl/auto-sklearn",
+    "url": "https://github.com/automl/auto-sklearn",
+    "desc": "Automated Machine Learning with scikit-learn",
+    "lang": "Python"
+  },
+  {
+    "title": "httpie/httpie",
+    "url": "https://github.com/httpie/httpie",
+    "desc": "As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie",
+    "lang": "Python"
+  }
+]
