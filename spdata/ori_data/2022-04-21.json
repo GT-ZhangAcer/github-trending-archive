@@ -1,0 +1,151 @@
+[
+  {
+    "title": "geekan/HowToLiveLonger",
+    "url": "https://github.com/geekan/HowToLiveLonger",
+    "desc": "程序员延寿指南 | A programmer's guide to live longer"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "ydb-platform/ydb",
+    "url": "https://github.com/ydb-platform/ydb",
+    "desc": "YDB server (daemon) source code",
+    "lang": "C++"
+  },
+  {
+    "title": "inventree/InvenTree",
+    "url": "https://github.com/inventree/InvenTree",
+    "desc": "Open Source Inventory Management System",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "realm/realm-swift",
+    "url": "https://github.com/realm/realm-swift",
+    "desc": "Realm is a mobile database: a replacement for Core Data & SQLite",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "Leaflet/Leaflet",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "desc": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/libphonenumber",
+    "url": "https://github.com/google/libphonenumber",
+    "desc": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
+    "lang": "C++"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "ClemensElflein/OpenMower",
+    "url": "https://github.com/ClemensElflein/OpenMower",
+    "desc": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "lang": "HTML"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "calcom/cal.com",
+    "url": "https://github.com/calcom/cal.com",
+    "desc": "Scheduling infrastructure for absolutely everyone.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "desc": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "lang": "Go"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "desc": "🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zinclabs/zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "desc": "Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "pmmp/PocketMine-MP",
+    "url": "https://github.com/pmmp/PocketMine-MP",
+    "desc": "A server software for Minecraft: Bedrock Edition in PHP",
+    "lang": "PHP"
+  },
+  {
+    "title": "dbeaver/dbeaver",
+    "url": "https://github.com/dbeaver/dbeaver",
+    "desc": "Free universal database tool and SQL client",
+    "lang": "Java"
+  },
+  {
+    "title": "mattermost/mattermost-server",
+    "url": "https://github.com/mattermost/mattermost-server",
+    "desc": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.",
+    "lang": "Go"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/fastjson2",
+    "url": "https://github.com/alibaba/fastjson2",
+    "desc": "🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库",
+    "lang": "Java"
+  }
+]

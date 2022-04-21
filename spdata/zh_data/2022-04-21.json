@@ -1,0 +1,148 @@
+[
+  {
+    "title": "geekan/HowToLiveLonger",
+    "url": "https://github.com/geekan/HowToLiveLonger",
+    "desc": "程序员延寿指南 | A programmer's guide to live longer"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/fastjson2",
+    "url": "https://github.com/alibaba/fastjson2",
+    "desc": "🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库",
+    "lang": "Java"
+  },
+  {
+    "title": "YunYouJun/cook",
+    "url": "https://github.com/YunYouJun/cook",
+    "desc": "🍲 好的，今天我们来做菜！OK, Let's Cook!",
+    "lang": "Vue"
+  },
+  {
+    "title": "jCodeLife/mind-map",
+    "url": "https://github.com/jCodeLife/mind-map",
+    "desc": "🖼个人思维导图笔记，已整理JS、TS、Vue、React ... 持续更新中，欢迎 PR 和 Start~"
+  },
+  {
+    "title": "hehonghui/the-economist-ebooks",
+    "url": "https://github.com/hehonghui/the-economist-ebooks",
+    "desc": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
+    "lang": "CSS"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "VirgilClyne/iRingo",
+    "url": "https://github.com/VirgilClyne/iRingo",
+    "desc": "解锁完整的 Apple功能和集成服务",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "makoto56/penetration-suite-toolkit",
+    "url": "https://github.com/makoto56/penetration-suite-toolkit",
+    "desc": "本项目制作的初衷是帮助渗透新手快速搭建工作环境，工欲善其事，必先利其器。"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliToolPro",
+    "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+    "desc": "B 站（bilibili）自动任务工具，支持docker、青龙、腾讯云函数等多种部署方式。",
+    "lang": "C#"
+  },
+  {
+    "title": "YaoFANGUK/video-subtitle-extractor",
+    "url": "https://github.com/YaoFANGUK/video-subtitle-extractor",
+    "desc": "视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.",
+    "lang": "Python"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "desc": "🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）",
+    "lang": "Java"
+  },
+  {
+    "title": "robGoods/sams",
+    "url": "https://github.com/robGoods/sams",
+    "desc": "山姆抢购",
+    "lang": "Go"
+  },
+  {
+    "title": "ShanghaiITVolunteer/AntigenWechatBot",
+    "url": "https://github.com/ShanghaiITVolunteer/AntigenWechatBot",
+    "desc": "AntigenWechatBot is a wechat bot that collects antigen information of daily antigen testing during the Pandamic in Shanghai.",
+    "lang": "Python"
+  },
+  {
+    "title": "zengkaipeng/CSLabInfo2022",
+    "url": "https://github.com/zengkaipeng/CSLabInfo2022",
+    "desc": "关于2022年CS保研实验室/导师招生广告的汇总。欢迎想要打广告的小伙伴积极pr，资瓷一下互联网精神吼不吼啊？"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "modood/Administrative-divisions-of-China",
+    "url": "https://github.com/modood/Administrative-divisions-of-China",
+    "desc": "中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "unknwon/the-way-to-go_ZH_CN",
+    "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+    "desc": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+    "lang": "Go"
+  },
+  {
+    "title": "sari3l/sams_helper",
+    "url": "https://github.com/sari3l/sams_helper",
+    "desc": "山姆下单助手，监控购物车变化、空余运力、自动下单",
+    "lang": "Go"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "PKUanonym/REKCARC-TSC-UHT",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "desc": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
+    "lang": "HTML"
+  },
+  {
+    "title": "redtoolskobe/scaninfo",
+    "url": "https://github.com/redtoolskobe/scaninfo",
+    "desc": "fast scan for redtools",
+    "lang": "Go"
+  },
+  {
+    "title": "Sunnyyoung/WeChatTweak-macOS",
+    "url": "https://github.com/Sunnyyoung/WeChatTweak-macOS",
+    "desc": "A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "Tencent/Shadow",
+    "url": "https://github.com/Tencent/Shadow",
+    "desc": "零反射全动态Android插件框架",
+    "lang": "Java"
+  }
+]

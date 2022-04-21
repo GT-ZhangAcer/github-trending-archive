@@ -1,0 +1,152 @@
+[
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "mlflow/mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "desc": "Open source platform for the machine learning lifecycle",
+    "lang": "Python"
+  },
+  {
+    "title": "help-iq/telethon",
+    "url": "https://github.com/help-iq/telethon",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training",
+    "lang": "Python"
+  },
+  {
+    "title": "rougier/scientific-visualization-book",
+    "url": "https://github.com/rougier/scientific-visualization-book",
+    "desc": "An open access book on scientific visualization using python and matplotlib",
+    "lang": "Python"
+  },
+  {
+    "title": "openvinotoolkit/open_model_zoo",
+    "url": "https://github.com/openvinotoolkit/open_model_zoo",
+    "desc": "Pre-trained Deep Learning models and demos (high quality and extremely fast)",
+    "lang": "Python"
+  },
+  {
+    "title": "MIC-DKFZ/nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "hustvl/TeViT",
+    "url": "https://github.com/hustvl/TeViT",
+    "desc": "Temporally Efficient Vision Transformer for Video Instance Segmentation, CVPR 2022 Oral",
+    "lang": "Python"
+  },
+  {
+    "title": "ViTAE-Transformer/ViTDet",
+    "url": "https://github.com/ViTAE-Transformer/ViTDet",
+    "desc": "Unofficial implementation of Exploring Plain Vision Transformer Backbones for Object Detection",
+    "lang": "Python"
+  },
+  {
+    "title": "HellKnightsCrew/CVE-2022-26809",
+    "url": "https://github.com/HellKnightsCrew/CVE-2022-26809",
+    "desc": "vuln scaner and exploit",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "Wizz1337/TikTokMassBotting",
+    "url": "https://github.com/Wizz1337/TikTokMassBotting",
+    "desc": "TikTok Mass View & Share Boting ~ Unpatched",
+    "lang": "Python"
+  },
+  {
+    "title": "YaoFANGUK/video-subtitle-extractor",
+    "url": "https://github.com/YaoFANGUK/video-subtitle-extractor",
+    "desc": "视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.",
+    "lang": "Python"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "desc": "scikit-learn: machine learning in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "matterport/Mask_RCNN",
+    "url": "https://github.com/matterport/Mask_RCNN",
+    "desc": "Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "isocpp/CppCoreGuidelines",
+    "url": "https://github.com/isocpp/CppCoreGuidelines",
+    "desc": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+    "lang": "Python"
+  },
+  {
+    "title": "ShanghaiITVolunteer/AntigenWechatBot",
+    "url": "https://github.com/ShanghaiITVolunteer/AntigenWechatBot",
+    "desc": "AntigenWechatBot is a wechat bot that collects antigen information of daily antigen testing during the Pandamic in Shanghai.",
+    "lang": "Python"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "ReFirmLabs/binwalk",
+    "url": "https://github.com/ReFirmLabs/binwalk",
+    "desc": "Firmware Analysis Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "mindee/doctr",
+    "url": "https://github.com/mindee/doctr",
+    "desc": "docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "tqdm/tqdm",
+    "url": "https://github.com/tqdm/tqdm",
+    "desc": "A Fast, Extensible Progress Bar for Python and CLI",
+    "lang": "Python"
+  }
+]
