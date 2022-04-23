@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "AykutSarac/jsonvisio.com",
+    "url": "https://github.com/AykutSarac/jsonvisio.com",
+    "desc": "🧩 Visualize your JSON data onto graphs seamlessly.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "urfave/cli",
+    "url": "https://github.com/urfave/cli",
+    "desc": "A simple, fast, and fun package for building command line apps in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "geekan/HowToLiveLonger",
+    "url": "https://github.com/geekan/HowToLiveLonger",
+    "desc": "程序员延寿指南 | A programmer's guide to live longer"
+  },
+  {
+    "title": "CodinGame/SpringChallenge2022",
+    "url": "https://github.com/CodinGame/SpringChallenge2022",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "bloomberg/memray",
+    "url": "https://github.com/bloomberg/memray",
+    "desc": "Memray is a memory profiler for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "desc": "Fig adds autocomplete to your terminal.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "lang": "Rust"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "ClemensElflein/OpenMower",
+    "url": "https://github.com/ClemensElflein/OpenMower",
+    "desc": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "lang": "HTML"
+  },
+  {
+    "title": "VirgilClyne/iRingo",
+    "url": "https://github.com/VirgilClyne/iRingo",
+    "desc": "解锁完整的 Apple功能和集成服务",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hehonghui/the-economist-ebooks",
+    "url": "https://github.com/hehonghui/the-economist-ebooks",
+    "desc": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
+    "lang": "CSS"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wisdompeak/LeetCode",
+    "url": "https://github.com/wisdompeak/LeetCode",
+    "desc": "This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.",
+    "lang": "C++"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "openai/CLIP",
+    "url": "https://github.com/openai/CLIP",
+    "desc": "Contrastive Language-Image Pretraining",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hakivvi/CVE-2022-29464",
+    "url": "https://github.com/hakivvi/CVE-2022-29464",
+    "desc": "WSO2 RCE (CVE-2022-29464) exploit and writeup.",
+    "lang": "Python"
+  },
+  {
+    "title": "diesel-rs/diesel",
+    "url": "https://github.com/diesel-rs/diesel",
+    "desc": "A safe, extensible ORM and Query Builder for Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Courseplay/Courseplay_FS22",
+    "url": "https://github.com/Courseplay/Courseplay_FS22",
+    "desc": "Courseplay for Farming Simulator 2022",
+    "lang": "Lua"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "warpdotdev/Warp",
+    "url": "https://github.com/warpdotdev/Warp",
+    "desc": "Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive."
+  },
+  {
+    "title": "mxgmn/WaveFunctionCollapse",
+    "url": "https://github.com/mxgmn/WaveFunctionCollapse",
+    "desc": "Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics",
+    "lang": "C#"
+  },
+  {
+    "title": "dair-ai/ML-Notebooks",
+    "url": "https://github.com/dair-ai/ML-Notebooks",
+    "desc": "🔥 A series of code examples for all sorts of machine learning tasks and applications."
+  }
+]

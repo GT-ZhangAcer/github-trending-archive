@@ -1,0 +1,152 @@
+[
+  {
+    "title": "bloomberg/memray",
+    "url": "https://github.com/bloomberg/memray",
+    "desc": "Memray is a memory profiler for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "hakivvi/CVE-2022-29464",
+    "url": "https://github.com/hakivvi/CVE-2022-29464",
+    "desc": "WSO2 RCE (CVE-2022-29464) exploit and writeup.",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "celery/celery",
+    "url": "https://github.com/celery/celery",
+    "desc": "Distributed Task Queue (development branch)",
+    "lang": "Python"
+  },
+  {
+    "title": "cvg/nice-slam",
+    "url": "https://github.com/cvg/nice-slam",
+    "desc": "[CVPR'22] NICE-SLAM: Neural Implicit Scalable Encoding for SLAM",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "jfrog/jfrog-CVE-2022-21449",
+    "url": "https://github.com/jfrog/jfrog-CVE-2022-21449",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/recommenders",
+    "url": "https://github.com/microsoft/recommenders",
+    "desc": "Best Practices on Recommendation Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/ConvNeXt",
+    "url": "https://github.com/facebookresearch/ConvNeXt",
+    "desc": "Code release for ConvNeXt model",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  },
+  {
+    "title": "Wizz1337/TikTokMassBotting",
+    "url": "https://github.com/Wizz1337/TikTokMassBotting",
+    "desc": "TikTok Mass View & Share Boting ~ Unpatched",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX Project",
+    "lang": "Python"
+  },
+  {
+    "title": "F-Society-Freaks/TikTok-Shares-Botter",
+    "url": "https://github.com/F-Society-Freaks/TikTok-Shares-Botter",
+    "desc": "Adds TikTok Shares for you.",
+    "lang": "Python"
+  },
+  {
+    "title": "alexa/massive",
+    "url": "https://github.com/alexa/massive",
+    "desc": "Tools and Modeling Code for the MASSIVE dataset",
+    "lang": "Python"
+  },
+  {
+    "title": "DawnFlame/POChouse",
+    "url": "https://github.com/DawnFlame/POChouse",
+    "desc": "POC&EXP仓库、hvv弹药库、Nday、1day",
+    "lang": "Python"
+  },
+  {
+    "title": "simonfarah/TikTok-Bot",
+    "url": "https://github.com/simonfarah/TikTok-Bot",
+    "desc": "A bot that generates followers, likes, views, shares and comment likes",
+    "lang": "Python"
+  },
+  {
+    "title": "cleanlab/cleanlab",
+    "url": "https://github.com/cleanlab/cleanlab",
+    "desc": "The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels",
+    "lang": "Python"
+  },
+  {
+    "title": "Netflix/metaflow",
+    "url": "https://github.com/Netflix/metaflow",
+    "desc": "🚀 Build and manage real-life data science projects with ease!",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "Ultimaker/Cura",
+    "url": "https://github.com/Ultimaker/Cura",
+    "desc": "3D printer / slicing GUI built on top of the Uranium framework",
+    "lang": "Python"
+  },
+  {
+    "title": "mlflow/mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "desc": "Open source platform for the machine learning lifecycle",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "电影、电视剧、动漫自动PT下载、聚合搜索、智能识别重命名、硬链接媒体库整理、PT保种签到等",
+    "lang": "Python"
+  }
+]
