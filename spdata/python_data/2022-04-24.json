@@ -1,0 +1,152 @@
+[
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "stylegan-human/StyleGAN-Human",
+    "url": "https://github.com/stylegan-human/StyleGAN-Human",
+    "desc": "StyleGAN-Human: A Data-Centric Odyssey of Human Generation",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "BGU-CS-VIL/DeepDPM",
+    "url": "https://github.com/BGU-CS-VIL/DeepDPM",
+    "desc": "DeepDPM: Deep Clustering With An Unknown Number of Clusters [CVPR 2022]",
+    "lang": "Python"
+  },
+  {
+    "title": "abdallahdib/NextFace",
+    "url": "https://github.com/abdallahdib/NextFace",
+    "desc": "A high-fidelity 3D face reconstruction library from monocular RGB image(s)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "ethereum/web3.py",
+    "url": "https://github.com/ethereum/web3.py",
+    "desc": "A python interface for interacting with the Ethereum blockchain and ecosystem.",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "yoshiko2/Movie_Data_Capture",
+    "url": "https://github.com/yoshiko2/Movie_Data_Capture",
+    "desc": "本地电影刮削与整理一体化解决方案",
+    "lang": "Python"
+  },
+  {
+    "title": "Wizz1337/TikTokMassBotting",
+    "url": "https://github.com/Wizz1337/TikTokMassBotting",
+    "desc": "TikTok Mass View & Share Boting ~ Unpatched",
+    "lang": "Python"
+  },
+  {
+    "title": "F-Society-Freaks/TikTok-Shares-Botter",
+    "url": "https://github.com/F-Society-Freaks/TikTok-Shares-Botter",
+    "desc": "Adds TikTok Shares for you.",
+    "lang": "Python"
+  },
+  {
+    "title": "simonfarah/TikTok-Bot",
+    "url": "https://github.com/simonfarah/TikTok-Bot",
+    "desc": "A bot that generates followers, likes, views, shares and comment likes",
+    "lang": "Python"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  },
+  {
+    "title": "help-iq/telethon",
+    "url": "https://github.com/help-iq/telethon",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Ultimaker/Cura",
+    "url": "https://github.com/Ultimaker/Cura",
+    "desc": "3D printer / slicing GUI built on top of the Uranium framework",
+    "lang": "Python"
+  },
+  {
+    "title": "mitmproxy/mitmproxy",
+    "url": "https://github.com/mitmproxy/mitmproxy",
+    "desc": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "desc": "PyTorch package for the discrete VAE used for DALL·E.",
+    "lang": "Python"
+  },
+  {
+    "title": "Netflix/metaflow",
+    "url": "https://github.com/Netflix/metaflow",
+    "desc": "🚀 Build and manage real-life data science projects with ease!",
+    "lang": "Python"
+  },
+  {
+    "title": "hakivvi/CVE-2022-29464",
+    "url": "https://github.com/hakivvi/CVE-2022-29464",
+    "desc": "WSO2 RCE (CVE-2022-29464) exploit and writeup.",
+    "lang": "Python"
+  },
+  {
+    "title": "twopirllc/pandas-ta",
+    "url": "https://github.com/twopirllc/pandas-ta",
+    "desc": "Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators",
+    "lang": "Python"
+  },
+  {
+    "title": "dgtlmoon/changedetection.io",
+    "url": "https://github.com/dgtlmoon/changedetection.io",
+    "desc": "changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection",
+    "lang": "Python"
+  },
+  {
+    "title": "MagicedenMinter/SolanaMint",
+    "url": "https://github.com/MagicedenMinter/SolanaMint",
+    "desc": "Solana Minting Bot | MagicEden + MonkeLabs",
+    "lang": "Python"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  }
+]

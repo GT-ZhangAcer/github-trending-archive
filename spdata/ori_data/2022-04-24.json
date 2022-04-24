@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "WolfireGames/overgrowth",
+    "url": "https://github.com/WolfireGames/overgrowth",
+    "desc": "Open Source codebase of the game Overgrowth by Wolfire Games LLC",
+    "lang": "C++"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "lang": "Rust"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "FBlackBox/BlackBox",
+    "url": "https://github.com/FBlackBox/BlackBox",
+    "desc": "BlackBox is a virtual engine, it can clone and run virtual application on Android, users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox."
+  },
+  {
+    "title": "janestreet/magic-trace",
+    "url": "https://github.com/janestreet/magic-trace",
+    "desc": "magic-trace collects and displays high-resolution traces of what a process is doing",
+    "lang": "OCaml"
+  },
+  {
+    "title": "Dimbreath/GenshinData",
+    "url": "https://github.com/Dimbreath/GenshinData",
+    "desc": "Repository containing the game data for the game Genshin Impact."
+  },
+  {
+    "title": "Grasscutters/Grasscutter-Protos",
+    "url": "https://github.com/Grasscutters/Grasscutter-Protos",
+    "desc": "Protobuf files for Grasscutter"
+  },
+  {
+    "title": "stylegan-human/StyleGAN-Human",
+    "url": "https://github.com/stylegan-human/StyleGAN-Human",
+    "desc": "StyleGAN-Human: A Data-Centric Odyssey of Human Generation",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "efectn/go-orm-benchmarks",
+    "url": "https://github.com/efectn/go-orm-benchmarks",
+    "desc": "Advanced benchmarks for +10 Go ORMs.",
+    "lang": "Go"
+  },
+  {
+    "title": "urfave/cli",
+    "url": "https://github.com/urfave/cli",
+    "desc": "A simple, fast, and fun package for building command line apps in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "ClemensElflein/OpenMower",
+    "url": "https://github.com/ClemensElflein/OpenMower",
+    "desc": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "lang": "HTML"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "lang": "C"
+  },
+  {
+    "title": "radioegor146/gi-bin-output",
+    "url": "https://github.com/radioegor146/gi-bin-output",
+    "desc": "Almost™ full Genshin Impact BinOutput data"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a developer in 2022",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "lang": "C++"
+  },
+  {
+    "title": "qbittorrent/qBittorrent",
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "desc": "qBittorrent BitTorrent client",
+    "lang": "C++"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "desc": "World's fastest and most advanced password recovery utility",
+    "lang": "C"
+  },
+  {
+    "title": "hehonghui/the-economist-ebooks",
+    "url": "https://github.com/hehonghui/the-economist-ebooks",
+    "desc": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
+    "lang": "CSS"
+  },
+  {
+    "title": "BGU-CS-VIL/DeepDPM",
+    "url": "https://github.com/BGU-CS-VIL/DeepDPM",
+    "desc": "DeepDPM: Deep Clustering With An Unknown Number of Clusters [CVPR 2022]",
+    "lang": "Python"
+  }
+]
