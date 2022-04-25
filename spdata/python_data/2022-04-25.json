@@ -1,0 +1,152 @@
+[
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "Wizz1337/TikTokMassBotting",
+    "url": "https://github.com/Wizz1337/TikTokMassBotting",
+    "desc": "TikTok Mass View & Share Boting ~ Unpatched",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "desc": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "AdminTurnedDevOps/DevOps-The-Hard-Way-AWS",
+    "url": "https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS",
+    "desc": "This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmocr",
+    "url": "https://github.com/open-mmlab/mmocr",
+    "desc": "OpenMMLab Text Detection, Recognition and Understanding Toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "sanic-org/sanic",
+    "url": "https://github.com/sanic-org/sanic",
+    "desc": "Next generation Python web server/framework | Build fast. Run fast.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
+    "lang": "Python"
+  },
+  {
+    "title": "soimort/you-get",
+    "url": "https://github.com/soimort/you-get",
+    "desc": "⏬ Dumb downloader that scrapes the web",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheSadError/NIVOS",
+    "url": "https://github.com/TheSadError/NIVOS",
+    "desc": "NIVOS is a python tool that allows you to scan deeply, crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added.",
+    "lang": "Python"
+  },
+  {
+    "title": "bymork/TikTok-Follow-Heart-Views-Bot",
+    "url": "https://github.com/bymork/TikTok-Follow-Heart-Views-Bot",
+    "desc": "TikTok Follow, Heart and Views Bot - Watch my TikTok account with 1 Milion views -> https://www.tiktok.com/@github_nonameon",
+    "lang": "Python"
+  },
+  {
+    "title": "simonfarah/TikTok-Bot",
+    "url": "https://github.com/simonfarah/TikTok-Bot",
+    "desc": "A bot that generates followers, likes, views, shares and comment likes",
+    "lang": "Python"
+  },
+  {
+    "title": "help-iq/telethon",
+    "url": "https://github.com/help-iq/telethon",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "domlysz/BlenderGIS",
+    "url": "https://github.com/domlysz/BlenderGIS",
+    "desc": "Blender addons to make the bridge between Blender and geographic data",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "lang": "Python"
+  },
+  {
+    "title": "useragents/TikTok-Share-Botter",
+    "url": "https://github.com/useragents/TikTok-Share-Botter",
+    "desc": "Fastest multi-threaded and proxyless TikTok Share Botter to increase share count on videos",
+    "lang": "Python"
+  }
+]
