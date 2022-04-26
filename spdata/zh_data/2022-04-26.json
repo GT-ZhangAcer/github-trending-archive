@@ -1,0 +1,142 @@
+[
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "hehonghui/the-economist-ebooks",
+    "url": "https://github.com/hehonghui/the-economist-ebooks",
+    "desc": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
+    "lang": "CSS"
+  },
+  {
+    "title": "YaoFANGUK/video-subtitle-extractor",
+    "url": "https://github.com/YaoFANGUK/video-subtitle-extractor",
+    "desc": "视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "sfvsfv/ComputerStudent",
+    "url": "https://github.com/sfvsfv/ComputerStudent",
+    "desc": "计算机专业系统性学习资料（python,c,c++,计算机组成，计算机网络，编译原理，电路，谷歌插件，爬虫）",
+    "lang": "HTML"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "LinghaoChan/CSSummerCamp2022",
+    "url": "https://github.com/LinghaoChan/CSSummerCamp2022",
+    "desc": "关于2022年CS保研夏令营通知公告的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "desc": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "lang": "HTML"
+  },
+  {
+    "title": "XrayR-project/XrayR",
+    "url": "https://github.com/XrayR-project/XrayR",
+    "desc": "A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",
+    "lang": "Go"
+  },
+  {
+    "title": "un-pany/v3-admin-vite",
+    "url": "https://github.com/un-pany/v3-admin-vite",
+    "desc": "☀️ vue3 admin template, vue3 后台管理模板, 基于 vite、够轻、够新、够用",
+    "lang": "Vue"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "SharingSource/LogicStack-LeetCode",
+    "url": "https://github.com/SharingSource/LogicStack-LeetCode",
+    "desc": "公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码"
+  },
+  {
+    "title": "blackmatrix7/ios_rule_script",
+    "url": "https://github.com/blackmatrix7/ios_rule_script",
+    "desc": "各平台的分流规则、复写规则及自动化脚本。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "wangyuan389/mall-cook",
+    "url": "https://github.com/wangyuan389/mall-cook",
+    "desc": "商城低代码平台，可视化搭建H5、小程序多端商城",
+    "lang": "Vue"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "qinguoyi/TinyWebServer",
+    "url": "https://github.com/qinguoyi/TinyWebServer",
+    "desc": "🔥 Linux下C++轻量级Web服务器",
+    "lang": "C++"
+  },
+  {
+    "title": "TencentCloud/TIMSDK",
+    "url": "https://github.com/TencentCloud/TIMSDK",
+    "desc": "腾讯云即时通信 IM 服务，国内下载镜像：",
+    "lang": "HTML"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "baomidou/dynamic-datasource-spring-boot-starter",
+    "url": "https://github.com/baomidou/dynamic-datasource-spring-boot-starter",
+    "desc": "dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务",
+    "lang": "Java"
+  },
+  {
+    "title": "niuhuan/jasmine",
+    "url": "https://github.com/niuhuan/jasmine",
+    "desc": "(R18+) 一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows。",
+    "lang": "Dart"
+  }
+]

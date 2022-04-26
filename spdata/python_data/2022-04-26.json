@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "sebastianruder/NLP-progress",
+    "url": "https://github.com/sebastianruder/NLP-progress",
+    "desc": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "YaoFANGUK/video-subtitle-extractor",
+    "url": "https://github.com/YaoFANGUK/video-subtitle-extractor",
+    "desc": "视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.",
+    "lang": "Python"
+  },
+  {
+    "title": "hlorus/CAD_Sketcher",
+    "url": "https://github.com/hlorus/CAD_Sketcher",
+    "desc": "Constraint-based geometry sketcher for blender",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "Wizz1337/TikTokMassBotting",
+    "url": "https://github.com/Wizz1337/TikTokMassBotting",
+    "desc": "TikTok Mass View & Share Boting ~ Unpatched",
+    "lang": "Python"
+  },
+  {
+    "title": "cider-security-research/cicd-goat",
+    "url": "https://github.com/cider-security-research/cicd-goat",
+    "desc": "A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "rochacbruno/python-week-2022",
+    "url": "https://github.com/rochacbruno/python-week-2022",
+    "desc": "Template Para a Python Week 2002 - 25 a 29 de Abril na Linux Tips",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  },
+  {
+    "title": "AdminTurnedDevOps/DevOps-The-Hard-Way-AWS",
+    "url": "https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS",
+    "desc": "This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS",
+    "lang": "Python"
+  },
+  {
+    "title": "help-iq/telethon",
+    "url": "https://github.com/help-iq/telethon",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "kangoka/tiktodv3",
+    "url": "https://github.com/kangoka/tiktodv3",
+    "desc": "Get unlimited Tik Tok views or hearts or followers or shares.",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "pyg-team/pytorch_geometric",
+    "url": "https://github.com/pyg-team/pytorch_geometric",
+    "desc": "Graph Neural Network Library for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "MLNLP-World/AI-Paper-Collector",
+    "url": "https://github.com/MLNLP-World/AI-Paper-Collector",
+    "desc": "Fully-automated scripts for collecting AI-related papers",
+    "lang": "Python"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "pyrogram/pyrogram",
+    "url": "https://github.com/pyrogram/pyrogram",
+    "desc": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+    "lang": "Python"
+  },
+  {
+    "title": "TheSadError/NIVOS",
+    "url": "https://github.com/TheSadError/NIVOS",
+    "desc": "NIVOS is a python tool that allows you to scan deeply, crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added.",
+    "lang": "Python"
+  }
+]
