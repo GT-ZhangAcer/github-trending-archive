@@ -1,0 +1,141 @@
+[
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "why20021008/hand-write",
+    "url": "https://github.com/why20021008/hand-write",
+    "desc": "模拟手写效果，节约时间。",
+    "lang": "Python"
+  },
+  {
+    "title": "biggerduck/RedTeamNotes",
+    "url": "https://github.com/biggerduck/RedTeamNotes",
+    "desc": "红队笔记"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "iamseancheney/python_for_data_analysis_2nd_chinese_version",
+    "url": "https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version",
+    "desc": "《利用Python进行数据分析·第2版》"
+  },
+  {
+    "title": "phachon/mm-wiki",
+    "url": "https://github.com/phachon/mm-wiki",
+    "desc": "MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。",
+    "lang": "Go"
+  },
+  {
+    "title": "huiyadanli/RevokeMsgPatcher",
+    "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
+    "desc": "A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
+    "lang": "C#"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "wangyuan389/mall-cook",
+    "url": "https://github.com/wangyuan389/mall-cook",
+    "desc": "商城低代码平台，可视化搭建H5、小程序多端商城",
+    "lang": "Vue"
+  },
+  {
+    "title": "ahutsunshine/dingdong-grabber",
+    "url": "https://github.com/ahutsunshine/dingdong-grabber",
+    "desc": "叮咚多策略抢菜/买菜，亲测有效",
+    "lang": "Go"
+  },
+  {
+    "title": "ljpzzz/machinelearning",
+    "url": "https://github.com/ljpzzz/machinelearning",
+    "desc": "My blogs and code for machine learning. http://cnblogs.com/pinard",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "JDWXX/ql_all",
+    "url": "https://github.com/JDWXX/ql_all",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "YaoFANGUK/video-subtitle-extractor",
+    "url": "https://github.com/YaoFANGUK/video-subtitle-extractor",
+    "desc": "视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.",
+    "lang": "Python"
+  },
+  {
+    "title": "sari3l/sams_helper",
+    "url": "https://github.com/sari3l/sams_helper",
+    "desc": "山姆下单助手，监控购物车变化、空余运力、自动下单、保供套餐",
+    "lang": "Go"
+  },
+  {
+    "title": "648540858/wvp-GB28181-pro",
+    "url": "https://github.com/648540858/wvp-GB28181-pro",
+    "desc": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+    "lang": "Java"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "lsky-org/lsky-pro",
+    "url": "https://github.com/lsky-org/lsky-pro",
+    "desc": "☁️兰空图床(Lsky Pro) - Your photo album on the cloud.",
+    "lang": "Blade"
+  },
+  {
+    "title": "DayBreak-u/chineseocr_lite",
+    "url": "https://github.com/DayBreak-u/chineseocr_lite",
+    "desc": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M",
+    "lang": "C++"
+  },
+  {
+    "title": "xiaoy-sec/Pentest_Note",
+    "url": "https://github.com/xiaoy-sec/Pentest_Note",
+    "desc": "渗透测试常规操作记录"
+  },
+  {
+    "title": "XINCGer/Unity3DTraining",
+    "url": "https://github.com/XINCGer/Unity3DTraining",
+    "desc": "Unity的练习项目",
+    "lang": "C#"
+  },
+  {
+    "title": "lyswhut/lx-music-mobile",
+    "url": "https://github.com/lyswhut/lx-music-mobile",
+    "desc": "一个基于 React native 开发的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Fukki-Z/nodefree",
+    "url": "https://github.com/Fukki-Z/nodefree",
+    "desc": "每日更新 ｜免费翻墙、免费科学上网、免费节点、免费梯子、免费订阅链接、蓝灯、熊猫、谷歌商店、youtobe｜vmess/clash/v2ray/trojan/sr/ssr"
+  }
+]

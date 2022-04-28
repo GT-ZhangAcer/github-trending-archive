@@ -1,0 +1,152 @@
+[
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "rochacbruno/python-week-2022",
+    "url": "https://github.com/rochacbruno/python-week-2022",
+    "desc": "Template Para a Python Week 2002 - 25 a 29 de Abril na Linux Tips",
+    "lang": "Python"
+  },
+  {
+    "title": "why20021008/hand-write",
+    "url": "https://github.com/why20021008/hand-write",
+    "desc": "模拟手写效果，节约时间。",
+    "lang": "Python"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "spulec/moto",
+    "url": "https://github.com/spulec/moto",
+    "desc": "A library that allows you to easily mock out tests based on AWS infrastructure.",
+    "lang": "Python"
+  },
+  {
+    "title": "django/django",
+    "url": "https://github.com/django/django",
+    "desc": "The Web framework for perfectionists with deadlines.",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/bert",
+    "url": "https://github.com/google-research/bert",
+    "desc": "TensorFlow code and pre-trained models for BERT",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "sebastianruder/NLP-progress",
+    "url": "https://github.com/sebastianruder/NLP-progress",
+    "desc": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "desc": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "lang": "Python"
+  },
+  {
+    "title": "DeepLabCut/DeepLabCut",
+    "url": "https://github.com/DeepLabCut/DeepLabCut",
+    "desc": "Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans",
+    "lang": "Python"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "lang": "Python"
+  },
+  {
+    "title": "diego-vicente/som-tsp",
+    "url": "https://github.com/diego-vicente/som-tsp",
+    "desc": "Solving the Traveling Salesman Problem using Self-Organizing Maps",
+    "lang": "Python"
+  },
+  {
+    "title": "python-engineer/snake-ai-pytorch",
+    "url": "https://github.com/python-engineer/snake-ai-pytorch",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/EasyNLP",
+    "url": "https://github.com/alibaba/EasyNLP",
+    "desc": "EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "lang": "Python"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "desc": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "lang": "Python"
+  },
+  {
+    "title": "getredash/redash",
+    "url": "https://github.com/getredash/redash",
+    "desc": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "desc": "We have made you a wrapper you can't refuse",
+    "lang": "Python"
+  }
+]
