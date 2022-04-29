@@ -1,0 +1,152 @@
+[
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "lang": "Python"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "neonbjb/tortoise-tts",
+    "url": "https://github.com/neonbjb/tortoise-tts",
+    "desc": "A multi-voice TTS system trained with an emphasis on quality",
+    "lang": "Python"
+  },
+  {
+    "title": "hlorus/CAD_Sketcher",
+    "url": "https://github.com/hlorus/CAD_Sketcher",
+    "desc": "Constraint-based geometry sketcher for blender",
+    "lang": "Python"
+  },
+  {
+    "title": "why20021008/hand-write",
+    "url": "https://github.com/why20021008/hand-write",
+    "desc": "模拟手写效果，节约时间。",
+    "lang": "Python"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "MLNLP-World/AI-Paper-Collector",
+    "url": "https://github.com/MLNLP-World/AI-Paper-Collector",
+    "desc": "Fully-automated scripts for collecting AI-related papers",
+    "lang": "Python"
+  },
+  {
+    "title": "redis/redis-py",
+    "url": "https://github.com/redis/redis-py",
+    "desc": "Redis Python Client",
+    "lang": "Python"
+  },
+  {
+    "title": "openvinotoolkit/open_model_zoo",
+    "url": "https://github.com/openvinotoolkit/open_model_zoo",
+    "desc": "Pre-trained Deep Learning models and demos (high quality and extremely fast)",
+    "lang": "Python"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "python-engineer/snake-ai-pytorch",
+    "url": "https://github.com/python-engineer/snake-ai-pytorch",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "pre-commit/pre-commit-hooks",
+    "url": "https://github.com/pre-commit/pre-commit-hooks",
+    "desc": "Some out-of-the-box hooks for pre-commit",
+    "lang": "Python"
+  },
+  {
+    "title": "MIC-DKFZ/nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlalchemy/sqlalchemy",
+    "url": "https://github.com/sqlalchemy/sqlalchemy",
+    "desc": "The Database Toolkit for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "modin-project/modin",
+    "url": "https://github.com/modin-project/modin",
+    "desc": "Modin: Speed up your Pandas workflows by changing a single line of code",
+    "lang": "Python"
+  },
+  {
+    "title": "mabaorui/PredictableContextPrior",
+    "url": "https://github.com/mabaorui/PredictableContextPrior",
+    "desc": "Implementation of CVPR'2022:Surface Reconstruction from Point Clouds by Learning Predictive Context Priors",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "amundsen-io/amundsen",
+    "url": "https://github.com/amundsen-io/amundsen",
+    "desc": "Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "dbt-labs/dbt-core",
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "lang": "Python"
+  }
+]

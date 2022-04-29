@@ -1,0 +1,147 @@
+[
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "desc": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。"
+  },
+  {
+    "title": "why20021008/hand-write",
+    "url": "https://github.com/why20021008/hand-write",
+    "desc": "模拟手写效果，节约时间。",
+    "lang": "Python"
+  },
+  {
+    "title": "Misaka-blog/XrayR-3",
+    "url": "https://github.com/Misaka-blog/XrayR-3",
+    "desc": "XrayR 机场后端，支持SSPanel、V2board、PMPanel及Proxypanel",
+    "lang": "Go"
+  },
+  {
+    "title": "wangyuan389/mall-cook",
+    "url": "https://github.com/wangyuan389/mall-cook",
+    "desc": "商城低代码平台，可视化搭建H5、小程序多端商城",
+    "lang": "Vue"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "huiyadanli/RevokeMsgPatcher",
+    "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
+    "desc": "A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
+    "lang": "C#"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "zhaoolee/ChineseBQB",
+    "url": "https://github.com/zhaoolee/ChineseBQB",
+    "desc": "🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "gedoor/legado",
+    "url": "https://github.com/gedoor/legado",
+    "desc": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Zaxblog/MinerProxy",
+    "url": "https://github.com/Zaxblog/MinerProxy",
+    "desc": "MinerProxy(中文名：加密挖全球 )，采用IOCP超高性能的网络框架编写，具有稳定性高，传输速度快，并发强等优点。可快速实现一键搭建任意矿池（ETH/ETC/RVN/ERGO/AE/BTC等）的中转节点，支持SSL加密，支持SSL矿池，支持任意第三方挖矿软件(包括OS系统)，支持协议模拟功能，内网无需客户端即可SSL加密传输至VPS解密，并同时支持5个矿池的转发，有精准清晰的矿机数据展示列表，可方便配置合理抽水，自动拦截抽水增加业主算力。在保持业主算力不受大的影响的情况下，给予VPS搭建者一定的运营费用。"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "desc": "C++那些事",
+    "lang": "C++"
+  },
+  {
+    "title": "menzi11/BullshitGenerator",
+    "url": "https://github.com/menzi11/BullshitGenerator",
+    "desc": "Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "ffffffff0x/1earn",
+    "url": "https://github.com/ffffffff0x/1earn",
+    "desc": "ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup",
+    "lang": "C++"
+  },
+  {
+    "title": "iamseancheney/python_for_data_analysis_2nd_chinese_version",
+    "url": "https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version",
+    "desc": "《利用Python进行数据分析·第2版》"
+  },
+  {
+    "title": "focus-creative-games/huatuo",
+    "url": "https://github.com/focus-creative-games/huatuo",
+    "desc": "huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix",
+    "lang": "C++"
+  },
+  {
+    "title": "phachon/mm-wiki",
+    "url": "https://github.com/phachon/mm-wiki",
+    "desc": "MM-Wiki 一个轻量级的企业知识分享与团队协同软件，可用于快速构建企业 Wiki 和团队知识分享平台。部署方便，使用简单，帮助团队构建一个信息共享、文档管理的协作环境。",
+    "lang": "Go"
+  },
+  {
+    "title": "buqiyuan/vue3-antd-admin",
+    "url": "https://github.com/buqiyuan/vue3-antd-admin",
+    "desc": "基于vue-cli5.x/vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "peng-zhihui/ElectronBot",
+    "url": "https://github.com/peng-zhihui/ElectronBot",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "gelove/dingdong",
+    "url": "https://github.com/gelove/dingdong",
+    "desc": "叮咚买菜助手, 直接下载并运行, 不需要安装环境, 不需要下载源码！！！",
+    "lang": "Go"
+  },
+  {
+    "title": "Fukki-Z/nodefree",
+    "url": "https://github.com/Fukki-Z/nodefree",
+    "desc": "每日更新 ｜免费翻墙、免费科学上网、免费节点、免费梯子、免费订阅链接、蓝灯、熊猫、谷歌商店、youtobe｜vmess/clash/v2ray/trojan/sr/ssr"
+  }
+]
