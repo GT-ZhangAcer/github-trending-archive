@@ -1,0 +1,152 @@
+[
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset",
+    "url": "https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset",
+    "desc": "This repository provides motion datasets collected by Bandai Namco Research Inc",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "SecureAuthCorp/impacket",
+    "url": "https://github.com/SecureAuthCorp/impacket",
+    "desc": "Impacket is a collection of Python classes for working with network protocols.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "Ganapati/RsaCtfTool",
+    "url": "https://github.com/Ganapati/RsaCtfTool",
+    "desc": "RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "yoshiko2/Movie_Data_Capture",
+    "url": "https://github.com/yoshiko2/Movie_Data_Capture",
+    "desc": "本地电影刮削与整理一体化解决方案",
+    "lang": "Python"
+  },
+  {
+    "title": "anasty17/mirror-leech-telegram-bot",
+    "url": "https://github.com/anasty17/mirror-leech-telegram-bot",
+    "desc": "Aria/qBittorrent Telegram mirror/leech bot",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "why20021008/hand-write",
+    "url": "https://github.com/why20021008/hand-write",
+    "desc": "模拟手写效果，节约时间。",
+    "lang": "Python"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/flamingo-pytorch",
+    "url": "https://github.com/lucidrains/flamingo-pytorch",
+    "desc": "Implementation of 🦩 Flamingo, state-of-the-art few-shot visual question answering attention net out of Deepmind, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "sympy/sympy",
+    "url": "https://github.com/sympy/sympy",
+    "desc": "A computer algebra system written in pure Python",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "mabaorui/OnSurfacePrior",
+    "url": "https://github.com/mabaorui/OnSurfacePrior",
+    "desc": "Implementation of CVPR'2022:Reconstructing Surfaces for Sparse Point Clouds with On-Surface Priors",
+    "lang": "Python"
+  },
+  {
+    "title": "useragents/Proxyless-TikTok-Username-Checker",
+    "url": "https://github.com/useragents/Proxyless-TikTok-Username-Checker",
+    "desc": "Loops through a list of usernames to check if they are available or unavailable",
+    "lang": "Python"
+  },
+  {
+    "title": "RunaCapital/awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "desc": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "SHI-Labs/Neighborhood-Attention-Transformer",
+    "url": "https://github.com/SHI-Labs/Neighborhood-Attention-Transformer",
+    "desc": "[Preprint] Neighborhood Attention Transformer, 2022",
+    "lang": "Python"
+  },
+  {
+    "title": "bilibili/ailab",
+    "url": "https://github.com/bilibili/ailab",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "cyrus-and/gdb-dashboard",
+    "url": "https://github.com/cyrus-and/gdb-dashboard",
+    "desc": "Modular visual interface for GDB in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "useragents/Snapchat-Snapscore-Botter",
+    "url": "https://github.com/useragents/Snapchat-Snapscore-Botter",
+    "desc": "Python-based Snapchat score booster using pyautogui module",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  }
+]
