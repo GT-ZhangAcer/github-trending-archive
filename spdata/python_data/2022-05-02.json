@@ -1,0 +1,152 @@
+[
+  {
+    "title": "anasty17/mirror-leech-telegram-bot",
+    "url": "https://github.com/anasty17/mirror-leech-telegram-bot",
+    "desc": "Aria/qBittorrent Telegram mirror/leech bot",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "StevenBlack/hosts",
+    "url": "https://github.com/StevenBlack/hosts",
+    "desc": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+    "lang": "Python"
+  },
+  {
+    "title": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "desc": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+    "lang": "Python"
+  },
+  {
+    "title": "mementum/backtrader",
+    "url": "https://github.com/mementum/backtrader",
+    "desc": "Python Backtesting library for trading strategies",
+    "lang": "Python"
+  },
+  {
+    "title": "hzwer/arXiv2021-RIFE",
+    "url": "https://github.com/hzwer/arXiv2021-RIFE",
+    "desc": "Real-Time Intermediate Flow Estimation for Video Frame Interpolation",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "dwyl/english-words",
+    "url": "https://github.com/dwyl/english-words",
+    "desc": "📝 A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "useragents/Proxyless-TikTok-Username-Checker",
+    "url": "https://github.com/useragents/Proxyless-TikTok-Username-Checker",
+    "desc": "Loops through a list of usernames to check if they are available or unavailable",
+    "lang": "Python"
+  },
+  {
+    "title": "pyodide/pyodide",
+    "url": "https://github.com/pyodide/pyodide",
+    "desc": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "CodeXBotz/File-Sharing-Bot",
+    "url": "https://github.com/CodeXBotz/File-Sharing-Bot",
+    "desc": "Telegram Bot to store Posts and Documents and it can Access by Special Links.",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "matplotlib/mplfinance",
+    "url": "https://github.com/matplotlib/mplfinance",
+    "desc": "Financial Markets Data Visualization using Matplotlib",
+    "lang": "Python"
+  },
+  {
+    "title": "h2y/Shadowrocket-ADBlock-Rules",
+    "url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
+    "desc": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。",
+    "lang": "Python"
+  },
+  {
+    "title": "BirchKwok/spinesTS",
+    "url": "https://github.com/BirchKwok/spinesTS",
+    "desc": "a powerful timeseries toolsets",
+    "lang": "Python"
+  },
+  {
+    "title": "demisto/content",
+    "url": "https://github.com/demisto/content",
+    "desc": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "apprenticeharper/DeDRM_tools",
+    "url": "https://github.com/apprenticeharper/DeDRM_tools",
+    "desc": "DeDRM tools for ebooks",
+    "lang": "Python"
+  }
+]
