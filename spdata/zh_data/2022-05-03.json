@@ -1,0 +1,144 @@
+[
+  {
+    "title": "Runc2333/dingdong-helper-node",
+    "url": "https://github.com/Runc2333/dingdong-helper-node",
+    "desc": "叮咚买菜助手，使用iOS客户端原生API，支持高峰期下单、支持捡漏、支持多账号、支持webhook通知（需自行实现对端）",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ahutsunshine/dingdong-grabber",
+    "url": "https://github.com/ahutsunshine/dingdong-grabber",
+    "desc": "叮咚多策略抢菜/买菜，亲测有效",
+    "lang": "Go"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "desc": "收集整理 GitHub 上高质量、有趣的开源项目。"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "liupan1890/aliyunpan",
+    "url": "https://github.com/liupan1890/aliyunpan",
+    "desc": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hectorqin/reader",
+    "url": "https://github.com/hectorqin/reader",
+    "desc": "阅读3服务器版，桌面端。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "baidusama/EroPassword",
+    "url": "https://github.com/baidusama/EroPassword",
+    "desc": "一些常用的解压密码（包括但不限于本子、里番、galgame）"
+  },
+  {
+    "title": "XIU2/Yuedu",
+    "url": "https://github.com/XIU2/Yuedu",
+    "desc": "📚「阅读」APP 精品书源（网络小说）"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub."
+  },
+  {
+    "title": "yc9559/uperf",
+    "url": "https://github.com/yc9559/uperf",
+    "desc": "Userspace performance controller for android",
+    "lang": "Shell"
+  },
+  {
+    "title": "ninechapter-algorithm/linghu-algorithm-templete",
+    "url": "https://github.com/ninechapter-algorithm/linghu-algorithm-templete",
+    "desc": ""
+  },
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "desc": "🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。",
+    "lang": "C#"
+  },
+  {
+    "title": "mack-a/v2ray-agent",
+    "url": "https://github.com/mack-a/v2ray-agent",
+    "desc": "（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装",
+    "lang": "Shell"
+  },
+  {
+    "title": "JDHelloWorld/jd_scripts",
+    "url": "https://github.com/JDHelloWorld/jd_scripts",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ddgksf2013/Cuttlefish",
+    "url": "https://github.com/ddgksf2013/Cuttlefish",
+    "desc": "Scripts for self-use, ⛔️ fork",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sjtug/SJTUThesis",
+    "url": "https://github.com/sjtug/SJTUThesis",
+    "desc": "上海交通大学 XeLaTeX 学位论文及课程论文模板 | Shanghai Jiao Tong University XeLaTeX Thesis Template",
+    "lang": "TeX"
+  },
+  {
+    "title": "changfengoss/pub",
+    "url": "https://github.com/changfengoss/pub",
+    "desc": "科学上网工具"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "DerekYRC/mini-spring-cloud",
+    "url": "https://github.com/DerekYRC/mini-spring-cloud",
+    "desc": "mini-spring-cloud是简化版的spring-cloud框架，能帮助你快速熟悉spring-cloud源码及掌握其核心原理。在保留spring cloud核心功能的的前提下尽量精简代码，核心功能包括服务注册、服务发现、负载均衡、集成Feign简化调用、流量控制、熔断降级、API网关等。",
+    "lang": "Java"
+  },
+  {
+    "title": "Hackl0us/GeoIP2-CN",
+    "url": "https://github.com/Hackl0us/GeoIP2-CN",
+    "desc": "小巧精悍、准确、实用 GeoIP2 数据库",
+    "lang": "Go"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "hq450/fancyss_history_package",
+    "url": "https://github.com/hq450/fancyss_history_package",
+    "desc": "科学上网插件的离线安装包储存在这里"
+  }
+]

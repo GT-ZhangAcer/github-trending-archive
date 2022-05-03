@@ -1,0 +1,152 @@
+[
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "pyodide/pyodide",
+    "url": "https://github.com/pyodide/pyodide",
+    "desc": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "strawberry-graphql/strawberry",
+    "url": "https://github.com/strawberry-graphql/strawberry",
+    "desc": "A GraphQL library for Python that leverages type annotations 🍓",
+    "lang": "Python"
+  },
+  {
+    "title": "ZPdesu/Barbershop",
+    "url": "https://github.com/ZPdesu/Barbershop",
+    "desc": "Barbershop: GAN-based Image Compositing using Segmentation Masks (SIGGRAPH Asia 2021)",
+    "lang": "Python"
+  },
+  {
+    "title": "neetcode-gh/leetcode",
+    "url": "https://github.com/neetcode-gh/leetcode",
+    "desc": "Leetcode solutions",
+    "lang": "Python"
+  },
+  {
+    "title": "project-alice-assistant/ProjectAlice",
+    "url": "https://github.com/project-alice-assistant/ProjectAlice",
+    "desc": "Main repository of Project Alice, contains main unit source code",
+    "lang": "Python"
+  },
+  {
+    "title": "HypothesisWorks/hypothesis",
+    "url": "https://github.com/HypothesisWorks/hypothesis",
+    "desc": "Hypothesis is a powerful, flexible, and easy to use library for property-based testing.",
+    "lang": "Python"
+  },
+  {
+    "title": "geerlingguy/ansible-for-devops",
+    "url": "https://github.com/geerlingguy/ansible-for-devops",
+    "desc": "Ansible for DevOps examples.",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "mhamilton723/STEGO",
+    "url": "https://github.com/mhamilton723/STEGO",
+    "desc": "Unsupervised Semantic Segmentation by Distilling Feature Correspondences",
+    "lang": "Python"
+  },
+  {
+    "title": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "desc": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+    "lang": "Python"
+  },
+  {
+    "title": "plamere/spotipy",
+    "url": "https://github.com/plamere/spotipy",
+    "desc": "A light weight Python library for the Spotify Web API",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "kubernetes-client/python",
+    "url": "https://github.com/kubernetes-client/python",
+    "desc": "Official Python client library for kubernetes",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "desc": "PyTorch package for the discrete VAE used for DALL·E.",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/vit-pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "desc": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "MatrixTM/MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 53 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "blakeblackshear/frigate",
+    "url": "https://github.com/blakeblackshear/frigate",
+    "desc": "NVR with realtime local object detection for IP cameras",
+    "lang": "Python"
+  }
+]
