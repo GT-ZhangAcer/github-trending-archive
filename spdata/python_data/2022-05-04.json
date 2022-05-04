@@ -1,0 +1,152 @@
+[
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "desc": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "lang": "Python"
+  },
+  {
+    "title": "mvt-project/mvt",
+    "url": "https://github.com/mvt-project/mvt",
+    "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "lang": "Python"
+  },
+  {
+    "title": "dataabc/weiboSpider",
+    "url": "https://github.com/dataabc/weiboSpider",
+    "desc": "新浪微博爬虫，用python爬取新浪微博数据",
+    "lang": "Python"
+  },
+  {
+    "title": "pyodide/pyodide",
+    "url": "https://github.com/pyodide/pyodide",
+    "desc": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "ZPdesu/Barbershop",
+    "url": "https://github.com/ZPdesu/Barbershop",
+    "desc": "Barbershop: GAN-based Image Compositing using Segmentation Masks (SIGGRAPH Asia 2021)",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "postgresml/postgresml",
+    "url": "https://github.com/postgresml/postgresml",
+    "desc": "PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/microservices-demo",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "desc": "Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/mae",
+    "url": "https://github.com/facebookresearch/mae",
+    "desc": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/python-docs-samples",
+    "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+    "desc": "Code samples used on cloud.google.com",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "bridgecrewio/checkov",
+    "url": "https://github.com/bridgecrewio/checkov",
+    "desc": "Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.",
+    "lang": "Python"
+  },
+  {
+    "title": "AtsushiSakai/PythonRobotics",
+    "url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "desc": "Python sample codes for robotics algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/PythonPark",
+    "url": "https://github.com/Jack-Cherish/PythonPark",
+    "desc": "Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。",
+    "lang": "Python"
+  },
+  {
+    "title": "aws-samples/aws-cdk-examples",
+    "url": "https://github.com/aws-samples/aws-cdk-examples",
+    "desc": "Example projects using the AWS CDK",
+    "lang": "Python"
+  },
+  {
+    "title": "maziarraissi/PINNs",
+    "url": "https://github.com/maziarraissi/PINNs",
+    "desc": "Physics Informed Deep Learning: Data-driven Solutions and Discovery of Nonlinear Partial Differential Equations",
+    "lang": "Python"
+  },
+  {
+    "title": "blankly-finance/blankly",
+    "url": "https://github.com/blankly-finance/blankly",
+    "desc": "🚀 💸 Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/vit-pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "desc": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "StevenBlack/hosts",
+    "url": "https://github.com/StevenBlack/hosts",
+    "desc": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+    "lang": "Python"
+  },
+  {
+    "title": "tssovi/grokking-the-object-oriented-design-interview",
+    "url": "https://github.com/tssovi/grokking-the-object-oriented-design-interview",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "desc": "The Python programming language",
+    "lang": "Python"
+  }
+]
