@@ -1,0 +1,152 @@
+[
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "mikeroyal/Digital-Forensics-Guide",
+    "url": "https://github.com/mikeroyal/Digital-Forensics-Guide",
+    "desc": "Digital Forensics Guide",
+    "lang": "Python"
+  },
+  {
+    "title": "apple/ml-cvnets",
+    "url": "https://github.com/apple/ml-cvnets",
+    "desc": "CVNets: A library for training computer vision networks",
+    "lang": "Python"
+  },
+  {
+    "title": "mvt-project/mvt",
+    "url": "https://github.com/mvt-project/mvt",
+    "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "lang": "Python"
+  },
+  {
+    "title": "SecureAuthCorp/impacket",
+    "url": "https://github.com/SecureAuthCorp/impacket",
+    "desc": "Impacket is a collection of Python classes for working with network protocols.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "pyodide/pyodide",
+    "url": "https://github.com/pyodide/pyodide",
+    "desc": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly",
+    "lang": "Python"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "desc": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/dalle-flow",
+    "url": "https://github.com/jina-ai/dalle-flow",
+    "desc": "A Human-in-the-Loop workflow for creating HD images from text",
+    "lang": "Python"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "almandin/fuxploider",
+    "url": "https://github.com/almandin/fuxploider",
+    "desc": "File upload vulnerability scanner and exploitation tool.",
+    "lang": "Python"
+  },
+  {
+    "title": "SolanaNFTHolder/MagicEden-minting-bot",
+    "url": "https://github.com/SolanaNFTHolder/MagicEden-minting-bot",
+    "desc": "Solana Minting Bot | MagicEden & MonkeLabs",
+    "lang": "Python"
+  },
+  {
+    "title": "aws-samples/aws-cdk-examples",
+    "url": "https://github.com/aws-samples/aws-cdk-examples",
+    "desc": "Example projects using the AWS CDK",
+    "lang": "Python"
+  },
+  {
+    "title": "help-iq2/telethon",
+    "url": "https://github.com/help-iq2/telethon",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/python-docs-samples",
+    "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+    "desc": "Code samples used on cloud.google.com",
+    "lang": "Python"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "HyukIsBack/KARMA-DDoS",
+    "url": "https://github.com/HyukIsBack/KARMA-DDoS",
+    "desc": "Layer 7 DDoS Panel with Cloudflare Bypass ( UAM, CAPTCHA, BFM, etc.. )",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/alphafold",
+    "url": "https://github.com/deepmind/alphafold",
+    "desc": "Open source code for AlphaFold.",
+    "lang": "Python"
+  },
+  {
+    "title": "dpgaspar/Flask-AppBuilder",
+    "url": "https://github.com/dpgaspar/Flask-AppBuilder",
+    "desc": "Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "postgresml/postgresml",
+    "url": "https://github.com/postgresml/postgresml",
+    "desc": "PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.",
+    "lang": "Python"
+  },
+  {
+    "title": "samuelcolvin/pydantic",
+    "url": "https://github.com/samuelcolvin/pydantic",
+    "desc": "Data parsing and validation using Python type hints",
+    "lang": "Python"
+  }
+]

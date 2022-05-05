@@ -1,0 +1,144 @@
+[
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "leafTheFish/DeathNote",
+    "url": "https://github.com/leafTheFish/DeathNote",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/tmagic-editor",
+    "url": "https://github.com/Tencent/tmagic-editor",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "HIT-UG-Group/DeepLearning-MuLi-Notes",
+    "url": "https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "slowmist/Blockchain-dark-forest-selfguard-handbook",
+    "url": "https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook",
+    "desc": "Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency."
+  },
+  {
+    "title": "NikoLuo1010/GeneDAO",
+    "url": "https://github.com/NikoLuo1010/GeneDAO",
+    "desc": ""
+  },
+  {
+    "title": "ahutsunshine/dingdong-grabber",
+    "url": "https://github.com/ahutsunshine/dingdong-grabber",
+    "desc": "叮咚多策略抢菜/买菜，亲测有效",
+    "lang": "Go"
+  },
+  {
+    "title": "pofey/movie_robot",
+    "url": "https://github.com/pofey/movie_robot",
+    "desc": "轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。",
+    "lang": "Python"
+  },
+  {
+    "title": "wangdaoo/atools",
+    "url": "https://github.com/wangdaoo/atools",
+    "desc": "🎉🎉🎉 现代 JavaScript 实用工具库🔧",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "desc": "🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。",
+    "lang": "C#"
+  },
+  {
+    "title": "shuax/chrome_plus",
+    "url": "https://github.com/shuax/chrome_plus",
+    "desc": "Chrome 增强软件",
+    "lang": "C++"
+  },
+  {
+    "title": "changfengoss/pub",
+    "url": "https://github.com/changfengoss/pub",
+    "desc": "科学上网工具"
+  },
+  {
+    "title": "Jack-Cherish/PythonPark",
+    "url": "https://github.com/Jack-Cherish/PythonPark",
+    "desc": "Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。",
+    "lang": "Python"
+  },
+  {
+    "title": "LinghaoChan/CSSummerCamp2022",
+    "url": "https://github.com/LinghaoChan/CSSummerCamp2022",
+    "desc": "关于2022年CS保研夏令营通知公告的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？"
+  },
+  {
+    "title": "changgyhub/leetcode_101",
+    "url": "https://github.com/changgyhub/leetcode_101",
+    "desc": "LeetCode 101：和你一起你轻松刷题（C++）"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "desc": "收集整理 GitHub 上高质量、有趣的开源项目。"
+  },
+  {
+    "title": "dataabc/weiboSpider",
+    "url": "https://github.com/dataabc/weiboSpider",
+    "desc": "新浪微博爬虫，用python爬取新浪微博数据",
+    "lang": "Python"
+  },
+  {
+    "title": "guyijie1211/JustLive-Android",
+    "url": "https://github.com/guyijie1211/JustLive-Android",
+    "desc": "📱一个整合国内多个直播平台内容的App",
+    "lang": "Java"
+  },
+  {
+    "title": "klever1988/nanopi-openwrt",
+    "url": "https://github.com/klever1988/nanopi-openwrt",
+    "desc": "Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩",
+    "lang": "Shell"
+  },
+  {
+    "title": "tonquer/picacg-qt",
+    "url": "https://github.com/tonquer/picacg-qt",
+    "desc": "哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)",
+    "lang": "Python"
+  },
+  {
+    "title": "baidusama/EroPassword",
+    "url": "https://github.com/baidusama/EroPassword",
+    "desc": "一些常用的解压密码（包括但不限于本子、里番、galgame）"
+  }
+]
