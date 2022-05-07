@@ -1,0 +1,147 @@
+[
+  {
+    "title": "comwrg/FUCK-GFW",
+    "url": "https://github.com/comwrg/FUCK-GFW",
+    "desc": "记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW"
+  },
+  {
+    "title": "Tencent/tmagic-editor",
+    "url": "https://github.com/Tencent/tmagic-editor",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "Yet another remote desktop software",
+    "lang": "Rust"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A modern runtime for JavaScript and TypeScript.",
+    "lang": "Rust"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "gogs/gogs",
+    "url": "https://github.com/gogs/gogs",
+    "desc": "Gogs is a painless self-hosted Git service",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "wangkechun/go-by-example",
+    "url": "https://github.com/wangkechun/go-by-example",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "desc": "A tool for exploring each layer in a docker image",
+    "lang": "Go"
+  },
+  {
+    "title": "aquasecurity/cloudsploit",
+    "url": "https://github.com/aquasecurity/cloudsploit",
+    "desc": "Cloud Security Posture Management (CSPM)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "foundry-rs/foundry",
+    "url": "https://github.com/foundry-rs/foundry",
+    "desc": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "theVakhovskeIsTaken/holoiso",
+    "url": "https://github.com/theVakhovskeIsTaken/holoiso",
+    "desc": "SteamOS 3 (Holo) archiso configuration",
+    "lang": "Shell"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "Dreamacro/clash-tracing",
+    "url": "https://github.com/Dreamacro/clash-tracing",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "DataTalksClub/mlops-zoomcamp",
+    "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+    "desc": "Free MLOps course from DataTalks.Club",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "lang": "Rust"
+  },
+  {
+    "title": "apache/camel",
+    "url": "https://github.com/apache/camel",
+    "desc": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.",
+    "lang": "Java"
+  },
+  {
+    "title": "bluesky-social/adx",
+    "url": "https://github.com/bluesky-social/adx",
+    "desc": "Experiment in self-authenticating data structures for a federated social network",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "HarbourJ/Temp",
+    "url": "https://github.com/HarbourJ/Temp",
+    "desc": "ksjsb"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)"
+  },
+  {
+    "title": "vbenjs/vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "desc": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "lang": "Vue"
+  }
+]
