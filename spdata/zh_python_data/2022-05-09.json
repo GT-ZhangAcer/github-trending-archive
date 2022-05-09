@@ -1,0 +1,152 @@
+[
+  {
+    "title": "WhaleFell/SMSBoom",
+    "url": "https://github.com/WhaleFell/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "Python3WebSpider/ProxyPool",
+    "url": "https://github.com/Python3WebSpider/ProxyPool",
+    "desc": "An Efficient ProxyPool with Getter, Tester and Server",
+    "lang": "Python"
+  },
+  {
+    "title": "guyongzx/SamsClub_buy",
+    "url": "https://github.com/guyongzx/SamsClub_buy",
+    "desc": "山姆买菜 保供套餐",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "azhan1998/sam_buy",
+    "url": "https://github.com/azhan1998/sam_buy",
+    "desc": "山姆买菜",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "jhao104/proxy_pool",
+    "url": "https://github.com/jhao104/proxy_pool",
+    "desc": "Python爬虫代理IP池(proxy pool)",
+    "lang": "Python"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/Machine-Learning",
+    "url": "https://github.com/Jack-Cherish/Machine-Learning",
+    "desc": "⚡机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归",
+    "lang": "Python"
+  },
+  {
+    "title": "bbfamily/abu",
+    "url": "https://github.com/bbfamily/abu",
+    "desc": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
+    "lang": "Python"
+  },
+  {
+    "title": "SkywalkerJi/mdt",
+    "url": "https://github.com/SkywalkerJi/mdt",
+    "desc": "Yu-Gi-Oh! Master Duel Translation Script",
+    "lang": "Python"
+  },
+  {
+    "title": "DA-southampton/NLP_ability",
+    "url": "https://github.com/DA-southampton/NLP_ability",
+    "desc": "总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括面试题，各种基础知识，工程能力等等，提升核心竞争力",
+    "lang": "Python"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "hcjohn463/JableTVDownload",
+    "url": "https://github.com/hcjohn463/JableTVDownload",
+    "desc": "下載 jable好幫手",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "Womsxd/AutoMihoyoBBS",
+    "url": "https://github.com/Womsxd/AutoMihoyoBBS",
+    "desc": "米游社自动签到，支持：崩坏二、崩坏三、原神，米游币自动获取",
+    "lang": "Python"
+  },
+  {
+    "title": "xiaotudui/pytorch-tutorial",
+    "url": "https://github.com/xiaotudui/pytorch-tutorial",
+    "desc": "PyTorch深度学习快速入门教程（绝对通俗易懂！）",
+    "lang": "Python"
+  },
+  {
+    "title": "PyJun/Mooc_Downloader",
+    "url": "https://github.com/PyJun/Mooc_Downloader",
+    "desc": "学无止下载器，慕课下载器，Mooc网课下载，慕课网，中国大学，爱课程，网易云课堂，学堂在线，超星学习通，学银在线；支持视频，课件同时下载",
+    "lang": "Python"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "bojone/bert4keras",
+    "url": "https://github.com/bojone/bert4keras",
+    "desc": "keras implement of transformers for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "HillZhang1999/MuCGEC",
+    "url": "https://github.com/HillZhang1999/MuCGEC",
+    "desc": "MuCGEC中文纠错数据集及文本纠错SOTA模型开源；Code & Data for our NAACL 2022 Paper MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "sirodeneko/genshin-sign",
+    "url": "https://github.com/sirodeneko/genshin-sign",
+    "desc": "原神自动签到",
+    "lang": "Python"
+  }
+]

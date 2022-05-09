@@ -1,0 +1,148 @@
+[
+  {
+    "title": "Tencent/tmagic-editor",
+    "url": "https://github.com/Tencent/tmagic-editor",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "robGoods/sams",
+    "url": "https://github.com/robGoods/sams",
+    "desc": "山姆抢购",
+    "lang": "Go"
+  },
+  {
+    "title": "6dylan6/jdpro",
+    "url": "https://github.com/6dylan6/jdpro",
+    "desc": "青龙脚本库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "universeindream/MaiCaiAssistant",
+    "url": "https://github.com/universeindream/MaiCaiAssistant",
+    "desc": "买菜助手 - 支持美团买菜、叮咚买菜、盒马、山姆等，可定时执行抢菜"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "JDArmy/GetDomainAdmin",
+    "url": "https://github.com/JDArmy/GetDomainAdmin",
+    "desc": "获取域控权限方法枚举"
+  },
+  {
+    "title": "exacity/deeplearningbook-chinese",
+    "url": "https://github.com/exacity/deeplearningbook-chinese",
+    "desc": "Deep Learning Book Chinese Translation",
+    "lang": "TeX"
+  },
+  {
+    "title": "WhaleFell/SMSBoom",
+    "url": "https://github.com/WhaleFell/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "ouangyb3/makeitrealcampt",
+    "url": "https://github.com/ouangyb3/makeitrealcampt",
+    "desc": "manshang",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "whngbheng59762/ARISEChurchb",
+    "url": "https://github.com/whngbheng59762/ARISEChurchb",
+    "desc": "Manage a Kubernetes cluster on Digitalocean using Ansible",
+    "lang": "HTML"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "desc": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "lang": "C++"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "lanlankaoyanshan/408Bester",
+    "url": "https://github.com/lanlankaoyanshan/408Bester",
+    "desc": "这里有着计算机考研408的详细路线，每个月的学习规划和所有视频书籍资源，计算机考研必看仓库"
+  },
+  {
+    "title": "YunYouJun/cook",
+    "url": "https://github.com/YunYouJun/cook",
+    "desc": "🍲 好的，今天我们来做菜！OK, Let's Cook!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "emptysuns/Hi_Hysteria",
+    "url": "https://github.com/emptysuns/Hi_Hysteria",
+    "desc": "Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。",
+    "lang": "Shell"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "qinguoyi/TinyWebServer",
+    "url": "https://github.com/qinguoyi/TinyWebServer",
+    "desc": "🔥 Linux下C++轻量级Web服务器",
+    "lang": "C++"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "Python3WebSpider/ProxyPool",
+    "url": "https://github.com/Python3WebSpider/ProxyPool",
+    "desc": "An Efficient ProxyPool with Getter, Tester and Server",
+    "lang": "Python"
+  },
+  {
+    "title": "cinit/QAuxiliary",
+    "url": "https://github.com/cinit/QAuxiliary",
+    "desc": "QNotified phoenix - To make OICQ great again",
+    "lang": "Java"
+  },
+  {
+    "title": "ryu0007/EncryptMinerProxy",
+    "url": "https://github.com/ryu0007/EncryptMinerProxy",
+    "desc": "高性能矿池加密代理程序，支持多币种加密抽水(ETH/ETC/BTC/BCH/LTC/ERG等)，客户端服务端模式，支持加密混淆，支持自定义抽水地址和比例，支持Web界面管理。",
+    "lang": "Java"
+  },
+  {
+    "title": "lanceliao/china-holiday-calender",
+    "url": "https://github.com/lanceliao/china-holiday-calender",
+    "desc": "中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "desc": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "lang": "Java"
+  }
+]
