@@ -1,0 +1,148 @@
+[
+  {
+    "title": "alibaba/fastjson2",
+    "url": "https://github.com/alibaba/fastjson2",
+    "desc": "🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库",
+    "lang": "Java"
+  },
+  {
+    "title": "hectorqin/reader",
+    "url": "https://github.com/hectorqin/reader",
+    "desc": "阅读3服务器版，桌面端。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "HIT-UG-Group/DeepLearning-MuLi-Notes",
+    "url": "https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes",
+    "desc": "Notes about courses Dive into Deep Learning by Mu Li",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "oxfeeefeee/goscript",
+    "url": "https://github.com/oxfeeefeee/goscript",
+    "desc": "An alternative implementation of Golang specs, written in Rust for embedding or wrapping.",
+    "lang": "Rust"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "weopenprojects/WeOpen-Star",
+    "url": "https://github.com/weopenprojects/WeOpen-Star",
+    "desc": "WeOpen Star is a project that provides growth support for open source contributors, enthusiasts and open source projects in different fields."
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "desc": "适用于新系统UI的哔哩",
+    "lang": "C#"
+  },
+  {
+    "title": "DaoChen6/Heroku-v2ray",
+    "url": "https://github.com/DaoChen6/Heroku-v2ray",
+    "desc": "在Heroku上部署v2ray",
+    "lang": "HTML"
+  },
+  {
+    "title": "Misaka-blog/XrayR",
+    "url": "https://github.com/Misaka-blog/XrayR",
+    "desc": "XrayR 机场后端，支持SSPanel、V2board、PMPanel及Proxypanel。相比原版XrayR优化了性能、内存占用",
+    "lang": "Go"
+  },
+  {
+    "title": "ip-scanner/cloudflare",
+    "url": "https://github.com/ip-scanner/cloudflare",
+    "desc": ""
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "victor-iyif/ferventdeserte",
+    "url": "https://github.com/victor-iyif/ferventdeserte",
+    "desc": "visualized crawler & ETL IDE written with C#/WPF",
+    "lang": "C#"
+  },
+  {
+    "title": "jCodeLife/mind-map",
+    "url": "https://github.com/jCodeLife/mind-map",
+    "desc": "🖼个人思维导图笔记，已整理JS、TS、Vue、React ... 持续更新中，欢迎 PR 和 Start~"
+  },
+  {
+    "title": "1340691923/ElasticView",
+    "url": "https://github.com/1340691923/ElasticView",
+    "desc": "这是一个轻便的ElasticSearch可视化客户端",
+    "lang": "Go"
+  },
+  {
+    "title": "zizifn/v2ray-heroku",
+    "url": "https://github.com/zizifn/v2ray-heroku",
+    "desc": "利用github actions 实现v2ray-heroku的部署，停止，启动， 和删除。",
+    "lang": "Shell"
+  },
+  {
+    "title": "bclswl0827/v2ray-heroku",
+    "url": "https://github.com/bclswl0827/v2ray-heroku",
+    "desc": "用于在 Heroku 上部署 V2Ray WebSocket。",
+    "lang": "Shell"
+  },
+  {
+    "title": "shadow1ng/fscan",
+    "url": "https://github.com/shadow1ng/fscan",
+    "desc": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。",
+    "lang": "Go"
+  },
+  {
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "desc": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 https://taro.zone/",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "6dylan6/jdpro",
+    "url": "https://github.com/6dylan6/jdpro",
+    "desc": "青龙脚本库",
+    "lang": "JavaScript"
+  }
+]
