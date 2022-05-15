@@ -1,0 +1,152 @@
+[
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "NannyML/nannyml",
+    "url": "https://github.com/NannyML/nannyml",
+    "desc": "Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.",
+    "lang": "Python"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "0xAX/linux-insides",
+    "url": "https://github.com/0xAX/linux-insides",
+    "desc": "A little bit about a linux kernel",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "reloadware/reloadium",
+    "url": "https://github.com/reloadware/reloadium",
+    "desc": "Advanced hot reloading & profiling for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "KikiLetGo/CyberControllerServer",
+    "url": "https://github.com/KikiLetGo/CyberControllerServer",
+    "desc": "CyberController for PC",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "blackboxo/CleanMyWechat",
+    "url": "https://github.com/blackboxo/CleanMyWechat",
+    "desc": "自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/tutorials",
+    "url": "https://github.com/pytorch/tutorials",
+    "desc": "PyTorch tutorials.",
+    "lang": "Python"
+  },
+  {
+    "title": "Eloston/ungoogled-chromium",
+    "url": "https://github.com/Eloston/ungoogled-chromium",
+    "desc": "Google Chromium, sans integration with Google",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/denoising-diffusion-pytorch",
+    "url": "https://github.com/lucidrains/denoising-diffusion-pytorch",
+    "desc": "Implementation of Denoising Diffusion Probabilistic Model in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/scenic",
+    "url": "https://github.com/google-research/scenic",
+    "desc": "Scenic: A Jax Library for Computer Vision Research and Beyond",
+    "lang": "Python"
+  },
+  {
+    "title": "Ganapati/RsaCtfTool",
+    "url": "https://github.com/Ganapati/RsaCtfTool",
+    "desc": "RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/demucs",
+    "url": "https://github.com/facebookresearch/demucs",
+    "desc": "Code for the paper Hybrid Spectrogram and Waveform Source Separation",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamYukki/YukkiMusicBot",
+    "url": "https://github.com/TeamYukki/YukkiMusicBot",
+    "desc": "Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
+    "lang": "Python"
+  },
+  {
+    "title": "akfamily/akshare",
+    "url": "https://github.com/akfamily/akshare",
+    "desc": "AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库",
+    "lang": "Python"
+  },
+  {
+    "title": "corpnewt/gibMacOS",
+    "url": "https://github.com/corpnewt/gibMacOS",
+    "desc": "Py2/py3 script that can download macOS components direct from Apple",
+    "lang": "Python"
+  },
+  {
+    "title": "archlinux/archinstall",
+    "url": "https://github.com/archlinux/archinstall",
+    "desc": "Arch Linux installer - guided, templates etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "jhao104/proxy_pool",
+    "url": "https://github.com/jhao104/proxy_pool",
+    "desc": "Python爬虫代理IP池(proxy pool)",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/accelerate",
+    "url": "https://github.com/huggingface/accelerate",
+    "desc": "🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision",
+    "lang": "Python"
+  }
+]

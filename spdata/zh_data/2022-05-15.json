@@ -1,0 +1,151 @@
+[
+  {
+    "title": "HalseySpicy/Geeker-Admin",
+    "url": "https://github.com/HalseySpicy/Geeker-Admin",
+    "desc": "Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架。",
+    "lang": "Vue"
+  },
+  {
+    "title": "hectorqin/reader",
+    "url": "https://github.com/hectorqin/reader",
+    "desc": "阅读3服务器版，桌面端。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。🚫请不要fork，点star就好❗️",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "HIT-UG-Group/DeepLearning-MuLi-Notes",
+    "url": "https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes",
+    "desc": "Notes about courses Dive into Deep Learning by Mu Li",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "KikiLetGo/CyberController",
+    "url": "https://github.com/KikiLetGo/CyberController",
+    "desc": "CyberController",
+    "lang": "Java"
+  },
+  {
+    "title": "zonemeen/musicn",
+    "url": "https://github.com/zonemeen/musicn",
+    "desc": "🎵 一个下载高品质音乐的命令行工具",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leafTheFish/DeathNote",
+    "url": "https://github.com/leafTheFish/DeathNote",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BoyceLig/Clash_Chinese_Patch",
+    "url": "https://github.com/BoyceLig/Clash_Chinese_Patch",
+    "desc": "Clash For Windows 汉化补丁和汉化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、VPN、代理、免费科学上网、免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙"
+  },
+  {
+    "title": "hq450/fancyss",
+    "url": "https://github.com/hq450/fancyss",
+    "desc": "fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.",
+    "lang": "ClassicASP"
+  },
+  {
+    "title": "liujiaqi7998/GrasscuttersWebDashboard",
+    "url": "https://github.com/liujiaqi7998/GrasscuttersWebDashboard",
+    "desc": "Grasscutters的WEB控制面板",
+    "lang": "Java"
+  },
+  {
+    "title": "blackboxo/CleanMyWechat",
+    "url": "https://github.com/blackboxo/CleanMyWechat",
+    "desc": "自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
+    "lang": "Python"
+  },
+  {
+    "title": "OutlawQAQ/MinerProxy",
+    "url": "https://github.com/OutlawQAQ/MinerProxy",
+    "desc": "基于GoLang开发的高性能MinerProxy矿池代理工具，支持ETH/ETC，支持TCP和SSL(TLS)协议，支持显示开发者抽水份额/平均难度/抽水比例。",
+    "lang": "Go"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "desc": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+    "lang": "C#"
+  },
+  {
+    "title": "hehonghui/the-economist-ebooks",
+    "url": "https://github.com/hehonghui/the-economist-ebooks",
+    "desc": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
+    "lang": "CSS"
+  },
+  {
+    "title": "badafans/better-cloudflare-ip",
+    "url": "https://github.com/badafans/better-cloudflare-ip",
+    "desc": "查找适合自己当前网络环境的优选cloudflare anycast IP",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "XIU2/CloudflareSpeedTest",
+    "url": "https://github.com/XIU2/CloudflareSpeedTest",
+    "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~",
+    "lang": "Go"
+  },
+  {
+    "title": "bannedbook/fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "desc": "翻墙-科学上网",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "yaklang/yakit",
+    "url": "https://github.com/yaklang/yakit",
+    "desc": "Cyber Security ALL-IN-ONE Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Alpha-Yang/CS-BAOYAN-2022",
+    "url": "https://github.com/Alpha-Yang/CS-BAOYAN-2022",
+    "desc": "计算机保研交流群（QQ群号：605176069）",
+    "lang": "HTML"
+  },
+  {
+    "title": "DaoChen6/Heroku-v2ray",
+    "url": "https://github.com/DaoChen6/Heroku-v2ray",
+    "desc": "在Heroku上部署v2ray",
+    "lang": "HTML"
+  },
+  {
+    "title": "gedoor/legado",
+    "url": "https://github.com/gedoor/legado",
+    "desc": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
+    "lang": "Kotlin"
+  }
+]
