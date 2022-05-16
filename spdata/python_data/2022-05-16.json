@@ -1,0 +1,152 @@
+[
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "0xAX/linux-insides",
+    "url": "https://github.com/0xAX/linux-insides",
+    "desc": "A little bit about a linux kernel",
+    "lang": "Python"
+  },
+  {
+    "title": "KikiLetGo/CyberControllerServer",
+    "url": "https://github.com/KikiLetGo/CyberControllerServer",
+    "desc": "CyberController for PC",
+    "lang": "Python"
+  },
+  {
+    "title": "hummingbot/hummingbot",
+    "url": "https://github.com/hummingbot/hummingbot",
+    "desc": "Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "NannyML/nannyml",
+    "url": "https://github.com/NannyML/nannyml",
+    "desc": "Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.",
+    "lang": "Python"
+  },
+  {
+    "title": "eth-brownie/brownie",
+    "url": "https://github.com/eth-brownie/brownie",
+    "desc": "A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "diego-vicente/som-tsp",
+    "url": "https://github.com/diego-vicente/som-tsp",
+    "desc": "Solving the Traveling Salesman Problem using Self-Organizing Maps",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "chubin/wttr.in",
+    "url": "https://github.com/chubin/wttr.in",
+    "desc": "⛅ The right way to check the weather",
+    "lang": "Python"
+  },
+  {
+    "title": "SecureAuthCorp/impacket",
+    "url": "https://github.com/SecureAuthCorp/impacket",
+    "desc": "Impacket is a collection of Python classes for working with network protocols.",
+    "lang": "Python"
+  },
+  {
+    "title": "archlinux/archinstall",
+    "url": "https://github.com/archlinux/archinstall",
+    "desc": "Arch Linux installer - guided, templates etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "axinc-ai/ailia-models",
+    "url": "https://github.com/axinc-ai/ailia-models",
+    "desc": "The collection of pre-trained, state-of-the-art AI models for ailia SDK",
+    "lang": "Python"
+  },
+  {
+    "title": "reloadware/reloadium",
+    "url": "https://github.com/reloadware/reloadium",
+    "desc": "Advanced hot reloading & profiling for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "eternnoir/pyTelegramBotAPI",
+    "url": "https://github.com/eternnoir/pyTelegramBotAPI",
+    "desc": "Python Telegram bot api.",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/calibre",
+    "url": "https://github.com/kovidgoyal/calibre",
+    "desc": "The official source code repository for the calibre ebook manager",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "pyrogram/pyrogram",
+    "url": "https://github.com/pyrogram/pyrogram",
+    "desc": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+    "lang": "Python"
+  },
+  {
+    "title": "robinuniverse/TwitFix",
+    "url": "https://github.com/robinuniverse/TwitFix",
+    "desc": "Fix Twitter video embeds in Discord (and Telegram!)",
+    "lang": "Python"
+  }
+]
