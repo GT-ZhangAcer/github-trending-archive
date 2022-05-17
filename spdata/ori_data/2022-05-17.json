@@ -1,0 +1,148 @@
+[
+  {
+    "title": "DataTalksClub/mlops-zoomcamp",
+    "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+    "desc": "Free MLOps course from DataTalks.Club",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "liyupi/sql-generator",
+    "url": "https://github.com/liyupi/sql-generator",
+    "desc": "🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~",
+    "lang": "Vue"
+  },
+  {
+    "title": "HalseySpicy/Geeker-Admin",
+    "url": "https://github.com/HalseySpicy/Geeker-Admin",
+    "desc": "Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架。",
+    "lang": "Vue"
+  },
+  {
+    "title": "MrGlockenspiel/activate-linux",
+    "url": "https://github.com/MrGlockenspiel/activate-linux",
+    "desc": "The Activate Windows watermark ported to Linux",
+    "lang": "C"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "android/nowinandroid",
+    "url": "https://github.com/android/nowinandroid",
+    "desc": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "rzashakeri/beautify-github-profile",
+    "url": "https://github.com/rzashakeri/beautify-github-profile",
+    "desc": "This repository helps you to have a more beautiful and attractive github profile, and you can access a set of tools and guides for beautifying your github profile. 🚩"
+  },
+  {
+    "title": "zbezj/HEU_KMS_Activator",
+    "url": "https://github.com/zbezj/HEU_KMS_Activator",
+    "desc": ""
+  },
+  {
+    "title": "0xAX/linux-insides",
+    "url": "https://github.com/0xAX/linux-insides",
+    "desc": "A little bit about a linux kernel",
+    "lang": "Python"
+  },
+  {
+    "title": "Amanhacker/Aman-Barnwal-Leetcode-Solutions",
+    "url": "https://github.com/Amanhacker/Aman-Barnwal-Leetcode-Solutions",
+    "desc": "This repo contains my Leetcode Solutions question-wise !",
+    "lang": "C++"
+  },
+  {
+    "title": "kn32/python-buffered-reader-exploit",
+    "url": "https://github.com/kn32/python-buffered-reader-exploit",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Cveinnt/LiveTerm",
+    "url": "https://github.com/Cveinnt/LiveTerm",
+    "desc": "💻 Build terminal styled websites in minutes!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "NotFound403/id-server",
+    "url": "https://github.com/NotFound403/id-server",
+    "desc": "An OAuth2 Authorization Server,Based on Spring Authorization Server",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "newpanjing/gofound",
+    "url": "https://github.com/newpanjing/gofound",
+    "desc": "GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。",
+    "lang": "Go"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications. Including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
+    "lang": "Python"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "KikiLetGo/CyberController",
+    "url": "https://github.com/KikiLetGo/CyberController",
+    "desc": "CyberController",
+    "lang": "Java"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "desc": "Lightning-fast and Powerful Code Editor written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "axinc-ai/ailia-models",
+    "url": "https://github.com/axinc-ai/ailia-models",
+    "desc": "The collection of pre-trained, state-of-the-art AI models for ailia SDK",
+    "lang": "Python"
+  },
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "desc": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "alphacep/vosk-api",
+    "url": "https://github.com/alphacep/vosk-api",
+    "desc": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
+    "lang": "C++"
+  },
+  {
+    "title": "dokku/dokku",
+    "url": "https://github.com/dokku/dokku",
+    "desc": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+    "lang": "Shell"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "desc": "Design patterns implemented in Java",
+    "lang": "Java"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "0xAX/linux-insides",
+    "url": "https://github.com/0xAX/linux-insides",
+    "desc": "A little bit about a linux kernel",
+    "lang": "Python"
+  },
+  {
+    "title": "kn32/python-buffered-reader-exploit",
+    "url": "https://github.com/kn32/python-buffered-reader-exploit",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications. Including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
+    "lang": "Python"
+  },
+  {
+    "title": "axinc-ai/ailia-models",
+    "url": "https://github.com/axinc-ai/ailia-models",
+    "desc": "The collection of pre-trained, state-of-the-art AI models for ailia SDK",
+    "lang": "Python"
+  },
+  {
+    "title": "robinuniverse/TwitFix",
+    "url": "https://github.com/robinuniverse/TwitFix",
+    "desc": "Fix Twitter video embeds in Discord (and Telegram!)",
+    "lang": "Python"
+  },
+  {
+    "title": "jacobgil/pytorch-grad-cam",
+    "url": "https://github.com/jacobgil/pytorch-grad-cam",
+    "desc": "Many Class Activation Map methods implemented in Pytorch for CNNs and Vision Transformers. Examples for classification, object detection, segmentation, embedding networks and more. Including Grad-CAM, Grad-CAM++, Score-CAM, Ablation-CAM and XGrad-CAM",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "diego-vicente/som-tsp",
+    "url": "https://github.com/diego-vicente/som-tsp",
+    "desc": "Solving the Traveling Salesman Problem using Self-Organizing Maps",
+    "lang": "Python"
+  },
+  {
+    "title": "NannyML/nannyml",
+    "url": "https://github.com/NannyML/nannyml",
+    "desc": "Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.",
+    "lang": "Python"
+  },
+  {
+    "title": "ccyanxyz/uniswap-arbitrage-analysis",
+    "url": "https://github.com/ccyanxyz/uniswap-arbitrage-analysis",
+    "desc": "Uniswap arbitrage problem analysis",
+    "lang": "Python"
+  },
+  {
+    "title": "ecat-sec/wechat_info_collect",
+    "url": "https://github.com/ecat-sec/wechat_info_collect",
+    "desc": "调查取证 | 针对微信客户端的信息收集工具, 自动化提取本地PC所有的微信信息, 包括微信号, 手机号等",
+    "lang": "Python"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  },
+  {
+    "title": "shuai06/CVE-2022-30525",
+    "url": "https://github.com/shuai06/CVE-2022-30525",
+    "desc": "Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本",
+    "lang": "Python"
+  },
+  {
+    "title": "KikiLetGo/CyberControllerServer",
+    "url": "https://github.com/KikiLetGo/CyberControllerServer",
+    "desc": "CyberController for PC",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "saleor/saleor",
+    "url": "https://github.com/saleor/saleor",
+    "desc": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Impact-I/reFlutter",
+    "url": "https://github.com/Impact-I/reFlutter",
+    "desc": "Flutter Reverse Engineering Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "fox-it/BloodHound.py",
+    "url": "https://github.com/fox-it/BloodHound.py",
+    "desc": "A Python based ingestor for BloodHound",
+    "lang": "Python"
+  }
+]

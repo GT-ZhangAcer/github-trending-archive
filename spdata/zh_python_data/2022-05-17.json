@@ -1,0 +1,152 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and Fast NLP library with awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications. Including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "ecat-sec/wechat_info_collect",
+    "url": "https://github.com/ecat-sec/wechat_info_collect",
+    "desc": "调查取证 | 针对微信客户端的信息收集工具, 自动化提取本地PC所有的微信信息, 包括微信号, 手机号等",
+    "lang": "Python"
+  },
+  {
+    "title": "shuai06/CVE-2022-30525",
+    "url": "https://github.com/shuai06/CVE-2022-30525",
+    "desc": "Zyxel 防火墙远程命令注入漏洞（CVE-2022-30525）批量检测脚本",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleVideo",
+    "url": "https://github.com/PaddlePaddle/PaddleVideo",
+    "desc": "基于模块化的设计，提供丰富的视频算法实现、产业级的视频算法优化与应用，包括安防、体育、互联网、媒体等行业的动作定位与识别、行为分析、智能封面、视频标注、视频打标签等，涵盖动作识别与视频分类、动作定位、动作检测、多模态文本视频检索等技术。",
+    "lang": "Python"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "pofey/movie_robot",
+    "url": "https://github.com/pofey/movie_robot",
+    "desc": "轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。",
+    "lang": "Python"
+  },
+  {
+    "title": "UzJu/Cloud-Bucket-Leak-Detection-Tools",
+    "url": "https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools",
+    "desc": "六大云存储，泄露利用检测工具",
+    "lang": "Python"
+  },
+  {
+    "title": "blackboxo/CleanMyWechat",
+    "url": "https://github.com/blackboxo/CleanMyWechat",
+    "desc": "自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
+    "lang": "Python"
+  },
+  {
+    "title": "Baiyuetribe/kamiFaka",
+    "url": "https://github.com/Baiyuetribe/kamiFaka",
+    "desc": "一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。",
+    "lang": "Python"
+  },
+  {
+    "title": "JimmyLiang-lzm/biliDownloader_GUI",
+    "url": "https://github.com/JimmyLiang-lzm/biliDownloader_GUI",
+    "desc": "B站视频下载程序，BiliBili视频下载器，支持下载B站视频、交互\\互动视频，支持下载区域限制视频资源。Bili Downloader GUI Program for Stable.😊",
+    "lang": "Python"
+  },
+  {
+    "title": "Xovee/uestc-course",
+    "url": "https://github.com/Xovee/uestc-course",
+    "desc": "电子科技大学课程资料共享平台. Course material sharing platform of UESTC.",
+    "lang": "Python"
+  },
+  {
+    "title": "AmiyaBot/Amiya-Bot",
+    "url": "https://github.com/AmiyaBot/Amiya-Bot",
+    "desc": "《明日方舟》BOT",
+    "lang": "Python"
+  },
+  {
+    "title": "ymcui/Chinese-BERT-wwm",
+    "url": "https://github.com/ymcui/Chinese-BERT-wwm",
+    "desc": "Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/Deep-Learning",
+    "url": "https://github.com/Jack-Cherish/Deep-Learning",
+    "desc": "💻深度学习实战：手写数字识别、Discuz验证码识别、垃圾分类、语义分割",
+    "lang": "Python"
+  },
+  {
+    "title": "bbfamily/abu",
+    "url": "https://github.com/bbfamily/abu",
+    "desc": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
+    "lang": "Python"
+  },
+  {
+    "title": "tencentmusic/cube-studio",
+    "url": "https://github.com/tencentmusic/cube-studio",
+    "desc": "云原生一站式机器学习平台，在线开发，分布式训练，超参搜索，推理服务",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "alisen39/TrWebOCR",
+    "url": "https://github.com/alisen39/TrWebOCR",
+    "desc": "开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口，方便人类日常工作使用或者其他程序来调用~",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "Openit订阅致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "morningsky/Torch-RecHub",
+    "url": "https://github.com/morningsky/Torch-RecHub",
+    "desc": "A Lighting Pytorch Framework for Recommendation System, Easy-to-use and Easy-to-extend.",
+    "lang": "Python"
+  },
+  {
+    "title": "jhao104/proxy_pool",
+    "url": "https://github.com/jhao104/proxy_pool",
+    "desc": "Python爬虫代理IP池(proxy pool)",
+    "lang": "Python"
+  },
+  {
+    "title": "bojone/bert4keras",
+    "url": "https://github.com/bojone/bert4keras",
+    "desc": "keras implement of transformers for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleX",
+    "url": "https://github.com/PaddlePaddle/PaddleX",
+    "desc": "PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）",
+    "lang": "Python"
+  },
+  {
+    "title": "lixi5338619/lxSpider",
+    "url": "https://github.com/lixi5338619/lxSpider",
+    "desc": "爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说、招标网、采购网、小红书、大众点评、推特、脉脉》",
+    "lang": "Python"
+  }
+]
