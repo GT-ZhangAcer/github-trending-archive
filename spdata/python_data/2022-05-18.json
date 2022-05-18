@@ -1,0 +1,152 @@
+[
+  {
+    "title": "mitmproxy/mitmproxy",
+    "url": "https://github.com/mitmproxy/mitmproxy",
+    "desc": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "PatrikH0lop/malware_showcase",
+    "url": "https://github.com/PatrikH0lop/malware_showcase",
+    "desc": "Understand the nature of malicious software with practical examples in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "desc": "Deep Learning for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "0xAX/linux-insides",
+    "url": "https://github.com/0xAX/linux-insides",
+    "desc": "A little bit about a linux kernel",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "healthchecks/healthchecks",
+    "url": "https://github.com/healthchecks/healthchecks",
+    "desc": "A cron monitoring tool written in Python & Django",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training",
+    "lang": "Python"
+  },
+  {
+    "title": "gabriel-sztejnworcel/pipe-intercept",
+    "url": "https://github.com/gabriel-sztejnworcel/pipe-intercept",
+    "desc": "Intercept Windows Named Pipes communication using Burp or similar HTTP proxy tools",
+    "lang": "Python"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "What the f*ck Python? 😱",
+    "lang": "Python"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/bert",
+    "url": "https://github.com/google-research/bert",
+    "desc": "TensorFlow code and pre-trained models for BERT",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "desc": "PyTorch package for the discrete VAE used for DALL·E.",
+    "lang": "Python"
+  },
+  {
+    "title": "axinc-ai/ailia-models",
+    "url": "https://github.com/axinc-ai/ailia-models",
+    "desc": "The collection of pre-trained, state-of-the-art AI models for ailia SDK",
+    "lang": "Python"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "xmu-xiaoma666/External-Attention-pytorch",
+    "url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
+    "desc": "🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐",
+    "lang": "Python"
+  },
+  {
+    "title": "kn32/python-buffered-reader-exploit",
+    "url": "https://github.com/kn32/python-buffered-reader-exploit",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/python-docs-samples",
+    "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+    "desc": "Code samples used on cloud.google.com",
+    "lang": "Python"
+  },
+  {
+    "title": "blackboxo/CleanMyWechat",
+    "url": "https://github.com/blackboxo/CleanMyWechat",
+    "desc": "自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
+    "lang": "Python"
+  }
+]
