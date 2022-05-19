@@ -1,0 +1,152 @@
+[
+  {
+    "title": "0xAX/linux-insides",
+    "url": "https://github.com/0xAX/linux-insides",
+    "desc": "A little bit about a linux kernel",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
+    "lang": "Python"
+  },
+  {
+    "title": "PatrikH0lop/malware_showcase",
+    "url": "https://github.com/PatrikH0lop/malware_showcase",
+    "desc": "Understand the nature of malicious software with practical examples in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "python/typeshed",
+    "url": "https://github.com/python/typeshed",
+    "desc": "Collection of library stubs for Python, with static types",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "mitmproxy/mitmproxy",
+    "url": "https://github.com/mitmproxy/mitmproxy",
+    "desc": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
+    "lang": "Python"
+  },
+  {
+    "title": "neonbjb/tortoise-tts",
+    "url": "https://github.com/neonbjb/tortoise-tts",
+    "desc": "A multi-voice TTS system trained with an emphasis on quality",
+    "lang": "Python"
+  },
+  {
+    "title": "BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset",
+    "url": "https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset",
+    "desc": "This repository provides motion datasets collected by Bandai Namco Research Inc",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/rl",
+    "url": "https://github.com/facebookresearch/rl",
+    "desc": "A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "blackboxo/CleanMyWechat",
+    "url": "https://github.com/blackboxo/CleanMyWechat",
+    "desc": "自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
+    "lang": "Python"
+  },
+  {
+    "title": "mlflow/mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "desc": "Open source platform for the machine learning lifecycle",
+    "lang": "Python"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "MCG-NKU/E2FGVI",
+    "url": "https://github.com/MCG-NKU/E2FGVI",
+    "desc": "Official code for Towards An End-to-End Framework for Flow-Guided Video Inpainting (CVPR2022)",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "zhenxun-org/nonebot_plugins_zhenxun_bot",
+    "url": "https://github.com/zhenxun-org/nonebot_plugins_zhenxun_bot",
+    "desc": "真寻bot的插件库，稍微修改也可在nonebot2平台通用",
+    "lang": "Python"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "desc": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "lang": "Python"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "What the f*ck Python? 😱",
+    "lang": "Python"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "plotly/dash",
+    "url": "https://github.com/plotly/dash",
+    "desc": "Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.",
+    "lang": "Python"
+  }
+]

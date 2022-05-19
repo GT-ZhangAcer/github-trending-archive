@@ -1,0 +1,148 @@
+[
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot"
+  },
+  {
+    "title": "newpanjing/gofound",
+    "url": "https://github.com/newpanjing/gofound",
+    "desc": "GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。",
+    "lang": "Go"
+  },
+  {
+    "title": "0xAX/linux-insides",
+    "url": "https://github.com/0xAX/linux-insides",
+    "desc": "A little bit about a linux kernel",
+    "lang": "Python"
+  },
+  {
+    "title": "cilium/tetragon",
+    "url": "https://github.com/cilium/tetragon",
+    "desc": "eBPF-based Security Observability and Runtime Enforcement",
+    "lang": "C"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "desc": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "lang": "Go"
+  },
+  {
+    "title": "simonbs/Runestone",
+    "url": "https://github.com/simonbs/Runestone",
+    "desc": "📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.",
+    "lang": "C"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
+    "lang": "Python"
+  },
+  {
+    "title": "rzashakeri/beautify-github-profile",
+    "url": "https://github.com/rzashakeri/beautify-github-profile",
+    "desc": "This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BohemiaInteractive/Arma-Reforger-Samples",
+    "url": "https://github.com/BohemiaInteractive/Arma-Reforger-Samples",
+    "desc": "Modding Samples",
+    "lang": "StandardML"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "PatrikH0lop/malware_showcase",
+    "url": "https://github.com/PatrikH0lop/malware_showcase",
+    "desc": "Understand the nature of malicious software with practical examples in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "liyupi/sql-generator",
+    "url": "https://github.com/liyupi/sql-generator",
+    "desc": "🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~",
+    "lang": "Vue"
+  },
+  {
+    "title": "evrone/go-clean-template",
+    "url": "https://github.com/evrone/go-clean-template",
+    "desc": "Clean Architecture template for Golang services",
+    "lang": "Go"
+  },
+  {
+    "title": "anhkgg/SuperRDP",
+    "url": "https://github.com/anhkgg/SuperRDP",
+    "desc": "Super RDPWrap",
+    "lang": "C++"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Mrs4s/go-cqhttp",
+    "url": "https://github.com/Mrs4s/go-cqhttp",
+    "desc": "cqhttp的golang实现，轻量、原生跨平台.",
+    "lang": "Go"
+  },
+  {
+    "title": "prometheus-operator/prometheus-operator",
+    "url": "https://github.com/prometheus-operator/prometheus-operator",
+    "desc": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "stackrox/stackrox",
+    "url": "https://github.com/stackrox/stackrox",
+    "desc": "The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.",
+    "lang": "Go"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "desc": "Playground (and dump) of stuff I make or modify for the Flipper Zero"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  }
+]
