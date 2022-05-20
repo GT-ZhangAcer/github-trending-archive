@@ -1,0 +1,152 @@
+[
+  {
+    "title": "chainfeeds/RSSAggregatorforWeb3",
+    "url": "https://github.com/chainfeeds/RSSAggregatorforWeb3",
+    "desc": "Bootstrapping your personal Web3 info hub from more than 500 RSS Feeds.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "desc": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset",
+    "url": "https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset",
+    "desc": "This repository provides motion datasets collected by Bandai Namco Research Inc",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "aws/aws-cli",
+    "url": "https://github.com/aws/aws-cli",
+    "desc": "Universal Command Line Interface for Amazon Web Services",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
+    "lang": "Python"
+  },
+  {
+    "title": "blackboxo/CleanMyWechat",
+    "url": "https://github.com/blackboxo/CleanMyWechat",
+    "desc": "自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
+    "lang": "Python"
+  },
+  {
+    "title": "redis/redis-py",
+    "url": "https://github.com/redis/redis-py",
+    "desc": "Redis Python Client",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "PatrikH0lop/malware_showcase",
+    "url": "https://github.com/PatrikH0lop/malware_showcase",
+    "desc": "Understand the nature of malicious software with practical examples in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "hongfz16/AvatarCLIP",
+    "url": "https://github.com/hongfz16/AvatarCLIP",
+    "desc": "[SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars",
+    "lang": "Python"
+  },
+  {
+    "title": "mitmproxy/mitmproxy",
+    "url": "https://github.com/mitmproxy/mitmproxy",
+    "desc": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+    "lang": "Python"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/mae",
+    "url": "https://github.com/facebookresearch/mae",
+    "desc": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/python-docs-samples",
+    "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+    "desc": "Code samples used on cloud.google.com",
+    "lang": "Python"
+  },
+  {
+    "title": "kubernetes-client/python",
+    "url": "https://github.com/kubernetes-client/python",
+    "desc": "Official Python client library for kubernetes",
+    "lang": "Python"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "desc": "Experience macOS just like before",
+    "lang": "Python"
+  },
+  {
+    "title": "doccano/doccano",
+    "url": "https://github.com/doccano/doccano",
+    "desc": "Open source annotation tool for machine learning practitioners.",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  }
+]
