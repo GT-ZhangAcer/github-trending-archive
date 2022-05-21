@@ -1,0 +1,152 @@
+[
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "chainfeeds/RSSAggregatorforWeb3",
+    "url": "https://github.com/chainfeeds/RSSAggregatorforWeb3",
+    "desc": "Bootstrapping your personal Web3 info hub from more than 500 RSS Feeds.",
+    "lang": "Python"
+  },
+  {
+    "title": "ray-project/ray",
+    "url": "https://github.com/ray-project/ray",
+    "desc": "An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "httpie/httpie",
+    "url": "https://github.com/httpie/httpie",
+    "desc": "As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie",
+    "lang": "Python"
+  },
+  {
+    "title": "objectiv/objectiv-analytics",
+    "url": "https://github.com/objectiv/objectiv-analytics",
+    "desc": "Objectiv is open-source product analytics infrastructure with a generic event taxonomy.",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "crytic/slither",
+    "url": "https://github.com/crytic/slither",
+    "desc": "Static Analyzer for Solidity",
+    "lang": "Python"
+  },
+  {
+    "title": "nginxinc/kic-reference-architectures",
+    "url": "https://github.com/nginxinc/kic-reference-architectures",
+    "desc": "Ingress Controller Reference Architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmclassification",
+    "url": "https://github.com/open-mmlab/mmclassification",
+    "desc": "OpenMMLab Image Classification Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "ykdojo/friendlyreminderbot",
+    "url": "https://github.com/ykdojo/friendlyreminderbot",
+    "desc": "A friendly reminder twitter bot to keep you healthy and happy",
+    "lang": "Python"
+  },
+  {
+    "title": "BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset",
+    "url": "https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset",
+    "desc": "This repository provides motion datasets collected by Bandai Namco Research Inc",
+    "lang": "Python"
+  },
+  {
+    "title": "PatrikH0lop/malware_showcase",
+    "url": "https://github.com/PatrikH0lop/malware_showcase",
+    "desc": "Understand the nature of malicious software with practical examples in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection3d",
+    "url": "https://github.com/open-mmlab/mmdetection3d",
+    "desc": "OpenMMLab's next-generation platform for general 3D object detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "MatrixTM/MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/ERNIE",
+    "url": "https://github.com/PaddlePaddle/ERNIE",
+    "desc": "Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "pofey/movie_robot",
+    "url": "https://github.com/pofey/movie_robot",
+    "desc": "轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。",
+    "lang": "Python"
+  },
+  {
+    "title": "awslabs/amazon-redshift-utils",
+    "url": "https://github.com/awslabs/amazon-redshift-utils",
+    "desc": "Amazon Redshift Utils contains utilities, scripts and view which are useful in a Redshift environment",
+    "lang": "Python"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "desc": "scikit-learn: machine learning in Python",
+    "lang": "Python"
+  }
+]
