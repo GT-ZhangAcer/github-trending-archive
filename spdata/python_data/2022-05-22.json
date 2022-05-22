@@ -1,0 +1,152 @@
+[
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "WeChat-Big-Data-Challenge-2022/challenge",
+    "url": "https://github.com/WeChat-Big-Data-Challenge-2022/challenge",
+    "desc": "微信大赛baseline",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/nvdiffrec",
+    "url": "https://github.com/NVlabs/nvdiffrec",
+    "desc": "Official code for the CVPR 2022 (oral) paper Extracting Triangular 3D Models, Materials, and Lighting From Images.",
+    "lang": "Python"
+  },
+  {
+    "title": "TobeTek/Zuri",
+    "url": "https://github.com/TobeTek/Zuri",
+    "desc": "learning always",
+    "lang": "Python"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "zhouhaoyi/Informer2020",
+    "url": "https://github.com/zhouhaoyi/Informer2020",
+    "desc": "The GitHub repository for the paper Informer accepted by AAAI 2021.",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "dcajasn/Riskfolio-Lib",
+    "url": "https://github.com/dcajasn/Riskfolio-Lib",
+    "desc": "Portfolio Optimization and Quantitative Strategic Asset Allocation in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "Rongjiehuang/FastDiff",
+    "url": "https://github.com/Rongjiehuang/FastDiff",
+    "desc": "PyTorch Implementation of FastDiff (IJCAI'22)",
+    "lang": "Python"
+  },
+  {
+    "title": "lutris/lutris",
+    "url": "https://github.com/lutris/lutris",
+    "desc": "Lutris desktop client in Python / PyGObject",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "desc": "A collection of simple python mini projects to enhance your python skills",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "pachterlab/gget",
+    "url": "https://github.com/pachterlab/gget",
+    "desc": "gget enables efficient querying of genomic databases, such as Ensembl, UniProt, NCBI, directly into a Python or terminal programming environment. It was designed to support genomic data analysis.",
+    "lang": "Python"
+  },
+  {
+    "title": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。",
+    "lang": "Python"
+  }
+]
