@@ -1,0 +1,146 @@
+[
+  {
+    "title": "WeChat-Big-Data-Challenge-2022/challenge",
+    "url": "https://github.com/WeChat-Big-Data-Challenge-2022/challenge",
+    "desc": "微信大赛baseline",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "firstapostle/Blood",
+    "url": "https://github.com/firstapostle/Blood",
+    "desc": "Layer 7 DDoS Panel with Cloudflare Bypass ( UAM, CAPTCHA, BFM, etc.. )",
+    "lang": "Python"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "lang": "Python"
+  },
+  {
+    "title": "apachecn/ailearning",
+    "url": "https://github.com/apachecn/ailearning",
+    "desc": "AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2",
+    "lang": "Python"
+  },
+  {
+    "title": "pythonstock/stock",
+    "url": "https://github.com/pythonstock/stock",
+    "desc": "stock，股票系统。使用python进行开发。",
+    "lang": "Python"
+  },
+  {
+    "title": "Rongjiehuang/FastDiff",
+    "url": "https://github.com/Rongjiehuang/FastDiff",
+    "desc": "PyTorch Implementation of FastDiff (IJCAI'22)",
+    "lang": "Python"
+  },
+  {
+    "title": "danielgatis/rembg",
+    "url": "https://github.com/danielgatis/rembg",
+    "desc": "Rembg is a tool to remove images background.",
+    "lang": "Python"
+  },
+  {
+    "title": "cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions",
+    "url": "https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "tr0uble-mAker/POC-bomber",
+    "url": "https://github.com/tr0uble-mAker/POC-bomber",
+    "desc": "利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点",
+    "lang": "Python"
+  },
+  {
+    "title": "petercorke/robotics-toolbox-python",
+    "url": "https://github.com/petercorke/robotics-toolbox-python",
+    "desc": "Robotics Toolbox for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "optuna/optuna",
+    "url": "https://github.com/optuna/optuna",
+    "desc": "A hyperparameter optimization framework",
+    "lang": "Python"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "desc": "A collection of simple python mini projects to enhance your python skills",
+    "lang": "Python"
+  },
+  {
+    "title": "python/typeshed",
+    "url": "https://github.com/python/typeshed",
+    "desc": "Collection of library stubs for Python, with static types",
+    "lang": "Python"
+  },
+  {
+    "title": "Endermanch/MalwareDatabase",
+    "url": "https://github.com/Endermanch/MalwareDatabase",
+    "desc": "This repository is one of a few malware collections on the GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "MIC-DKFZ/nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "scipy/scipy",
+    "url": "https://github.com/scipy/scipy",
+    "desc": "SciPy library main repository",
+    "lang": "Python"
+  },
+  {
+    "title": "pre-commit/pre-commit-hooks",
+    "url": "https://github.com/pre-commit/pre-commit-hooks",
+    "desc": "Some out-of-the-box hooks for pre-commit",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "JacobSterns/Solana-mint-bot",
+    "url": "https://github.com/JacobSterns/Solana-mint-bot",
+    "desc": "Solana Minting Bot | MagicEden + MonkeLabs",
+    "lang": "Python"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "lang": "Python"
+  },
+  {
+    "title": "marsCXXV/Magiceden-bot",
+    "url": "https://github.com/marsCXXV/Magiceden-bot",
+    "desc": "Minting bot for magiceden launchpad",
+    "lang": "Python"
+  }
+]
