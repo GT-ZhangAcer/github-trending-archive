@@ -1,0 +1,152 @@
+[
+  {
+    "title": "EstrellaXD/Auto_Bangumi",
+    "url": "https://github.com/EstrellaXD/Auto_Bangumi",
+    "desc": "AutoBangumi - 全自动追番工具，节约时间创造价值",
+    "lang": "Python"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "desc": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "lang": "Python"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界",
+    "lang": "Python"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "WeChat-Big-Data-Challenge-2022/challenge",
+    "url": "https://github.com/WeChat-Big-Data-Challenge-2022/challenge",
+    "desc": "微信大赛baseline",
+    "lang": "Python"
+  },
+  {
+    "title": "Zy143L/wskey",
+    "url": "https://github.com/Zy143L/wskey",
+    "desc": "wskey",
+    "lang": "Python"
+  },
+  {
+    "title": "shmilylty/OneForAll",
+    "url": "https://github.com/shmilylty/OneForAll",
+    "desc": "OneForAll是一款功能强大的子域收集工具",
+    "lang": "Python"
+  },
+  {
+    "title": "fxsjy/jieba",
+    "url": "https://github.com/fxsjy/jieba",
+    "desc": "结巴中文分词",
+    "lang": "Python"
+  },
+  {
+    "title": "apachecn/ailearning",
+    "url": "https://github.com/apachecn/ailearning",
+    "desc": "AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2",
+    "lang": "Python"
+  },
+  {
+    "title": "TheKingOfDuck/fuzzDicts",
+    "url": "https://github.com/TheKingOfDuck/fuzzDicts",
+    "desc": "Web Pentesting Fuzz 字典,一个就够了。",
+    "lang": "Python"
+  },
+  {
+    "title": "Ehco1996/django-sspanel",
+    "url": "https://github.com/Ehco1996/django-sspanel",
+    "desc": "用 diango 开发的 shadowsocks 面板",
+    "lang": "Python"
+  },
+  {
+    "title": "0x727/ShuiZe_0x727",
+    "url": "https://github.com/0x727/ShuiZe_0x727",
+    "desc": "信息收集自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "Womsxd/AutoMihoyoBBS",
+    "url": "https://github.com/Womsxd/AutoMihoyoBBS",
+    "desc": "米游社自动签到，支持：崩坏二、崩坏三、原神，米游币自动获取",
+    "lang": "Python"
+  },
+  {
+    "title": "Axx8/Bypass_AV",
+    "url": "https://github.com/Axx8/Bypass_AV",
+    "desc": "Bypass_AV msf免杀，ShellCode免杀加载器 ，免杀shellcode执行程序 ，360&火绒&Windows Defender",
+    "lang": "Python"
+  },
+  {
+    "title": "MingchaoZhu/DeepLearning",
+    "url": "https://github.com/MingchaoZhu/DeepLearning",
+    "desc": "Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "UzJu/Cloud-Bucket-Leak-Detection-Tools",
+    "url": "https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools",
+    "desc": "六大云存储，泄露利用检测工具",
+    "lang": "Python"
+  },
+  {
+    "title": "Morizeyao/GPT2-Chinese",
+    "url": "https://github.com/Morizeyao/GPT2-Chinese",
+    "desc": "Chinese version of GPT2 training code, using BERT tokenizer.",
+    "lang": "Python"
+  },
+  {
+    "title": "TophantTechnology/ARL",
+    "url": "https://github.com/TophantTechnology/ARL",
+    "desc": "ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/trt-samples-for-hackathon-cn",
+    "url": "https://github.com/NVIDIA/trt-samples-for-hackathon-cn",
+    "desc": "Simple samples for TensorRT programming",
+    "lang": "Python"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "DA-southampton/NLP_ability",
+    "url": "https://github.com/DA-southampton/NLP_ability",
+    "desc": "总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括面试题，各种基础知识，工程能力等等，提升核心竞争力",
+    "lang": "Python"
+  },
+  {
+    "title": "Python3WebSpider/ProxyPool",
+    "url": "https://github.com/Python3WebSpider/ProxyPool",
+    "desc": "An Efficient ProxyPool with Getter, Tester and Server",
+    "lang": "Python"
+  },
+  {
+    "title": "blackboxo/CleanMyWechat",
+    "url": "https://github.com/blackboxo/CleanMyWechat",
+    "desc": "自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSlim",
+    "url": "https://github.com/PaddlePaddle/PaddleSlim",
+    "desc": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+    "lang": "Python"
+  }
+]
