@@ -1,0 +1,152 @@
+[
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "desc": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "desc": "PyTorch package for the discrete VAE used for DALL·E.",
+    "lang": "Python"
+  },
+  {
+    "title": "dask/dask",
+    "url": "https://github.com/dask/dask",
+    "desc": "Parallel computing with task scheduling",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "horizon3ai/CVE-2022-22972",
+    "url": "https://github.com/horizon3ai/CVE-2022-22972",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "hhyo/Archery",
+    "url": "https://github.com/hhyo/Archery",
+    "desc": "SQL 审核查询平台",
+    "lang": "Python"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "In-Database Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "shmilylty/OneForAll",
+    "url": "https://github.com/shmilylty/OneForAll",
+    "desc": "OneForAll是一款功能强大的子域收集工具",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "coreruleset/coreruleset",
+    "url": "https://github.com/coreruleset/coreruleset",
+    "desc": "OWASP ModSecurity Core Rule Set (Official Repository)",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/dalle-flow",
+    "url": "https://github.com/jina-ai/dalle-flow",
+    "desc": "A Human-in-the-Loop workflow for creating HD images from text",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "desc": "A SQL linter and auto-formatter for Humans",
+    "lang": "Python"
+  },
+  {
+    "title": "py-why/dowhy",
+    "url": "https://github.com/py-why/dowhy",
+    "desc": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "ageitgey/face_recognition",
+    "url": "https://github.com/ageitgey/face_recognition",
+    "desc": "The world's simplest facial recognition api for Python and the command line",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "obss/sahi",
+    "url": "https://github.com/obss/sahi",
+    "desc": "A lightweight vision library for performing large scale object detection/ instance segmentation.",
+    "lang": "Python"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "desc": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "lang": "Python"
+  },
+  {
+    "title": "mlflow/mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "desc": "Open source platform for the machine learning lifecycle",
+    "lang": "Python"
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "desc": "An orchestration platform for the development, production, and observation of data assets.",
+    "lang": "Python"
+  },
+  {
+    "title": "shadowsocks/shadowsocks",
+    "url": "https://github.com/shadowsocks/shadowsocks",
+    "desc": "",
+    "lang": "Python"
+  }
+]
