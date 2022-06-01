@@ -1,0 +1,152 @@
+[
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "py-why/dowhy",
+    "url": "https://github.com/py-why/dowhy",
+    "desc": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "yihong0618/2022",
+    "url": "https://github.com/yihong0618/2022",
+    "desc": "2022 gogogo",
+    "lang": "Python"
+  },
+  {
+    "title": "cookiecutter/cookiecutter",
+    "url": "https://github.com/cookiecutter/cookiecutter",
+    "desc": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.",
+    "lang": "Python"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "p1ngul1n0/blackbird",
+    "url": "https://github.com/p1ngul1n0/blackbird",
+    "desc": "An OSINT tool to search for accounts by username in 75 social networks.",
+    "lang": "Python"
+  },
+  {
+    "title": "wilsonfreitas/awesome-quant",
+    "url": "https://github.com/wilsonfreitas/awesome-quant",
+    "desc": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+    "lang": "Python"
+  },
+  {
+    "title": "JohnHammond/msdt-follina",
+    "url": "https://github.com/JohnHammond/msdt-follina",
+    "desc": "Codebase to generate an msdt-follina payload",
+    "lang": "Python"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "desc": "What the f*ck Python? 😱",
+    "lang": "Python"
+  },
+  {
+    "title": "WhaleFell/SMSBoom",
+    "url": "https://github.com/WhaleFell/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "necreas1ng/VLANPWN",
+    "url": "https://github.com/necreas1ng/VLANPWN",
+    "desc": "VLAN attacks toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
+    "lang": "Python"
+  },
+  {
+    "title": "ADLab-AutoDrive/BEVFusion",
+    "url": "https://github.com/ADLab-AutoDrive/BEVFusion",
+    "desc": "Offical PyTorch implementation of BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "adap/flower",
+    "url": "https://github.com/adap/flower",
+    "desc": "Flower - A Friendly Federated Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "Threekiii/Awesome-Redteam",
+    "url": "https://github.com/Threekiii/Awesome-Redteam",
+    "desc": "一个红队知识仓库",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "reddelexc/hackerone-reports",
+    "url": "https://github.com/reddelexc/hackerone-reports",
+    "desc": "Top disclosed reports from HackerOne",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/Megatron-LM",
+    "url": "https://github.com/NVIDIA/Megatron-LM",
+    "desc": "Ongoing research training transformer models at scale",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  }
+]
