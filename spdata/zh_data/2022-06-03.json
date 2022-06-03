@@ -1,0 +1,150 @@
+[
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "lang": "Java"
+  },
+  {
+    "title": "tmplink/ipv6",
+    "url": "https://github.com/tmplink/ipv6",
+    "desc": "A document about ipv6."
+  },
+  {
+    "title": "Threekiii/Awesome-Redteam",
+    "url": "https://github.com/Threekiii/Awesome-Redteam",
+    "desc": "一个红队知识仓库",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "desc": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "lang": "Java"
+  },
+  {
+    "title": "byoungd/English-level-up-tips",
+    "url": "https://github.com/byoungd/English-level-up-tips",
+    "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。"
+  },
+  {
+    "title": "lecepin/WeChatVideoDownloader",
+    "url": "https://github.com/lecepin/WeChatVideoDownloader",
+    "desc": "超方便的微信视频号下载器",
+    "lang": "VBScript"
+  },
+  {
+    "title": "lib-pku/libpku",
+    "url": "https://github.com/lib-pku/libpku",
+    "desc": "贵校课程资料民间整理",
+    "lang": "TeX"
+  },
+  {
+    "title": "EssayKillerBrain/EssayTopicPredict",
+    "url": "https://github.com/EssayKillerBrain/EssayTopicPredict",
+    "desc": "高考作文题目预测模型 v1.0",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "wenbochang888/house",
+    "url": "https://github.com/wenbochang888/house",
+    "desc": "有完整版的PDF下载。",
+    "lang": "Java"
+  },
+  {
+    "title": "Tencent/tmagic-editor",
+    "url": "https://github.com/Tencent/tmagic-editor",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/x-render",
+    "url": "https://github.com/alibaba/x-render",
+    "desc": "🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "datawhalechina/thorough-pytorch",
+    "url": "https://github.com/datawhalechina/thorough-pytorch",
+    "desc": "PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Fooyao/FollowMint",
+    "url": "https://github.com/Fooyao/FollowMint",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "focus-creative-games/huatuo",
+    "url": "https://github.com/focus-creative-games/huatuo",
+    "desc": "huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix",
+    "lang": "C++"
+  },
+  {
+    "title": "ccfos/nightingale",
+    "url": "https://github.com/ccfos/nightingale",
+    "desc": "An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",
+    "lang": "Go"
+  },
+  {
+    "title": "tossp/redpill-tool-chain",
+    "url": "https://github.com/tossp/redpill-tool-chain",
+    "desc": "这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请谨慎使用。",
+    "lang": "Shell"
+  },
+  {
+    "title": "hq450/fancyss",
+    "url": "https://github.com/hq450/fancyss",
+    "desc": "fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.",
+    "lang": "Shell"
+  },
+  {
+    "title": "HalseySpicy/Geeker-Admin",
+    "url": "https://github.com/HalseySpicy/Geeker-Admin",
+    "desc": "✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lionsoul2014/ip2region",
+    "url": "https://github.com/lionsoul2014/ip2region",
+    "desc": "Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm",
+    "lang": "C#"
+  },
+  {
+    "title": "648540858/wvp-GB28181-pro",
+    "url": "https://github.com/648540858/wvp-GB28181-pro",
+    "desc": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+    "lang": "Java"
+  },
+  {
+    "title": "easychen/checkchan-dist",
+    "url": "https://github.com/easychen/checkchan-dist",
+    "desc": "Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/APIJSON",
+    "url": "https://github.com/Tencent/APIJSON",
+    "desc": "🚀 零代码、全功能、强安全 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for providing APIs and Docs without writing any code.",
+    "lang": "Java"
+  },
+  {
+    "title": "Tencent/tdesign-vue",
+    "url": "https://github.com/Tencent/tdesign-vue",
+    "desc": "A Vue.js UI components lib for TDesign.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "wistbean/learn_python3_spider",
+    "url": "https://github.com/wistbean/learn_python3_spider",
+    "desc": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+    "lang": "Python"
+  },
+  {
+    "title": "xuxueli/xxl-job",
+    "url": "https://github.com/xuxueli/xxl-job",
+    "desc": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "lang": "Java"
+  }
+]

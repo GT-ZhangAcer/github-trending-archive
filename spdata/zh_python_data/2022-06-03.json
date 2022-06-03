@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Threekiii/Awesome-Redteam",
+    "url": "https://github.com/Threekiii/Awesome-Redteam",
+    "desc": "一个红队知识仓库",
+    "lang": "Python"
+  },
+  {
+    "title": "Fooyao/FollowMint",
+    "url": "https://github.com/Fooyao/FollowMint",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "wistbean/learn_python3_spider",
+    "url": "https://github.com/wistbean/learn_python3_spider",
+    "desc": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+    "lang": "Python"
+  },
+  {
+    "title": "EssayKillerBrain/EssayKiller_V2",
+    "url": "https://github.com/EssayKillerBrain/EssayKiller_V2",
+    "desc": "基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化",
+    "lang": "Python"
+  },
+  {
+    "title": "WhaleFell/SMSBoom",
+    "url": "https://github.com/WhaleFell/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
+    "lang": "Python"
+  },
+  {
+    "title": "EstrellaXD/Auto_Bangumi",
+    "url": "https://github.com/EstrellaXD/Auto_Bangumi",
+    "desc": "AutoBangumi - 全自动追番工具，节约时间创造价值",
+    "lang": "Python"
+  },
+  {
+    "title": "alisen39/TrWebOCR",
+    "url": "https://github.com/alisen39/TrWebOCR",
+    "desc": "开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口，方便人类日常工作使用或者其他程序来调用~",
+    "lang": "Python"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "desc": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "lang": "Python"
+  },
+  {
+    "title": "Johnserf-Seed/TikTokDownload",
+    "url": "https://github.com/Johnserf-Seed/TikTokDownload",
+    "desc": "抖音去水印视频批量下载",
+    "lang": "Python"
+  },
+  {
+    "title": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "minivision-ai/photo2cartoon",
+    "url": "https://github.com/minivision-ai/photo2cartoon",
+    "desc": "人像卡通化探索项目 (photo-to-cartoon translation project)",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "jhao104/proxy_pool",
+    "url": "https://github.com/jhao104/proxy_pool",
+    "desc": "Python爬虫代理IP池(proxy pool)",
+    "lang": "Python"
+  },
+  {
+    "title": "taojy123/KeymouseGo",
+    "url": "https://github.com/taojy123/KeymouseGo",
+    "desc": "类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input",
+    "lang": "Python"
+  },
+  {
+    "title": "sirodeneko/genshin-sign",
+    "url": "https://github.com/sirodeneko/genshin-sign",
+    "desc": "原神自动签到",
+    "lang": "Python"
+  },
+  {
+    "title": "zr2021/2021_QQ_AIAC_Tack1_1st",
+    "url": "https://github.com/zr2021/2021_QQ_AIAC_Tack1_1st",
+    "desc": "QQ浏览器2021AI算法大赛赛道一 第1名 方案",
+    "lang": "Python"
+  },
+  {
+    "title": "PyJun/Mooc_Downloader",
+    "url": "https://github.com/PyJun/Mooc_Downloader",
+    "desc": "学无止下载器，慕课下载器，Mooc网课下载，慕课网，中国大学，爱课程，网易云课堂，学堂在线，超星学习通，学银在线；支持视频，课件同时下载",
+    "lang": "Python"
+  },
+  {
+    "title": "958261649/Miku_Miku_Rig",
+    "url": "https://github.com/958261649/Miku_Miku_Rig",
+    "desc": "MikuMikuRig是一款集生成控制器，自动导入动画，自动布料为一体的blender插件",
+    "lang": "Python"
+  },
+  {
+    "title": "ymcui/Chinese-BERT-wwm",
+    "url": "https://github.com/ymcui/Chinese-BERT-wwm",
+    "desc": "Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/AI-System",
+    "url": "https://github.com/microsoft/AI-System",
+    "desc": "System for AI Education Resource.",
+    "lang": "Python"
+  },
+  {
+    "title": "Womsxd/AutoMihoyoBBS",
+    "url": "https://github.com/Womsxd/AutoMihoyoBBS",
+    "desc": "米游社自动签到，支持：崩坏二、崩坏三、原神，米游币自动获取",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "JohnHammond/msdt-follina",
+    "url": "https://github.com/JohnHammond/msdt-follina",
+    "desc": "Codebase to generate an msdt-follina payload",
+    "lang": "Python"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "desc": "中国程序员容易发音错误的单词",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "ergrelet/unlicense",
+    "url": "https://github.com/ergrelet/unlicense",
+    "desc": "Dynamic unpacker and import fixer for Themida/WinLicense 2.x and 3.x.",
+    "lang": "Python"
+  },
+  {
+    "title": "Threekiii/Awesome-Redteam",
+    "url": "https://github.com/Threekiii/Awesome-Redteam",
+    "desc": "一个红队知识仓库",
+    "lang": "Python"
+  },
+  {
+    "title": "py-why/dowhy",
+    "url": "https://github.com/py-why/dowhy",
+    "desc": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "martandsingh/ApacheSpark",
+    "url": "https://github.com/martandsingh/ApacheSpark",
+    "desc": "This repository will help you to learn about databricks concept with the help of examples. It will include all the important topics which we need in our real life experience as a data engineer.",
+    "lang": "Python"
+  },
+  {
+    "title": "HuangJunJie2017/BEVDet",
+    "url": "https://github.com/HuangJunJie2017/BEVDet",
+    "desc": "Official code base of the BEVDet series .",
+    "lang": "Python"
+  },
+  {
+    "title": "AnthonyCalandra/modern-cpp-features",
+    "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
+    "desc": "A cheatsheet of modern C++ language and library features.",
+    "lang": "Python"
+  },
+  {
+    "title": "apprenticeharper/DeDRM_tools",
+    "url": "https://github.com/apprenticeharper/DeDRM_tools",
+    "desc": "DeDRM tools for ebooks",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "lang": "Python"
+  },
+  {
+    "title": "yumingj/Text2Human",
+    "url": "https://github.com/yumingj/Text2Human",
+    "desc": "Code for Text2Human (SIGGRAPH 2022). Paper: Text2Human: Text-Driven Controllable Human Image Generation",
+    "lang": "Python"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "pre-commit/pre-commit-hooks",
+    "url": "https://github.com/pre-commit/pre-commit-hooks",
+    "desc": "Some out-of-the-box hooks for pre-commit",
+    "lang": "Python"
+  },
+  {
+    "title": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "desc": "Optional static typing for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Fooyao/FollowMint",
+    "url": "https://github.com/Fooyao/FollowMint",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  },
+  {
+    "title": "NafisiAslH/KnowledgeSharing",
+    "url": "https://github.com/NafisiAslH/KnowledgeSharing",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/Mask2Former",
+    "url": "https://github.com/facebookresearch/Mask2Former",
+    "desc": "Code release for Masked-attention Mask Transformer for Universal Image Segmentation",
+    "lang": "Python"
+  }
+]

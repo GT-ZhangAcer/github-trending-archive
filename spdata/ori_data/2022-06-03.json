@@ -1,0 +1,148 @@
+[
+  {
+    "title": "mxgmn/MarkovJunior",
+    "url": "https://github.com/mxgmn/MarkovJunior",
+    "desc": "Probabilistic PL based on pattern matching and constraint propagation, 148 examples",
+    "lang": "C#"
+  },
+  {
+    "title": "JohnHammond/msdt-follina",
+    "url": "https://github.com/JohnHammond/msdt-follina",
+    "desc": "Codebase to generate an msdt-follina payload",
+    "lang": "Python"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
+    "desc": "A collection of New Grad full time roles in SWE, Quant, and PM."
+  },
+  {
+    "title": "PJLab-ADG/SensorsCalibration",
+    "url": "https://github.com/PJLab-ADG/SensorsCalibration",
+    "desc": "OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving",
+    "lang": "C++"
+  },
+  {
+    "title": "khangich/machine-learning-interview",
+    "url": "https://github.com/khangich/machine-learning-interview",
+    "desc": "Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io."
+  },
+  {
+    "title": "samber/lo",
+    "url": "https://github.com/samber/lo",
+    "desc": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "lang": "Go"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "desc": "中国程序员容易发音错误的单词",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "lang": "Java"
+  },
+  {
+    "title": "InterviewReady/system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "desc": "These are the best resources for System Design on the Internet"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "tmplink/ipv6",
+    "url": "https://github.com/tmplink/ipv6",
+    "desc": "A document about ipv6."
+  },
+  {
+    "title": "ergrelet/unlicense",
+    "url": "https://github.com/ergrelet/unlicense",
+    "desc": "Dynamic unpacker and import fixer for Themida/WinLicense 2.x and 3.x.",
+    "lang": "Python"
+  },
+  {
+    "title": "git-noter/gitnoter",
+    "url": "https://github.com/git-noter/gitnoter",
+    "desc": "An open source, markdown-based, self-hosted note taking webapp.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Threekiii/Awesome-Redteam",
+    "url": "https://github.com/Threekiii/Awesome-Redteam",
+    "desc": "一个红队知识仓库",
+    "lang": "Python"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Shell"
+  },
+  {
+    "title": "py-why/dowhy",
+    "url": "https://github.com/py-why/dowhy",
+    "desc": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "vuejs/vitepress",
+    "url": "https://github.com/vuejs/vitepress",
+    "desc": "Vite & Vue powered static site generator.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tinygo-org/tinygo",
+    "url": "https://github.com/tinygo-org/tinygo",
+    "desc": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+    "lang": "Go"
+  },
+  {
+    "title": "WordPress/gutenberg",
+    "url": "https://github.com/WordPress/gutenberg",
+    "desc": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "WordPress/wordpress-develop",
+    "url": "https://github.com/WordPress/wordpress-develop",
+    "desc": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+    "lang": "PHP"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "desc": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "lang": "Java"
+  },
+  {
+    "title": "chvancooten/follina.py",
+    "url": "https://github.com/chvancooten/follina.py",
+    "desc": "POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes",
+    "lang": "Smarty"
+  }
+]
