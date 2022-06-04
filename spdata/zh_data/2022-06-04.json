@@ -1,0 +1,148 @@
+[
+  {
+    "title": "tmplink/ipv6",
+    "url": "https://github.com/tmplink/ipv6",
+    "desc": "A document about ipv6."
+  },
+  {
+    "title": "tianqiraf/DouZero_For_HappyDouDiZhu",
+    "url": "https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu",
+    "desc": "基于DouZero定制AI实战欢乐斗地主",
+    "lang": "Python"
+  },
+  {
+    "title": "tennc/webshell",
+    "url": "https://github.com/tennc/webshell",
+    "desc": "This is a webshell open source project",
+    "lang": "PHP"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "desc": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "lang": "Java"
+  },
+  {
+    "title": "ddgksf2013/Cuttlefish",
+    "url": "https://github.com/ddgksf2013/Cuttlefish",
+    "desc": "Scripts for self-use, ⛔️ fork",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LinghaoChan/CSSummerCamp2022",
+    "url": "https://github.com/LinghaoChan/CSSummerCamp2022",
+    "desc": "关于2022年CS保研夏令营通知公告的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？"
+  },
+  {
+    "title": "niuhuan/pikapika",
+    "url": "https://github.com/niuhuan/pikapika",
+    "desc": "(R18+) 美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS。",
+    "lang": "Dart"
+  },
+  {
+    "title": "EssayKillerBrain/EssayTopicPredict",
+    "url": "https://github.com/EssayKillerBrain/EssayTopicPredict",
+    "desc": "高考作文题目预测模型 v1.0",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tossp/redpill-tool-chain",
+    "url": "https://github.com/tossp/redpill-tool-chain",
+    "desc": "这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请谨慎使用。",
+    "lang": "Shell"
+  },
+  {
+    "title": "hq450/fancyss_history_package",
+    "url": "https://github.com/hq450/fancyss_history_package",
+    "desc": "科学上网插件的离线安装包储存在这里"
+  },
+  {
+    "title": "catvod/CatVodTVSpider",
+    "url": "https://github.com/catvod/CatVodTVSpider",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "liujiaqi7998/GrasscuttersWebDashboard",
+    "url": "https://github.com/liujiaqi7998/GrasscuttersWebDashboard",
+    "desc": "Grasscutters的WEB控制面板",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，自动刷图、智能基建换班，全日常一键长草！",
+    "lang": "C++"
+  },
+  {
+    "title": "3150601355/code_in_paojie",
+    "url": "https://github.com/3150601355/code_in_paojie",
+    "desc": "把代码排版位炮姐（御坂美琴）的样子，能运行，能唱歌",
+    "lang": "C"
+  },
+  {
+    "title": "ljc545w/ComWeChatRobot",
+    "url": "https://github.com/ljc545w/ComWeChatRobot",
+    "desc": "PC微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装COM接口供Python、C#调用",
+    "lang": "C++"
+  },
+  {
+    "title": "Threekiii/Awesome-Redteam",
+    "url": "https://github.com/Threekiii/Awesome-Redteam",
+    "desc": "一个红队知识仓库",
+    "lang": "Python"
+  },
+  {
+    "title": "raoli1986/Shadowrocket-ID",
+    "url": "https://github.com/raoli1986/Shadowrocket-ID",
+    "desc": ""
+  },
+  {
+    "title": "leafTheFish/DeathNote",
+    "url": "https://github.com/leafTheFish/DeathNote",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hq450/fancyss",
+    "url": "https://github.com/hq450/fancyss",
+    "desc": "fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.",
+    "lang": "Shell"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "jerrykuku/luci-app-vssr",
+    "url": "https://github.com/jerrykuku/luci-app-vssr",
+    "desc": "HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。",
+    "lang": "Lua"
+  },
+  {
+    "title": "yoshiko2/Movie_Data_Capture",
+    "url": "https://github.com/yoshiko2/Movie_Data_Capture",
+    "desc": "Local Movies Metadata Scraper",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "Openit订阅致力于打造免费无感的翻墙环境",
+    "lang": "Smarty"
+  }
+]
