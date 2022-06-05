@@ -1,0 +1,149 @@
+[
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "Rainbell129/Obsidian-Homepage",
+    "url": "https://github.com/Rainbell129/Obsidian-Homepage",
+    "desc": "A dashboard for your obsidian vault.",
+    "lang": "CSS"
+  },
+  {
+    "title": "lib-pku/libpku",
+    "url": "https://github.com/lib-pku/libpku",
+    "desc": "贵校课程资料民间整理",
+    "lang": "TeX"
+  },
+  {
+    "title": "Mrs4s/go-cqhttp",
+    "url": "https://github.com/Mrs4s/go-cqhttp",
+    "desc": "cqhttp的golang实现，轻量、原生跨平台.",
+    "lang": "Go"
+  },
+  {
+    "title": "tianqiraf/DouZero_For_HappyDouDiZhu",
+    "url": "https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu",
+    "desc": "基于DouZero定制AI实战欢乐斗地主",
+    "lang": "Python"
+  },
+  {
+    "title": "BoyceLig/Clash_Chinese_Patch",
+    "url": "https://github.com/BoyceLig/Clash_Chinese_Patch",
+    "desc": "Clash For Windows 汉化补丁和汉化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "desc": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "lang": "Java"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造无感翻墙环境",
+    "lang": "Smarty"
+  },
+  {
+    "title": "daycat/freeray",
+    "url": "https://github.com/daycat/freeray",
+    "desc": "免费Clash节点，每小时自动更新，只要我github号不炸就一直能用！"
+  },
+  {
+    "title": "niuhuan/pikapika",
+    "url": "https://github.com/niuhuan/pikapika",
+    "desc": "(R18+) 美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS。",
+    "lang": "Dart"
+  },
+  {
+    "title": "gedoor/legado",
+    "url": "https://github.com/gedoor/legado",
+    "desc": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "ddgksf2013/Cuttlefish",
+    "url": "https://github.com/ddgksf2013/Cuttlefish",
+    "desc": "Scripts for self-use, ⛔️ fork",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "3150601355/code_in_paojie",
+    "url": "https://github.com/3150601355/code_in_paojie",
+    "desc": "把代码排版位炮姐（御坂美琴）的样子，能运行，能唱歌",
+    "lang": "C"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "lang": "Java"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
+    "lang": "Java"
+  },
+  {
+    "title": "bannedbook/fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "desc": "翻墙-科学上网",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "vpncn/vpncn.github.io",
+    "url": "https://github.com/vpncn/vpncn.github.io",
+    "desc": "2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。",
+    "lang": "HTML"
+  },
+  {
+    "title": "xlc520/MaoTV",
+    "url": "https://github.com/xlc520/MaoTV",
+    "desc": "猫影视资源接口"
+  },
+  {
+    "title": "Icalingua-plus-plus/Icalingua-plus-plus",
+    "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus",
+    "desc": "A client for QQ and more.",
+    "lang": "TypeScript"
+  }
+]
