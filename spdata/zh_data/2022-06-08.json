@@ -1,0 +1,147 @@
+[
+  {
+    "title": "yihong0618/Kindle_download_helper",
+    "url": "https://github.com/yihong0618/Kindle_download_helper",
+    "desc": "Download all your kindle books script.",
+    "lang": "Python"
+  },
+  {
+    "title": "LinuxSuRen/remote-jobs-in-china",
+    "url": "https://github.com/LinuxSuRen/remote-jobs-in-china",
+    "desc": "支持远程办公的中国公司"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
+    "lang": "Java"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "desc": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "lang": "Java"
+  },
+  {
+    "title": "liyupi/mianshiya-public",
+    "url": "https://github.com/liyupi/mianshiya-public",
+    "desc": "干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tr0uble-mAker/POC-bomber",
+    "url": "https://github.com/tr0uble-mAker/POC-bomber",
+    "desc": "利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点",
+    "lang": "Python"
+  },
+  {
+    "title": "qianguyihao/Web",
+    "url": "https://github.com/qianguyihao/Web",
+    "desc": "千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。"
+  },
+  {
+    "title": "applenob/Cpp_Primer_Practice",
+    "url": "https://github.com/applenob/Cpp_Primer_Practice",
+    "desc": "搞定C++👊。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。",
+    "lang": "C++"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "youth5201314/banner",
+    "url": "https://github.com/youth5201314/banner",
+    "desc": "🔥🔥🔥Banner 2.0 来了！Android广告图片轮播控件，内部基于ViewPager2实现，Indicator和UI都可以自定义。",
+    "lang": "Java"
+  },
+  {
+    "title": "jeecgboot/jeecgboot-vue3",
+    "url": "https://github.com/jeecgboot/jeecgboot-vue3",
+    "desc": "采用 Vue3.0、Vite、 Ant-Design-Vue、TypeScript 等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是在 Vben-Admin 基础上研发的，适合于JeecgBoot的新版前端VUE3框架。",
+    "lang": "Vue"
+  },
+  {
+    "title": "MLEveryday/100-Days-Of-ML-Code",
+    "url": "https://github.com/MLEveryday/100-Days-Of-ML-Code",
+    "desc": "100-Days-Of-ML-Code中文版",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "komomon/CVE-2022-30190-follina-Office-MSDT-Fixed",
+    "url": "https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed",
+    "desc": "CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。",
+    "lang": "Python"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "baidu/amis",
+    "url": "https://github.com/baidu/amis",
+    "desc": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flucont/btcloud",
+    "url": "https://github.com/flucont/btcloud",
+    "desc": "一个宝塔第三方云端的php站点程序",
+    "lang": "PHP"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "0voice/linux_kernel_wiki",
+    "url": "https://github.com/0voice/linux_kernel_wiki",
+    "desc": "linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "201206030/novel",
+    "url": "https://github.com/201206030/novel",
+    "desc": "novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备详细的项目开发教程手把手教你从零开始开发上线一个生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。",
+    "lang": "Java"
+  },
+  {
+    "title": "EssayKillerBrain/EssayTopicPredict",
+    "url": "https://github.com/EssayKillerBrain/EssayTopicPredict",
+    "desc": "高考作文题目预测模型 v1.0",
+    "lang": "JupyterNotebook"
+  }
+]
