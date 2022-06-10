@@ -1,0 +1,152 @@
+[
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "desc": "PyTorch package for the discrete VAE used for DALL·E.",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/eg3d",
+    "url": "https://github.com/NVlabs/eg3d",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "desc": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/dalle-flow",
+    "url": "https://github.com/jina-ai/dalle-flow",
+    "desc": "A Human-in-the-Loop workflow for creating HD images from text",
+    "lang": "Python"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "desc": "中国程序员容易发音错误的单词",
+    "lang": "Python"
+  },
+  {
+    "title": "mosaicml/composer",
+    "url": "https://github.com/mosaicml/composer",
+    "desc": "library of algorithms to speed up neural network training",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "doccano/doccano",
+    "url": "https://github.com/doccano/doccano",
+    "desc": "Open source annotation tool for machine learning practitioners.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmaction2",
+    "url": "https://github.com/open-mmlab/mmaction2",
+    "desc": "OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "In-Database Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "desc": "Experience macOS just like before",
+    "lang": "Python"
+  },
+  {
+    "title": "yihong0618/Kindle_download_helper",
+    "url": "https://github.com/yihong0618/Kindle_download_helper",
+    "desc": "Download all your kindle books script.",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "aaronsvk/CVE-2022-30075",
+    "url": "https://github.com/aaronsvk/CVE-2022-30075",
+    "desc": "Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075)",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/vit-pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "desc": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "komomon/CVE-2022-30190-follina-Office-MSDT-Fixed",
+    "url": "https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed",
+    "desc": "CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of SOTA Quant research works/papers are released in Qlib.",
+    "lang": "Python"
+  },
+  {
+    "title": "boto/boto3",
+    "url": "https://github.com/boto/boto3",
+    "desc": "AWS SDK for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Build cross-modal and multi-modal applications on the cloud",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "bailicangdu/vue2-happyfri",
+    "url": "https://github.com/bailicangdu/vue2-happyfri",
+    "desc": "vue2 + vue-router + vuex 入门项目",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "qianguyihao/Web",
+    "url": "https://github.com/qianguyihao/Web",
+    "desc": "千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。"
+  },
+  {
+    "title": "LinuxSuRen/remote-jobs-in-china",
+    "url": "https://github.com/LinuxSuRen/remote-jobs-in-china",
+    "desc": "支持远程办公的中国公司"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub."
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "yihong0618/Kindle_download_helper",
+    "url": "https://github.com/yihong0618/Kindle_download_helper",
+    "desc": "Download all your kindle books script.",
+    "lang": "Python"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "daycat/freeray",
+    "url": "https://github.com/daycat/freeray",
+    "desc": "免费Clash节点，每小时自动更新"
+  },
+  {
+    "title": "pppscn/SmsForwarder",
+    "url": "https://github.com/pppscn/SmsForwarder",
+    "desc": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "desc": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "lang": "Java"
+  },
+  {
+    "title": "komomon/CVE-2022-30190-follina-Office-MSDT-Fixed",
+    "url": "https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed",
+    "desc": "CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。",
+    "lang": "Python"
+  },
+  {
+    "title": "bailicangdu/vue2-elm",
+    "url": "https://github.com/bailicangdu/vue2-elm",
+    "desc": "基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用",
+    "lang": "Vue"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
+    "lang": "Java"
+  },
+  {
+    "title": "lenve/vhr",
+    "url": "https://github.com/lenve/vhr",
+    "desc": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。",
+    "lang": "Java"
+  },
+  {
+    "title": "jeecgboot/jeecgboot-vue3",
+    "url": "https://github.com/jeecgboot/jeecgboot-vue3",
+    "desc": "采用 Vue3.0、Vite、 Ant-Design-Vue、TypeScript 等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是在 Vben-Admin 基础上研发的，适合于JeecgBoot的新版前端VUE3框架。",
+    "lang": "Vue"
+  },
+  {
+    "title": "fantasticit/think",
+    "url": "https://github.com/fantasticit/think",
+    "desc": "云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "xuxueli/xxl-job",
+    "url": "https://github.com/xuxueli/xxl-job",
+    "desc": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "lang": "Java"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "desc": "人人可用的开源数据可视化分析工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Activiti + Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "hd9211/maotv",
+    "url": "https://github.com/hd9211/maotv",
+    "desc": ""
+  }
+]
