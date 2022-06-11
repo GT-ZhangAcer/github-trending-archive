@@ -1,0 +1,152 @@
+[
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "desc": "PyTorch package for the discrete VAE used for DALL·E.",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/eg3d",
+    "url": "https://github.com/NVlabs/eg3d",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Nefcore/CRLFsuite",
+    "url": "https://github.com/Nefcore/CRLFsuite",
+    "desc": "Fast CRLF injection scanning tool",
+    "lang": "Python"
+  },
+  {
+    "title": "mosaicml/composer",
+    "url": "https://github.com/mosaicml/composer",
+    "desc": "library of algorithms to speed up neural network training",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/detr",
+    "url": "https://github.com/facebookresearch/detr",
+    "desc": "End-to-End Object Detection with Transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "huawei-noah/CV-Backbones",
+    "url": "https://github.com/huawei-noah/CV-Backbones",
+    "desc": "CV backbones including GhostNet, TinyNet and TNT, developed by Huawei Noah's Ark Lab.",
+    "lang": "Python"
+  },
+  {
+    "title": "alievk/avatarify-python",
+    "url": "https://github.com/alievk/avatarify-python",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "lang": "Python"
+  },
+  {
+    "title": "p1ngul1n0/blackbird",
+    "url": "https://github.com/p1ngul1n0/blackbird",
+    "desc": "An OSINT tool to search for accounts by username in 116 social networks.",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "carykh/lazykh",
+    "url": "https://github.com/carykh/lazykh",
+    "desc": "Source code for the automatic lip-syncing project described in this video! https://www.youtube.com/watch?v=y3B8YqeLCpY",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "desc": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "giswqs/geemap",
+    "url": "https://github.com/giswqs/geemap",
+    "desc": "A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.",
+    "lang": "Python"
+  },
+  {
+    "title": "chungyiweng/humannerf",
+    "url": "https://github.com/chungyiweng/humannerf",
+    "desc": "HumanNeRF turns a monocular video of moving people into a 360 free-viewpoint video.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/dalle-flow",
+    "url": "https://github.com/jina-ai/dalle-flow",
+    "desc": "A Human-in-the-Loop workflow for creating HD images from text",
+    "lang": "Python"
+  },
+  {
+    "title": "komomon/CVE-2022-30190-follina-Office-MSDT-Fixed",
+    "url": "https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed",
+    "desc": "CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。",
+    "lang": "Python"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "desc": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "aaronsvk/CVE-2022-30075",
+    "url": "https://github.com/aaronsvk/CVE-2022-30075",
+    "desc": "Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075)",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/stylegan3",
+    "url": "https://github.com/NVlabs/stylegan3",
+    "desc": "Official PyTorch implementation of StyleGAN3",
+    "lang": "Python"
+  },
+  {
+    "title": "rougier/scientific-visualization-book",
+    "url": "https://github.com/rougier/scientific-visualization-book",
+    "desc": "An open access book on scientific visualization using python and matplotlib",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/tvm",
+    "url": "https://github.com/apache/tvm",
+    "desc": "Open deep learning compiler stack for cpu, gpu and specialized accelerators",
+    "lang": "Python"
+  },
+  {
+    "title": "oli233/corona-analysis",
+    "url": "https://github.com/oli233/corona-analysis",
+    "desc": "",
+    "lang": "Python"
+  }
+]

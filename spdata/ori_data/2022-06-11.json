@@ -1,0 +1,149 @@
+[
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "desc": "DALL·E Mini - Generate images from a text prompt",
+    "lang": "Python"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "desc": "PyTorch package for the discrete VAE used for DALL·E.",
+    "lang": "Python"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "desc": "⚙️ NGINX config generator on steroids 💉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ory/kratos",
+    "url": "https://github.com/ory/kratos",
+    "desc": "Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",
+    "lang": "Go"
+  },
+  {
+    "title": "saharmor/dalle-playground",
+    "url": "https://github.com/saharmor/dalle-playground",
+    "desc": "A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "desc": "The hackable text editor",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "NVlabs/eg3d",
+    "url": "https://github.com/NVlabs/eg3d",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub."
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Java"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated interview preparation materials for busy engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "coder/coder",
+    "url": "https://github.com/coder/coder",
+    "desc": "Coder creates remote development machines so you can develop your code from anywhere",
+    "lang": "Go"
+  },
+  {
+    "title": "Nefcore/CRLFsuite",
+    "url": "https://github.com/Nefcore/CRLFsuite",
+    "desc": "Fast CRLF injection scanning tool",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "lang": "C#"
+  },
+  {
+    "title": "github/entitlements-app",
+    "url": "https://github.com/github/entitlements-app",
+    "desc": "The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System",
+    "lang": "Ruby"
+  },
+  {
+    "title": "crater-invoice/crater",
+    "url": "https://github.com/crater-invoice/crater",
+    "desc": "Open Source Invoicing Solution for Individuals & Businesses",
+    "lang": "PHP"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "desc": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "lang": "Java"
+  },
+  {
+    "title": "mosaicml/composer",
+    "url": "https://github.com/mosaicml/composer",
+    "desc": "library of algorithms to speed up neural network training",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/detr",
+    "url": "https://github.com/facebookresearch/detr",
+    "desc": "End-to-End Object Detection with Transformers",
+    "lang": "Python"
+  }
+]

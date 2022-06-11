@@ -1,0 +1,146 @@
+[
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub."
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "desc": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "vuejs-translations/docs-zh-cn",
+    "url": "https://github.com/vuejs-translations/docs-zh-cn",
+    "desc": "Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs",
+    "lang": "Vue"
+  },
+  {
+    "title": "bailicangdu/vue2-happyfri",
+    "url": "https://github.com/bailicangdu/vue2-happyfri",
+    "desc": "vue2 + vue-router + vuex 入门项目",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lenve/vhr",
+    "url": "https://github.com/lenve/vhr",
+    "desc": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。",
+    "lang": "Java"
+  },
+  {
+    "title": "inoutcode/ethereum_book",
+    "url": "https://github.com/inoutcode/ethereum_book",
+    "desc": "精通以太坊 （中文版）",
+    "lang": "Vue"
+  },
+  {
+    "title": "pig-mesh/pig",
+    "url": "https://github.com/pig-mesh/pig",
+    "desc": "↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2021 、Spring Boot 2.7、 OAuth2 的 RBAC 权限管理系统",
+    "lang": "Java"
+  },
+  {
+    "title": "ZhongFuCheng3y/austin",
+    "url": "https://github.com/ZhongFuCheng3y/austin",
+    "desc": "消息推送平台📝 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。所使用的技术栈包括：SpringBoot、SpringDataJPA、MySQL、Docker、docker-compose、Kafka、Redis、Apollo、prometheus、Grafana、GrayLog、Flink、Xxl-job、Echarts等等",
+    "lang": "Java"
+  },
+  {
+    "title": "bailicangdu/vue2-elm",
+    "url": "https://github.com/bailicangdu/vue2-elm",
+    "desc": "基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用",
+    "lang": "Vue"
+  },
+  {
+    "title": "ccfos/nightingale",
+    "url": "https://github.com/ccfos/nightingale",
+    "desc": "An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",
+    "lang": "Go"
+  },
+  {
+    "title": "komomon/CVE-2022-30190-follina-Office-MSDT-Fixed",
+    "url": "https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed",
+    "desc": "CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。",
+    "lang": "Python"
+  },
+  {
+    "title": "AmazingAng/WTFSolidity",
+    "url": "https://github.com/AmazingAng/WTFSolidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。",
+    "lang": "Solidity"
+  },
+  {
+    "title": "kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1",
+    "url": "https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1",
+    "desc": "Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/T…",
+    "lang": "Shell"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Activiti + Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "qianguyihao/Web",
+    "url": "https://github.com/qianguyihao/Web",
+    "desc": "千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。"
+  },
+  {
+    "title": "catvod/CatVodTVSpider",
+    "url": "https://github.com/catvod/CatVodTVSpider",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "alibaba/canal",
+    "url": "https://github.com/alibaba/canal",
+    "desc": "阿里巴巴 MySQL binlog 增量订阅&消费组件",
+    "lang": "Java"
+  },
+  {
+    "title": "baidu/amis",
+    "url": "https://github.com/baidu/amis",
+    "desc": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LinuxSuRen/remote-jobs-in-china",
+    "url": "https://github.com/LinuxSuRen/remote-jobs-in-china",
+    "desc": "支持远程办公的中国公司"
+  }
+]
