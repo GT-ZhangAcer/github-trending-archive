@@ -1,0 +1,146 @@
+[
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub."
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "desc": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+    "lang": "C#"
+  },
+  {
+    "title": "YuanHsing/freed",
+    "url": "https://github.com/YuanHsing/freed",
+    "desc": ""
+  },
+  {
+    "title": "inoutcode/ethereum_book",
+    "url": "https://github.com/inoutcode/ethereum_book",
+    "desc": "精通以太坊 （中文版）",
+    "lang": "Vue"
+  },
+  {
+    "title": "catvod/CatVodTVSpider",
+    "url": "https://github.com/catvod/CatVodTVSpider",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "Twi1ight/CSAgent",
+    "url": "https://github.com/Twi1ight/CSAgent",
+    "desc": "CobaltStrike 4.x通用白嫖及汉化加载器",
+    "lang": "Java"
+  },
+  {
+    "title": "Nasinet/live-web",
+    "url": "https://github.com/Nasinet/live-web",
+    "desc": "VUE开发的直播系统web版，接入腾讯云直播，腾讯im，dp播放器，游戏直播系统，高并发，低延迟，直播系统源码。",
+    "lang": "Vue"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "desc": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "lang": "C++"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "vivishow/liangongbao",
+    "url": "https://github.com/vivishow/liangongbao",
+    "desc": "链工宝6月安全月答题题库",
+    "lang": "Python"
+  },
+  {
+    "title": "wmjordan/PDFPatcher",
+    "url": "https://github.com/wmjordan/PDFPatcher",
+    "desc": "PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等",
+    "lang": "C#"
+  },
+  {
+    "title": "mp303eth/MinerProxy303",
+    "url": "https://github.com/mp303eth/MinerProxy303",
+    "desc": "本仓库仅经典303的一键安装脚本，一键安装+开防火墙+改连接数+自启动守护 矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理。",
+    "lang": "Go"
+  },
+  {
+    "title": "mongofs/scache",
+    "url": "https://github.com/mongofs/scache",
+    "desc": "一个基于go语言实现的内存缓存，通过lru算法实现定时任务、异步任务、singleflight等内容，使用者可以基于此组件代替redis旁路由相关功能获取更好的性能",
+    "lang": "Go"
+  },
+  {
+    "title": "kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1",
+    "url": "https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1",
+    "desc": "Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/T…",
+    "lang": "Shell"
+  },
+  {
+    "title": "kenzok8/openwrt-packages",
+    "url": "https://github.com/kenzok8/openwrt-packages",
+    "desc": "openwrt常用软件包",
+    "lang": "HTML"
+  },
+  {
+    "title": "gedoor/legado",
+    "url": "https://github.com/gedoor/legado",
+    "desc": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "hq450/fancyss_history_package",
+    "url": "https://github.com/hq450/fancyss_history_package",
+    "desc": "科学上网插件的离线安装包储存在这里"
+  },
+  {
+    "title": "Cyril0563/lanjing_live",
+    "url": "https://github.com/Cyril0563/lanjing_live",
+    "desc": "🐋蓝鲸直播源-长期维护的电视直播源接口、猫影视TV、IPTV、BIUBIU TV、等影视及m3u8播放器通用接口都可观看"
+  },
+  {
+    "title": "bailicangdu/vue2-happyfri",
+    "url": "https://github.com/bailicangdu/vue2-happyfri",
+    "desc": "vue2 + vue-router + vuex 入门项目",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "messense/aliyundrive-webdav",
+    "url": "https://github.com/messense/aliyundrive-webdav",
+    "desc": "阿里云盘 WebDAV 服务",
+    "lang": "Rust"
+  },
+  {
+    "title": "vernesong/OpenClash",
+    "url": "https://github.com/vernesong/OpenClash",
+    "desc": "A Clash Client For OpenWrt",
+    "lang": "JavaScript"
+  }
+]
