@@ -1,0 +1,152 @@
+[
+  {
+    "title": "QuincyC379/liangongbao",
+    "url": "https://github.com/QuincyC379/liangongbao",
+    "desc": "练功宝题库每日更新",
+    "lang": "Python"
+  },
+  {
+    "title": "njustkmg/PaddleMM",
+    "url": "https://github.com/njustkmg/PaddleMM",
+    "desc": "Multi-Modal learning toolkit based on PaddlePaddle and PyTorch, supporting multiple applications such as multi-modal classification, cross-modal retrieval and image caption.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleVideo",
+    "url": "https://github.com/PaddlePaddle/PaddleVideo",
+    "desc": "基于模块化的设计，提供丰富的视频算法实现、产业级的视频算法优化与应用，包括安防、体育、互联网、媒体等行业的动作定位与识别、行为分析、智能封面、视频标注、视频打标签等，涵盖动作识别与视频分类、动作定位、动作检测、多模态文本视频检索等技术。",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "ghealer/GUI_Tools",
+    "url": "https://github.com/ghealer/GUI_Tools",
+    "desc": "一个由各种图形化渗透工具组成的工具集",
+    "lang": "Python"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR离线批量图片文字识别软件，带界面。可排除视频图片中的水印、游戏图片中的UI等干扰，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "datawhalechina/torch-rechub",
+    "url": "https://github.com/datawhalechina/torch-rechub",
+    "desc": "A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend.",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "fxsjy/jieba",
+    "url": "https://github.com/fxsjy/jieba",
+    "desc": "结巴中文分词",
+    "lang": "Python"
+  },
+  {
+    "title": "pythonstock/stock",
+    "url": "https://github.com/pythonstock/stock",
+    "desc": "stock，股票系统。使用python进行开发。",
+    "lang": "Python"
+  },
+  {
+    "title": "0voice/interview_internal_reference",
+    "url": "https://github.com/0voice/interview_internal_reference",
+    "desc": "2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+    "lang": "Python"
+  },
+  {
+    "title": "649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "url": "https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "desc": "使用Bert，ERNIE，进行中文文本分类",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
+    "lang": "Python"
+  },
+  {
+    "title": "pyecharts/pyecharts",
+    "url": "https://github.com/pyecharts/pyecharts",
+    "desc": "🎨 Python Echarts Plotting Library",
+    "lang": "Python"
+  },
+  {
+    "title": "yoshiko2/Movie_Data_Capture",
+    "url": "https://github.com/yoshiko2/Movie_Data_Capture",
+    "desc": "Local AV Organizer",
+    "lang": "Python"
+  },
+  {
+    "title": "ermaozi/get_subscribe",
+    "url": "https://github.com/ermaozi/get_subscribe",
+    "desc": "✈️ 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙",
+    "lang": "Python"
+  },
+  {
+    "title": "bbfamily/abu",
+    "url": "https://github.com/bbfamily/abu",
+    "desc": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
+    "lang": "Python"
+  },
+  {
+    "title": "nl8590687/ASRT_SpeechRecognition",
+    "url": "https://github.com/nl8590687/ASRT_SpeechRecognition",
+    "desc": "A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统",
+    "lang": "Python"
+  },
+  {
+    "title": "zhzyker/vulmap",
+    "url": "https://github.com/zhzyker/vulmap",
+    "desc": "Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能",
+    "lang": "Python"
+  },
+  {
+    "title": "h2y/Shadowrocket-ADBlock-Rules",
+    "url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
+    "desc": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。",
+    "lang": "Python"
+  },
+  {
+    "title": "littlecodersh/ItChat",
+    "url": "https://github.com/littlecodersh/ItChat",
+    "desc": "A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。",
+    "lang": "Python"
+  },
+  {
+    "title": "yangwohenmai/LSTM",
+    "url": "https://github.com/yangwohenmai/LSTM",
+    "desc": "基于LSTM神经网络的时间序列预测",
+    "lang": "Python"
+  },
+  {
+    "title": "TingsongYu/PyTorch_Tutorial",
+    "url": "https://github.com/TingsongYu/PyTorch_Tutorial",
+    "desc": "《Pytorch模型训练实用教程》中配套代码",
+    "lang": "Python"
+  }
+]

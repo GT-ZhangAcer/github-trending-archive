@@ -1,0 +1,152 @@
+[
+  {
+    "title": "lxgr-linux/pokete",
+    "url": "https://github.com/lxgr-linux/pokete",
+    "desc": "A terminal based Pokemon like game",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "zhiqi-li/BEVFormer",
+    "url": "https://github.com/zhiqi-li/BEVFormer",
+    "desc": "This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.",
+    "lang": "Python"
+  },
+  {
+    "title": "bridgecrewio/checkov",
+    "url": "https://github.com/bridgecrewio/checkov",
+    "desc": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+    "lang": "Python"
+  },
+  {
+    "title": "coqui-ai/TTS",
+    "url": "https://github.com/coqui-ai/TTS",
+    "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleClas",
+    "url": "https://github.com/PaddlePaddle/PaddleClas",
+    "desc": "A treasure chest for visual recognition powered by PaddlePaddle",
+    "lang": "Python"
+  },
+  {
+    "title": "opendilab/DI-star",
+    "url": "https://github.com/opendilab/DI-star",
+    "desc": "OpenDILab Decision AI in StarCraftII",
+    "lang": "Python"
+  },
+  {
+    "title": "neonbjb/tortoise-tts",
+    "url": "https://github.com/neonbjb/tortoise-tts",
+    "desc": "A multi-voice TTS system trained with an emphasis on quality",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
+    "lang": "Python"
+  },
+  {
+    "title": "NayamAmarshe/please",
+    "url": "https://github.com/NayamAmarshe/please",
+    "desc": "Please - Minimalistic New Tab Page with a greeting, date and time, inspirational quotes and your personal tasks and to-do list",
+    "lang": "Python"
+  },
+  {
+    "title": "deepinsight/insightface",
+    "url": "https://github.com/deepinsight/insightface",
+    "desc": "State-of-the-art 2D and 3D Face Analysis Project",
+    "lang": "Python"
+  },
+  {
+    "title": "frappe/erpnext",
+    "url": "https://github.com/frappe/erpnext",
+    "desc": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "Jzou44/photo2pixel",
+    "url": "https://github.com/Jzou44/photo2pixel",
+    "desc": "Algorithm used in photo2pixel.co to convert photo to pixel style(8-bit) art.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmpose",
+    "url": "https://github.com/open-mmlab/mmpose",
+    "desc": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "QuincyC379/liangongbao",
+    "url": "https://github.com/QuincyC379/liangongbao",
+    "desc": "练功宝题库每日更新",
+    "lang": "Python"
+  },
+  {
+    "title": "njustkmg/PaddleMM",
+    "url": "https://github.com/njustkmg/PaddleMM",
+    "desc": "Multi-Modal learning toolkit based on PaddlePaddle and PyTorch, supporting multiple applications such as multi-modal classification, cross-modal retrieval and image caption.",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/alphafold",
+    "url": "https://github.com/deepmind/alphafold",
+    "desc": "Open source code for AlphaFold.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/mae",
+    "url": "https://github.com/facebookresearch/mae",
+    "desc": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+    "lang": "Python"
+  },
+  {
+    "title": "horovod/horovod",
+    "url": "https://github.com/horovod/horovod",
+    "desc": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdeploy",
+    "url": "https://github.com/open-mmlab/mmdeploy",
+    "desc": "OpenMMLab Model Deployment Framework",
+    "lang": "Python"
+  }
+]

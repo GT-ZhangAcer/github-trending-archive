@@ -1,0 +1,148 @@
+[
+  {
+    "title": "geekan/HowToLiveLonger",
+    "url": "https://github.com/geekan/HowToLiveLonger",
+    "desc": "程序员延寿指南 | A programmer's guide to live longer"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "desc": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "lang": "C#"
+  },
+  {
+    "title": "yanfeizhang/coder-kung-fu",
+    "url": "https://github.com/yanfeizhang/coder-kung-fu",
+    "desc": "开发内功修炼",
+    "lang": "C"
+  },
+  {
+    "title": "alibaba/x-render",
+    "url": "https://github.com/alibaba/x-render",
+    "desc": "🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "midoks/mdserver-web",
+    "url": "https://github.com/midoks/mdserver-web",
+    "desc": "Simple Linux Panel",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wmjordan/PDFPatcher",
+    "url": "https://github.com/wmjordan/PDFPatcher",
+    "desc": "PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等",
+    "lang": "C#"
+  },
+  {
+    "title": "tw93/MiaoYan",
+    "url": "https://github.com/tw93/MiaoYan",
+    "desc": "⛷轻灵的 Markdown 笔记本伴你写出妙言 ⛷Lightweight Markdown app to help you write great sentences.",
+    "lang": "Swift"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "desc": "C++那些事",
+    "lang": "C++"
+  },
+  {
+    "title": "Twi1ight/CSAgent",
+    "url": "https://github.com/Twi1ight/CSAgent",
+    "desc": "CobaltStrike 4.x通用白嫖及汉化加载器",
+    "lang": "Java"
+  },
+  {
+    "title": "QuincyC379/liangongbao",
+    "url": "https://github.com/QuincyC379/liangongbao",
+    "desc": "练功宝题库每日更新",
+    "lang": "Python"
+  },
+  {
+    "title": "Nasinet/live-web",
+    "url": "https://github.com/Nasinet/live-web",
+    "desc": "VUE开发的直播系统web版，接入腾讯云直播，腾讯im，dp播放器，游戏直播系统，高并发，低延迟，直播系统源码。",
+    "lang": "Vue"
+  },
+  {
+    "title": "njustkmg/PaddleMM",
+    "url": "https://github.com/njustkmg/PaddleMM",
+    "desc": "Multi-Modal learning toolkit based on PaddlePaddle and PyTorch, supporting multiple applications such as multi-modal classification, cross-modal retrieval and image caption.",
+    "lang": "Python"
+  },
+  {
+    "title": "shadow1ng/fscan",
+    "url": "https://github.com/shadow1ng/fscan",
+    "desc": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。",
+    "lang": "Go"
+  },
+  {
+    "title": "lz520520/railgun",
+    "url": "https://github.com/lz520520/railgun",
+    "desc": ""
+  },
+  {
+    "title": "EaniaHuui/android_tool",
+    "url": "https://github.com/EaniaHuui/android_tool",
+    "desc": "",
+    "lang": "Dart"
+  },
+  {
+    "title": "alibaba/COLA",
+    "url": "https://github.com/alibaba/COLA",
+    "desc": "🥤 COLA: Clean Object-oriented & Layered Architecture",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/butterfly",
+    "url": "https://github.com/alibaba/butterfly",
+    "desc": "🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field. (基于JavaScript/React/Vue2的流程图组件)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleVideo",
+    "url": "https://github.com/PaddlePaddle/PaddleVideo",
+    "desc": "基于模块化的设计，提供丰富的视频算法实现、产业级的视频算法优化与应用，包括安防、体育、互联网、媒体等行业的动作定位与识别、行为分析、智能封面、视频标注、视频打标签等，涵盖动作识别与视频分类、动作定位、动作检测、多模态文本视频检索等技术。",
+    "lang": "Python"
+  },
+  {
+    "title": "leafTheFish/DeathNote",
+    "url": "https://github.com/leafTheFish/DeathNote",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "unknwon/the-way-to-go_ZH_CN",
+    "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+    "desc": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+    "lang": "Go"
+  },
+  {
+    "title": "wangeditor-team/wangEditor",
+    "url": "https://github.com/wangeditor-team/wangEditor",
+    "desc": "wangEditor —— 开源 Web 富文本编辑器",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "Tencent/puerts",
+    "url": "https://github.com/Tencent/puerts",
+    "desc": "Write your game with TypeScript in UE or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）",
+    "lang": "C++"
+  },
+  {
+    "title": "SharingSource/LogicStack-LeetCode",
+    "url": "https://github.com/SharingSource/LogicStack-LeetCode",
+    "desc": "公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码"
+  },
+  {
+    "title": "taowen/awesome-lowcode",
+    "url": "https://github.com/taowen/awesome-lowcode",
+    "desc": "国内低代码平台从业者交流"
+  }
+]
