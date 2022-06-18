@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Minqi824/ADBench",
+    "url": "https://github.com/Minqi824/ADBench",
+    "desc": "Official Implement of ADBench: Anomaly Detection Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "desc": "The Python programming language",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "grafana/oncall",
+    "url": "https://github.com/grafana/oncall",
+    "desc": "Developer-friendly incident response with brilliant Slack integration",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleClas",
+    "url": "https://github.com/PaddlePaddle/PaddleClas",
+    "desc": "A treasure chest for visual recognition powered by PaddlePaddle",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX Project",
+    "lang": "Python"
+  },
+  {
+    "title": "Threekiii/Awesome-Redteam",
+    "url": "https://github.com/Threekiii/Awesome-Redteam",
+    "desc": "一个红队知识仓库",
+    "lang": "Python"
+  },
+  {
+    "title": "nateshmbhat/pyttsx3",
+    "url": "https://github.com/nateshmbhat/pyttsx3",
+    "desc": "Offline Text To Speech synthesis for python",
+    "lang": "Python"
+  },
+  {
+    "title": "rougier/scientific-visualization-book",
+    "url": "https://github.com/rougier/scientific-visualization-book",
+    "desc": "An open access book on scientific visualization using python and matplotlib",
+    "lang": "Python"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "redis/redis-py",
+    "url": "https://github.com/redis/redis-py",
+    "desc": "Redis Python Client",
+    "lang": "Python"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "al-one/hass-xiaomi-miot",
+    "url": "https://github.com/al-one/hass-xiaomi-miot",
+    "desc": "Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleRec",
+    "url": "https://github.com/PaddlePaddle/PaddleRec",
+    "desc": "Recommendation Algorithm大规模推荐算法库，包含推荐系统经典及最新算法LR、Wide&Deep、DSSM、TDM、MIND、Word2Vec、Bert4Rec、DeepWalk、SSR、AITM，DSIN，SIGN，IPREC、GRU4Rec、Youtube_dnn、NCF、GNN、FM、FFM、DeepFM、DCN、DIN、DIEN、DLRM、MMOE、PLE、ESMM、ESCMM, MAML、xDeepFM、DeepFEFM、NFM、AFM、RALM、DMR、GateNet、NAML、DIFM、Deep Crossing、PNN、BST、AutoInt、FGCNN、FLEN、Fibinet、ListWise、DeepRec、ENSFM，TiSAS，AutoFI…",
+    "lang": "Python"
+  },
+  {
+    "title": "horovod/horovod",
+    "url": "https://github.com/horovod/horovod",
+    "desc": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "Build high-performance AI models for state-of-the-art AI research, and deploy them with Lightning Apps (end-to-end ML systems).",
+    "lang": "Python"
+  },
+  {
+    "title": "lxgr-linux/pokete",
+    "url": "https://github.com/lxgr-linux/pokete",
+    "desc": "A terminal based Pokemon like game",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "mlc-ai/mlc-zh",
+    "url": "https://github.com/mlc-ai/mlc-zh",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "django/django",
+    "url": "https://github.com/django/django",
+    "desc": "The Web framework for perfectionists with deadlines.",
+    "lang": "Python"
+  },
+  {
+    "title": "ckan/ckan",
+    "url": "https://github.com/ckan/ckan",
+    "desc": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",
+    "lang": "Python"
+  },
+  {
+    "title": "arshsisodiya/helios-mirror",
+    "url": "https://github.com/arshsisodiya/helios-mirror",
+    "desc": "Telegram Mirror and Leech Bot",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "desc": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "lang": "Python"
+  }
+]
