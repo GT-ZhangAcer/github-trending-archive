@@ -1,0 +1,152 @@
+[
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "omair2084/CVE-2022-26937",
+    "url": "https://github.com/omair2084/CVE-2022-26937",
+    "desc": "Windows Network File System Crash PoC",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/calibre",
+    "url": "https://github.com/kovidgoyal/calibre",
+    "desc": "The official source code repository for the calibre ebook manager",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "Ultimaker/Cura",
+    "url": "https://github.com/Ultimaker/Cura",
+    "desc": "3D printer / slicing GUI built on top of the Uranium framework",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "hummingbot/hummingbot",
+    "url": "https://github.com/hummingbot/hummingbot",
+    "desc": "Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain",
+    "lang": "Python"
+  },
+  {
+    "title": "nicohmje/PID-ballonplate",
+    "url": "https://github.com/nicohmje/PID-ballonplate",
+    "desc": "A simple-ish project using a Raspberry Pi and three servos.",
+    "lang": "Python"
+  },
+  {
+    "title": "InstaPy/InstaPy",
+    "url": "https://github.com/InstaPy/InstaPy",
+    "desc": "📷 Instagram Bot - Tool for automated Instagram interactions",
+    "lang": "Python"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "desc": "My Python Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "je-suis-tm/quant-trading",
+    "url": "https://github.com/je-suis-tm/quant-trading",
+    "desc": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD",
+    "lang": "Python"
+  },
+  {
+    "title": "anasty17/mirror-leech-telegram-bot",
+    "url": "https://github.com/anasty17/mirror-leech-telegram-bot",
+    "desc": "Aria/qBittorrent Telegram mirror/leech bot",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CogView2",
+    "url": "https://github.com/THUDM/CogView2",
+    "desc": "official code repo for paper CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "qutebrowser/qutebrowser",
+    "url": "https://github.com/qutebrowser/qutebrowser",
+    "desc": "A keyboard-driven, vim-like browser based on PyQt5.",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "qbittorrent/search-plugins",
+    "url": "https://github.com/qbittorrent/search-plugins",
+    "desc": "Search plugins for the search feature",
+    "lang": "Python"
+  },
+  {
+    "title": "sympy/sympy",
+    "url": "https://github.com/sympy/sympy",
+    "desc": "A computer algebra system written in pure Python",
+    "lang": "Python"
+  },
+  {
+    "title": "grafana/oncall",
+    "url": "https://github.com/grafana/oncall",
+    "desc": "Developer-friendly incident response with brilliant Slack integration",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamYukki/YukkiMusicBot",
+    "url": "https://github.com/TeamYukki/YukkiMusicBot",
+    "desc": "Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
+    "lang": "Python"
+  }
+]

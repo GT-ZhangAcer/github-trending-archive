@@ -1,0 +1,147 @@
+[
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "desc": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。"
+  },
+  {
+    "title": "midoks/mdserver-web",
+    "url": "https://github.com/midoks/mdserver-web",
+    "desc": "Simple Linux Panel",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zhongyang219/MusicPlayer2",
+    "url": "https://github.com/zhongyang219/MusicPlayer2",
+    "desc": "这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。",
+    "lang": "C++"
+  },
+  {
+    "title": "wdzeng/shopee-coins-bot",
+    "url": "https://github.com/wdzeng/shopee-coins-bot",
+    "desc": "💰💰 蝦皮簽到機器人 💰💰",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "guchangan1/All-Defense-Tool",
+    "url": "https://github.com/guchangan1/All-Defense-Tool",
+    "desc": "本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。"
+  },
+  {
+    "title": "tw93/MiaoYan",
+    "url": "https://github.com/tw93/MiaoYan",
+    "desc": "⛷轻灵的 Markdown 笔记本伴你写出妙言 ⛷Lightweight Markdown app to help you write great sentences.",
+    "lang": "Swift"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "hq450/fancyss",
+    "url": "https://github.com/hq450/fancyss",
+    "desc": "fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.",
+    "lang": "Shell"
+  },
+  {
+    "title": "648540858/wvp-GB28181-pro",
+    "url": "https://github.com/648540858/wvp-GB28181-pro",
+    "desc": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+    "lang": "Java"
+  },
+  {
+    "title": "lionsoul2014/ip2region",
+    "url": "https://github.com/lionsoul2014/ip2region",
+    "desc": "Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm",
+    "lang": "C#"
+  },
+  {
+    "title": "liyupi/code-roadmap",
+    "url": "https://github.com/liyupi/code-roadmap",
+    "desc": "原创编程学习路线，包括全面的知识点、免费资源、面试题、学习建议、项目，适用于所有学习编程、求职的同学。已完成 Java、前端"
+  },
+  {
+    "title": "DHDAXCW/NanoPi-R4S",
+    "url": "https://github.com/DHDAXCW/NanoPi-R4S",
+    "desc": "基于 Lean&Lienol 源码的 NanoPi R4S 的 OpenWrt 固件。每天自动更新插件和内",
+    "lang": "Shell"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "ethminerpro/minerproxy",
+    "url": "https://github.com/ethminerpro/minerproxy",
+    "desc": "原创程序, 性能强大, 功能齐全, 体验拉满；支持专业机, 开发费恒定！无论你抽3%还是30%，甚至80%，都是0.3%开发费！已内置官方地址可供选择，避免被私人地址二次暗抽；无视CC攻击，不怕扫描攻击，内置加密证书，抽水设置范围支持0.1%-80%；无需繁琐设置，支持专业机！支持自定义证书，欢迎实测！矿场运维必备",
+    "lang": "Go"
+  },
+  {
+    "title": "messense/aliyundrive-webdav",
+    "url": "https://github.com/messense/aliyundrive-webdav",
+    "desc": "阿里云盘 WebDAV 服务",
+    "lang": "Rust"
+  },
+  {
+    "title": "pymumu/smartdns",
+    "url": "https://github.com/pymumu/smartdns",
+    "desc": "A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。",
+    "lang": "C"
+  },
+  {
+    "title": "SuLingGG/OpenWrt-Rpi",
+    "url": "https://github.com/SuLingGG/OpenWrt-Rpi",
+    "desc": "Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)",
+    "lang": "Shell"
+  },
+  {
+    "title": "6dylan6/jdpro",
+    "url": "https://github.com/6dylan6/jdpro",
+    "desc": "青龙脚本库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Threekiii/Awesome-Redteam",
+    "url": "https://github.com/Threekiii/Awesome-Redteam",
+    "desc": "一个红队知识仓库",
+    "lang": "Python"
+  },
+  {
+    "title": "Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "url": "https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "desc": "转存助手ui优化版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造无感翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "unlock-music/unlock-music",
+    "url": "https://github.com/unlock-music/unlock-music",
+    "desc": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。"
+  },
+  {
+    "title": "FloatTech/ZeroBot-Plugin",
+    "url": "https://github.com/FloatTech/ZeroBot-Plugin",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，自动刷图、智能基建换班，全日常一键长草！| An Arknights assistant, supports ZH and EN client",
+    "lang": "C++"
+  }
+]
