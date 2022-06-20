@@ -1,0 +1,152 @@
+[
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "Python"
+  },
+  {
+    "title": "CMHopeSunshine/LittlePaimon",
+    "url": "https://github.com/CMHopeSunshine/LittlePaimon",
+    "desc": "小派蒙！原神qq群机器人，基于NoneBot2和HoshinoBot的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。",
+    "lang": "Python"
+  },
+  {
+    "title": "bbfamily/abu",
+    "url": "https://github.com/bbfamily/abu",
+    "desc": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/python-spider",
+    "url": "https://github.com/Jack-Cherish/python-spider",
+    "desc": "🌈Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "yoshiko2/Movie_Data_Capture",
+    "url": "https://github.com/yoshiko2/Movie_Data_Capture",
+    "desc": "Local AV Organizer",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造无感翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "tonquer/picacg-qt",
+    "url": "https://github.com/tonquer/picacg-qt",
+    "desc": "哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)",
+    "lang": "Python"
+  },
+  {
+    "title": "Python3WebSpider/ProxyPool",
+    "url": "https://github.com/Python3WebSpider/ProxyPool",
+    "desc": "An Efficient ProxyPool with Getter, Tester and Server",
+    "lang": "Python"
+  },
+  {
+    "title": "Samueli924/chaoxing",
+    "url": "https://github.com/Samueli924/chaoxing",
+    "desc": "超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点",
+    "lang": "Python"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "desc": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "lang": "Python"
+  },
+  {
+    "title": "shidenggui/easytrader",
+    "url": "https://github.com/shidenggui/easytrader",
+    "desc": "提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件",
+    "lang": "Python"
+  },
+  {
+    "title": "xinxin8816/gfriends",
+    "url": "https://github.com/xinxin8816/gfriends",
+    "desc": "媒体服务器演员头像仓库",
+    "lang": "Python"
+  },
+  {
+    "title": "Ice-Cirno/HoshinoBot",
+    "url": "https://github.com/Ice-Cirno/HoshinoBot",
+    "desc": "A qqbot for Princess Connect Re:Dive (and other usage :)",
+    "lang": "Python"
+  },
+  {
+    "title": "waditu/czsc",
+    "url": "https://github.com/waditu/czsc",
+    "desc": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+    "lang": "Python"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  },
+  {
+    "title": "PyJun/Mooc_Downloader",
+    "url": "https://github.com/PyJun/Mooc_Downloader",
+    "desc": "学无止下载器，慕课下载器，Mooc网课下载，慕课网，中国大学，网易云课堂，超星学习通，学银在线，学堂在线，爱课程；支持视频，课件同时下载",
+    "lang": "Python"
+  },
+  {
+    "title": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "wbt5/real-url",
+    "url": "https://github.com/wbt5/real-url",
+    "desc": "获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。",
+    "lang": "Python"
+  },
+  {
+    "title": "CLUEbenchmark/CLUE",
+    "url": "https://github.com/CLUEbenchmark/CLUE",
+    "desc": "中文语言理解测评基准 Chinese Language Understanding Evaluation Benchmark: datasets, baselines, pre-trained models, corpus and leaderboard",
+    "lang": "Python"
+  },
+  {
+    "title": "liangliangyy/DjangoBlog",
+    "url": "https://github.com/liangliangyy/DjangoBlog",
+    "desc": "🍺基于Django的博客系统",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
+    "lang": "Python"
+  }
+]

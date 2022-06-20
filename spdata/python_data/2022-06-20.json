@@ -1,0 +1,146 @@
+[
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "desc": "We have made you a wrapper you can't refuse",
+    "lang": "Python"
+  },
+  {
+    "title": "spotDL/spotify-downloader",
+    "url": "https://github.com/spotDL/spotify-downloader",
+    "desc": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+    "lang": "Python"
+  },
+  {
+    "title": "sympy/sympy",
+    "url": "https://github.com/sympy/sympy",
+    "desc": "A computer algebra system written in pure Python",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/calibre",
+    "url": "https://github.com/kovidgoyal/calibre",
+    "desc": "The official source code repository for the calibre ebook manager",
+    "lang": "Python"
+  },
+  {
+    "title": "clementchadebec/benchmark_VAE",
+    "url": "https://github.com/clementchadebec/benchmark_VAE",
+    "desc": "Unifying Generative Autoencoder implementations in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "Wh04m1001/DFSCoerce",
+    "url": "https://github.com/Wh04m1001/DFSCoerce",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "InstaPy/InstaPy",
+    "url": "https://github.com/InstaPy/InstaPy",
+    "desc": "📷 Instagram Bot - Tool for automated Instagram interactions",
+    "lang": "Python"
+  },
+  {
+    "title": "ungoogled-software/ungoogled-chromium",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium",
+    "desc": "Google Chromium, sans integration with Google",
+    "lang": "Python"
+  },
+  {
+    "title": "nicohmje/PID-ballonplate",
+    "url": "https://github.com/nicohmje/PID-ballonplate",
+    "desc": "A simple-ish project using a Raspberry Pi and three servos.",
+    "lang": "Python"
+  },
+  {
+    "title": "arshsisodiya/helios-mirror",
+    "url": "https://github.com/arshsisodiya/helios-mirror",
+    "desc": "Telegram Mirror and Leech Bot",
+    "lang": "Python"
+  },
+  {
+    "title": "deezer/spleeter",
+    "url": "https://github.com/deezer/spleeter",
+    "desc": "Deezer source separation library including pretrained models.",
+    "lang": "Python"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "desc": "scikit-learn: machine learning in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "matplotlib/matplotlib",
+    "url": "https://github.com/matplotlib/matplotlib",
+    "desc": "matplotlib: plotting with Python",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  }
+]
