@@ -1,0 +1,152 @@
+[
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "CMHopeSunshine/LittlePaimon",
+    "url": "https://github.com/CMHopeSunshine/LittlePaimon",
+    "desc": "小派蒙！原神qq群机器人，基于NoneBot2和HoshinoBot的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "zhzyker/vulmap",
+    "url": "https://github.com/zhzyker/vulmap",
+    "desc": "Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能",
+    "lang": "Python"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "desc": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "PyJun/Mooc_Downloader",
+    "url": "https://github.com/PyJun/Mooc_Downloader",
+    "desc": "学无止下载器，慕课下载器，Mooc网课下载，慕课网，中国大学，网易云课堂，超星学习通，学银在线，学堂在线，爱课程；支持视频，课件同时下载",
+    "lang": "Python"
+  },
+  {
+    "title": "sfyc23/EverydayWechat",
+    "url": "https://github.com/sfyc23/EverydayWechat",
+    "desc": "微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/python-spider",
+    "url": "https://github.com/Jack-Cherish/python-spider",
+    "desc": "🌈Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "TheKingOfDuck/fuzzDicts",
+    "url": "https://github.com/TheKingOfDuck/fuzzDicts",
+    "desc": "Web Pentesting Fuzz 字典,一个就够了。",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleX",
+    "url": "https://github.com/PaddlePaddle/PaddleX",
+    "desc": "PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）",
+    "lang": "Python"
+  },
+  {
+    "title": "fxsjy/jieba",
+    "url": "https://github.com/fxsjy/jieba",
+    "desc": "结巴中文分词",
+    "lang": "Python"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
+    "lang": "Python"
+  },
+  {
+    "title": "bbfamily/abu",
+    "url": "https://github.com/bbfamily/abu",
+    "desc": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
+    "lang": "Python"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "Python"
+  },
+  {
+    "title": "shmilylty/OneForAll",
+    "url": "https://github.com/shmilylty/OneForAll",
+    "desc": "OneForAll是一款功能强大的子域收集工具",
+    "lang": "Python"
+  },
+  {
+    "title": "openatx/uiautomator2",
+    "url": "https://github.com/openatx/uiautomator2",
+    "desc": "Android Uiautomator2 Python Wrapper",
+    "lang": "Python"
+  },
+  {
+    "title": "itcharge/LeetCode-Py",
+    "url": "https://github.com/itcharge/LeetCode-Py",
+    "desc": "⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，「LeetCode」700+ 道题目的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。",
+    "lang": "Python"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/ERNIE",
+    "url": "https://github.com/PaddlePaddle/ERNIE",
+    "desc": "Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  }
+]

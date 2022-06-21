@@ -1,0 +1,152 @@
+[
+  {
+    "title": "kraanzu/dooit",
+    "url": "https://github.com/kraanzu/dooit",
+    "desc": "A TUI todo manager",
+    "lang": "Python"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).",
+    "lang": "Python"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "s1ckb017/PoC-CVE-2022-26809",
+    "url": "https://github.com/s1ckb017/PoC-CVE-2022-26809",
+    "desc": "PoC for CVE-2022-26809, analisys and considerations are shown in the github.io.",
+    "lang": "Python"
+  },
+  {
+    "title": "Wh04m1001/DFSCoerce",
+    "url": "https://github.com/Wh04m1001/DFSCoerce",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "nicohmje/PID-ballonplate",
+    "url": "https://github.com/nicohmje/PID-ballonplate",
+    "desc": "A simple-ish project using a Raspberry Pi and three servos.",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "erev0s/VAmPI",
+    "url": "https://github.com/erev0s/VAmPI",
+    "desc": "Vulnerable REST API with OWASP top 10 vulnerabilities for security testing",
+    "lang": "Python"
+  },
+  {
+    "title": "chriskiehl/Gooey",
+    "url": "https://github.com/chriskiehl/Gooey",
+    "desc": "Turn (almost) any Python command line program into a full GUI application with one line",
+    "lang": "Python"
+  },
+  {
+    "title": "Baekalfen/PyBoy",
+    "url": "https://github.com/Baekalfen/PyBoy",
+    "desc": "Game Boy emulator written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection3d",
+    "url": "https://github.com/open-mmlab/mmdetection3d",
+    "desc": "OpenMMLab's next-generation platform for general 3D object detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "s0md3v/Arjun",
+    "url": "https://github.com/s0md3v/Arjun",
+    "desc": "HTTP parameter discovery suite.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/ConvNeXt",
+    "url": "https://github.com/facebookresearch/ConvNeXt",
+    "desc": "Code release for ConvNeXt model",
+    "lang": "Python"
+  },
+  {
+    "title": "xmu-xiaoma666/External-Attention-pytorch",
+    "url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
+    "desc": "🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐",
+    "lang": "Python"
+  },
+  {
+    "title": "clementchadebec/benchmark_VAE",
+    "url": "https://github.com/clementchadebec/benchmark_VAE",
+    "desc": "Unifying Generative Autoencoder implementations in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "t3l3machus/toxssin",
+    "url": "https://github.com/t3l3machus/toxssin",
+    "desc": "A POST-XSS exploitation tool.",
+    "lang": "Python"
+  },
+  {
+    "title": "tzutalin/labelImg",
+    "url": "https://github.com/tzutalin/labelImg",
+    "desc": "🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmocr",
+    "url": "https://github.com/open-mmlab/mmocr",
+    "desc": "OpenMMLab Text Detection, Recognition and Understanding Toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "FederatedAI/FATE",
+    "url": "https://github.com/FederatedAI/FATE",
+    "desc": "An Industrial Grade Federated Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "YadiraF/DECA",
+    "url": "https://github.com/YadiraF/DECA",
+    "desc": "DECA: Detailed Expression Capture and Animation (SIGGRAPH 2021)",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "ftexchange/ftx",
+    "url": "https://github.com/ftexchange/ftx",
+    "desc": "FTX Sample Code",
+    "lang": "Python"
+  }
+]
