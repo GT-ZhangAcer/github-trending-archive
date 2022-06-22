@@ -1,0 +1,149 @@
+[
+  {
+    "title": "dreamncn/Qianji_auto",
+    "url": "https://github.com/dreamncn/Qianji_auto",
+    "desc": "钱迹自动记账插件",
+    "lang": "Java"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "Shell"
+  },
+  {
+    "title": "easychen/lean-side-bussiness",
+    "url": "https://github.com/easychen/lean-side-bussiness",
+    "desc": "精益副业：程序员如何优雅地做副业"
+  },
+  {
+    "title": "jekip/naive-ui-admin",
+    "url": "https://github.com/jekip/naive-ui-admin",
+    "desc": "Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。",
+    "lang": "Vue"
+  },
+  {
+    "title": "lcvvvv/kscan",
+    "url": "https://github.com/lcvvvv/kscan",
+    "desc": "Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。",
+    "lang": "Go"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "ecomfe/echarts-for-weixin",
+    "url": "https://github.com/ecomfe/echarts-for-weixin",
+    "desc": "Apache ECharts 的微信小程序版本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "acm-clan/algorithm-stone",
+    "url": "https://github.com/acm-clan/algorithm-stone",
+    "desc": "ACM/LeetCode算法竞赛路线图，最全的算法学习地图！",
+    "lang": "C++"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "Python"
+  },
+  {
+    "title": "wdzeng/bot-automation",
+    "url": "https://github.com/wdzeng/bot-automation",
+    "desc": "💰 簽到機器人 on GitHub Action! 💰"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
+    "lang": "Python"
+  },
+  {
+    "title": "CarGuo/GSYVideoPlayer",
+    "url": "https://github.com/CarGuo/GSYVideoPlayer",
+    "desc": "视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/canal",
+    "url": "https://github.com/alibaba/canal",
+    "desc": "阿里巴巴 MySQL binlog 增量订阅&消费组件",
+    "lang": "Java"
+  },
+  {
+    "title": "jdf2e/nutui",
+    "url": "https://github.com/jdf2e/nutui",
+    "desc": "京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)",
+    "lang": "Vue"
+  },
+  {
+    "title": "TencentCloud/tencentcloud-sdk-java",
+    "url": "https://github.com/TencentCloud/tencentcloud-sdk-java",
+    "desc": "Tencent Cloud API 3.0 SDK for Java",
+    "lang": "Java"
+  },
+  {
+    "title": "7kms/react-illustration-series",
+    "url": "https://github.com/7kms/react-illustration-series",
+    "desc": "图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/puerts",
+    "url": "https://github.com/Tencent/puerts",
+    "desc": "Write your game with TypeScript in UE or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）",
+    "lang": "C++"
+  },
+  {
+    "title": "qinguoyi/TinyWebServer",
+    "url": "https://github.com/qinguoyi/TinyWebServer",
+    "desc": "🔥 Linux下C++轻量级Web服务器",
+    "lang": "C++"
+  },
+  {
+    "title": "PaddlePaddle/PaddleVideo",
+    "url": "https://github.com/PaddlePaddle/PaddleVideo",
+    "desc": "基于模块化的设计，提供丰富的视频算法实现、产业级的视频算法优化与应用，包括安防、体育、互联网、媒体等行业的动作定位与识别、行为分析、智能封面、视频标注、视频打标签等，涵盖动作识别与视频分类、动作定位、动作检测、多模态文本视频检索等技术。",
+    "lang": "Python"
+  },
+  {
+    "title": "LinghaoChan/CSSummerCamp2022",
+    "url": "https://github.com/LinghaoChan/CSSummerCamp2022",
+    "desc": "关于2022年CS保研夏令营通知公告的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？"
+  },
+  {
+    "title": "ccfos/nightingale",
+    "url": "https://github.com/ccfos/nightingale",
+    "desc": "An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",
+    "lang": "Go"
+  },
+  {
+    "title": "Limour-dev/daily_fudan_core",
+    "url": "https://github.com/Limour-dev/daily_fudan_core",
+    "desc": "daily_fudan的代码，无需fork；请fork https://github.com/Limour-dev/daily_fudan_actions 来自动执行该repo下的最新代码。有问题请提issue",
+    "lang": "Python"
+  },
+  {
+    "title": "lolisaikou/LazyStudy",
+    "url": "https://github.com/lolisaikou/LazyStudy",
+    "desc": "",
+    "lang": "JavaScript"
+  }
+]
