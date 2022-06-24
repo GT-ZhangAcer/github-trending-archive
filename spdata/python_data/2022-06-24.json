@@ -1,0 +1,152 @@
+[
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "mosaicml/composer",
+    "url": "https://github.com/mosaicml/composer",
+    "desc": "train neural networks up to 7x faster",
+    "lang": "Python"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "desc": "Documentation for GitHub Copilot",
+    "lang": "Python"
+  },
+  {
+    "title": "xmu-xiaoma666/External-Attention-pytorch",
+    "url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
+    "desc": "🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "urllib3/urllib3",
+    "url": "https://github.com/urllib3/urllib3",
+    "desc": "Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "vcheckzen/KeepAliveE5",
+    "url": "https://github.com/vcheckzen/KeepAliveE5",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "shenweichen/DeepCTR",
+    "url": "https://github.com/shenweichen/DeepCTR",
+    "desc": "Easy-to-use,Modular and Extendible package of deep-learning based CTR models .",
+    "lang": "Python"
+  },
+  {
+    "title": "kraanzu/dooit",
+    "url": "https://github.com/kraanzu/dooit",
+    "desc": "A TUI todo manager",
+    "lang": "Python"
+  },
+  {
+    "title": "meituan/YOLOv6",
+    "url": "https://github.com/meituan/YOLOv6",
+    "desc": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "bigb0sss/RedTeam-OffensiveSecurity",
+    "url": "https://github.com/bigb0sss/RedTeam-OffensiveSecurity",
+    "desc": "Tools & Interesting Things for RedTeam Ops",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to automate your data",
+    "lang": "Python"
+  },
+  {
+    "title": "cupy/cupy",
+    "url": "https://github.com/cupy/cupy",
+    "desc": "NumPy & SciPy for GPU",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "unit8co/darts",
+    "url": "https://github.com/unit8co/darts",
+    "desc": "A python library for easy manipulation and forecasting of time series.",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "desc": "A SQL linter and auto-formatter for Humans",
+    "lang": "Python"
+  },
+  {
+    "title": "clementchadebec/benchmark_VAE",
+    "url": "https://github.com/clementchadebec/benchmark_VAE",
+    "desc": "Unifying Generative Autoencoder implementations in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "DataDog/dd-trace-py",
+    "url": "https://github.com/DataDog/dd-trace-py",
+    "desc": "Datadog Python APM Client",
+    "lang": "Python"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "desc": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/nvdiffrec",
+    "url": "https://github.com/NVlabs/nvdiffrec",
+    "desc": "Official code for the CVPR 2022 (oral) paper Extracting Triangular 3D Models, Materials, and Lighting From Images.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmcv",
+    "url": "https://github.com/open-mmlab/mmcv",
+    "desc": "OpenMMLab Computer Vision Foundation",
+    "lang": "Python"
+  },
+  {
+    "title": "GreaterWMS/GreaterWMS",
+    "url": "https://github.com/GreaterWMS/GreaterWMS",
+    "desc": "This Inventory management system is the currently Ford Asia Pacific after-sales logistics warehousing supply chain process . After I leave Ford , I start this project . In order to help some who need it . OneAPP Type . Support scanner PDA, mobile APP, desktop exe, website as well .",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-cli-extensions",
+    "url": "https://github.com/Azure/azure-cli-extensions",
+    "desc": "Public Repository for Extensions of Azure CLI.",
+    "lang": "Python"
+  },
+  {
+    "title": "kserve/kserve",
+    "url": "https://github.com/kserve/kserve",
+    "desc": "Serverless Inferencing on Kubernetes",
+    "lang": "Python"
+  }
+]
