@@ -1,0 +1,148 @@
+[
+  {
+    "title": "easychen/lean-side-bussiness",
+    "url": "https://github.com/easychen/lean-side-bussiness",
+    "desc": "精益副业：程序员如何优雅地做副业"
+  },
+  {
+    "title": "Cpp-Club/Cxx_HOPL4_zh",
+    "url": "https://github.com/Cpp-Club/Cxx_HOPL4_zh",
+    "desc": "Chinese translation of Bjarne Stroustrup's HOPL4 paper"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "lang": "Java"
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），5000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Semporia/TikTok-Unlock",
+    "url": "https://github.com/Semporia/TikTok-Unlock",
+    "desc": "TikTok免拔卡解锁最新支持 iPhone （iOS 16.0） 、TikTok（V24.8.0）、TikTok TestFlight 25.0.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！"
+  },
+  {
+    "title": "CatVodTVOfficial/CatVodTVSpider",
+    "url": "https://github.com/CatVodTVOfficial/CatVodTVSpider",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "Face-scroll-keyboard/lightink",
+    "url": "https://github.com/Face-scroll-keyboard/lightink",
+    "desc": "轻墨 模仿厚墨v1.3 复刻.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mack-a/v2ray-agent",
+    "url": "https://github.com/mack-a/v2ray-agent",
+    "desc": "（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装",
+    "lang": "Shell"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "skydevil88/XboxDownload",
+    "url": "https://github.com/skydevil88/XboxDownload",
+    "desc": "Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服、Epic 下载加速。",
+    "lang": "C#"
+  },
+  {
+    "title": "SummerSec/ShiroAttack2",
+    "url": "https://github.com/SummerSec/ShiroAttack2",
+    "desc": "shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题 https://github.com/j1anFen/shiro_attack",
+    "lang": "Java"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "desc": "基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",
+    "lang": "Go"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "focus-creative-games/huatuo",
+    "url": "https://github.com/focus-creative-games/huatuo",
+    "desc": "huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix",
+    "lang": "C++"
+  },
+  {
+    "title": "BlinkDL/AI-Writer",
+    "url": "https://github.com/BlinkDL/AI-Writer",
+    "desc": "AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "macrozheng/mall-admin-web",
+    "url": "https://github.com/macrozheng/mall-admin-web",
+    "desc": "mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。",
+    "lang": "Vue"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "jdf2e/nutui",
+    "url": "https://github.com/jdf2e/nutui",
+    "desc": "京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)",
+    "lang": "Vue"
+  },
+  {
+    "title": "CollegesChat/university-information",
+    "url": "https://github.com/CollegesChat/university-information",
+    "desc": "收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节",
+    "lang": "Python"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "AmazingAng/WTFSolidity",
+    "url": "https://github.com/AmazingAng/WTFSolidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。",
+    "lang": "Solidity"
+  }
+]

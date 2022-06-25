@@ -1,0 +1,147 @@
+[
+  {
+    "title": "CatVodTVOfficial/TVBoxOSC",
+    "url": "https://github.com/CatVodTVOfficial/TVBoxOSC",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "dolthub/dolt",
+    "url": "https://github.com/dolthub/dolt",
+    "desc": "Dolt – It's Git for Data",
+    "lang": "Go"
+  },
+  {
+    "title": "meituan/YOLOv6",
+    "url": "https://github.com/meituan/YOLOv6",
+    "desc": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/spring-cloud-tencent",
+    "url": "https://github.com/Tencent/spring-cloud-tencent",
+    "desc": "Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.",
+    "lang": "Java"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "Vector database for scalable similarity search and AI applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "desc": "The OpenAPI Specification Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yandex/YaLM-100B",
+    "url": "https://github.com/yandex/YaLM-100B",
+    "desc": "Pretrained language model with 100B parameters",
+    "lang": "Python"
+  },
+  {
+    "title": "still-scene/t3",
+    "url": "https://github.com/still-scene/t3",
+    "desc": "Tooll 3 is an open source software to create realtime motion graphics.",
+    "lang": "C#"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "desc": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "responsible-financial-innovation-act22/RFIA-bill",
+    "url": "https://github.com/responsible-financial-innovation-act22/RFIA-bill",
+    "desc": ""
+  },
+  {
+    "title": "easychen/lean-side-bussiness",
+    "url": "https://github.com/easychen/lean-side-bussiness",
+    "desc": "精益副业：程序员如何优雅地做副业"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "soypat/gopherlings",
+    "url": "https://github.com/soypat/gopherlings",
+    "desc": "📘️ Learn Go by fixing tiny incorrect programs",
+    "lang": "Go"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "optiv/Mangle",
+    "url": "https://github.com/optiv/Mangle",
+    "desc": "Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs",
+    "lang": "Go"
+  },
+  {
+    "title": "Cpp-Club/Cxx_HOPL4_zh",
+    "url": "https://github.com/Cpp-Club/Cxx_HOPL4_zh",
+    "desc": "Chinese translation of Bjarne Stroustrup's HOPL4 paper"
+  },
+  {
+    "title": "flameshot-org/flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "desc": "Powerful yet simple to use screenshot software 🖥️ 📸",
+    "lang": "C++"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "p0dalirius/Awesome-RCE-techniques",
+    "url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "desc": "Awesome list of step by step techniques to achieve Remote Code Execution on various apps!",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "desc": "Haptic input knob with software-defined endstops and virtual detents",
+    "lang": "C++"
+  },
+  {
+    "title": "google-research/parti",
+    "url": "https://github.com/google-research/parti",
+    "desc": ""
+  },
+  {
+    "title": "openai/Video-Pre-Training",
+    "url": "https://github.com/openai/Video-Pre-Training",
+    "desc": "Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos",
+    "lang": "Python"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rougier/numpy-100",
+    "url": "https://github.com/rougier/numpy-100",
+    "desc": "100 numpy exercises (with solutions)",
+    "lang": "Python"
+  },
+  {
+    "title": "datafold/data-diff",
+    "url": "https://github.com/datafold/data-diff",
+    "desc": "Efficiently diff rows across two different databases.",
+    "lang": "Python"
+  }
+]
