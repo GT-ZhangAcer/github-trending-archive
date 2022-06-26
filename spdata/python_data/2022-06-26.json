@@ -1,0 +1,152 @@
+[
+  {
+    "title": "meituan/YOLOv6",
+    "url": "https://github.com/meituan/YOLOv6",
+    "desc": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "rougier/numpy-100",
+    "url": "https://github.com/rougier/numpy-100",
+    "desc": "100 numpy exercises (with solutions)",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "vysecurity/LinkedInt",
+    "url": "https://github.com/vysecurity/LinkedInt",
+    "desc": "LinkedIn Recon Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "blackboxo/CleanMyWechat",
+    "url": "https://github.com/blackboxo/CleanMyWechat",
+    "desc": "自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
+    "lang": "Python"
+  },
+  {
+    "title": "josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "desc": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamYukki/YukkiMusicBot",
+    "url": "https://github.com/TeamYukki/YukkiMusicBot",
+    "desc": "Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
+    "lang": "Python"
+  },
+  {
+    "title": "dgtlmoon/changedetection.io",
+    "url": "https://github.com/dgtlmoon/changedetection.io",
+    "desc": "changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/AI-Writer",
+    "url": "https://github.com/BlinkDL/AI-Writer",
+    "desc": "AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "clementchadebec/benchmark_VAE",
+    "url": "https://github.com/clementchadebec/benchmark_VAE",
+    "desc": "Unifying Generative Autoencoder implementations in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "ManimCommunity/manim",
+    "url": "https://github.com/ManimCommunity/manim",
+    "desc": "A community-maintained Python framework for creating mathematical animations.",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and web app—powerful open source team chat",
+    "lang": "Python"
+  },
+  {
+    "title": "TobeTek/Zuri",
+    "url": "https://github.com/TobeTek/Zuri",
+    "desc": "learning always",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/Video-Pre-Training",
+    "url": "https://github.com/openai/Video-Pre-Training",
+    "desc": "Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos",
+    "lang": "Python"
+  },
+  {
+    "title": "CodeXBotz/File-Sharing-Bot",
+    "url": "https://github.com/CodeXBotz/File-Sharing-Bot",
+    "desc": "Telegram Bot to store Posts and Documents and it can Access by Special Links.",
+    "lang": "Python"
+  },
+  {
+    "title": "GreaterWMS/GreaterWMS",
+    "url": "https://github.com/GreaterWMS/GreaterWMS",
+    "desc": "This Inventory management system is the currently Ford Asia Pacific after-sales logistics warehousing supply chain process . After I leave Ford , I start this project . In order to help some who need it . OneAPP Type . Support scanner PDA, mobile APP, desktop exe, website as well .",
+    "lang": "Python"
+  },
+  {
+    "title": "mitmproxy/mitmproxy",
+    "url": "https://github.com/mitmproxy/mitmproxy",
+    "desc": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+    "lang": "Python"
+  },
+  {
+    "title": "Pycord-Development/pycord",
+    "url": "https://github.com/Pycord-Development/pycord",
+    "desc": "Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API",
+    "lang": "Python"
+  }
+]
