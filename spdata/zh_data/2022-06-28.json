@@ -1,0 +1,148 @@
+[
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），5000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jeecgboot/jeecgboot-vue3",
+    "url": "https://github.com/jeecgboot/jeecgboot-vue3",
+    "desc": "「企业级低代码平台」采用 Vue3.0、Vite、 Ant-Design-Vue、TypeScript 等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是在 Vben-Admin 基础上研发的，适合于JeecgBoot的新版前端VUE3框架。",
+    "lang": "Vue"
+  },
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "desc": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+    "lang": "C#"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "liu673cn/mao",
+    "url": "https://github.com/liu673cn/mao",
+    "desc": "猫影视TV（停运）---> TVbox（空壳）",
+    "lang": "HTML"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "YunaiV/yudao-cloud",
+    "url": "https://github.com/YunaiV/yudao-cloud",
+    "desc": "RuoYi-Vue 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "YuanHsing/freed",
+    "url": "https://github.com/YuanHsing/freed",
+    "desc": ""
+  },
+  {
+    "title": "pppscn/SmsForwarder",
+    "url": "https://github.com/pppscn/SmsForwarder",
+    "desc": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "zhaojun1998/zfile",
+    "url": "https://github.com/zhaojun1998/zfile",
+    "desc": "在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai",
+    "lang": "Java"
+  },
+  {
+    "title": "sunface/rust-course",
+    "url": "https://github.com/sunface/rust-course",
+    "desc": "“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石 — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍",
+    "lang": "Rust"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "desc": "To Be Top Javaer - Java工程师成神之路",
+    "lang": "Java"
+  },
+  {
+    "title": "leoFitz1024/wallhaven",
+    "url": "https://github.com/leoFitz1024/wallhaven",
+    "desc": "",
+    "lang": "CSS"
+  },
+  {
+    "title": "BlinkDL/AI-Writer",
+    "url": "https://github.com/BlinkDL/AI-Writer",
+    "desc": "AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "yaklang/yakit",
+    "url": "https://github.com/yaklang/yakit",
+    "desc": "Cyber Security ALL-IN-ONE Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "easychen/lean-side-bussiness",
+    "url": "https://github.com/easychen/lean-side-bussiness",
+    "desc": "精益副业：程序员如何优雅地做副业"
+  },
+  {
+    "title": "Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "url": "https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "desc": "转存助手ui优化版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "desc": "适用于新系统UI的哔哩",
+    "lang": "C#"
+  },
+  {
+    "title": "TechXueXi/techxuexi-js",
+    "url": "https://github.com/TechXueXi/techxuexi-js",
+    "desc": "油猴等插件的 学习强国 js 代码 45分/天",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "desc": "收集整理 GitHub 上高质量、有趣的开源项目。"
+  },
+  {
+    "title": "qq8e/qq",
+    "url": "https://github.com/qq8e/qq",
+    "desc": "8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多",
+    "lang": "CSS"
+  },
+  {
+    "title": "lionsoul2014/ip2region",
+    "url": "https://github.com/lionsoul2014/ip2region",
+    "desc": "Ip2region (2.0 - xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages",
+    "lang": "Java"
+  },
+  {
+    "title": "Jack-Cherish/PythonPark",
+    "url": "https://github.com/Jack-Cherish/PythonPark",
+    "desc": "Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。",
+    "lang": "Python"
+  }
+]
