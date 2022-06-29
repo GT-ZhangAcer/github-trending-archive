@@ -1,0 +1,152 @@
+[
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "WhaleFell/SMSBoom",
+    "url": "https://github.com/WhaleFell/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "shibing624/pycorrector",
+    "url": "https://github.com/shibing624/pycorrector",
+    "desc": "pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer，T5等模型实现，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "ymcui/Chinese-BERT-wwm",
+    "url": "https://github.com/ymcui/Chinese-BERT-wwm",
+    "desc": "Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）",
+    "lang": "Python"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "itcharge/LeetCode-Py",
+    "url": "https://github.com/itcharge/LeetCode-Py",
+    "desc": "⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，「LeetCode」700+ 道题目的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。",
+    "lang": "Python"
+  },
+  {
+    "title": "Womsxd/AutoMihoyoBBS",
+    "url": "https://github.com/Womsxd/AutoMihoyoBBS",
+    "desc": "米游社自动签到，支持：崩坏二、崩坏三、原神，米游币自动获取",
+    "lang": "Python"
+  },
+  {
+    "title": "guyuehome/guyueclass",
+    "url": "https://github.com/guyuehome/guyueclass",
+    "desc": "古月学院课程代码",
+    "lang": "Python"
+  },
+  {
+    "title": "a312863063/generators-with-stylegan2",
+    "url": "https://github.com/a312863063/generators-with-stylegan2",
+    "desc": "Here is a series of face generators based on StyleGAN2",
+    "lang": "Python"
+  },
+  {
+    "title": "Mr-xn/BurpSuite-collections",
+    "url": "https://github.com/Mr-xn/BurpSuite-collections",
+    "desc": "有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "NewFuture/DDNS",
+    "url": "https://github.com/NewFuture/DDNS",
+    "desc": "🚩 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot",
+    "url": "https://github.com/nonebot/nonebot",
+    "desc": "基于 OneBot 标准的 Python 异步 QQ 机器人框架 / Asynchronous QQ robot framework based on OneBot for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "openatx/uiautomator2",
+    "url": "https://github.com/openatx/uiautomator2",
+    "desc": "Android Uiautomator2 Python Wrapper",
+    "lang": "Python"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/taobao-iphone-device",
+    "url": "https://github.com/alibaba/taobao-iphone-device",
+    "desc": "tidevice can be used to communicate with iPhone device",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "zq1997/deepin-wine",
+    "url": "https://github.com/zq1997/deepin-wine",
+    "desc": "【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式",
+    "lang": "Python"
+  },
+  {
+    "title": "649453932/Chinese-Text-Classification-Pytorch",
+    "url": "https://github.com/649453932/Chinese-Text-Classification-Pytorch",
+    "desc": "中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "yihong0618/Kindle_download_helper",
+    "url": "https://github.com/yihong0618/Kindle_download_helper",
+    "desc": "Download all your kindle books script.",
+    "lang": "Python"
+  },
+  {
+    "title": "CollegesChat/university-information",
+    "url": "https://github.com/CollegesChat/university-information",
+    "desc": "收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节",
+    "lang": "Python"
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "lang": "Python"
+  }
+]

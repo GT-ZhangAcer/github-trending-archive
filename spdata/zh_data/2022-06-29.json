@@ -1,0 +1,145 @@
+[
+  {
+    "title": "qiangmzsx/Software-Engineering-at-Google",
+    "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google",
+    "desc": "《Software Engineering at Google》的中文翻译版本",
+    "lang": "HTML"
+  },
+  {
+    "title": "liu673cn/mao",
+    "url": "https://github.com/liu673cn/mao",
+    "desc": "猫影视TV（停运）---> TVbox（空壳）",
+    "lang": "HTML"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "ByPassAVTeam/ShellcodeLoader",
+    "url": "https://github.com/ByPassAVTeam/ShellcodeLoader",
+    "desc": "该项目为Shellocde加载器，详细介绍了我们如何绕过防病毒软件，以及该工具如何使用",
+    "lang": "C++"
+  },
+  {
+    "title": "YMFE/yapi",
+    "url": "https://github.com/YMFE/yapi",
+    "desc": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "desc": "收集整理 GitHub 上高质量、有趣的开源项目。"
+  },
+  {
+    "title": "dianping/cat",
+    "url": "https://github.com/dianping/cat",
+    "desc": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",
+    "lang": "Java"
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），5000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "YunaiV/yudao-cloud",
+    "url": "https://github.com/YunaiV/yudao-cloud",
+    "desc": "RuoYi-Vue 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "7kms/react-illustration-series",
+    "url": "https://github.com/7kms/react-illustration-series",
+    "desc": "图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rocboss/paopao-ce",
+    "url": "https://github.com/rocboss/paopao-ce",
+    "desc": "🔥A artistic twitter like community built on gin+zinc+vue+ts 清新文艺微社区",
+    "lang": "Go"
+  },
+  {
+    "title": "openspug/spug",
+    "url": "https://github.com/openspug/spug",
+    "desc": "开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WhaleFell/SMSBoom",
+    "url": "https://github.com/WhaleFell/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "leoFitz1024/wallhaven",
+    "url": "https://github.com/leoFitz1024/wallhaven",
+    "desc": "",
+    "lang": "CSS"
+  },
+  {
+    "title": "stevenjoezhang/live2d-widget",
+    "url": "https://github.com/stevenjoezhang/live2d-widget",
+    "desc": "把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pppscn/SmsForwarder",
+    "url": "https://github.com/pppscn/SmsForwarder",
+    "desc": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "chaos-zhu/easynode",
+    "url": "https://github.com/chaos-zhu/easynode",
+    "desc": "一个简易的个人Linux服务器管理面板(基础探针+webssh终端)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wechat-miniprogram/minigame-unity-webgl-transform",
+    "url": "https://github.com/wechat-miniprogram/minigame-unity-webgl-transform",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zhoutaoo/SpringCloud",
+    "url": "https://github.com/zhoutaoo/SpringCloud",
+    "desc": "基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中",
+    "lang": "Java"
+  },
+  {
+    "title": "achuna33/MYExploit",
+    "url": "https://github.com/achuna33/MYExploit",
+    "desc": "OAExploit一款基于产品的一键扫描工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "desc": "程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate",
+    "lang": "PHP"
+  }
+]
