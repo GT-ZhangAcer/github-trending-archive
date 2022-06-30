@@ -1,0 +1,144 @@
+[
+  {
+    "title": "qq8e/qq",
+    "url": "https://github.com/qq8e/qq",
+    "desc": "8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多",
+    "lang": "CSS"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "qiangmzsx/Software-Engineering-at-Google",
+    "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google",
+    "desc": "《Software Engineering at Google》的中文翻译版本",
+    "lang": "HTML"
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），5000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WhaleFell/SMSBoom",
+    "url": "https://github.com/WhaleFell/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "achuna33/MYExploit",
+    "url": "https://github.com/achuna33/MYExploit",
+    "desc": "OAExploit一款基于产品的一键扫描工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "zu1k/nali",
+    "url": "https://github.com/zu1k/nali",
+    "desc": "一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.",
+    "lang": "Go"
+  },
+  {
+    "title": "ThisisGame/cpp-game-engine-book",
+    "url": "https://github.com/ThisisGame/cpp-game-engine-book",
+    "desc": "从零编写游戏引擎教程 Writing a game engine tutorial from scratch",
+    "lang": "C++"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "easychen/checkchan-dist",
+    "url": "https://github.com/easychen/checkchan-dist",
+    "desc": "Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "woai3c/visual-drag-demo",
+    "url": "https://github.com/woai3c/visual-drag-demo",
+    "desc": "一个低代码（可视化拖拽）教学项目",
+    "lang": "Vue"
+  },
+  {
+    "title": "xiaochunjimmy/Sogou-Input-Skin",
+    "url": "https://github.com/xiaochunjimmy/Sogou-Input-Skin",
+    "desc": "搜狗拼音输入法的几款极简风格皮肤"
+  },
+  {
+    "title": "pppscn/SmsForwarder",
+    "url": "https://github.com/pppscn/SmsForwarder",
+    "desc": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "lilishop/lilishop",
+    "url": "https://github.com/lilishop/lilishop",
+    "desc": "电商商城 多语言商城 跨境商城 多用户商城 小程序商城 微服务商城 新零售 社区商城",
+    "lang": "Java"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "zhaojun1998/zfile",
+    "url": "https://github.com/zhaojun1998/zfile",
+    "desc": "在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai",
+    "lang": "Java"
+  },
+  {
+    "title": "lwch/natpass",
+    "url": "https://github.com/lwch/natpass",
+    "desc": "新一代主机管理工具，支持web vnc和web shell，居家办公神器",
+    "lang": "Go"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+  },
+  {
+    "title": "LandGrey/SpringBootVulExploit",
+    "url": "https://github.com/LandGrey/SpringBootVulExploit",
+    "desc": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
+    "lang": "Java"
+  },
+  {
+    "title": "ccfos/nightingale",
+    "url": "https://github.com/ccfos/nightingale",
+    "desc": "An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/fastjson2",
+    "url": "https://github.com/alibaba/fastjson2",
+    "desc": "🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库",
+    "lang": "Java"
+  },
+  {
+    "title": "unknwon/the-way-to-go_ZH_CN",
+    "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+    "desc": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+    "lang": "Go"
+  },
+  {
+    "title": "yangzongzhuan/RuoYi-Vue3",
+    "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+    "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+    "lang": "Vue"
+  }
+]

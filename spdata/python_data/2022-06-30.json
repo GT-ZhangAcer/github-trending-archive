@@ -1,0 +1,152 @@
+[
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "jinfagang/yolov7",
+    "url": "https://github.com/jinfagang/yolov7",
+    "desc": "🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
+    "lang": "Python"
+  },
+  {
+    "title": "aolofsson/awesome-opensource-hardware",
+    "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+    "desc": "List of awesome open source hardware projects",
+    "lang": "Python"
+  },
+  {
+    "title": "kuprel/min-dalle",
+    "url": "https://github.com/kuprel/min-dalle",
+    "desc": "This is a minimal implementation of DALL·E Mini. It has been stripped to the bare essentials necessary for doing inference, and converted to PyTorch.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX Project",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "t3l3machus/toxssin",
+    "url": "https://github.com/t3l3machus/toxssin",
+    "desc": "A POST-XSS exploitation tool.",
+    "lang": "Python"
+  },
+  {
+    "title": "meituan/YOLOv6",
+    "url": "https://github.com/meituan/YOLOv6",
+    "desc": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "RunaCapital/awesome-oss-alternatives",
+    "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "desc": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "optuna/optuna",
+    "url": "https://github.com/optuna/optuna",
+    "desc": "A hyperparameter optimization framework",
+    "lang": "Python"
+  },
+  {
+    "title": "DataDog/integrations-core",
+    "url": "https://github.com/DataDog/integrations-core",
+    "desc": "Core integrations of the Datadog Agent",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/stylegan2-ada-pytorch",
+    "url": "https://github.com/NVlabs/stylegan2-ada-pytorch",
+    "desc": "StyleGAN2-ADA - Official PyTorch implementation",
+    "lang": "Python"
+  },
+  {
+    "title": "WhaleFell/SMSBoom",
+    "url": "https://github.com/WhaleFell/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "benbusby/whoogle-search",
+    "url": "https://github.com/benbusby/whoogle-search",
+    "desc": "A self-hosted, ad-free, privacy-respecting metasearch engine",
+    "lang": "Python"
+  },
+  {
+    "title": "MatrixTM/MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "xnl-h4ck3r/waymore",
+    "url": "https://github.com/xnl-h4ck3r/waymore",
+    "desc": "Find way more from the Wayback Machine!",
+    "lang": "Python"
+  },
+  {
+    "title": "zenml-io/zenml",
+    "url": "https://github.com/zenml-io/zenml",
+    "desc": "ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.",
+    "lang": "Python"
+  },
+  {
+    "title": "Ankit404butfound/PyWhatKit",
+    "url": "https://github.com/Ankit404butfound/PyWhatKit",
+    "desc": "Send WhatsApp message at certain time and many other things.",
+    "lang": "Python"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "py-why/dowhy",
+    "url": "https://github.com/py-why/dowhy",
+    "desc": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "Shikha-code36/Data-Structures-and-Algorithm-Patterns",
+    "url": "https://github.com/Shikha-code36/Data-Structures-and-Algorithm-Patterns",
+    "desc": "Data Structures and Algorithms Patterns that I followed ,implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "keon/algorithms",
+    "url": "https://github.com/keon/algorithms",
+    "desc": "Minimal examples of data structures and algorithms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  }
+]
