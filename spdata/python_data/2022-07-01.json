@@ -1,0 +1,152 @@
+[
+  {
+    "title": "python-discord/code-jam-qualifier-9",
+    "url": "https://github.com/python-discord/code-jam-qualifier-9",
+    "desc": "Qualifier for Python Discord Code Jam 9 - Summer 2022",
+    "lang": "Python"
+  },
+  {
+    "title": "ccyanxyz/uniswap-arbitrage-analysis",
+    "url": "https://github.com/ccyanxyz/uniswap-arbitrage-analysis",
+    "desc": "Uniswap arbitrage problem analysis",
+    "lang": "Python"
+  },
+  {
+    "title": "jinfagang/yolov7",
+    "url": "https://github.com/jinfagang/yolov7",
+    "desc": "🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "CryptoGnome/Limit-Sniper",
+    "url": "https://github.com/CryptoGnome/Limit-Sniper",
+    "desc": "A mempool sniping bot for Ethereum, Binance Smart Chain, Matic, & Fantom",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "Megvii-BaseDetection/YOLOX",
+    "url": "https://github.com/Megvii-BaseDetection/YOLOX",
+    "desc": "YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/",
+    "lang": "Python"
+  },
+  {
+    "title": "cookiecutter/cookiecutter",
+    "url": "https://github.com/cookiecutter/cookiecutter",
+    "desc": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Offensive Google framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "t3l3machus/toxssin",
+    "url": "https://github.com/t3l3machus/toxssin",
+    "desc": "A POST-XSS exploitation tool.",
+    "lang": "Python"
+  },
+  {
+    "title": "spack/spack",
+    "url": "https://github.com/spack/spack",
+    "desc": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmcv",
+    "url": "https://github.com/open-mmlab/mmcv",
+    "desc": "OpenMMLab Computer Vision Foundation",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/tvm",
+    "url": "https://github.com/apache/tvm",
+    "desc": "Open deep learning compiler stack for cpu, gpu and specialized accelerators",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/audio",
+    "url": "https://github.com/pytorch/audio",
+    "desc": "Data manipulation and transformation for audio signal processing, powered by PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "DA-southampton/NLP_ability",
+    "url": "https://github.com/DA-southampton/NLP_ability",
+    "desc": "总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括面试题，各种基础知识，工程能力等等，提升核心竞争力",
+    "lang": "Python"
+  },
+  {
+    "title": "nutonomy/nuscenes-devkit",
+    "url": "https://github.com/nutonomy/nuscenes-devkit",
+    "desc": "The devkit of the nuScenes dataset.",
+    "lang": "Python"
+  },
+  {
+    "title": "triton-inference-server/server",
+    "url": "https://github.com/triton-inference-server/server",
+    "desc": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "title": "wmjordan/PDFPatcher",
+    "url": "https://github.com/wmjordan/PDFPatcher",
+    "desc": "PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等",
+    "lang": "C#"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "qiangmzsx/Software-Engineering-at-Google",
+    "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google",
+    "desc": "《Software Engineering at Google》的中文翻译版本",
+    "lang": "HTML"
+  },
+  {
+    "title": "qq8e/qq",
+    "url": "https://github.com/qq8e/qq",
+    "desc": "8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多",
+    "lang": "CSS"
+  },
+  {
+    "title": "guchangan1/All-Defense-Tool",
+    "url": "https://github.com/guchangan1/All-Defense-Tool",
+    "desc": "本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。"
+  },
+  {
+    "title": "datawhalechina/fun-rec",
+    "url": "https://github.com/datawhalechina/fun-rec",
+    "desc": "推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Twi1ight/CSAgent",
+    "url": "https://github.com/Twi1ight/CSAgent",
+    "desc": "CobaltStrike 4.x通用白嫖及汉化加载器",
+    "lang": "Java"
+  },
+  {
+    "title": "focus-creative-games/huatuo",
+    "url": "https://github.com/focus-creative-games/huatuo",
+    "desc": "huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix",
+    "lang": "C++"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "YMFE/yapi",
+    "url": "https://github.com/YMFE/yapi",
+    "desc": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "dianping/cat",
+    "url": "https://github.com/dianping/cat",
+    "desc": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",
+    "lang": "Java"
+  },
+  {
+    "title": "macrozheng/mall-tiny",
+    "url": "https://github.com/macrozheng/mall-tiny",
+    "desc": "mall-tiny是一款基于SpringBoot+MyBatis-Plus的快速开发脚手架，拥有完整的权限管理功能，可对接Vue前端，开箱即用。",
+    "lang": "Java"
+  },
+  {
+    "title": "7kms/react-illustration-series",
+    "url": "https://github.com/7kms/react-illustration-series",
+    "desc": "图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "liu673cn/mao",
+    "url": "https://github.com/liu673cn/mao",
+    "desc": "猫影视TV（停运）---> TVbox（空壳）",
+    "lang": "HTML"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "rocboss/paopao-ce",
+    "url": "https://github.com/rocboss/paopao-ce",
+    "desc": "🔥A artistic twitter like community built on gin+zinc+vue+ts 清新文艺微社区",
+    "lang": "Go"
+  },
+  {
+    "title": "mindoc-org/mindoc",
+    "url": "https://github.com/mindoc-org/mindoc",
+    "desc": "Golang实现的基于beego框架的接口在线文档管理系统",
+    "lang": "Go"
+  },
+  {
+    "title": "DA-southampton/NLP_ability",
+    "url": "https://github.com/DA-southampton/NLP_ability",
+    "desc": "总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括面试题，各种基础知识，工程能力等等，提升核心竞争力",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "AmazingAng/WTFSolidity",
+    "url": "https://github.com/AmazingAng/WTFSolidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。",
+    "lang": "Solidity"
+  },
+  {
+    "title": "zhaojun1998/zfile",
+    "url": "https://github.com/zhaojun1998/zfile",
+    "desc": "在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai",
+    "lang": "Java"
+  },
+  {
+    "title": "TryHello/DogCs4.4",
+    "url": "https://github.com/TryHello/DogCs4.4",
+    "desc": "cs4.4修改去特征狗狗版(美化ui,去除特征,自带bypass核晶截图等..)"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  }
+]
