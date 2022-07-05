@@ -1,0 +1,149 @@
+[
+  {
+    "title": "WhaleFell/SMSBoom",
+    "url": "https://github.com/WhaleFell/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "qianguyihao/Web",
+    "url": "https://github.com/qianguyihao/Web",
+    "desc": "千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。"
+  },
+  {
+    "title": "alibaba/transmittable-thread-local",
+    "url": "https://github.com/alibaba/transmittable-thread-local",
+    "desc": "📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.",
+    "lang": "Java"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "niuhuan/jasmine",
+    "url": "https://github.com/niuhuan/jasmine",
+    "desc": "一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows / Linux。",
+    "lang": "Dart"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "Markdown"
+  },
+  {
+    "title": "newbee-ltd/newbee-mall-vue3-app",
+    "url": "https://github.com/newbee-ltd/newbee-mall-vue3-app",
+    "desc": "🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。",
+    "lang": "Vue"
+  },
+  {
+    "title": "zhanwen/MathModel",
+    "url": "https://github.com/zhanwen/MathModel",
+    "desc": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
+    "lang": "TeX"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "focus-creative-games/luban",
+    "url": "https://github.com/focus-creative-games/luban",
+    "desc": "你的最佳游戏配置解决方案 {excel, csv, xls, xlsx, json, bson, xml, yaml, lua, unity scriptableobject} => {json, bson, xml, lua, yaml, protobuf(pb), msgpack, flatbuffers, erlang, custom template} data + {c++, java, c#, go(golang), lua, javascript(js), typescript(ts), erlang, rust, gdscript, protobuf schema, flatbuffers schema, custom template} code。 不仅仅是导表工具。…",
+    "lang": "C#"
+  },
+  {
+    "title": "leafTheFish/DeathNote",
+    "url": "https://github.com/leafTheFish/DeathNote",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WeiYe-Jing/datax-web",
+    "url": "https://github.com/WeiYe-Jing/datax-web",
+    "desc": "DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。",
+    "lang": "Java"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "Reamd7/notion-zh_CN",
+    "url": "https://github.com/Reamd7/notion-zh_CN",
+    "desc": "notion 中文化",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "baidu/amis",
+    "url": "https://github.com/baidu/amis",
+    "desc": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "shadow1ng/fscan",
+    "url": "https://github.com/shadow1ng/fscan",
+    "desc": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。",
+    "lang": "Go"
+  },
+  {
+    "title": "extreme-assistant/CVPR2022-Paper-Code-Interpretation",
+    "url": "https://github.com/extreme-assistant/CVPR2022-Paper-Code-Interpretation",
+    "desc": "cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理"
+  },
+  {
+    "title": "zergtant/pytorch-handbook",
+    "url": "https://github.com/zergtant/pytorch-handbook",
+    "desc": "pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "gz-yami/mall4j",
+    "url": "https://github.com/gz-yami/mall4j",
+    "desc": "⭐️⭐️⭐️ 电商商城 java电商商城系统 uniapp商城 多用户商城",
+    "lang": "Java"
+  },
+  {
+    "title": "Tencent/wujie",
+    "url": "https://github.com/Tencent/wujie",
+    "desc": "极致的微前端框架",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "qinguoyi/TinyWebServer",
+    "url": "https://github.com/qinguoyi/TinyWebServer",
+    "desc": "🔥 Linux下C++轻量级Web服务器",
+    "lang": "C++"
+  },
+  {
+    "title": "zan8in/afrog",
+    "url": "https://github.com/zan8in/afrog",
+    "desc": "afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities",
+    "lang": "Go"
+  },
+  {
+    "title": "youzan/vant-weapp",
+    "url": "https://github.com/youzan/vant-weapp",
+    "desc": "轻量、可靠的小程序 UI 组件库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JakHuang/form-generator",
+    "url": "https://github.com/JakHuang/form-generator",
+    "desc": "✨Element UI表单设计及代码生成器",
+    "lang": "Vue"
+  }
+]
