@@ -1,0 +1,152 @@
+[
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "AiRanthem/xmu-daily-report",
+    "url": "https://github.com/AiRanthem/xmu-daily-report",
+    "desc": "基于Github Actions，无需本地部署，在线fork仓库即可使用的厦大Daily Health Report 健康打卡自动填写脚本",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "EstrellaXD/Auto_Bangumi",
+    "url": "https://github.com/EstrellaXD/Auto_Bangumi",
+    "desc": "AutoBangumi - 全自动追番工具，节约时间创造价值",
+    "lang": "Python"
+  },
+  {
+    "title": "chineseocr/chineseocr",
+    "url": "https://github.com/chineseocr/chineseocr",
+    "desc": "yolo3+ocr",
+    "lang": "Python"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "apachecn/ailearning",
+    "url": "https://github.com/apachecn/ailearning",
+    "desc": "AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2",
+    "lang": "Python"
+  },
+  {
+    "title": "XiaoMiku01/fansMedalHelper",
+    "url": "https://github.com/XiaoMiku01/fansMedalHelper",
+    "desc": "新版B站粉丝牌助手 全自动升级粉丝牌",
+    "lang": "Python"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "TheKingOfDuck/fuzzDicts",
+    "url": "https://github.com/TheKingOfDuck/fuzzDicts",
+    "desc": "Web Pentesting Fuzz 字典,一个就够了。",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleX",
+    "url": "https://github.com/PaddlePaddle/PaddleX",
+    "desc": "PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）",
+    "lang": "Python"
+  },
+  {
+    "title": "shibing624/pycorrector",
+    "url": "https://github.com/shibing624/pycorrector",
+    "desc": "pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer，T5等模型实现，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "bojone/bert4keras",
+    "url": "https://github.com/bojone/bert4keras",
+    "desc": "keras implement of transformers for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/ERNIE",
+    "url": "https://github.com/PaddlePaddle/ERNIE",
+    "desc": "Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.",
+    "lang": "Python"
+  },
+  {
+    "title": "r0ysue/r0capture",
+    "url": "https://github.com/r0ysue/r0capture",
+    "desc": "安卓应用层抓包通杀脚本",
+    "lang": "Python"
+  },
+  {
+    "title": "nl8590687/ASRT_SpeechRecognition",
+    "url": "https://github.com/nl8590687/ASRT_SpeechRecognition",
+    "desc": "A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统",
+    "lang": "Python"
+  },
+  {
+    "title": "fxsjy/jieba",
+    "url": "https://github.com/fxsjy/jieba",
+    "desc": "结巴中文分词",
+    "lang": "Python"
+  },
+  {
+    "title": "sipeed/MaixPy_scripts",
+    "url": "https://github.com/sipeed/MaixPy_scripts",
+    "desc": "micropython scripts for MaixPy",
+    "lang": "Python"
+  },
+  {
+    "title": "r0ysue/AndroidSecurityStudy",
+    "url": "https://github.com/r0ysue/AndroidSecurityStudy",
+    "desc": "安卓应用安全学习",
+    "lang": "Python"
+  },
+  {
+    "title": "jhao104/proxy_pool",
+    "url": "https://github.com/jhao104/proxy_pool",
+    "desc": "Python爬虫代理IP池(proxy pool)",
+    "lang": "Python"
+  },
+  {
+    "title": "tonquer/picacg-qt",
+    "url": "https://github.com/tonquer/picacg-qt",
+    "desc": "哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)",
+    "lang": "Python"
+  },
+  {
+    "title": "shengqiangzhang/examples-of-web-crawlers",
+    "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "desc": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",
+    "lang": "Python"
+  }
+]
