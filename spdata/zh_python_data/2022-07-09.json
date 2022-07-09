@@ -1,0 +1,152 @@
+[
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "TophantTechnology/ARL",
+    "url": "https://github.com/TophantTechnology/ARL",
+    "desc": "ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/taobao-iphone-device",
+    "url": "https://github.com/alibaba/taobao-iphone-device",
+    "desc": "tidevice can be used to communicate with iPhone device",
+    "lang": "Python"
+  },
+  {
+    "title": "pwxcoo/chinese-xinhua",
+    "url": "https://github.com/pwxcoo/chinese-xinhua",
+    "desc": "📙 中华新华字典数据库。包括歇后语，成语，词语，汉字。",
+    "lang": "Python"
+  },
+  {
+    "title": "Python3WebSpider/ProxyPool",
+    "url": "https://github.com/Python3WebSpider/ProxyPool",
+    "desc": "An Efficient ProxyPool with Getter, Tester and Server",
+    "lang": "Python"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
+    "lang": "Python"
+  },
+  {
+    "title": "anzhihe/learning",
+    "url": "https://github.com/anzhihe/learning",
+    "desc": "Learning Shell，Python，Golang，System，Network",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/Machine-Learning",
+    "url": "https://github.com/Jack-Cherish/Machine-Learning",
+    "desc": "⚡机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归",
+    "lang": "Python"
+  },
+  {
+    "title": "Jrohy/multi-v2ray",
+    "url": "https://github.com/Jrohy/multi-v2ray",
+    "desc": "v2ray/xray多用户管理部署程序",
+    "lang": "Python"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "desc": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleX",
+    "url": "https://github.com/PaddlePaddle/PaddleX",
+    "desc": "PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "7eu7d7/genshin_auto_fish",
+    "url": "https://github.com/7eu7d7/genshin_auto_fish",
+    "desc": "基于深度强化学习的原神自动钓鱼AI",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/python-spider",
+    "url": "https://github.com/Jack-Cherish/python-spider",
+    "desc": "🌈Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等",
+    "lang": "Python"
+  },
+  {
+    "title": "SuperCV/Book",
+    "url": "https://github.com/SuperCV/Book",
+    "desc": "📗我的个人书籍学习和收藏",
+    "lang": "Python"
+  },
+  {
+    "title": "tonquer/picacg-qt",
+    "url": "https://github.com/tonquer/picacg-qt",
+    "desc": "哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)",
+    "lang": "Python"
+  },
+  {
+    "title": "Ice-Cirno/HoshinoBot",
+    "url": "https://github.com/Ice-Cirno/HoshinoBot",
+    "desc": "A qqbot for Princess Connect Re:Dive (and other usage :)",
+    "lang": "Python"
+  },
+  {
+    "title": "bubbliiiing/yolov4-pytorch",
+    "url": "https://github.com/bubbliiiing/yolov4-pytorch",
+    "desc": "这是一个YoloV4-pytorch的源码，可以用于训练自己的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "PantsuDango/Dango-Translator",
+    "url": "https://github.com/PantsuDango/Dango-Translator",
+    "desc": "团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器",
+    "lang": "Python"
+  },
+  {
+    "title": "shibing624/pycorrector",
+    "url": "https://github.com/shibing624/pycorrector",
+    "desc": "pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer，T5等模型实现，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "liuhuanyong/QASystemOnMedicalKG",
+    "url": "https://github.com/liuhuanyong/QASystemOnMedicalKG",
+    "desc": "A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。",
+    "lang": "Python"
+  },
+  {
+    "title": "TheKingOfDuck/fuzzDicts",
+    "url": "https://github.com/TheKingOfDuck/fuzzDicts",
+    "desc": "Web Pentesting Fuzz 字典,一个就够了。",
+    "lang": "Python"
+  },
+  {
+    "title": "moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES",
+    "url": "https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES",
+    "desc": "《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。",
+    "lang": "Python"
+  }
+]

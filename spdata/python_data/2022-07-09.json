@@ -1,0 +1,146 @@
+[
+  {
+    "title": "WongKinYiu/yolov7",
+    "url": "https://github.com/WongKinYiu/yolov7",
+    "desc": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "jinfagang/yolov7",
+    "url": "https://github.com/jinfagang/yolov7",
+    "desc": "🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
+    "lang": "Python"
+  },
+  {
+    "title": "PINTO0309/PINTO_model_zoo",
+    "url": "https://github.com/PINTO0309/PINTO_model_zoo",
+    "desc": "A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), EdgeTPU, CoreML.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/fairseq",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "sensity-ai/dot",
+    "url": "https://github.com/sensity-ai/dot",
+    "desc": "The Deepfake Offensive Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "fmfn/BayesianOptimization",
+    "url": "https://github.com/fmfn/BayesianOptimization",
+    "desc": "A Python implementation of global optimization with gaussian processes.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "optuna/optuna",
+    "url": "https://github.com/optuna/optuna",
+    "desc": "A hyperparameter optimization framework",
+    "lang": "Python"
+  },
+  {
+    "title": "secretflow/secretflow",
+    "url": "https://github.com/secretflow/secretflow",
+    "desc": "A unified framework for privacy-preserving data analysis and machine learning",
+    "lang": "Python"
+  },
+  {
+    "title": "MatrixTM/MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "facundoolano/software-papers",
+    "url": "https://github.com/facundoolano/software-papers",
+    "desc": "📚 A curated list of papers for Software Engineers",
+    "lang": "Python"
+  },
+  {
+    "title": "p0dalirius/Coercer",
+    "url": "https://github.com/p0dalirius/Coercer",
+    "desc": "A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 9 methods.",
+    "lang": "Python"
+  },
+  {
+    "title": "p0dalirius/windows-coerced-authentication-methods",
+    "url": "https://github.com/p0dalirius/windows-coerced-authentication-methods",
+    "desc": "A list of methods to coerce a windows machine to authenticate to an attacker-controlled machine through a Remote Procedure Call (RPC) with various protocols.",
+    "lang": "Python"
+  },
+  {
+    "title": "nategentile/ban_youtube_bots",
+    "url": "https://github.com/nategentile/ban_youtube_bots",
+    "desc": "Dirty and fast script for removing spam comments using Google Youtube API",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "mher/flower",
+    "url": "https://github.com/mher/flower",
+    "desc": "Real-time monitor and web admin for Celery distributed task queue",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "MIC-DKFZ/nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/flores",
+    "url": "https://github.com/facebookresearch/flores",
+    "desc": "Facebook Low Resource (FLoRes) MT Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "knownsec/pocsuite3",
+    "url": "https://github.com/knownsec/pocsuite3",
+    "desc": "pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.",
+    "lang": "Python"
+  }
+]
