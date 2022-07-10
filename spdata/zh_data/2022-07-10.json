@@ -1,0 +1,148 @@
+[
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "qiangmzsx/Software-Engineering-at-Google",
+    "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google",
+    "desc": "《Software Engineering at Google》的中文翻译版本",
+    "lang": "HTML"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "xugaoyi/vuepress-theme-vdoing",
+    "url": "https://github.com/xugaoyi/vuepress-theme-vdoing",
+    "desc": "🚀一款简洁高效的VuePress知识管理&博客(blog)主题",
+    "lang": "Vue"
+  },
+  {
+    "title": "CARLOSGP2021/2023-campus-recruitment-for-IT-industry",
+    "url": "https://github.com/CARLOSGP2021/2023-campus-recruitment-for-IT-industry",
+    "desc": "收集2023届互联网校招信息 ⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋，star项目不迷路，欢迎大家提交pr，共享校招信息，最上方的为最新消息。注意：附学校就业中心或者企业的链接，不要附上机构的链接！"
+  },
+  {
+    "title": "liyupi/sql-generator",
+    "url": "https://github.com/liyupi/sql-generator",
+    "desc": "🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~",
+    "lang": "Vue"
+  },
+  {
+    "title": "Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "url": "https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "desc": "转存助手ui优化版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zijie0/HumanSystemOptimization",
+    "url": "https://github.com/zijie0/HumanSystemOptimization",
+    "desc": "健康学习到150岁 - 人体系统调优不完全指南"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JavScraper/Emby.Plugins.JavScraper",
+    "url": "https://github.com/JavScraper/Emby.Plugins.JavScraper",
+    "desc": "Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。",
+    "lang": "C#"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_CHT clients",
+    "lang": "C++"
+  },
+  {
+    "title": "Binaryify/NeteaseCloudMusicApi",
+    "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+    "desc": "网易云音乐 Node.js API service",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1",
+    "url": "https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1",
+    "desc": "Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/T…",
+    "lang": "Shell"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙"
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "desc": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "lang": "Vue"
+  },
+  {
+    "title": "lyswhut/lx-music-mobile",
+    "url": "https://github.com/lyswhut/lx-music-mobile",
+    "desc": "一个基于 React native 开发的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wulabing/V2Ray_ws-tls_bash_onekey",
+    "url": "https://github.com/wulabing/V2Ray_ws-tls_bash_onekey",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "zeroruka/GI_Assets",
+    "url": "https://github.com/zeroruka/GI_Assets",
+    "desc": "Character textures, models and mods for a certain anime game.",
+    "lang": "C#"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "desc": "基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",
+    "lang": "Go"
+  },
+  {
+    "title": "SuLingGG/OpenWrt-Rpi",
+    "url": "https://github.com/SuLingGG/OpenWrt-Rpi",
+    "desc": "Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)",
+    "lang": "Shell"
+  },
+  {
+    "title": "arcxingye/EatKano",
+    "url": "https://github.com/arcxingye/EatKano",
+    "desc": "H5 Games",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Pawdroid/Free-servers",
+    "url": "https://github.com/Pawdroid/Free-servers",
+    "desc": "🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子"
+  },
+  {
+    "title": "greycodee/wechat-backup",
+    "url": "https://github.com/greycodee/wechat-backup",
+    "desc": "微信聊天记录持久化备份本地硬盘，释放手机存储空间。",
+    "lang": "Go"
+  },
+  {
+    "title": "jynew/jynew",
+    "url": "https://github.com/jynew/jynew",
+    "desc": "金庸群侠传3D重制版",
+    "lang": "C#"
+  }
+]

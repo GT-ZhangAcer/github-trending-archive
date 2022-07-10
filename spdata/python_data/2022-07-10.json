@@ -1,0 +1,152 @@
+[
+  {
+    "title": "facundoolano/software-papers",
+    "url": "https://github.com/facundoolano/software-papers",
+    "desc": "📚 A curated list of papers for Software Engineers",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "sensity-ai/dot",
+    "url": "https://github.com/sensity-ai/dot",
+    "desc": "The Deepfake Offensive Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "nategentile/ban_youtube_bots",
+    "url": "https://github.com/nategentile/ban_youtube_bots",
+    "desc": "Dirty and fast script for removing spam comments using Google Youtube API",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "WongKinYiu/yolov7",
+    "url": "https://github.com/WongKinYiu/yolov7",
+    "desc": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
+    "lang": "Python"
+  },
+  {
+    "title": "sei-protocol/testnet",
+    "url": "https://github.com/sei-protocol/testnet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "ocrmypdf/OCRmyPDF",
+    "url": "https://github.com/ocrmypdf/OCRmyPDF",
+    "desc": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+    "lang": "Python"
+  },
+  {
+    "title": "aeyesec/CVE-2022-34265",
+    "url": "https://github.com/aeyesec/CVE-2022-34265",
+    "desc": "PoC for CVE-2022-34265 (Django)",
+    "lang": "Python"
+  },
+  {
+    "title": "Orange-Cyberdefense/arsenal",
+    "url": "https://github.com/Orange-Cyberdefense/arsenal",
+    "desc": "Arsenal is just a quick inventory and launcher for hacking programs",
+    "lang": "Python"
+  },
+  {
+    "title": "ucupumar/ucupaint",
+    "url": "https://github.com/ucupumar/ucupaint",
+    "desc": "Ucupaint is Blender addon to manage texture layers for Eevee and Cycles renderer.",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "lang": "Python"
+  },
+  {
+    "title": "p0dalirius/Coercer",
+    "url": "https://github.com/p0dalirius/Coercer",
+    "desc": "A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 9 methods.",
+    "lang": "Python"
+  },
+  {
+    "title": "AstraaDev/Discord-All-Tools-In-One",
+    "url": "https://github.com/AstraaDev/Discord-All-Tools-In-One",
+    "desc": "ATIO is a Script Developed with Python3. It gathers a total of 23 Discord tools (including a RAT, a Raid Tool, a Token Grabber, a Crash Video Maker, etc). It has a pleasant and intuitive interface to facilitate the use of all with help and explanations for each of them.",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "healthchecks/healthchecks",
+    "url": "https://github.com/healthchecks/healthchecks",
+    "desc": "A cron monitoring tool written in Python & Django",
+    "lang": "Python"
+  },
+  {
+    "title": "snap-research/EfficientFormer",
+    "url": "https://github.com/snap-research/EfficientFormer",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "wilsonfreitas/awesome-quant",
+    "url": "https://github.com/wilsonfreitas/awesome-quant",
+    "desc": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+    "lang": "Python"
+  },
+  {
+    "title": "neetcode-gh/leetcode",
+    "url": "https://github.com/neetcode-gh/leetcode",
+    "desc": "Leetcode solutions",
+    "lang": "Python"
+  },
+  {
+    "title": "corpnewt/ProperTree",
+    "url": "https://github.com/corpnewt/ProperTree",
+    "desc": "Cross platform GUI plist editor written in python.",
+    "lang": "Python"
+  },
+  {
+    "title": "RsaCtfTool/RsaCtfTool",
+    "url": "https://github.com/RsaCtfTool/RsaCtfTool",
+    "desc": "RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data",
+    "lang": "Python"
+  },
+  {
+    "title": "itsnebulalol/permasigner",
+    "url": "https://github.com/itsnebulalol/permasigner",
+    "desc": "🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).",
+    "lang": "Python"
+  }
+]
