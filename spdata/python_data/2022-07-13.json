@@ -1,0 +1,152 @@
+[
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEACVR/DINO",
+    "url": "https://github.com/IDEACVR/DINO",
+    "desc": "Official implementation of the paper DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection",
+    "lang": "Python"
+  },
+  {
+    "title": "spack/spack",
+    "url": "https://github.com/spack/spack",
+    "desc": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+    "lang": "Python"
+  },
+  {
+    "title": "MaartenGr/BERTopic",
+    "url": "https://github.com/MaartenGr/BERTopic",
+    "desc": "Leveraging BERT and c-TF-IDF to create easily interpretable topics.",
+    "lang": "Python"
+  },
+  {
+    "title": "pythonstock/stock",
+    "url": "https://github.com/pythonstock/stock",
+    "desc": "stock，股票系统。使用python进行开发。",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/calibre",
+    "url": "https://github.com/kovidgoyal/calibre",
+    "desc": "The official source code repository for the calibre ebook manager",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "ckan/ckan",
+    "url": "https://github.com/ckan/ckan",
+    "desc": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",
+    "lang": "Python"
+  },
+  {
+    "title": "abewley/sort",
+    "url": "https://github.com/abewley/sort",
+    "desc": "Simple, online, and realtime tracking of multiple objects in a video sequence.",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible-collections/community.general",
+    "url": "https://github.com/ansible-collections/community.general",
+    "desc": "Ansible Community General Collection",
+    "lang": "Python"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "WongKinYiu/yolor",
+    "url": "https://github.com/WongKinYiu/yolor",
+    "desc": "implementation of paper - You Only Learn One Representation: Unified Network for Multiple Tasks (https://arxiv.org/abs/2105.04206)",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "mlfoundations/open_clip",
+    "url": "https://github.com/mlfoundations/open_clip",
+    "desc": "An open source implementation of CLIP.",
+    "lang": "Python"
+  },
+  {
+    "title": "aws-samples/serverless-samples",
+    "url": "https://github.com/aws-samples/serverless-samples",
+    "desc": "This repository contains samples of Serverless application code.",
+    "lang": "Python"
+  },
+  {
+    "title": "romainthomas/the-poor-mans-obfuscator",
+    "url": "https://github.com/romainthomas/the-poor-mans-obfuscator",
+    "desc": "Binary & scripts associated with The Poor Man's Obfuscator presentation",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "OpenMMLab Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "desc": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "lang": "Python"
+  },
+  {
+    "title": "hhyo/Archery",
+    "url": "https://github.com/hhyo/Archery",
+    "desc": "SQL 审核查询平台",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmclassification",
+    "url": "https://github.com/open-mmlab/mmclassification",
+    "desc": "OpenMMLab Image Classification Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/demucs",
+    "url": "https://github.com/facebookresearch/demucs",
+    "desc": "Code for the paper Hybrid Spectrogram and Waveform Source Separation",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/discoart",
+    "url": "https://github.com/jina-ai/discoart",
+    "desc": "Create Disco Diffusion artworks in one line",
+    "lang": "Python"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "desc": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "lang": "Python"
+  }
+]

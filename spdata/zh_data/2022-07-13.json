@@ -1,0 +1,150 @@
+[
+  {
+    "title": "zhaojun1998/zfile",
+    "url": "https://github.com/zhaojun1998/zfile",
+    "desc": "在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai",
+    "lang": "Java"
+  },
+  {
+    "title": "tw93/MiaoYan",
+    "url": "https://github.com/tw93/MiaoYan",
+    "desc": "⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言",
+    "lang": "Swift"
+  },
+  {
+    "title": "arcxingye/EatKano",
+    "url": "https://github.com/arcxingye/EatKano",
+    "desc": "H5 Games",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pythonstock/stock",
+    "url": "https://github.com/pythonstock/stock",
+    "desc": "stock，股票系统。使用python进行开发。",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/xLua",
+    "url": "https://github.com/Tencent/xLua",
+    "desc": "xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.",
+    "lang": "C"
+  },
+  {
+    "title": "zijie0/HumanSystemOptimization",
+    "url": "https://github.com/zijie0/HumanSystemOptimization",
+    "desc": "健康学习到150岁 - 人体系统调优不完全指南"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "1357310795/MyComputerManager",
+    "url": "https://github.com/1357310795/MyComputerManager",
+    "desc": "管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”",
+    "lang": "C#"
+  },
+  {
+    "title": "kekingcn/kkFileView",
+    "url": "https://github.com/kekingcn/kkFileView",
+    "desc": "基于 Spring Boot 的文件在线预览项目",
+    "lang": "Java"
+  },
+  {
+    "title": "DataLinkDC/dlink",
+    "url": "https://github.com/DataLinkDC/dlink",
+    "desc": "Dinky is an out of the box one-stop real-time computing platform dedicated to the construction and practice of Unified Batch & Streaming and Unified Data Lake & Data Warehouse. Based on Apache Flink, Dinky provides the ability to connect many big data frameworks including OLAP and Data Lake.",
+    "lang": "Java"
+  },
+  {
+    "title": "jynew/jynew",
+    "url": "https://github.com/jynew/jynew",
+    "desc": "金庸群侠传3D重制版",
+    "lang": "C#"
+  },
+  {
+    "title": "youzan/vant-weapp",
+    "url": "https://github.com/youzan/vant-weapp",
+    "desc": "轻量、可靠的小程序 UI 组件库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/tdesign-vue-next",
+    "url": "https://github.com/Tencent/tdesign-vue-next",
+    "desc": "A Vue3.x UI components lib for TDesign.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tencent/tdesign-react",
+    "url": "https://github.com/Tencent/tdesign-react",
+    "desc": "A React UI components lib for TDesign.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "desc": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "lang": "Python"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "PaddlePaddle/ERNIE",
+    "url": "https://github.com/PaddlePaddle/ERNIE",
+    "desc": "Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.",
+    "lang": "Python"
+  },
+  {
+    "title": "taowen/awesome-lowcode",
+    "url": "https://github.com/taowen/awesome-lowcode",
+    "desc": "国内低代码平台从业者交流"
+  },
+  {
+    "title": "Tencent/APIJSON",
+    "url": "https://github.com/Tencent/APIJSON",
+    "desc": "🚀 零代码、全功能、强安全 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for providing APIs and Docs without writing any code.",
+    "lang": "Java"
+  },
+  {
+    "title": "Python3WebSpider/ProxyPool",
+    "url": "https://github.com/Python3WebSpider/ProxyPool",
+    "desc": "An Efficient ProxyPool with Getter, Tester and Server",
+    "lang": "Python"
+  },
+  {
+    "title": "eip-work/kuboard-press",
+    "url": "https://github.com/eip-work/kuboard-press",
+    "desc": "Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "digoal/blog",
+    "url": "https://github.com/digoal/blog",
+    "desc": "Everything about database,business.(Most for PostgreSQL).",
+    "lang": "PLpgSQL"
+  },
+  {
+    "title": "Binaryify/NeteaseCloudMusicApi",
+    "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+    "desc": "网易云音乐 Node.js API service",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lcvvvv/kscan",
+    "url": "https://github.com/lcvvvv/kscan",
+    "desc": "Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。",
+    "lang": "Go"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_CHT clients",
+    "lang": "C++"
+  }
+]

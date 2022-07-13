@@ -1,0 +1,152 @@
+[
+  {
+    "title": "pythonstock/stock",
+    "url": "https://github.com/pythonstock/stock",
+    "desc": "stock，股票系统。使用python进行开发。",
+    "lang": "Python"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "desc": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/ERNIE",
+    "url": "https://github.com/PaddlePaddle/ERNIE",
+    "desc": "Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.",
+    "lang": "Python"
+  },
+  {
+    "title": "Python3WebSpider/ProxyPool",
+    "url": "https://github.com/Python3WebSpider/ProxyPool",
+    "desc": "An Efficient ProxyPool with Getter, Tester and Server",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界",
+    "lang": "Python"
+  },
+  {
+    "title": "sv3nbeast/DnslogCmdEcho",
+    "url": "https://github.com/sv3nbeast/DnslogCmdEcho",
+    "desc": "命令执行不回显但DNS协议出网的命令回显场景解决方案",
+    "lang": "Python"
+  },
+  {
+    "title": "pyecharts/pyecharts",
+    "url": "https://github.com/pyecharts/pyecharts",
+    "desc": "🎨 Python Echarts Plotting Library",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSlim",
+    "url": "https://github.com/PaddlePaddle/PaddleSlim",
+    "desc": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+    "lang": "Python"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "Python"
+  },
+  {
+    "title": "SuperCV/Book",
+    "url": "https://github.com/SuperCV/Book",
+    "desc": "📗我的个人书籍学习和收藏",
+    "lang": "Python"
+  },
+  {
+    "title": "muziing/PyQt_practice",
+    "url": "https://github.com/muziing/PyQt_practice",
+    "desc": "通过可直接运行的代码示例讲解 PyQt 5 常用基础控件。附学习资源、demo分享。",
+    "lang": "Python"
+  },
+  {
+    "title": "liuhuanyong/QASystemOnMedicalKG",
+    "url": "https://github.com/liuhuanyong/QASystemOnMedicalKG",
+    "desc": "A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。",
+    "lang": "Python"
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "lang": "Python"
+  },
+  {
+    "title": "littlecodersh/ItChat",
+    "url": "https://github.com/littlecodersh/ItChat",
+    "desc": "A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "url": "https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "desc": "使用Bert，ERNIE，进行中文文本分类",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleVideo",
+    "url": "https://github.com/PaddlePaddle/PaddleVideo",
+    "desc": "基于模块化的设计，提供丰富的视频算法实现、产业级的视频算法优化与应用，包括安防、体育、互联网、媒体等行业的动作定位与识别、行为分析、智能封面、视频标注、视频打标签等，涵盖动作识别与视频分类、动作定位、动作检测、多模态文本视频检索等技术。",
+    "lang": "Python"
+  },
+  {
+    "title": "wbt5/real-url",
+    "url": "https://github.com/wbt5/real-url",
+    "desc": "获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。",
+    "lang": "Python"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/taobao-iphone-device",
+    "url": "https://github.com/alibaba/taobao-iphone-device",
+    "desc": "tidevice can be used to communicate with iPhone device",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  }
+]
