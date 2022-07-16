@@ -1,0 +1,152 @@
+[
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "decompiler-explorer/decompiler-explorer",
+    "url": "https://github.com/decompiler-explorer/decompiler-explorer",
+    "desc": "Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!",
+    "lang": "Python"
+  },
+  {
+    "title": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "desc": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+    "lang": "Python"
+  },
+  {
+    "title": "plotly/dash",
+    "url": "https://github.com/plotly/dash",
+    "desc": "Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.",
+    "lang": "Python"
+  },
+  {
+    "title": "fossabot/typoraCracker",
+    "url": "https://github.com/fossabot/typoraCracker",
+    "desc": "A patch and keygen tools for typora.",
+    "lang": "Python"
+  },
+  {
+    "title": "cardwing/Codes-for-PVKD",
+    "url": "https://github.com/cardwing/Codes-for-PVKD",
+    "desc": "Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation (CVPR 2022)",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "desc": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "shibing624/pycorrector",
+    "url": "https://github.com/shibing624/pycorrector",
+    "desc": "pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer，T5等模型实现，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "TophantTechnology/ARL",
+    "url": "https://github.com/TophantTechnology/ARL",
+    "desc": "ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界",
+    "lang": "Python"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "Python"
+  },
+  {
+    "title": "0x727/ShuiZe_0x727",
+    "url": "https://github.com/0x727/ShuiZe_0x727",
+    "desc": "信息收集自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/Megatron-LM",
+    "url": "https://github.com/NVIDIA/Megatron-LM",
+    "desc": "Ongoing research training transformer models at scale",
+    "lang": "Python"
+  },
+  {
+    "title": "ritajie/incomplete-projects",
+    "url": "https://github.com/ritajie/incomplete-projects",
+    "desc": "统计中国大陆的烂尾楼",
+    "lang": "Python"
+  },
+  {
+    "title": "fundamentalvision/Deformable-DETR",
+    "url": "https://github.com/fundamentalvision/Deformable-DETR",
+    "desc": "Deformable DETR: Deformable Transformers for End-to-End Object Detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "feast-dev/feast",
+    "url": "https://github.com/feast-dev/feast",
+    "desc": "Feature Store for Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "openvinotoolkit/open_model_zoo",
+    "url": "https://github.com/openvinotoolkit/open_model_zoo",
+    "desc": "Pre-trained Deep Learning models and demos (high quality and extremely fast)",
+    "lang": "Python"
+  },
+  {
+    "title": "pyca/cryptography",
+    "url": "https://github.com/pyca/cryptography",
+    "desc": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.",
+    "lang": "Python"
+  }
+]
