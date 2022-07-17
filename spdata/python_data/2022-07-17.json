@@ -1,0 +1,152 @@
+[
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "fossabot/typoraCracker",
+    "url": "https://github.com/fossabot/typoraCracker",
+    "desc": "A patch and keygen tools for typora.",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.",
+    "lang": "Python"
+  },
+  {
+    "title": "Accenture/protobuf-finder",
+    "url": "https://github.com/Accenture/protobuf-finder",
+    "desc": "IDA Pro plugin for reconstructing original .proto files from binary.",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "yoshiko2/Movie_Data_Capture",
+    "url": "https://github.com/yoshiko2/Movie_Data_Capture",
+    "desc": "Local Movies Organizer",
+    "lang": "Python"
+  },
+  {
+    "title": "MatrixTM/MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "eternnoir/pyTelegramBotAPI",
+    "url": "https://github.com/eternnoir/pyTelegramBotAPI",
+    "desc": "Python Telegram bot api.",
+    "lang": "Python"
+  },
+  {
+    "title": "Bitwise-01/Instagram-",
+    "url": "https://github.com/Bitwise-01/Instagram-",
+    "desc": "Bruteforce attack for Instagram",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "Anjok07/ultimatevocalremovergui",
+    "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+    "desc": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Offensive Google framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "Rdimo/Hazard-Nuker",
+    "url": "https://github.com/Rdimo/Hazard-Nuker",
+    "desc": "A discord token nuker With loads of options that will screw an account up real bad, also has inbuilt massreport, GroupChat Spammer and Token/Password/Creditcard grabber and so much more!",
+    "lang": "Python"
+  },
+  {
+    "title": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "desc": "Optional static typing for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Python"
+  },
+  {
+    "title": "qtile/qtile",
+    "url": "https://github.com/qtile/qtile",
+    "desc": "🍪 A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/calibre",
+    "url": "https://github.com/kovidgoyal/calibre",
+    "desc": "The official source code repository for the calibre ebook manager",
+    "lang": "Python"
+  },
+  {
+    "title": "neetcode-gh/leetcode",
+    "url": "https://github.com/neetcode-gh/leetcode",
+    "desc": "Leetcode solutions",
+    "lang": "Python"
+  },
+  {
+    "title": "cosmicpython/code",
+    "url": "https://github.com/cosmicpython/code",
+    "desc": "Example application code for the python architecture book",
+    "lang": "Python"
+  },
+  {
+    "title": "dashingsoft/pyarmor",
+    "url": "https://github.com/dashingsoft/pyarmor",
+    "desc": "A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.",
+    "lang": "Python"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "desc": "scikit-learn: machine learning in Python",
+    "lang": "Python"
+  }
+]
