@@ -1,0 +1,146 @@
+[
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "upupming/new-grad-positions",
+    "url": "https://github.com/upupming/new-grad-positions",
+    "desc": "本项目旨在收集 2023 届互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势，欢迎贡献 👏🏻。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "UnblockNeteaseMusic/server",
+    "url": "https://github.com/UnblockNeteaseMusic/server",
+    "desc": "Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "desc": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "lang": "Vue"
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "desc": "适用于新系统UI的哔哩",
+    "lang": "C#"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "desc": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "lang": "C++"
+  },
+  {
+    "title": "ethminerpro/minerproxy",
+    "url": "https://github.com/ethminerpro/minerproxy",
+    "desc": "【全网最稳】minerproxy矿池中转，原创程序，本项目不同于隔壁GoMinerTool，曹操，老矿等！本程序专注于ETH/ETC转发，性能强大 ；支持专业机，开发费恒定！无论你抽3%还是30%，都是0.3%开发费！体验拉满的minerproxy；无视CC攻击，不怕扫描攻击，内置加密证书；无需繁琐设置，支持专业机！支持自定义证书，欢迎实测！矿场运维必备...ETH minerproxy, BTC minerproxy, ETC minerproxy, LTC minerproxy, ERG minerproxy, CFX minerproxy, RVN minerproxy, SERO minerproxy, XMR minerproxy, CKB minerproxy, BEA…",
+    "lang": "Go"
+  },
+  {
+    "title": "577fkj/GenshinProxy",
+    "url": "https://github.com/577fkj/GenshinProxy",
+    "desc": "GenshinProxy"
+  },
+  {
+    "title": "SocialSisterYi/bilibili-API-collect",
+    "url": "https://github.com/SocialSisterYi/bilibili-API-collect",
+    "desc": "哔哩哔哩-API收集整理【不断更新中....】"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "cloudreve/Cloudreve",
+    "url": "https://github.com/cloudreve/Cloudreve",
+    "desc": "🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",
+    "lang": "Go"
+  },
+  {
+    "title": "hq450/fancyss_history_package",
+    "url": "https://github.com/hq450/fancyss_history_package",
+    "desc": "科学上网插件的离线安装包储存在这里"
+  },
+  {
+    "title": "Reamd7/notion-zh_CN",
+    "url": "https://github.com/Reamd7/notion-zh_CN",
+    "desc": "notion 中文化",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "afatcoder/LeetcodeTop",
+    "url": "https://github.com/afatcoder/LeetcodeTop",
+    "desc": "汇总各大互联网公司容易考察的高频leetcode题🔥"
+  },
+  {
+    "title": "vaxilu/x-ui",
+    "url": "https://github.com/vaxilu/x-ui",
+    "desc": "支持多协议多用户的 xray 面板",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leiurayer/downkyi",
+    "url": "https://github.com/leiurayer/downkyi",
+    "desc": "哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。",
+    "lang": "C#"
+  },
+  {
+    "title": "kt007007/KTMinerProxy",
+    "url": "https://github.com/kt007007/KTMinerProxy",
+    "desc": "【全网最强】minerproxy矿池中转，原创minerproxy，唯一正版，性能强大, 功能齐全, 4000台无压力不崩溃，BTC ETC ETH LTC等全币种无损抽水，体验拉满的minerproxy, 软防CC, 动态难度调整抽水，不爆内存。支持绝大部分币种的转发、加密、自定义抽水、精确到单台设备的24小时数据统计、自定义隧道推送工具、修改矿池本地算力...ETHminerproxy, BTCminerproxy, ETCminerproxy, LTCminerproxy, ERGminerproxy, CFXminerproxy, RVNminerproxy, SEROminerproxy, XMRminerproxy, CKBminerproxy, BEAMminerprox…",
+    "lang": "Go"
+  },
+  {
+    "title": "gaoxiang12/slambook2",
+    "url": "https://github.com/gaoxiang12/slambook2",
+    "desc": "edition 2 of the slambook",
+    "lang": "C++"
+  },
+  {
+    "title": "DA-southampton/NLP_ability",
+    "url": "https://github.com/DA-southampton/NLP_ability",
+    "desc": "总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括面试题，各种基础知识，工程能力等等，提升核心竞争力",
+    "lang": "Python"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "desc": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_CHT clients",
+    "lang": "C++"
+  },
+  {
+    "title": "XiaoMiku01/fansMedalHelper",
+    "url": "https://github.com/XiaoMiku01/fansMedalHelper",
+    "desc": "新版B站粉丝牌助手 全自动升级粉丝牌",
+    "lang": "Python"
+  },
+  {
+    "title": "Mrs4s/go-cqhttp",
+    "url": "https://github.com/Mrs4s/go-cqhttp",
+    "desc": "cqhttp的golang实现，轻量、原生跨平台.",
+    "lang": "Go"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "Shell"
+  }
+]

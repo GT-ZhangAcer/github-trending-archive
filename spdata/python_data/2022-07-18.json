@@ -1,0 +1,152 @@
+[
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "fossabot/typoraCracker",
+    "url": "https://github.com/fossabot/typoraCracker",
+    "desc": "A patch and keygen tools for typora.",
+    "lang": "Python"
+  },
+  {
+    "title": "yunjey/pytorch-tutorial",
+    "url": "https://github.com/yunjey/pytorch-tutorial",
+    "desc": "PyTorch Tutorial for Deep Learning Researchers",
+    "lang": "Python"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "In-Database Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.",
+    "lang": "Python"
+  },
+  {
+    "title": "p1ngul1n0/blackbird",
+    "url": "https://github.com/p1ngul1n0/blackbird",
+    "desc": "An OSINT tool to search for accounts by username in social networks.",
+    "lang": "Python"
+  },
+  {
+    "title": "dgtlmoon/changedetection.io",
+    "url": "https://github.com/dgtlmoon/changedetection.io",
+    "desc": "changedetection.io - The best and simplest self-hosted free open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "crytic/slither",
+    "url": "https://github.com/crytic/slither",
+    "desc": "Static Analyzer for Solidity",
+    "lang": "Python"
+  },
+  {
+    "title": "xuebinqin/DIS",
+    "url": "https://github.com/xuebinqin/DIS",
+    "desc": "This is the repo for our new project Highly Accurate Dichotomous Image Segmentation",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "MasterBin-IIAU/Unicorn",
+    "url": "https://github.com/MasterBin-IIAU/Unicorn",
+    "desc": "[ECCV'22 Oral] Towards Grand Unification of Object Tracking",
+    "lang": "Python"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "dashingsoft/pyarmor",
+    "url": "https://github.com/dashingsoft/pyarmor",
+    "desc": "A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamUltroid/Ultroid",
+    "url": "https://github.com/TeamUltroid/Ultroid",
+    "desc": "Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamYukki/YukkiMusicBot",
+    "url": "https://github.com/TeamYukki/YukkiMusicBot",
+    "desc": "Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "astropy/astropy",
+    "url": "https://github.com/astropy/astropy",
+    "desc": "Astronomy and astrophysics core library",
+    "lang": "Python"
+  },
+  {
+    "title": "davidbombal/red-python-scripts",
+    "url": "https://github.com/davidbombal/red-python-scripts",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "anasty17/mirror-leech-telegram-bot",
+    "url": "https://github.com/anasty17/mirror-leech-telegram-bot",
+    "desc": "Aria/qBittorrent Telegram mirror/leech bot",
+    "lang": "Python"
+  },
+  {
+    "title": "hugsy/gef",
+    "url": "https://github.com/hugsy/gef",
+    "desc": "GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux",
+    "lang": "Python"
+  },
+  {
+    "title": "kholia/OSX-KVM",
+    "url": "https://github.com/kholia/OSX-KVM",
+    "desc": "Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
+    "lang": "Python"
+  }
+]
