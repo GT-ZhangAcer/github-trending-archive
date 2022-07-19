@@ -1,0 +1,152 @@
+[
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "MasterBin-IIAU/Unicorn",
+    "url": "https://github.com/MasterBin-IIAU/Unicorn",
+    "desc": "[ECCV'22 Oral] Towards Grand Unification of Object Tracking",
+    "lang": "Python"
+  },
+  {
+    "title": "fossabot/typoraCracker",
+    "url": "https://github.com/fossabot/typoraCracker",
+    "desc": "A patch and keygen tools for typora.",
+    "lang": "Python"
+  },
+  {
+    "title": "kraanzu/termtyper",
+    "url": "https://github.com/kraanzu/termtyper",
+    "desc": "A typing application to level up your fingers!",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CogVideo",
+    "url": "https://github.com/THUDM/CogVideo",
+    "desc": "Text-to-video generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "W01fh4cker/Serein",
+    "url": "https://github.com/W01fh4cker/Serein",
+    "desc": "【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "POSTECH-CVLab/PyTorch-StudioGAN",
+    "url": "https://github.com/POSTECH-CVLab/PyTorch-StudioGAN",
+    "desc": "StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "PwnFunction/v8-randomness-predictor",
+    "url": "https://github.com/PwnFunction/v8-randomness-predictor",
+    "desc": "Using z3 to predict `Math.random` in v8",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmaction2",
+    "url": "https://github.com/open-mmlab/mmaction2",
+    "desc": "OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
+    "lang": "Python"
+  },
+  {
+    "title": "yunjey/pytorch-tutorial",
+    "url": "https://github.com/yunjey/pytorch-tutorial",
+    "desc": "PyTorch Tutorial for Deep Learning Researchers",
+    "lang": "Python"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "astropy/astropy",
+    "url": "https://github.com/astropy/astropy",
+    "desc": "Astronomy and astrophysics core library",
+    "lang": "Python"
+  },
+  {
+    "title": "hkchengrex/XMem",
+    "url": "https://github.com/hkchengrex/XMem",
+    "desc": "[ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model",
+    "lang": "Python"
+  },
+  {
+    "title": "Rudrabha/Wav2Lip",
+    "url": "https://github.com/Rudrabha/Wav2Lip",
+    "desc": "This repository contains the codes of A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild, published at ACM Multimedia 2020.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/OpenPCDet",
+    "url": "https://github.com/open-mmlab/OpenPCDet",
+    "desc": "OpenPCDet Toolbox for LiDAR-based 3D Object Detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "XiaoMiku01/fansMedalHelper",
+    "url": "https://github.com/XiaoMiku01/fansMedalHelper",
+    "desc": "新版B站粉丝牌助手 全自动升级粉丝牌",
+    "lang": "Python"
+  },
+  {
+    "title": "dbt-labs/dbt-core",
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "oppsec/Pinkerton",
+    "url": "https://github.com/oppsec/Pinkerton",
+    "desc": "🕵️ Pinkerton is an JavaScript file crawler and secret finder developed in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "In-Database Machine Learning",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "desc": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "lang": "Vue"
+  },
+  {
+    "title": "W01fh4cker/Serein",
+    "url": "https://github.com/W01fh4cker/Serein",
+    "desc": "【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。",
+    "lang": "Python"
+  },
+  {
+    "title": "SocialSisterYi/bilibili-API-collect",
+    "url": "https://github.com/SocialSisterYi/bilibili-API-collect",
+    "desc": "哔哩哔哩-API收集整理【不断更新中....】"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "hktalent/scan4all",
+    "url": "https://github.com/hktalent/scan4all",
+    "desc": "Vulnerabilities Scan；15000+PoC漏洞扫描；20种应用密码爆破；7000+Web指纹；146种协议90000+规则Port扫描；Fuzz、HW打点、BugBounty神器...",
+    "lang": "Go"
+  },
+  {
+    "title": "ethminerpro/minerproxy",
+    "url": "https://github.com/ethminerpro/minerproxy",
+    "desc": "【全网最稳】minerproxy矿池中转，原创程序，本项目不同于隔壁GoMinerTool，曹操，老矿等！本程序专注于ETH/ETC转发，性能强大 ；支持专业机，开发费恒定！无论你抽3%还是30%，都是0.3%开发费！体验拉满的minerproxy；无视CC攻击，不怕扫描攻击，内置加密证书；无需繁琐设置，支持专业机！支持自定义证书，欢迎实测！矿场运维必备...ETH minerproxy, BTC minerproxy, ETC minerproxy, LTC minerproxy, ERG minerproxy, CFX minerproxy, RVN minerproxy, SERO minerproxy, XMR minerproxy, CKB minerproxy, BEA…",
+    "lang": "Go"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "KingRan/KR",
+    "url": "https://github.com/KingRan/KR",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "XiaoMiku01/fansMedalHelper",
+    "url": "https://github.com/XiaoMiku01/fansMedalHelper",
+    "desc": "新版B站粉丝牌助手 全自动升级粉丝牌",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/tdesign-vue-next",
+    "url": "https://github.com/Tencent/tdesign-vue-next",
+    "desc": "A Vue3.x UI components lib for TDesign.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "desc": "基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",
+    "lang": "Go"
+  },
+  {
+    "title": "aiheihe/WeNeedHome",
+    "url": "https://github.com/aiheihe/WeNeedHome",
+    "desc": "https://aiheihe.github.io/WeNeedHome/",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "DataLinkDC/dlink",
+    "url": "https://github.com/DataLinkDC/dlink",
+    "desc": "Dinky is an out of the box one-stop real-time computing platform dedicated to the construction and practice of Unified Batch & Streaming and Unified Data Lake & Data Warehouse. Based on Apache Flink, Dinky provides the ability to connect many big data frameworks including OLAP and Data Lake.",
+    "lang": "Java"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wbt5/real-url",
+    "url": "https://github.com/wbt5/real-url",
+    "desc": "获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。",
+    "lang": "Python"
+  },
+  {
+    "title": "gz-yami/mall4j",
+    "url": "https://github.com/gz-yami/mall4j",
+    "desc": "⭐️⭐️⭐️ 电商商城 java电商商城系统 uniapp商城 多用户商城",
+    "lang": "Java"
+  },
+  {
+    "title": "SuLingGG/OpenWrt-Rpi",
+    "url": "https://github.com/SuLingGG/OpenWrt-Rpi",
+    "desc": "Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)",
+    "lang": "Shell"
+  },
+  {
+    "title": "alibaba/canal",
+    "url": "https://github.com/alibaba/canal",
+    "desc": "阿里巴巴 MySQL binlog 增量订阅&消费组件",
+    "lang": "Java"
+  },
+  {
+    "title": "chokcoco/iCSS",
+    "url": "https://github.com/chokcoco/iCSS",
+    "desc": "不止于 CSS",
+    "lang": "CSS"
+  }
+]
