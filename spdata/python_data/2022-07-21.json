@@ -1,0 +1,152 @@
+[
+  {
+    "title": "chip-red-pill/MicrocodeDecryptor",
+    "url": "https://github.com/chip-red-pill/MicrocodeDecryptor",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of SOTA Quant research works/papers are released in Qlib.",
+    "lang": "Python"
+  },
+  {
+    "title": "kraanzu/termtyper",
+    "url": "https://github.com/kraanzu/termtyper",
+    "desc": "A typing application to level up your fingers!",
+    "lang": "Python"
+  },
+  {
+    "title": "hkchengrex/XMem",
+    "url": "https://github.com/hkchengrex/XMem",
+    "desc": "[ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdeploy",
+    "url": "https://github.com/open-mmlab/mmdeploy",
+    "desc": "OpenMMLab Model Deployment Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/vision",
+    "url": "https://github.com/pytorch/vision",
+    "desc": "Datasets, Transforms and Models specific to Computer Vision",
+    "lang": "Python"
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "desc": "Deep Learning for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "manoss96/pregex",
+    "url": "https://github.com/manoss96/pregex",
+    "desc": "PRegEx - Programmable Regular Expressions",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/eg3d",
+    "url": "https://github.com/NVlabs/eg3d",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "yzhao062/pyod",
+    "url": "https://github.com/yzhao062/pyod",
+    "desc": "A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)",
+    "lang": "Python"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "optuna/optuna",
+    "url": "https://github.com/optuna/optuna",
+    "desc": "A hyperparameter optimization framework",
+    "lang": "Python"
+  },
+  {
+    "title": "aaugustin/websockets",
+    "url": "https://github.com/aaugustin/websockets",
+    "desc": "Library for building WebSocket servers and clients in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "splunk/security_content",
+    "url": "https://github.com/splunk/security_content",
+    "desc": "Splunk Security Content",
+    "lang": "Python"
+  },
+  {
+    "title": "quantumlib/Cirq",
+    "url": "https://github.com/quantumlib/Cirq",
+    "desc": "A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+    "lang": "Python"
+  },
+  {
+    "title": "SilentNightSound/GI-Model-Importer",
+    "url": "https://github.com/SilentNightSound/GI-Model-Importer",
+    "desc": "Scripts and instructions on how to import custom models for a certain anime game",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/esm",
+    "url": "https://github.com/facebookresearch/esm",
+    "desc": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+    "lang": "Python"
+  },
+  {
+    "title": "fslongjin/This-repo-has-861-stars",
+    "url": "https://github.com/fslongjin/This-repo-has-861-stars",
+    "desc": "这个仓库有861个star，不信你试试",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "OpenMMLab Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmclassification",
+    "url": "https://github.com/open-mmlab/mmclassification",
+    "desc": "OpenMMLab Image Classification Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "joaomaranhao/video-maker",
+    "url": "https://github.com/joaomaranhao/video-maker",
+    "desc": "",
+    "lang": "Python"
+  }
+]
