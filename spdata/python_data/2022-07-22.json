@@ -1,0 +1,152 @@
+[
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "desc": "Deep Learning Examples",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/eg3d",
+    "url": "https://github.com/NVlabs/eg3d",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "hkchengrex/XMem",
+    "url": "https://github.com/hkchengrex/XMem",
+    "desc": "[ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of SOTA Quant research works/papers are released in Qlib.",
+    "lang": "Python"
+  },
+  {
+    "title": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "desc": "The Python programming language",
+    "lang": "Python"
+  },
+  {
+    "title": "xuebinqin/DIS",
+    "url": "https://github.com/xuebinqin/DIS",
+    "desc": "This is the repo for our new project Highly Accurate Dichotomous Image Segmentation",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Python"
+  },
+  {
+    "title": "code-kern-ai/refinery",
+    "url": "https://github.com/code-kern-ai/refinery",
+    "desc": "The open-source data-centric IDE for NLP. Combining programmatic labeling, extensive data management and neural search capabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/theseus",
+    "url": "https://github.com/facebookresearch/theseus",
+    "desc": "A library for differentiable nonlinear optimization",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX Project",
+    "lang": "Python"
+  },
+  {
+    "title": "0xAX/linux-insides",
+    "url": "https://github.com/0xAX/linux-insides",
+    "desc": "A little bit about a linux kernel",
+    "lang": "Python"
+  },
+  {
+    "title": "TurboWay/bigdata_analyse",
+    "url": "https://github.com/TurboWay/bigdata_analyse",
+    "desc": "大数据分析项目",
+    "lang": "Python"
+  },
+  {
+    "title": "HuskyHacks/cve-2022-33891",
+    "url": "https://github.com/HuskyHacks/cve-2022-33891",
+    "desc": "Apache Spark Shell Command Injection Vulnerability",
+    "lang": "Python"
+  },
+  {
+    "title": "openvinotoolkit/open_model_zoo",
+    "url": "https://github.com/openvinotoolkit/open_model_zoo",
+    "desc": "Pre-trained Deep Learning models and demos (high quality and extremely fast)",
+    "lang": "Python"
+  },
+  {
+    "title": "SilentNightSound/GI-Model-Importer",
+    "url": "https://github.com/SilentNightSound/GI-Model-Importer",
+    "desc": "Scripts and instructions on how to import custom models for a certain anime game",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/esm",
+    "url": "https://github.com/facebookresearch/esm",
+    "desc": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "thu-ml/tianshou",
+    "url": "https://github.com/thu-ml/tianshou",
+    "desc": "An elegant PyTorch deep reinforcement learning library.",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/DeepSpeed",
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "lang": "Python"
+  },
+  {
+    "title": "confluentinc/confluent-kafka-python",
+    "url": "https://github.com/confluentinc/confluent-kafka-python",
+    "desc": "Confluent's Kafka Python Client",
+    "lang": "Python"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "desc": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "lang": "Python"
+  }
+]
