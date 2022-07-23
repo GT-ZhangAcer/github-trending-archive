@@ -1,0 +1,149 @@
+[
+  {
+    "title": "eryajf/HowToStartOpenSource",
+    "url": "https://github.com/eryajf/HowToStartOpenSource",
+    "desc": "GitHub开源项目维护协作指南",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "anlingyi/xechat-idea",
+    "url": "https://github.com/anlingyi/xechat-idea",
+    "desc": "让你能够在IDEA里实现聊天、下棋、斗地主！",
+    "lang": "Java"
+  },
+  {
+    "title": "Celthi/effective-debugging-zh",
+    "url": "https://github.com/Celthi/effective-debugging-zh",
+    "desc": "effective debugging 中文翻译"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Yule718/Yule718",
+    "url": "https://github.com/Yule718/Yule718",
+    "desc": "Config files for my GitHub profile."
+  },
+  {
+    "title": "zeroruka/GI_Assets",
+    "url": "https://github.com/zeroruka/GI_Assets",
+    "desc": "Character textures, models and mods for a certain anime game.",
+    "lang": "C#"
+  },
+  {
+    "title": "unknwon/the-way-to-go_ZH_CN",
+    "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+    "desc": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+    "lang": "Go"
+  },
+  {
+    "title": "wenbochang888/house",
+    "url": "https://github.com/wenbochang888/house",
+    "desc": "有完整版的PDF下载。",
+    "lang": "Java"
+  },
+  {
+    "title": "chengxy-nds/Springboot-Notebook",
+    "url": "https://github.com/chengxy-nds/Springboot-Notebook",
+    "desc": "Springboot-Notebook 是一系列以 springboot 为基础开发框架，整合 Redis 、 Rabbitmq 、ES 、MongoDB 、Springcloud、kafka、skywalking等互联网主流技术，实现各种常见功能点的综合性案例。",
+    "lang": "Java"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "makoto56/penetration-suite-toolkit",
+    "url": "https://github.com/makoto56/penetration-suite-toolkit",
+    "desc": "本项目制作的初衷是帮助渗透新手快速搭建工作环境，工欲善其事，必先利其器。"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "desc": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "lang": "HTML"
+  },
+  {
+    "title": "API-Security/APISandbox",
+    "url": "https://github.com/API-Security/APISandbox",
+    "desc": "Pre-Built Vulnerable Multiple API Scenarios Environments Based on Docker-Compose.",
+    "lang": "FreeMarker"
+  },
+  {
+    "title": "648540858/wvp-GB28181-pro",
+    "url": "https://github.com/648540858/wvp-GB28181-pro",
+    "desc": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+    "lang": "Java"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "desc": "7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",
+    "lang": "Go"
+  },
+  {
+    "title": "dianping/cat",
+    "url": "https://github.com/dianping/cat",
+    "desc": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",
+    "lang": "Java"
+  },
+  {
+    "title": "guanzhi/GmSSL",
+    "url": "https://github.com/guanzhi/GmSSL",
+    "desc": "支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱",
+    "lang": "C"
+  },
+  {
+    "title": "lionsoul2014/ip2region",
+    "url": "https://github.com/lionsoul2014/ip2region",
+    "desc": "Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",
+    "lang": "Java"
+  },
+  {
+    "title": "ddgksf2013/Cuttlefish",
+    "url": "https://github.com/ddgksf2013/Cuttlefish",
+    "desc": "Scripts for self-use, ⛔️ fork",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "li-xiaojun/XPopup",
+    "url": "https://github.com/li-xiaojun/XPopup",
+    "desc": "🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup v…",
+    "lang": "Java"
+  },
+  {
+    "title": "eip-work/kuboard-press",
+    "url": "https://github.com/eip-work/kuboard-press",
+    "desc": "Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "macrozheng/mall-learning",
+    "url": "https://github.com/macrozheng/mall-learning",
+    "desc": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（50k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。",
+    "lang": "Java"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "desc": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "lang": "Java"
+  }
+]
