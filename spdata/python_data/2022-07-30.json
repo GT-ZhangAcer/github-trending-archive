@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "rgl-epfl/differentiable-sdf-rendering",
+    "url": "https://github.com/rgl-epfl/differentiable-sdf-rendering",
+    "desc": "Source code for Differentiable Signed Distance Function Rendering (Siggraph 2022)",
+    "lang": "Python"
+  },
+  {
+    "title": "diffgram/diffgram",
+    "url": "https://github.com/diffgram/diffgram",
+    "desc": "Training Data (Data Labeling, Annotation, Workflow) for all Data Types (Image, Video, 3D, Text, Geo, Audio, more) at scale.",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/alphafold",
+    "url": "https://github.com/deepmind/alphafold",
+    "desc": "Open source code for AlphaFold.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "desc": "Deep Learning for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "wandb/wandb",
+    "url": "https://github.com/wandb/wandb",
+    "desc": "🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.",
+    "lang": "Python"
+  },
+  {
+    "title": "tlkh/asitop",
+    "url": "https://github.com/tlkh/asitop",
+    "desc": "Perf monitoring CLI tool for Apple Silicon",
+    "lang": "Python"
+  },
+  {
+    "title": "adap/flower",
+    "url": "https://github.com/adap/flower",
+    "desc": "Flower - A Friendly Federated Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "bentoml/BentoML",
+    "url": "https://github.com/bentoml/BentoML",
+    "desc": "Unified Model Serving Framework 🍱",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/EasyNLP",
+    "url": "https://github.com/alibaba/EasyNLP",
+    "desc": "EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "spulec/moto",
+    "url": "https://github.com/spulec/moto",
+    "desc": "A library that allows you to easily mock out tests based on AWS infrastructure.",
+    "lang": "Python"
+  },
+  {
+    "title": "DA-southampton/NLP_ability",
+    "url": "https://github.com/DA-southampton/NLP_ability",
+    "desc": "总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括面试题，各种基础知识，工程能力等等，提升核心竞争力",
+    "lang": "Python"
+  },
+  {
+    "title": "Relento/lego_release",
+    "url": "https://github.com/Relento/lego_release",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "desc": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "lang": "Python"
+  },
+  {
+    "title": "ethereum/web3.py",
+    "url": "https://github.com/ethereum/web3.py",
+    "desc": "A python interface for interacting with the Ethereum blockchain and ecosystem.",
+    "lang": "Python"
+  },
+  {
+    "title": "Anjok07/ultimatevocalremovergui",
+    "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+    "desc": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+    "lang": "Python"
+  },
+  {
+    "title": "magicleap/SuperGluePretrainedNetwork",
+    "url": "https://github.com/magicleap/SuperGluePretrainedNetwork",
+    "desc": "SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral)",
+    "lang": "Python"
+  },
+  {
+    "title": "getsentry/sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "desc": "Sentry is cross-platform application monitoring, with a focus on error reporting.",
+    "lang": "Python"
+  },
+  {
+    "title": "netbox-community/netbox-docker",
+    "url": "https://github.com/netbox-community/netbox-docker",
+    "desc": "🐳 Docker Image of NetBox",
+    "lang": "Python"
+  }
+]
