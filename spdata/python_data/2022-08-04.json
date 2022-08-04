@@ -1,0 +1,152 @@
+[
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "getsentry/sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "desc": "Sentry is cross-platform application monitoring, with a focus on error reporting.",
+    "lang": "Python"
+  },
+  {
+    "title": "pallets/flask",
+    "url": "https://github.com/pallets/flask",
+    "desc": "The Python micro framework for building web applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "frappe/frappe",
+    "url": "https://github.com/frappe/frappe",
+    "desc": "Low code web framework for real world applications, in Python and Javascript",
+    "lang": "Python"
+  },
+  {
+    "title": "p0dalirius/ApacheTomcatScanner",
+    "url": "https://github.com/p0dalirius/ApacheTomcatScanner",
+    "desc": "A python script to scan for Apache Tomcat server vulnerabilities.",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "desc": "An orchestration platform for the development, production, and observation of data assets.",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/python-docs-samples",
+    "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+    "desc": "Code samples used on cloud.google.com",
+    "lang": "Python"
+  },
+  {
+    "title": "saltstack/salt",
+    "url": "https://github.com/saltstack/salt",
+    "desc": "Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/full-stack-fastapi-postgresql",
+    "url": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
+    "desc": "Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "googleapis/google-api-python-client",
+    "url": "https://github.com/googleapis/google-api-python-client",
+    "desc": "🐍 The official Python client library for Google's discovery based APIs.",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "demisto/content",
+    "url": "https://github.com/demisto/content",
+    "desc": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
+    "lang": "Python"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "wandb/wandb",
+    "url": "https://github.com/wandb/wandb",
+    "desc": "🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.",
+    "lang": "Python"
+  },
+  {
+    "title": "aws-samples/aws-cdk-examples",
+    "url": "https://github.com/aws-samples/aws-cdk-examples",
+    "desc": "Example projects using the AWS CDK",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "deepinsight/insightface",
+    "url": "https://github.com/deepinsight/insightface",
+    "desc": "State-of-the-art 2D and 3D Face Analysis Project",
+    "lang": "Python"
+  },
+  {
+    "title": "samuelcolvin/pydantic",
+    "url": "https://github.com/samuelcolvin/pydantic",
+    "desc": "Data parsing and validation using Python type hints",
+    "lang": "Python"
+  }
+]
