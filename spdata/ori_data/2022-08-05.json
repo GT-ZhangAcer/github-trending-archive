@@ -1,0 +1,149 @@
+[
+  {
+    "title": "moyix/fauxpilot",
+    "url": "https://github.com/moyix/fauxpilot",
+    "desc": "FauxPilot - an open-source GitHub Copilot server",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIAGameWorks/kaolin-wisp",
+    "url": "https://github.com/NVIDIAGameWorks/kaolin-wisp",
+    "desc": "NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a developer in 2022",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "elastic/protections-artifacts",
+    "url": "https://github.com/elastic/protections-artifacts",
+    "desc": "Elastic Security detection content for Endpoint",
+    "lang": "YARA"
+  },
+  {
+    "title": "sobinge/2022-HW-POC",
+    "url": "https://github.com/sobinge/2022-HW-POC",
+    "desc": "2022 护网行动 POC 整理",
+    "lang": "Go"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antoniosarosi/Wallpapers",
+    "url": "https://github.com/antoniosarosi/Wallpapers",
+    "desc": ""
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "HeliXonProtein/OmegaFold",
+    "url": "https://github.com/HeliXonProtein/OmegaFold",
+    "desc": "OmegaFold Release Code",
+    "lang": "Python"
+  },
+  {
+    "title": "UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram",
+    "url": "https://github.com/UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram",
+    "desc": "给女朋友做的微信小程序！情侣自己的任务和商城系统！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "HVML/PurC",
+    "url": "https://github.com/HVML/PurC",
+    "desc": "The prime HVML interpreter for C Language.",
+    "lang": "C"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "desc": "The Go programming language",
+    "lang": "Go"
+  },
+  {
+    "title": "YDHCUI/manjusaka",
+    "url": "https://github.com/YDHCUI/manjusaka",
+    "desc": "牛屎花 一款C2远控"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "desc": "There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cri-o/cri-o",
+    "url": "https://github.com/cri-o/cri-o",
+    "desc": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+    "lang": "Go"
+  },
+  {
+    "title": "99designs/gqlgen",
+    "url": "https://github.com/99designs/gqlgen",
+    "desc": "go generate based graphql server library",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/facebook-ios-sdk",
+    "url": "https://github.com/facebook/facebook-ios-sdk",
+    "desc": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+    "lang": "Swift"
+  },
+  {
+    "title": "jgraph/drawio-desktop",
+    "url": "https://github.com/jgraph/drawio-desktop",
+    "desc": "Official electron build of draw.io",
+    "lang": "Shell"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "desc": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!"
+  },
+  {
+    "title": "snipe/snipe-it",
+    "url": "https://github.com/snipe/snipe-it",
+    "desc": "A free open source IT asset/license management system",
+    "lang": "PHP"
+  },
+  {
+    "title": "adiwajshing/Baileys",
+    "url": "https://github.com/adiwajshing/Baileys",
+    "desc": "Lightweight full-featured WhatsApp Web + Multi-Device API",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  }
+]

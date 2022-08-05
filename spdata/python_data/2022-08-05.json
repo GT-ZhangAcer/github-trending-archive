@@ -1,0 +1,152 @@
+[
+  {
+    "title": "moyix/fauxpilot",
+    "url": "https://github.com/moyix/fauxpilot",
+    "desc": "FauxPilot - an open-source GitHub Copilot server",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIAGameWorks/kaolin-wisp",
+    "url": "https://github.com/NVIDIAGameWorks/kaolin-wisp",
+    "desc": "NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).",
+    "lang": "Python"
+  },
+  {
+    "title": "HeliXonProtein/OmegaFold",
+    "url": "https://github.com/HeliXonProtein/OmegaFold",
+    "desc": "OmegaFold Release Code",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/python-docs-samples",
+    "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+    "desc": "Code samples used on cloud.google.com",
+    "lang": "Python"
+  },
+  {
+    "title": "wandb/wandb",
+    "url": "https://github.com/wandb/wandb",
+    "desc": "🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.",
+    "lang": "Python"
+  },
+  {
+    "title": "hay-kot/mealie",
+    "url": "https://github.com/hay-kot/mealie",
+    "desc": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+    "lang": "Python"
+  },
+  {
+    "title": "vaastav/Fantasy-Premier-League",
+    "url": "https://github.com/vaastav/Fantasy-Premier-League",
+    "desc": "Creates a .csv file of all players in the English Player League with their respective team and total fantasy points",
+    "lang": "Python"
+  },
+  {
+    "title": "google/paranoid_crypto",
+    "url": "https://github.com/google/paranoid_crypto",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "xtekky/TikTok-ViewBot",
+    "url": "https://github.com/xtekky/TikTok-ViewBot",
+    "desc": "300 followers / 400 stars = leaked unpatched viewbot 1k/s | ViewBot using requests | Fast, no selenium shit | Custom Views count and clean Design |",
+    "lang": "Python"
+  },
+  {
+    "title": "tr0uble-mAker/POC-bomber",
+    "url": "https://github.com/tr0uble-mAker/POC-bomber",
+    "desc": "利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点",
+    "lang": "Python"
+  },
+  {
+    "title": "dwyl/english-words",
+    "url": "https://github.com/dwyl/english-words",
+    "desc": "📝 A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/microservices-demo",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "desc": "Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.",
+    "lang": "Python"
+  },
+  {
+    "title": "ifzhang/FairMOT",
+    "url": "https://github.com/ifzhang/FairMOT",
+    "desc": "[IJCV-2021] FairMOT: On the Fairness of Detection and Re-Identification in Multi-Object Tracking",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/WSL",
+    "url": "https://github.com/microsoft/WSL",
+    "desc": "Issues found on WSL",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "megvii-research/NAFNet",
+    "url": "https://github.com/megvii-research/NAFNet",
+    "desc": "The state-of-the-art image restoration model without nonlinear activation functions.",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/full-stack-fastapi-postgresql",
+    "url": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
+    "desc": "Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "espnet/espnet",
+    "url": "https://github.com/espnet/espnet",
+    "desc": "End-to-End Speech Processing Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "getsentry/sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "desc": "Sentry is cross-platform application monitoring, with a focus on error reporting.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/accelerate",
+    "url": "https://github.com/huggingface/accelerate",
+    "desc": "🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch), research workflows and production pipelines with an obsessive focus on flexibility and performance.",
+    "lang": "Python"
+  }
+]
