@@ -1,0 +1,152 @@
+[
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "desc": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+    "lang": "Python"
+  },
+  {
+    "title": "moyix/fauxpilot",
+    "url": "https://github.com/moyix/fauxpilot",
+    "desc": "FauxPilot - an open-source GitHub Copilot server",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIAGameWorks/kaolin-wisp",
+    "url": "https://github.com/NVIDIAGameWorks/kaolin-wisp",
+    "desc": "NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/discoart",
+    "url": "https://github.com/jina-ai/discoart",
+    "desc": "Create Disco Diffusion artworks in one line",
+    "lang": "Python"
+  },
+  {
+    "title": "google/paranoid_crypto",
+    "url": "https://github.com/google/paranoid_crypto",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "desc": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "lang": "Python"
+  },
+  {
+    "title": "KurtBestor/Hitomi-Downloader",
+    "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+    "desc": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "luoyily/MoeTTS",
+    "url": "https://github.com/luoyily/MoeTTS",
+    "desc": "Speech synthesis model repo for galgame characters based on Tacotron2 and Hifigan",
+    "lang": "Python"
+  },
+  {
+    "title": "HeliXonProtein/OmegaFold",
+    "url": "https://github.com/HeliXonProtein/OmegaFold",
+    "desc": "OmegaFold Release Code",
+    "lang": "Python"
+  },
+  {
+    "title": "Womsxd/AutoMihoyoBBS",
+    "url": "https://github.com/Womsxd/AutoMihoyoBBS",
+    "desc": "米游社自动签到，支持：崩坏二、崩坏三、原神、未定事件簿，米游币自动获取",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "desc": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/jax3d",
+    "url": "https://github.com/google-research/jax3d",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "punk-security/dnsReaper",
+    "url": "https://github.com/punk-security/dnsReaper",
+    "desc": "dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.",
+    "lang": "Python"
+  },
+  {
+    "title": "SniperNFTbot/Opensea-minting-bot",
+    "url": "https://github.com/SniperNFTbot/Opensea-minting-bot",
+    "desc": "Private Solana Minting Bot | OpenSea Mint Bot",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/scenic",
+    "url": "https://github.com/google-research/scenic",
+    "desc": "Scenic: A Jax Library for Computer Vision Research and Beyond",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/torchdynamo",
+    "url": "https://github.com/pytorch/torchdynamo",
+    "desc": "A Python-level JIT compiler designed to make unmodified PyTorch programs faster.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "njustkmg/PaddleMM",
+    "url": "https://github.com/njustkmg/PaddleMM",
+    "desc": "Multi-Modal learning toolkit based on PaddlePaddle and PyTorch, supporting multiple applications such as multi-modal classification, cross-modal retrieval and image caption.",
+    "lang": "Python"
+  },
+  {
+    "title": "pingcap/docs",
+    "url": "https://github.com/pingcap/docs",
+    "desc": "TiDB database documentation.",
+    "lang": "Python"
+  },
+  {
+    "title": "Rudrabha/Wav2Lip",
+    "url": "https://github.com/Rudrabha/Wav2Lip",
+    "desc": "This repository contains the codes of A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild, published at ACM Multimedia 2020.",
+    "lang": "Python"
+  }
+]
