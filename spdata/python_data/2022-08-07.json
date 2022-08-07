@@ -1,0 +1,152 @@
+[
+  {
+    "title": "NVIDIAGameWorks/kaolin-wisp",
+    "url": "https://github.com/NVIDIAGameWorks/kaolin-wisp",
+    "desc": "NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/discoart",
+    "url": "https://github.com/jina-ai/discoart",
+    "desc": "Create Disco Diffusion artworks in one line",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "desc": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "lang": "Python"
+  },
+  {
+    "title": "moyix/fauxpilot",
+    "url": "https://github.com/moyix/fauxpilot",
+    "desc": "FauxPilot - an open-source GitHub Copilot server",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "desc": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "Womsxd/AutoMihoyoBBS",
+    "url": "https://github.com/Womsxd/AutoMihoyoBBS",
+    "desc": "米游社自动签到，支持：崩坏二、崩坏三、原神、未定事件簿，米游币自动获取",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "desc": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+    "lang": "Python"
+  },
+  {
+    "title": "punk-security/dnsReaper",
+    "url": "https://github.com/punk-security/dnsReaper",
+    "desc": "dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!",
+    "lang": "Python"
+  },
+  {
+    "title": "MatrixTM/MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/demucs",
+    "url": "https://github.com/facebookresearch/demucs",
+    "desc": "Code for the paper Hybrid Spectrogram and Waveform Source Separation",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/jax3d",
+    "url": "https://github.com/google-research/jax3d",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "lang": "Python"
+  },
+  {
+    "title": "Ultimaker/Cura",
+    "url": "https://github.com/Ultimaker/Cura",
+    "desc": "3D printer / slicing GUI built on top of the Uranium framework",
+    "lang": "Python"
+  },
+  {
+    "title": "eth-brownie/brownie",
+    "url": "https://github.com/eth-brownie/brownie",
+    "desc": "A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.",
+    "lang": "Python"
+  },
+  {
+    "title": "hmaverickadams/Windows-WiFi-Extractor",
+    "url": "https://github.com/hmaverickadams/Windows-WiFi-Extractor",
+    "desc": "Extract Windows Wi-Fi Passwords to Remote URL",
+    "lang": "Python"
+  },
+  {
+    "title": "deezer/spleeter",
+    "url": "https://github.com/deezer/spleeter",
+    "desc": "Deezer source separation library including pretrained models.",
+    "lang": "Python"
+  },
+  {
+    "title": "vyperlang/vyper",
+    "url": "https://github.com/vyperlang/vyper",
+    "desc": "Pythonic Smart Contract Language for the EVM",
+    "lang": "Python"
+  },
+  {
+    "title": "y1ndan/genshinhelper2",
+    "url": "https://github.com/y1ndan/genshinhelper2",
+    "desc": "A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币 崩坏3",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "anasty17/mirror-leech-telegram-bot",
+    "url": "https://github.com/anasty17/mirror-leech-telegram-bot",
+    "desc": "Official Repository: Telegram bot which can download torrents, mega , google drive, telegram file and direct links + all yt-dlp supported sites, then upload them to google drive or telegram cloud. This bot supports more features like zip or extract before upload, seed after upload using qBittorrent or aria2c and many more, read features below.",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "SniperNFTbot/Opensea-minting-bot",
+    "url": "https://github.com/SniperNFTbot/Opensea-minting-bot",
+    "desc": "Private Solana Minting Bot | OpenSea Mint Bot",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  }
+]
