@@ -1,0 +1,151 @@
+[
+  {
+    "title": "sobinge/shadow2",
+    "url": "https://github.com/sobinge/shadow2",
+    "desc": "渗透 超全面的渗透资料💯 包含：0day，xss，sql注入，提权……",
+    "lang": "Python"
+  },
+  {
+    "title": "Womsxd/AutoMihoyoBBS",
+    "url": "https://github.com/Womsxd/AutoMihoyoBBS",
+    "desc": "米游社自动签到，支持：崩坏二、崩坏三、原神、未定事件簿，米游币自动获取",
+    "lang": "Python"
+  },
+  {
+    "title": "njustkmg/PaddleMM",
+    "url": "https://github.com/njustkmg/PaddleMM",
+    "desc": "Multi-Modal learning toolkit based on PaddlePaddle and PyTorch, supporting multiple applications such as multi-modal classification, cross-modal retrieval and image caption.",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "bbfamily/abu",
+    "url": "https://github.com/bbfamily/abu",
+    "desc": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
+    "lang": "Python"
+  },
+  {
+    "title": "carr0t2/nps-auth-bypass",
+    "url": "https://github.com/carr0t2/nps-auth-bypass",
+    "desc": "nps认证绕过利用工具，使用此工具可方便地访问web控制端",
+    "lang": "Python"
+  },
+  {
+    "title": "SkywalkerJi/mdt",
+    "url": "https://github.com/SkywalkerJi/mdt",
+    "desc": "Yu-Gi-Oh! Master Duel Translation Script",
+    "lang": "Python"
+  },
+  {
+    "title": "Oreomeow/warpplus",
+    "url": "https://github.com/Oreomeow/warpplus",
+    "desc": "Get WARP+ referral quota and notify users with Telegram Bot",
+    "lang": "Python"
+  },
+  {
+    "title": "Python3WebSpider/ProxyPool",
+    "url": "https://github.com/Python3WebSpider/ProxyPool",
+    "desc": "An Efficient ProxyPool with Getter, Tester and Server",
+    "lang": "Python"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "yoshiko2/Movie_Data_Capture",
+    "url": "https://github.com/yoshiko2/Movie_Data_Capture",
+    "desc": "Local Movies Organizer",
+    "lang": "Python"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "SAGIRI-kawaii/sagiri-bot",
+    "url": "https://github.com/SAGIRI-kawaii/sagiri-bot",
+    "desc": "基于Graia Ariadne和Mirai的QQ机器人 SAGIRI-BOT",
+    "lang": "Python"
+  },
+  {
+    "title": "Rockyzsu/stock",
+    "url": "https://github.com/Rockyzsu/stock",
+    "desc": "30天掌握量化交易 (持续更新)",
+    "lang": "Python"
+  },
+  {
+    "title": "daydreaming666/Amenoma",
+    "url": "https://github.com/daydreaming666/Amenoma",
+    "desc": "A simple desktop application to scan and export Genshin Impact Artifacts and Materials.",
+    "lang": "Python"
+  },
+  {
+    "title": "UzJu/Cloud-Bucket-Leak-Detection-Tools",
+    "url": "https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools",
+    "desc": "六大云存储，泄露利用检测工具",
+    "lang": "Python"
+  },
+  {
+    "title": "luoyily/MoeTTS",
+    "url": "https://github.com/luoyily/MoeTTS",
+    "desc": "Speech synthesis model repo for galgame characters based on Tacotron2, Hifigan and VITS"
+  },
+  {
+    "title": "aidlearning/AidLearning-FrameWork",
+    "url": "https://github.com/aidlearning/AidLearning-FrameWork",
+    "desc": "🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS",
+    "lang": "Python"
+  },
+  {
+    "title": "ermaozi/get_subscribe",
+    "url": "https://github.com/ermaozi/get_subscribe",
+    "desc": "✈️ 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙",
+    "lang": "Python"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "desc": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "lang": "Python"
+  },
+  {
+    "title": "lwd-temp/anti-ip-attribution",
+    "url": "https://github.com/lwd-temp/anti-ip-attribution",
+    "desc": "针对部分网站显示IP归属地的流量分流规则",
+    "lang": "Python"
+  },
+  {
+    "title": "Threekiii/Awesome-Redteam",
+    "url": "https://github.com/Threekiii/Awesome-Redteam",
+    "desc": "一个红队知识仓库",
+    "lang": "Python"
+  }
+]
