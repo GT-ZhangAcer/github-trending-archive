@@ -1,0 +1,143 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "peng-zhihui/HelloWord-Keyboard",
+    "url": "https://github.com/peng-zhihui/HelloWord-Keyboard",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "whyour/qinglong",
+    "url": "https://github.com/whyour/qinglong",
+    "desc": "支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "MikeWang000000/PD-Runner-Revived",
+    "url": "https://github.com/MikeWang000000/PD-Runner-Revived",
+    "desc": "PD-Runner (Parallels Desktop) 补档",
+    "lang": "Swift"
+  },
+  {
+    "title": "Baiyuetribe/paper2gui",
+    "url": "https://github.com/Baiyuetribe/paper2gui",
+    "desc": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dukedaily/solidity-expert",
+    "url": "https://github.com/dukedaily/solidity-expert",
+    "desc": "2022年海外一线大厂-以太坊开发教程（a solidity tutorial makes you a dapp expert）",
+    "lang": "Shell"
+  },
+  {
+    "title": "ip-scanner/cloudflare",
+    "url": "https://github.com/ip-scanner/cloudflare",
+    "desc": ""
+  },
+  {
+    "title": "YuanHsing/freed",
+    "url": "https://github.com/YuanHsing/freed",
+    "desc": ""
+  },
+  {
+    "title": "XIU2/Yuedu",
+    "url": "https://github.com/XIU2/Yuedu",
+    "desc": "📚「阅读」APP 精品书源（网络小说）"
+  },
+  {
+    "title": "peng-zhihui/HoloCubic",
+    "url": "https://github.com/peng-zhihui/HoloCubic",
+    "desc": "带网络功能的伪全息透明显示桌面站",
+    "lang": "C"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "Shell"
+  },
+  {
+    "title": "peng-zhihui/ElectronBot",
+    "url": "https://github.com/peng-zhihui/ElectronBot",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "fscarmen/warp",
+    "url": "https://github.com/fscarmen/warp",
+    "desc": "WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "whx123/JavaHome",
+    "url": "https://github.com/whx123/JavaHome",
+    "desc": "一份超级详细的Java面试题【大厂面试真题+Java学习指南+工作总结】"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  },
+  {
+    "title": "SharingSource/LogicStack-LeetCode",
+    "url": "https://github.com/SharingSource/LogicStack-LeetCode",
+    "desc": "公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码"
+  },
+  {
+    "title": "Mosney/anti-anti-AD",
+    "url": "https://github.com/Mosney/anti-anti-AD",
+    "desc": "为什么不应使用antiAD去广告列表，以及选择更多优秀的替代品"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox 1.0.0（空壳-自行配置）"
+  },
+  {
+    "title": "CS-BAOYAN/CSYuTuiMian2022",
+    "url": "https://github.com/CS-BAOYAN/CSYuTuiMian2022",
+    "desc": "关于2022年CS保研预推免通知公告的汇总，欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？"
+  },
+  {
+    "title": "XrayR-project/XrayR",
+    "url": "https://github.com/XrayR-project/XrayR",
+    "desc": "A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",
+    "lang": "Go"
+  },
+  {
+    "title": "VirgilClyne/iRingo",
+    "url": "https://github.com/VirgilClyne/iRingo",
+    "desc": "解锁完整的 Apple功能和集成服务",
+    "lang": "JavaScript"
+  }
+]

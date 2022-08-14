@@ -1,0 +1,152 @@
+[
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "davidbombal/python-keylogger",
+    "url": "https://github.com/davidbombal/python-keylogger",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "redballoonsecurity/ofrak",
+    "url": "https://github.com/redballoonsecurity/ofrak",
+    "desc": "OFRAK: unpack, modify, and repack binaries.",
+    "lang": "Python"
+  },
+  {
+    "title": "azmatt/chasing_your_tail",
+    "url": "https://github.com/azmatt/chasing_your_tail",
+    "desc": "Tool for using wireless signals to see if you're being followed.",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "mikf/gallery-dl",
+    "url": "https://github.com/mikf/gallery-dl",
+    "desc": "Command-line program to download image galleries and collections from several image hosting sites",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/pytorch3d",
+    "url": "https://github.com/facebookresearch/pytorch3d",
+    "desc": "PyTorch3D is FAIR's library of reusable components for deep learning with 3D data",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/torchdynamo",
+    "url": "https://github.com/pytorch/torchdynamo",
+    "desc": "A Python-level JIT compiler designed to make unmodified PyTorch programs faster.",
+    "lang": "Python"
+  },
+  {
+    "title": "streamlink/streamlink",
+    "url": "https://github.com/streamlink/streamlink",
+    "desc": "Streamlink is a CLI utility which pipes video streams from various services into a video player",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "jaywalnut310/vits",
+    "url": "https://github.com/jaywalnut310/vits",
+    "desc": "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech",
+    "lang": "Python"
+  },
+  {
+    "title": "pyodide/pyodide",
+    "url": "https://github.com/pyodide/pyodide",
+    "desc": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly",
+    "lang": "Python"
+  },
+  {
+    "title": "rebuild-123/Python-Head-First-Design-Patterns",
+    "url": "https://github.com/rebuild-123/Python-Head-First-Design-Patterns",
+    "desc": "Python Head First Design Patterns",
+    "lang": "Python"
+  },
+  {
+    "title": "pallets/flask",
+    "url": "https://github.com/pallets/flask",
+    "desc": "The Python micro framework for building web applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "FDc0d3/F-Tool",
+    "url": "https://github.com/FDc0d3/F-Tool",
+    "desc": "F-Tool the simple tool you need :)",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "Zulko/moviepy",
+    "url": "https://github.com/Zulko/moviepy",
+    "desc": "Video editing with Python",
+    "lang": "Python"
+  },
+  {
+    "title": "frappe/erpnext",
+    "url": "https://github.com/frappe/erpnext",
+    "desc": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "lang": "Python"
+  },
+  {
+    "title": "spotDL/spotify-downloader",
+    "url": "https://github.com/spotDL/spotify-downloader",
+    "desc": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+    "lang": "Python"
+  },
+  {
+    "title": "FedML-AI/FedML",
+    "url": "https://github.com/FedML-AI/FedML",
+    "desc": "FedML - The federated learning and distributed training library enabling machine learning anywhere at any scale. It's backed by FedML, Inc (https://FedML.ai). Supporting large-scale geo-distributed training, cross-device federated learning on smartphones/IoTs, cross-silo federated learning on data silos, and research simulation. Best Paper Award…",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  }
+]
