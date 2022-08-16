@@ -1,0 +1,149 @@
+[
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "desc": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "lang": "HTML"
+  },
+  {
+    "title": "dukedaily/solidity-expert",
+    "url": "https://github.com/dukedaily/solidity-expert",
+    "desc": "4年打磨-2022年海外一线大厂-以太坊开发教程（a solidity tutorial makes you a dapp expert）",
+    "lang": "Solidity"
+  },
+  {
+    "title": "Tencent/wujie",
+    "url": "https://github.com/Tencent/wujie",
+    "desc": "极致的微前端框架",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "doocs/jvm",
+    "url": "https://github.com/doocs/jvm",
+    "desc": "🤗 JVM 底层原理最全知识总结",
+    "lang": "Java"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "whyour/qinglong",
+    "url": "https://github.com/whyour/qinglong",
+    "desc": "支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "walter201230/Python",
+    "url": "https://github.com/walter201230/Python",
+    "desc": "最良心的 Python 教程："
+  },
+  {
+    "title": "jeecgboot/jeecgboot-vue3",
+    "url": "https://github.com/jeecgboot/jeecgboot-vue3",
+    "desc": "「企业级低代码平台」新版UI，采用 Vue3.0+TypeScript+Vite+AntDesignVue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是在 Vben-Admin 基础上研发的，适合于JeecgBoot的新版前端VUE3框架。",
+    "lang": "Vue"
+  },
+  {
+    "title": "EasyDarwin/EasyDarwin",
+    "url": "https://github.com/EasyDarwin/EasyDarwin",
+    "desc": "open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基…",
+    "lang": "Go"
+  },
+  {
+    "title": "lecepin/WeChatVideoDownloader",
+    "url": "https://github.com/lecepin/WeChatVideoDownloader",
+    "desc": "超方便的微信视频号下载器",
+    "lang": "VBScript"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "desc": "我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "guchangan1/All-Defense-Tool",
+    "url": "https://github.com/guchangan1/All-Defense-Tool",
+    "desc": "本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。"
+  },
+  {
+    "title": "fengdu78/Coursera-ML-AndrewNg-Notes",
+    "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+    "desc": "吴恩达老师的机器学习课程个人笔记",
+    "lang": "HTML"
+  },
+  {
+    "title": "knownsec/404StarLink",
+    "url": "https://github.com/knownsec/404StarLink",
+    "desc": "404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目"
+  },
+  {
+    "title": "fengdu78/deeplearning_ai_books",
+    "url": "https://github.com/fengdu78/deeplearning_ai_books",
+    "desc": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
+    "lang": "HTML"
+  },
+  {
+    "title": "baidu/lac",
+    "url": "https://github.com/baidu/lac",
+    "desc": "百度NLP：分词，词性标注，命名实体识别，词重要性",
+    "lang": "C++"
+  },
+  {
+    "title": "jeecgboot/JimuReport",
+    "url": "https://github.com/jeecgboot/JimuReport",
+    "desc": "「低代码可视化报表」类似excel操作风格，在线拖拽完成设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。",
+    "lang": "Java"
+  },
+  {
+    "title": "didi/DoKit",
+    "url": "https://github.com/didi/DoKit",
+    "desc": "一款面向泛前端产品研发全生命周期的效率平台。",
+    "lang": "Java"
+  },
+  {
+    "title": "shadow1ng/fscan",
+    "url": "https://github.com/shadow1ng/fscan",
+    "desc": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。",
+    "lang": "Go"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  }
+]

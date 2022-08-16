@@ -1,0 +1,146 @@
+[
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "davidbombal/python-keylogger",
+    "url": "https://github.com/davidbombal/python-keylogger",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "mikf/gallery-dl",
+    "url": "https://github.com/mikf/gallery-dl",
+    "desc": "Command-line program to download image galleries and collections from several image hosting sites",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "aiogram/aiogram",
+    "url": "https://github.com/aiogram/aiogram",
+    "desc": "Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "anasty17/mirror-leech-telegram-bot",
+    "url": "https://github.com/anasty17/mirror-leech-telegram-bot",
+    "desc": "Official Repository: Telegram bot which can download torrents, mega , google drive, telegram file and direct links + all yt-dlp supported sites, then upload them to google drive or telegram cloud. This bot supports more features like zip or extract before upload, seed after upload using qBittorrent or aria2c and many more, read features below.",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "desc": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmcv",
+    "url": "https://github.com/open-mmlab/mmcv",
+    "desc": "OpenMMLab Computer Vision Foundation",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/fairseq",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "aqlaboratory/openfold",
+    "url": "https://github.com/aqlaboratory/openfold",
+    "desc": "Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/DeepSpeed",
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/KeypointNeRF",
+    "url": "https://github.com/facebookresearch/KeypointNeRF",
+    "desc": "KeypointNeRF Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "redballoonsecurity/ofrak",
+    "url": "https://github.com/redballoonsecurity/ofrak",
+    "desc": "OFRAK: unpack, modify, and repack binaries.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/OpenPCDet",
+    "url": "https://github.com/open-mmlab/OpenPCDet",
+    "desc": "OpenPCDet Toolbox for LiDAR-based 3D Object Detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "vnhacker1337/CVE-2022-27925-PoC",
+    "url": "https://github.com/vnhacker1337/CVE-2022-27925-PoC",
+    "desc": "Zimbra RCE simple poc",
+    "lang": "Python"
+  },
+  {
+    "title": "moyix/fauxpilot",
+    "url": "https://github.com/moyix/fauxpilot",
+    "desc": "FauxPilot - an open-source GitHub Copilot server",
+    "lang": "Python"
+  },
+  {
+    "title": "AlexIoannides/pyspark-example-project",
+    "url": "https://github.com/AlexIoannides/pyspark-example-project",
+    "desc": "Example project implementing best practices for PySpark ETL jobs and applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmsegmentation",
+    "url": "https://github.com/open-mmlab/mmsegmentation",
+    "desc": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+    "lang": "Python"
+  }
+]

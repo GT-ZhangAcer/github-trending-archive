@@ -1,0 +1,144 @@
+[
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "erg-lang/erg",
+    "url": "https://github.com/erg-lang/erg",
+    "desc": "A Python-compatible statically typed language",
+    "lang": "Rust"
+  },
+  {
+    "title": "davidbombal/python-keylogger",
+    "url": "https://github.com/davidbombal/python-keylogger",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "labstack/echo",
+    "url": "https://github.com/labstack/echo",
+    "desc": "High performance, minimalist Go web framework",
+    "lang": "Go"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "url": "https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra",
+    "desc": "Graphic notes on Gilbert Strang's Linear Algebra for Everyone",
+    "lang": "TeX"
+  },
+  {
+    "title": "notpresident35/learn-awesome-gamedev",
+    "url": "https://github.com/notpresident35/learn-awesome-gamedev",
+    "desc": "A curated collection of game development resources"
+  },
+  {
+    "title": "hakimel/reveal.js",
+    "url": "https://github.com/hakimel/reveal.js",
+    "desc": "The HTML Presentation Framework",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "KULeuven-COSIC/Starlink-FI",
+    "url": "https://github.com/KULeuven-COSIC/Starlink-FI",
+    "desc": "",
+    "lang": "HTML"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "desc": "TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",
+    "lang": "C"
+  },
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "desc": "The next-gen web framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "juanfont/headscale",
+    "url": "https://github.com/juanfont/headscale",
+    "desc": "An open source, self-hosted implementation of the Tailscale control server",
+    "lang": "Go"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
+    "desc": "A collection of New Grad full time roles in SWE, Quant, and PM."
+  },
+  {
+    "title": "adrianhajdin/project_hoobank",
+    "url": "https://github.com/adrianhajdin/project_hoobank",
+    "desc": "Modern UI/UX website using React.js & Tailwind CSS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tyranid/blackhat-usa-2022-demos",
+    "url": "https://github.com/tyranid/blackhat-usa-2022-demos",
+    "desc": "Demos for the Blackhat USA 2022 talk Taking Kerberos to the Next Level",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "desc": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "lang": "Dart"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated coding interview preparation materials for busy software engineers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "davidbombal/express-server-basic",
+    "url": "https://github.com/davidbombal/express-server-basic",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "containerd/containerd",
+    "url": "https://github.com/containerd/containerd",
+    "desc": "An open and reliable container runtime",
+    "lang": "Go"
+  }
+]
