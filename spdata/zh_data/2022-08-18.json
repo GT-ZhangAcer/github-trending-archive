@@ -1,0 +1,145 @@
+[
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOAir：Including YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR and other networks... Support to improve backbone, head, loss, IoU, NMS...The original version was created based on YOLOv5",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/wujie",
+    "url": "https://github.com/Tencent/wujie",
+    "desc": "极致的微前端框架",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "didi/KnowStreaming",
+    "url": "https://github.com/didi/KnowStreaming",
+    "desc": "一站式Apache Kafka管控平台",
+    "lang": "Java"
+  },
+  {
+    "title": "91p2022/91",
+    "url": "https://github.com/91p2022/91",
+    "desc": "91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ruanyf/document-style-guide",
+    "url": "https://github.com/ruanyf/document-style-guide",
+    "desc": "中文技术文档的写作规范"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "baidu/amis",
+    "url": "https://github.com/baidu/amis",
+    "desc": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CS-BAOYAN/CSYuTuiMian2022",
+    "url": "https://github.com/CS-BAOYAN/CSYuTuiMian2022",
+    "desc": "关于2022年CS保研预推免通知公告的汇总，欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "taowen/awesome-lowcode",
+    "url": "https://github.com/taowen/awesome-lowcode",
+    "desc": "国内低代码平台从业者交流"
+  },
+  {
+    "title": "Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "url": "https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "desc": "转存助手ui优化版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "oldwinter/knowledge-garden",
+    "url": "https://github.com/oldwinter/knowledge-garden",
+    "desc": "我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "makoto56/penetration-suite-toolkit",
+    "url": "https://github.com/makoto56/penetration-suite-toolkit",
+    "desc": "本项目制作的初衷是帮助渗透新手快速搭建工作环境，工欲善其事，必先利其器。"
+  },
+  {
+    "title": "javastacks/spring-boot-best-practice",
+    "url": "https://github.com/javastacks/spring-boot-best-practice",
+    "desc": "Spring Boot 最佳实践，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。",
+    "lang": "Java"
+  },
+  {
+    "title": "liyupi/code-roadmap",
+    "url": "https://github.com/liyupi/code-roadmap",
+    "desc": "原创编程学习路线，包括全面的知识点、免费资源、面试题、学习建议、项目，适用于所有学习编程、求职的同学。已完成 Java、前端"
+  },
+  {
+    "title": "newbee-ltd/vue3-admin",
+    "url": "https://github.com/newbee-ltd/vue3-admin",
+    "desc": "🔥 🎉 Vue 3.0 + Vite 2.0 + Vue-Router 4.0 + Element-Plus + Echarts 5.0 + Axios 开发的后台管理系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "didi/DoKit",
+    "url": "https://github.com/didi/DoKit",
+    "desc": "一款面向泛前端产品研发全生命周期的效率平台。",
+    "lang": "Java"
+  },
+  {
+    "title": "zhuifengshaonianhanlu/pikachu",
+    "url": "https://github.com/zhuifengshaonianhanlu/pikachu",
+    "desc": "一个好玩的Web安全-漏洞测试平台",
+    "lang": "PHP"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "wechat-miniprogram/minigame-unity-webgl-transform",
+    "url": "https://github.com/wechat-miniprogram/minigame-unity-webgl-transform",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "guchangan1/All-Defense-Tool",
+    "url": "https://github.com/guchangan1/All-Defense-Tool",
+    "desc": "本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。"
+  },
+  {
+    "title": "knownsec/404StarLink",
+    "url": "https://github.com/knownsec/404StarLink",
+    "desc": "404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目"
+  },
+  {
+    "title": "openatx/uiautomator2",
+    "url": "https://github.com/openatx/uiautomator2",
+    "desc": "Android Uiautomator2 Python Wrapper",
+    "lang": "Python"
+  }
+]
