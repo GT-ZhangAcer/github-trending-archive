@@ -1,0 +1,152 @@
+[
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "desc": "Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native",
+    "lang": "Python"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "GradienceTeam/Gradience",
+    "url": "https://github.com/GradienceTeam/Gradience",
+    "desc": "Gradience is a tool for customizing Libadwaita applications and the adw-gtk3 theme.",
+    "lang": "Python"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "desc": "We have made you a wrapper you can't refuse",
+    "lang": "Python"
+  },
+  {
+    "title": "p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
+    "url": "https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE",
+    "desc": "A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997.",
+    "lang": "Python"
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "desc": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/denoising-diffusion-pytorch",
+    "url": "https://github.com/lucidrains/denoising-diffusion-pytorch",
+    "desc": "Implementation of Denoising Diffusion Probabilistic Model in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "anonNo2/crosstalk-generation",
+    "url": "https://github.com/anonNo2/crosstalk-generation",
+    "desc": "Code and data for crosstalk text generation tasks, exploring whether large models and pre-trained language models can understand humor.",
+    "lang": "Python"
+  },
+  {
+    "title": "Dineshkarthik/telegram_media_downloader",
+    "url": "https://github.com/Dineshkarthik/telegram_media_downloader",
+    "desc": "Download media files from a telegram conversation/chat/channel up to 2GiB per file",
+    "lang": "Python"
+  },
+  {
+    "title": "Vinyzu/DiscordGenerator",
+    "url": "https://github.com/Vinyzu/DiscordGenerator",
+    "desc": "Dislock, the most advanced Discord Browser Generator. Powered by hCaptcha Solving AI.",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "RsaCtfTool/RsaCtfTool",
+    "url": "https://github.com/RsaCtfTool/RsaCtfTool",
+    "desc": "RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data",
+    "lang": "Python"
+  },
+  {
+    "title": "ermaozi/get_subscribe",
+    "url": "https://github.com/ermaozi/get_subscribe",
+    "desc": "✈️ 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙",
+    "lang": "Python"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "longguikeji/arkid",
+    "url": "https://github.com/longguikeji/arkid",
+    "desc": "一账通是一款开源的统一身份认证授权管理解决方案，支持多种标准协议(LDAP, OAuth2, SAML, OpenID)，细粒度权限控制，完整的WEB管理功能，钉钉、企业微信集成等，QQ group: 167885406",
+    "lang": "Python"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "desc": "Download market data from Yahoo! Finance's API",
+    "lang": "Python"
+  },
+  {
+    "title": "LonamiWebs/Telethon",
+    "url": "https://github.com/LonamiWebs/Telethon",
+    "desc": "Pure Python 3 MTProto API Telegram client library, for bots too!",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  }
+]

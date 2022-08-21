@@ -1,0 +1,150 @@
+[
+  {
+    "title": "gedoor/legado",
+    "url": "https://github.com/gedoor/legado",
+    "desc": "Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Le-niao/Yunzai-Bot",
+    "url": "https://github.com/Le-niao/Yunzai-Bot",
+    "desc": "原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "peng-zhihui/HelloWord-Keyboard",
+    "url": "https://github.com/peng-zhihui/HelloWord-Keyboard",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "yoimiya-kokomi/miao-plugin",
+    "url": "https://github.com/yoimiya-kokomi/miao-plugin",
+    "desc": "Miao-Plugin for Yunzai-Bot",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "anonNo2/crosstalk-generation",
+    "url": "https://github.com/anonNo2/crosstalk-generation",
+    "desc": "Code and data for crosstalk text generation tasks, exploring whether large models and pre-trained language models can understand humor.",
+    "lang": "Python"
+  },
+  {
+    "title": "BoyceLig/Clash_Chinese_Patch",
+    "url": "https://github.com/BoyceLig/Clash_Chinese_Patch",
+    "desc": "Clash For Windows 汉化补丁和汉化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FloatTech/ZeroBot-Plugin",
+    "url": "https://github.com/FloatTech/ZeroBot-Plugin",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  },
+  {
+    "title": "ermaozi/get_subscribe",
+    "url": "https://github.com/ermaozi/get_subscribe",
+    "desc": "✈️ 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙",
+    "lang": "Python"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "longguikeji/arkid",
+    "url": "https://github.com/longguikeji/arkid",
+    "desc": "一账通是一款开源的统一身份认证授权管理解决方案，支持多种标准协议(LDAP, OAuth2, SAML, OpenID)，细粒度权限控制，完整的WEB管理功能，钉钉、企业微信集成等，QQ group: 167885406",
+    "lang": "Python"
+  },
+  {
+    "title": "selierlin/Share-SSR-V2ray",
+    "url": "https://github.com/selierlin/Share-SSR-V2ray",
+    "desc": "🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站"
+  },
+  {
+    "title": "zqzess/MyWebStorage",
+    "url": "https://github.com/zqzess/MyWebStorage",
+    "desc": "整合网络上现有的香色闺阁源",
+    "lang": "HTML"
+  },
+  {
+    "title": "ender-zhao/Clash-for-Windows_Chinese",
+    "url": "https://github.com/ender-zhao/Clash-for-Windows_Chinese",
+    "desc": "clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "ddgksf2013/Cuttlefish",
+    "url": "https://github.com/ddgksf2013/Cuttlefish",
+    "desc": "Scripts for self-use, ⛔️ fork",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lyswhut/lx-music-mobile",
+    "url": "https://github.com/lyswhut/lx-music-mobile",
+    "desc": "一个基于 React native 开发的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "wulabing/Xray_onekey",
+    "url": "https://github.com/wulabing/Xray_onekey",
+    "desc": "Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "wulabing/V2Ray_ws-tls_bash_onekey",
+    "url": "https://github.com/wulabing/V2Ray_ws-tls_bash_onekey",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "mack-a/v2ray-agent",
+    "url": "https://github.com/mack-a/v2ray-agent",
+    "desc": "（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装",
+    "lang": "Shell"
+  },
+  {
+    "title": "baomidou/dynamic-datasource-spring-boot-starter",
+    "url": "https://github.com/baomidou/dynamic-datasource-spring-boot-starter",
+    "desc": "dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务",
+    "lang": "Java"
+  },
+  {
+    "title": "mamoe/mirai",
+    "url": "https://github.com/mamoe/mirai",
+    "desc": "高效率 QQ 机器人支持库",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "p4gefau1t/trojan-go",
+    "url": "https://github.com/p4gefau1t/trojan-go",
+    "desc": "Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/",
+    "lang": "Go"
+  },
+  {
+    "title": "Womsxd/AutoMihoyoBBS",
+    "url": "https://github.com/Womsxd/AutoMihoyoBBS",
+    "desc": "米游社自动签到，支持：崩坏二、崩坏三、原神、未定事件簿，米游币自动获取",
+    "lang": "Python"
+  }
+]
