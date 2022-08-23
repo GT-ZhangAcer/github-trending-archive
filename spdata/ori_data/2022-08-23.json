@@ -1,0 +1,148 @@
+[
+  {
+    "title": "zinclabs/zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "desc": "ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "A layer 1 for everyone!",
+    "lang": "Rust"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "desc": "JavaScript Style Guide",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "desc": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jart/cosmopolitan",
+    "url": "https://github.com/jart/cosmopolitan",
+    "desc": "build-once run-anywhere c library",
+    "lang": "C"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "skydoves/Pokedex",
+    "url": "https://github.com/skydoves/Pokedex",
+    "desc": "🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "CollabCodeTech/backend-challenges",
+    "url": "https://github.com/CollabCodeTech/backend-challenges",
+    "desc": "A public list of open-source challenges from jobs around the world"
+  },
+  {
+    "title": "ThrillQuks/Pitraix",
+    "url": "https://github.com/ThrillQuks/Pitraix",
+    "desc": "Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR",
+    "lang": "Go"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "Shell"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "karanpratapsingh/system-design",
+    "url": "https://github.com/karanpratapsingh/system-design",
+    "desc": "Learn how to design systems at scale and prepare for system design interviews"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "networkx/networkx",
+    "url": "https://github.com/networkx/networkx",
+    "desc": "Network Analysis in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "AvaloniaUI/Avalonia",
+    "url": "https://github.com/AvaloniaUI/Avalonia",
+    "desc": "A cross-platform UI framework for .NET",
+    "lang": "C#"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "lang": "C"
+  },
+  {
+    "title": "android/nowinandroid",
+    "url": "https://github.com/android/nowinandroid",
+    "desc": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "lang": "Rust"
+  }
+]
