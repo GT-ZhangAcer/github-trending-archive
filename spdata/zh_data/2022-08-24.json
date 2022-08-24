@@ -1,0 +1,149 @@
+[
+  {
+    "title": "rxrw/daily_morning",
+    "url": "https://github.com/rxrw/daily_morning",
+    "desc": "给别人家的女朋友发早安",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "disksing/sao-gen-gen",
+    "url": "https://github.com/disksing/sao-gen-gen",
+    "desc": "骚话生成器生成器",
+    "lang": "Go"
+  },
+  {
+    "title": "gonglei007/GameDevMind",
+    "url": "https://github.com/gonglei007/GameDevMind",
+    "desc": "网络手游开发知识、技术与信息库，游戏研发技术从业者的导航地图。",
+    "lang": "Shell"
+  },
+  {
+    "title": "x-extends/vxe-table",
+    "url": "https://github.com/x-extends/vxe-table",
+    "desc": "vxe-table vue 表格解决方案",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ntt360/pmon2",
+    "url": "https://github.com/ntt360/pmon2",
+    "desc": "golang进程管理工具(golang process manager)",
+    "lang": "Go"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "desc": "人人可用的开源数据可视化分析工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentCloud/TIMSDK",
+    "url": "https://github.com/TencentCloud/TIMSDK",
+    "desc": "腾讯云即时通信 IM 服务，国内下载镜像：",
+    "lang": "HTML"
+  },
+  {
+    "title": "datawhalechina/joyful-pandas",
+    "url": "https://github.com/datawhalechina/joyful-pandas",
+    "desc": "pandas中文教程",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "X1192176811/blog",
+    "url": "https://github.com/X1192176811/blog",
+    "desc": "基于SpringBoot + Vue 开发的前后端分离博客，采用SpringSecurity进行权限管理，ElasticSearch全文搜索，支持QQ、微博第三方登录、在线聊天、发布说说等功能。",
+    "lang": "Java"
+  },
+  {
+    "title": "Hicores/QTool",
+    "url": "https://github.com/Hicores/QTool",
+    "desc": "QQ工具模块",
+    "lang": "Java"
+  },
+  {
+    "title": "ronggang/PT-Plugin-Plus",
+    "url": "https://github.com/ronggang/PT-Plugin-Plus",
+    "desc": "PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "baomidou/dynamic-datasource-spring-boot-starter",
+    "url": "https://github.com/baomidou/dynamic-datasource-spring-boot-starter",
+    "desc": "dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务",
+    "lang": "Java"
+  },
+  {
+    "title": "yangzongzhuan/RuoYi-Vue3",
+    "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+    "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "Markdown"
+  },
+  {
+    "title": "heibaiying/BigData-Notes",
+    "url": "https://github.com/heibaiying/BigData-Notes",
+    "desc": "大数据入门指南 ⭐",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "openatx/uiautomator2",
+    "url": "https://github.com/openatx/uiautomator2",
+    "desc": "Android Uiautomator2 Python Wrapper",
+    "lang": "Python"
+  },
+  {
+    "title": "wuyouzhuguli/SpringAll",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "desc": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc",
+    "lang": "Java"
+  },
+  {
+    "title": "gz-yami/mall4cloud",
+    "url": "https://github.com/gz-yami/mall4cloud",
+    "desc": "⭐️⭐️⭐️ Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城",
+    "lang": "Vue"
+  },
+  {
+    "title": "midwayjs/midway",
+    "url": "https://github.com/midwayjs/midway",
+    "desc": "🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "0voice/audio_video_streaming",
+    "url": "https://github.com/0voice/audio_video_streaming",
+    "desc": "音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。"
+  }
+]
