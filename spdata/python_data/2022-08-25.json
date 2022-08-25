@@ -1,0 +1,152 @@
+[
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "desc": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+    "lang": "Python"
+  },
+  {
+    "title": "rxrw/daily_morning",
+    "url": "https://github.com/rxrw/daily_morning",
+    "desc": "给别人家的女朋友发早安",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "AdminTurnedDevOps/DevOps-The-Hard-Way-AWS",
+    "url": "https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS",
+    "desc": "This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS",
+    "lang": "Python"
+  },
+  {
+    "title": "blacklanternsecurity/bbot",
+    "url": "https://github.com/blacklanternsecurity/bbot",
+    "desc": "OSINT automation for hackers.",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "coqui-ai/TTS",
+    "url": "https://github.com/coqui-ai/TTS",
+    "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "lang": "Python"
+  },
+  {
+    "title": "electricitymap/electricitymap-contrib",
+    "url": "https://github.com/electricitymap/electricitymap-contrib",
+    "desc": "A real-time visualisation of the CO2 emissions of electricity consumption",
+    "lang": "Python"
+  },
+  {
+    "title": "ikostrikov/walk_in_the_park",
+    "url": "https://github.com/ikostrikov/walk_in_the_park",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "ray-project/ray",
+    "url": "https://github.com/ray-project/ray",
+    "desc": "Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.",
+    "lang": "Python"
+  },
+  {
+    "title": "limoest/daily_reminder",
+    "url": "https://github.com/limoest/daily_reminder",
+    "desc": "微信公众号全自动每日推送",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "nginxinc/kic-reference-architectures",
+    "url": "https://github.com/nginxinc/kic-reference-architectures",
+    "desc": "MARA: Modern Application Reference Architecture",
+    "lang": "Python"
+  },
+  {
+    "title": "NafisiAslH/KnowledgeSharing",
+    "url": "https://github.com/NafisiAslH/KnowledgeSharing",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
+    "lang": "Python"
+  },
+  {
+    "title": "arshsisodiya/helios-mirror",
+    "url": "https://github.com/arshsisodiya/helios-mirror",
+    "desc": "Telegram Mirror and Leech Bot",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "wyz8883/morning",
+    "url": "https://github.com/wyz8883/morning",
+    "desc": "微信公众号天气预报推送",
+    "lang": "Python"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "frida/frida",
+    "url": "https://github.com/frida/frida",
+    "desc": "Clone this repo to build Frida",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/torchdynamo",
+    "url": "https://github.com/pytorch/torchdynamo",
+    "desc": "A Python-level JIT compiler designed to make unmodified PyTorch programs faster.",
+    "lang": "Python"
+  },
+  {
+    "title": "awslabs/gluon-ts",
+    "url": "https://github.com/awslabs/gluon-ts",
+    "desc": "Probabilistic time series modeling in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "The most intuitive, flexible, way to build PyTorch models and lightning apps that glue together everything around the models, without the pain of infrastructure, cost management, scaling and everything else.",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "title": "rxrw/daily_morning",
+    "url": "https://github.com/rxrw/daily_morning",
+    "desc": "给别人家的女朋友发早安",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "Baiyuetribe/paper2gui",
+    "url": "https://github.com/Baiyuetribe/paper2gui",
+    "desc": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CS-BAOYAN/CSYuTuiMian2022",
+    "url": "https://github.com/CS-BAOYAN/CSYuTuiMian2022",
+    "desc": "关于2022年CS保研预推免通知公告的汇总，欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "Sitoi/dailycheckin",
+    "url": "https://github.com/Sitoi/dailycheckin",
+    "desc": "基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜",
+    "lang": "Shell"
+  },
+  {
+    "title": "HummerRisk/HummerRisk",
+    "url": "https://github.com/HummerRisk/HummerRisk",
+    "desc": "HummerRisk 是云原生安全检测平台，提供三个方面的能力：混合云安全合规，K8S容器云安全和软件安全",
+    "lang": "Java"
+  },
+  {
+    "title": "guanzhi/GmSSL",
+    "url": "https://github.com/guanzhi/GmSSL",
+    "desc": "支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱",
+    "lang": "C"
+  },
+  {
+    "title": "Tencent/tdesign-vue",
+    "url": "https://github.com/Tencent/tdesign-vue",
+    "desc": "A Vue.js UI components lib for TDesign.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gonglei007/GameDevMind",
+    "url": "https://github.com/gonglei007/GameDevMind",
+    "desc": "网络手游开发知识、技术与信息库，游戏研发技术从业者的导航地图。",
+    "lang": "Shell"
+  },
+  {
+    "title": "egametang/ET",
+    "url": "https://github.com/egametang/ET",
+    "desc": "Unity3D Client And C# Server Framework",
+    "lang": "C#"
+  },
+  {
+    "title": "disksing/sao-gen-gen",
+    "url": "https://github.com/disksing/sao-gen-gen",
+    "desc": "骚话生成器生成器",
+    "lang": "Go"
+  },
+  {
+    "title": "RainManGO/vue3-composition-admin",
+    "url": "https://github.com/RainManGO/vue3-composition-admin",
+    "desc": "🎉 基于vue3 的管理端模板(Vue3 TS Vuex4 element-plus vue-i18n-next composition-api) vue3-admin vue3-ts-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "alibaba/canal",
+    "url": "https://github.com/alibaba/canal",
+    "desc": "阿里巴巴 MySQL binlog 增量订阅&消费组件",
+    "lang": "Java"
+  },
+  {
+    "title": "dianping/cat",
+    "url": "https://github.com/dianping/cat",
+    "desc": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",
+    "lang": "Java"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ 一款现代化的开源博客 / CMS 系统。",
+    "lang": "Java"
+  },
+  {
+    "title": "openatx/uiautomator2",
+    "url": "https://github.com/openatx/uiautomator2",
+    "desc": "Android Uiautomator2 Python Wrapper",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "CavsZhouyou/Front-End-Interview-Notebook",
+    "url": "https://github.com/CavsZhouyou/Front-End-Interview-Notebook",
+    "desc": "🐜前端面试复习笔记"
+  },
+  {
+    "title": "qinguoyi/TinyWebServer",
+    "url": "https://github.com/qinguoyi/TinyWebServer",
+    "desc": "🔥 Linux下C++轻量级Web服务器学习",
+    "lang": "C++"
+  },
+  {
+    "title": "DataV-Team/DataV",
+    "url": "https://github.com/DataV-Team/DataV",
+    "desc": "Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)",
+    "lang": "Vue"
+  },
+  {
+    "title": "eip-work/kuboard-press",
+    "url": "https://github.com/eip-work/kuboard-press",
+    "desc": "Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sfyc23/EverydayWechat",
+    "url": "https://github.com/sfyc23/EverydayWechat",
+    "desc": "微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）",
+    "lang": "Python"
+  }
+]
