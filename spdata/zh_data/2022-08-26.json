@@ -1,0 +1,149 @@
+[
+  {
+    "title": "rxrw/daily_morning",
+    "url": "https://github.com/rxrw/daily_morning",
+    "desc": "给别人家的女朋友发早安",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "desc": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "desc": "人人可用的开源数据可视化分析工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "tv-player/TvBox",
+    "url": "https://github.com/tv-player/TvBox",
+    "desc": "TvBox 配置、maoTv配置"
+  },
+  {
+    "title": "antvis/G2",
+    "url": "https://github.com/antvis/G2",
+    "desc": "📊 A visualization grammar for dashboard building, data exploration and storytelling.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Cats-Team/AdRules",
+    "url": "https://github.com/Cats-Team/AdRules",
+    "desc": "List of ad filters based on Chinese locale. 基于中文区的广告规则",
+    "lang": "Shell"
+  },
+  {
+    "title": "gonglei007/GameDevMind",
+    "url": "https://github.com/gonglei007/GameDevMind",
+    "desc": "网络手游开发知识、技术与信息库，游戏研发技术从业者的导航地图。",
+    "lang": "Shell"
+  },
+  {
+    "title": "Sitoi/dailycheckin",
+    "url": "https://github.com/Sitoi/dailycheckin",
+    "desc": "基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜",
+    "lang": "Shell"
+  },
+  {
+    "title": "Baiyuetribe/paper2gui",
+    "url": "https://github.com/Baiyuetribe/paper2gui",
+    "desc": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "biuuu/genshin-wish-export",
+    "url": "https://github.com/biuuu/genshin-wish-export",
+    "desc": "Easily export the Genshin Impact wish record.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "disksing/sao-gen-gen",
+    "url": "https://github.com/disksing/sao-gen-gen",
+    "desc": "骚话生成器生成器",
+    "lang": "Go"
+  },
+  {
+    "title": "rocboss/paopao-ce",
+    "url": "https://github.com/rocboss/paopao-ce",
+    "desc": "🔥A artistic twitter like community built on gin+zinc+vue+ts 清新文艺微社区",
+    "lang": "Go"
+  },
+  {
+    "title": "X1192176811/blog",
+    "url": "https://github.com/X1192176811/blog",
+    "desc": "基于SpringBoot + Vue 开发的前后端分离博客，采用SpringSecurity进行权限管理，ElasticSearch全文搜索，支持QQ、微博第三方登录、在线聊天、发布说说等功能。",
+    "lang": "Java"
+  },
+  {
+    "title": "wuyouzhuguli/SpringAll",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "desc": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc",
+    "lang": "Java"
+  },
+  {
+    "title": "HalseySpicy/Geeker-Admin",
+    "url": "https://github.com/HalseySpicy/Geeker-Admin",
+    "desc": "✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。",
+    "lang": "Vue"
+  },
+  {
+    "title": "yangzongzhuan/RuoYi-Vue3",
+    "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+    "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "YMFE/yapi",
+    "url": "https://github.com/YMFE/yapi",
+    "desc": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "KingRan/KR",
+    "url": "https://github.com/KingRan/KR",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "focus-creative-games/hybridclr_trial",
+    "url": "https://github.com/focus-creative-games/hybridclr_trial",
+    "desc": "HybridCLR 示例项目",
+    "lang": "C#"
+  }
+]

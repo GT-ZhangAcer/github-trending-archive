@@ -1,0 +1,149 @@
+[
+  {
+    "title": "cemu-project/Cemu",
+    "url": "https://github.com/cemu-project/Cemu",
+    "desc": "Cemu is a Wii U emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "rxrw/daily_morning",
+    "url": "https://github.com/rxrw/daily_morning",
+    "desc": "给别人家的女朋友发早安",
+    "lang": "Python"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "desc": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+    "lang": "Python"
+  },
+  {
+    "title": "goatcorp/FFXIVQuickLauncher",
+    "url": "https://github.com/goatcorp/FFXIVQuickLauncher",
+    "desc": "Custom launcher for FFXIV",
+    "lang": "C#"
+  },
+  {
+    "title": "total-typescript/beginners-typescript",
+    "url": "https://github.com/total-typescript/beginners-typescript",
+    "desc": "Exercises for beginners in TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "itorr/sakana",
+    "url": "https://github.com/itorr/sakana",
+    "desc": "🐟「Sakana!」石蒜虚拟器",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cmdr2/stable-diffusion-ui",
+    "url": "https://github.com/cmdr2/stable-diffusion-ui",
+    "desc": "A simple way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
+    "lang": "HTML"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "desc": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。"
+  },
+  {
+    "title": "limoest/daily_reminder",
+    "url": "https://github.com/limoest/daily_reminder",
+    "desc": "微信公众号全自动每日推送",
+    "lang": "Python"
+  },
+  {
+    "title": "bittentech/Bug-Bounty-Beginner-Roadmap",
+    "url": "https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap",
+    "desc": "This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner."
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "desc": "Open Source realtime backend in 1 file",
+    "lang": "Go"
+  },
+  {
+    "title": "matchy233/chi-cv-template",
+    "url": "https://github.com/matchy233/chi-cv-template",
+    "desc": "🤩 Rip-off of skyzh's CV",
+    "lang": "TeX"
+  },
+  {
+    "title": "runsidekick/sidekick",
+    "url": "https://github.com/runsidekick/sidekick",
+    "desc": "Free and open-source live application debugger. Like chrome dev tools but for your backend",
+    "lang": "Java"
+  },
+  {
+    "title": "snesrev/zelda3",
+    "url": "https://github.com/snesrev/zelda3",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "graphql/graphiql",
+    "url": "https://github.com/graphql/graphiql",
+    "desc": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Stability-AI/stability-sdk",
+    "url": "https://github.com/Stability-AI/stability-sdk",
+    "desc": "SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "fadeevab/design-patterns-rust",
+    "url": "https://github.com/fadeevab/design-patterns-rust",
+    "desc": "Rust examples for all 23 classic GoF design patterns, and even a little more",
+    "lang": "Rust"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "Akebi-Group/Akebi-GC",
+    "url": "https://github.com/Akebi-Group/Akebi-GC",
+    "desc": "The great software for some game that exploiting anime girls (and boys).",
+    "lang": "C++"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "rinongal/textual_inversion",
+    "url": "https://github.com/rinongal/textual_inversion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "blacklanternsecurity/bbot",
+    "url": "https://github.com/blacklanternsecurity/bbot",
+    "desc": "OSINT automation for hackers.",
+    "lang": "Python"
+  },
+  {
+    "title": "apify/crawlee",
+    "url": "https://github.com/apify/crawlee",
+    "desc": "Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.",
+    "lang": "TypeScript"
+  }
+]
