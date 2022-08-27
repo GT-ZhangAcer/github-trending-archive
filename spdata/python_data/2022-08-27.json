@@ -1,0 +1,152 @@
+[
+  {
+    "title": "t3l3machus/hoaxshell",
+    "url": "https://github.com/t3l3machus/hoaxshell",
+    "desc": "An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic.",
+    "lang": "Python"
+  },
+  {
+    "title": "rxrw/daily_morning",
+    "url": "https://github.com/rxrw/daily_morning",
+    "desc": "给别人家的女朋友发早安",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "desc": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "desc": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "desc": "A SQL linter and auto-formatter for Humans",
+    "lang": "Python"
+  },
+  {
+    "title": "limoest/daily_reminder",
+    "url": "https://github.com/limoest/daily_reminder",
+    "desc": "微信公众号全自动每日推送",
+    "lang": "Python"
+  },
+  {
+    "title": "dbt-labs/dbt-utils",
+    "url": "https://github.com/dbt-labs/dbt-utils",
+    "desc": "Utility functions for dbt projects.",
+    "lang": "Python"
+  },
+  {
+    "title": "hummingbot/hummingbot",
+    "url": "https://github.com/hummingbot/hummingbot",
+    "desc": "Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain",
+    "lang": "Python"
+  },
+  {
+    "title": "towhee-io/towhee",
+    "url": "https://github.com/towhee-io/towhee",
+    "desc": "Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "saleor/saleor",
+    "url": "https://github.com/saleor/saleor",
+    "desc": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
+    "lang": "Python"
+  },
+  {
+    "title": "locustio/locust",
+    "url": "https://github.com/locustio/locust",
+    "desc": "Scalable user load testing tool written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "saltstack/salt",
+    "url": "https://github.com/saltstack/salt",
+    "desc": "Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:",
+    "lang": "Python"
+  },
+  {
+    "title": "POSTECH-CVLab/PeRFception",
+    "url": "https://github.com/POSTECH-CVLab/PeRFception",
+    "desc": "Official implementation of PeRFception: Perception using Radiance Fields.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSpeech",
+    "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "desc": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "The most intuitive, flexible, way to build PyTorch models and lightning apps that glue together everything around the models, without the pain of infrastructure, cost management, scaling and everything else.",
+    "lang": "Python"
+  },
+  {
+    "title": "MVIG-SJTU/AlphaPose",
+    "url": "https://github.com/MVIG-SJTU/AlphaPose",
+    "desc": "Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System",
+    "lang": "Python"
+  },
+  {
+    "title": "RangiLyu/nanodet",
+    "url": "https://github.com/RangiLyu/nanodet",
+    "desc": "NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥",
+    "lang": "Python"
+  },
+  {
+    "title": "Megvii-BaseDetection/YOLOX",
+    "url": "https://github.com/Megvii-BaseDetection/YOLOX",
+    "desc": "YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/",
+    "lang": "Python"
+  },
+  {
+    "title": "cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions",
+    "url": "https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions",
+    "desc": "",
+    "lang": "Python"
+  }
+]
