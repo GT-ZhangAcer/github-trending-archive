@@ -1,0 +1,151 @@
+[
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "rxrw/daily_morning",
+    "url": "https://github.com/rxrw/daily_morning",
+    "desc": "给别人家的女朋友发早安",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "blackmatrix7/ios_rule_script",
+    "url": "https://github.com/blackmatrix7/ios_rule_script",
+    "desc": "分流规则、重写写规则及脚本。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ 一款现代化的开源博客 / CMS 系统。",
+    "lang": "Java"
+  },
+  {
+    "title": "Icalingua-plus-plus/Icalingua-plus-plus",
+    "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus",
+    "desc": "A client for QQ and more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Mereithhh/van-blog",
+    "url": "https://github.com/Mereithhh/van-blog",
+    "desc": "一款简洁实用优雅的高性能个人博客系统",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "conwnet/wpa-dictionary",
+    "url": "https://github.com/conwnet/wpa-dictionary",
+    "desc": "WPA/WPA2 密码字典，用于 wifi 密码暴力破解",
+    "lang": "Python"
+  },
+  {
+    "title": "AmazingAng/WTFSolidity",
+    "url": "https://github.com/AmazingAng/WTFSolidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。",
+    "lang": "Solidity"
+  },
+  {
+    "title": "limoest/daily_reminder",
+    "url": "https://github.com/limoest/daily_reminder",
+    "desc": "微信公众号全自动每日推送（先看README.md里的内容）",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "itorr/sakana",
+    "url": "https://github.com/itorr/sakana",
+    "desc": "🐟「Sakana!」石蒜虚拟器",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "desc": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。"
+  },
+  {
+    "title": "liupan1890/aliyunpan",
+    "url": "https://github.com/liupan1890/aliyunpan",
+    "desc": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1",
+    "url": "https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1",
+    "desc": "Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/T…",
+    "lang": "Shell"
+  },
+  {
+    "title": "yenche123/podcast-together",
+    "url": "https://github.com/yenche123/podcast-together",
+    "desc": "跟你的好友一起实时在线听播客！",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "chokcoco/iCSS",
+    "url": "https://github.com/chokcoco/iCSS",
+    "desc": "不止于 CSS",
+    "lang": "CSS"
+  },
+  {
+    "title": "fengdu78/Coursera-ML-AndrewNg-Notes",
+    "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+    "desc": "吴恩达老师的机器学习课程个人笔记",
+    "lang": "HTML"
+  },
+  {
+    "title": "sec-an/TV_Spider",
+    "url": "https://github.com/sec-an/TV_Spider",
+    "desc": "TVBoxOSC 服务端爬虫 Custom Server Spider for Tv Written in Python3",
+    "lang": "Python"
+  },
+  {
+    "title": "hectorqin/reader",
+    "url": "https://github.com/hectorqin/reader",
+    "desc": "阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "assimon/dujiaoka",
+    "url": "https://github.com/assimon/dujiaoka",
+    "desc": "🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉",
+    "lang": "PHP"
+  },
+  {
+    "title": "fluid-dev/hexo-theme-fluid",
+    "url": "https://github.com/fluid-dev/hexo-theme-fluid",
+    "desc": "🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Binaryify/NeteaseCloudMusicApi",
+    "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+    "desc": "网易云音乐 Node.js API service",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
+    "lang": "Python"
+  }
+]
