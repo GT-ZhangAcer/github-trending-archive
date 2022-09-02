@@ -1,0 +1,149 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "guanzhi/GmSSL",
+    "url": "https://github.com/guanzhi/GmSSL",
+    "desc": "支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱",
+    "lang": "C"
+  },
+  {
+    "title": "zfile-dev/zfile",
+    "url": "https://github.com/zfile-dev/zfile",
+    "desc": "在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载",
+    "lang": "Java"
+  },
+  {
+    "title": "wangxinleo/wechat-public-account-push",
+    "url": "https://github.com/wangxinleo/wechat-public-account-push",
+    "desc": "微信公众号推送-给女朋友的浪漫",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/x-render",
+    "url": "https://github.com/alibaba/x-render",
+    "desc": "🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lib-pku/libpku",
+    "url": "https://github.com/lib-pku/libpku",
+    "desc": "贵校课程资料民间整理",
+    "lang": "TeX"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "smallevilbeast/ntchat",
+    "url": "https://github.com/smallevilbeast/ntchat",
+    "desc": "微信SDK, Python微信机器人SDK, Python微信WebApi接口",
+    "lang": "Python"
+  },
+  {
+    "title": "lz520520/railgun",
+    "url": "https://github.com/lz520520/railgun",
+    "desc": ""
+  },
+  {
+    "title": "PKUanonym/REKCARC-TSC-UHT",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "desc": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
+    "lang": "HTML"
+  },
+  {
+    "title": "TingsongYu/PyTorch_Tutorial",
+    "url": "https://github.com/TingsongYu/PyTorch_Tutorial",
+    "desc": "《Pytorch模型训练实用教程》中配套代码",
+    "lang": "Python"
+  },
+  {
+    "title": "qq281113270/vue",
+    "url": "https://github.com/qq281113270/vue",
+    "desc": "vue源码逐行注释分析+40多m的vue源码程序流程图思维导图",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "didi/KnowStreaming",
+    "url": "https://github.com/didi/KnowStreaming",
+    "desc": "一站式云原生Kafka管控平台",
+    "lang": "Java"
+  },
+  {
+    "title": "dromara/hutool",
+    "url": "https://github.com/dromara/hutool",
+    "desc": "🍬A set of tools that keep Java sweet.",
+    "lang": "Java"
+  },
+  {
+    "title": "openspug/spug",
+    "url": "https://github.com/openspug/spug",
+    "desc": "开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "jackfrued/Python-Core-50-Courses",
+    "url": "https://github.com/jackfrued/Python-Core-50-Courses",
+    "desc": "Python语言基础50课"
+  },
+  {
+    "title": "macrozheng/mall-learning",
+    "url": "https://github.com/macrozheng/mall-learning",
+    "desc": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（50k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。",
+    "lang": "Java"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaddlePaddle/ERNIE",
+    "url": "https://github.com/PaddlePaddle/ERNIE",
+    "desc": "Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  }
+]

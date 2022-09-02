@@ -1,0 +1,152 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python dependency management and packaging made easy.",
+    "lang": "Python"
+  },
+  {
+    "title": "kakaobrain/coyo-dataset",
+    "url": "https://github.com/kakaobrain/coyo-dataset",
+    "desc": "COYO-700M: Large-scale Image-Text Pair Dataset",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/tutorials",
+    "url": "https://github.com/pytorch/tutorials",
+    "desc": "PyTorch tutorials.",
+    "lang": "Python"
+  },
+  {
+    "title": "nccgroup/ScoutSuite",
+    "url": "https://github.com/nccgroup/ScoutSuite",
+    "desc": "Multi-Cloud Security Auditing Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "UKPLab/sentence-transformers",
+    "url": "https://github.com/UKPLab/sentence-transformers",
+    "desc": "Multilingual Sentence & Image Embeddings with BERT",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/EasyCV",
+    "url": "https://github.com/alibaba/EasyCV",
+    "desc": "An all-in-one toolkit for computer vision",
+    "lang": "Python"
+  },
+  {
+    "title": "GradienceTeam/Gradience",
+    "url": "https://github.com/GradienceTeam/Gradience",
+    "desc": "Gradience is a tool for customizing Libadwaita applications and the adw-gtk3 theme.",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "kedro-org/kedro",
+    "url": "https://github.com/kedro-org/kedro",
+    "desc": "A Python framework for creating reproducible, maintainable and modular data science code.",
+    "lang": "Python"
+  },
+  {
+    "title": "pypa/pipenv",
+    "url": "https://github.com/pypa/pipenv",
+    "desc": "Python Development Workflow for Humans.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "wandb/wandb",
+    "url": "https://github.com/wandb/wandb",
+    "desc": "🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.",
+    "lang": "Python"
+  },
+  {
+    "title": "crowsonkb/k-diffusion",
+    "url": "https://github.com/crowsonkb/k-diffusion",
+    "desc": "Karras et al. (2022) diffusion models for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "smallevilbeast/ntchat",
+    "url": "https://github.com/smallevilbeast/ntchat",
+    "desc": "微信SDK, Python微信机器人SDK, Python微信WebApi接口",
+    "lang": "Python"
+  },
+  {
+    "title": "TingsongYu/PyTorch_Tutorial",
+    "url": "https://github.com/TingsongYu/PyTorch_Tutorial",
+    "desc": "《Pytorch模型训练实用教程》中配套代码",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleHub",
+    "url": "https://github.com/PaddlePaddle/PaddleHub",
+    "desc": "Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)",
+    "lang": "Python"
+  },
+  {
+    "title": "cosmicpython/code",
+    "url": "https://github.com/cosmicpython/code",
+    "desc": "Example application code for the python architecture book",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmediting",
+    "url": "https://github.com/open-mmlab/mmediting",
+    "desc": "MMEditing is a low-level vision toolbox based on PyTorch, supporting super-resolution, inpainting, matting, video interpolation, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "EvanLi/Github-Ranking",
+    "url": "https://github.com/EvanLi/Github-Ranking",
+    "desc": "⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新",
+    "lang": "Python"
+  },
+  {
+    "title": "electricitymap/electricitymap-contrib",
+    "url": "https://github.com/electricitymap/electricitymap-contrib",
+    "desc": "A real-time visualisation of the CO2 emissions of electricity consumption",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdeploy",
+    "url": "https://github.com/open-mmlab/mmdeploy",
+    "desc": "OpenMMLab Model Deployment Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/tvm",
+    "url": "https://github.com/apache/tvm",
+    "desc": "Open deep learning compiler stack for cpu, gpu and specialized accelerators",
+    "lang": "Python"
+  }
+]
