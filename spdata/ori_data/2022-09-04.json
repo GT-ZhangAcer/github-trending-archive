@@ -1,0 +1,148 @@
+[
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "TuGraph-db/tugraph-db",
+    "url": "https://github.com/TuGraph-db/tugraph-db",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "opcodesio/log-viewer",
+    "url": "https://github.com/opcodesio/log-viewer",
+    "desc": "Fast and beautiful Log Viewer for Laravel",
+    "lang": "PHP"
+  },
+  {
+    "title": "EvanLi/Github-Ranking",
+    "url": "https://github.com/EvanLi/Github-Ranking",
+    "desc": "⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新",
+    "lang": "Python"
+  },
+  {
+    "title": "community/community",
+    "url": "https://github.com/community/community",
+    "desc": "Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "desc": "I am trying to describe complex matters in simple doodles!"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "alyssaxuu/motionity",
+    "url": "https://github.com/alyssaxuu/motionity",
+    "desc": "The web-based motion graphics editor for everyone 📽",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "WebKit/WebKit",
+    "url": "https://github.com/WebKit/WebKit",
+    "desc": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux."
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "WongKinYiu/yolov7",
+    "url": "https://github.com/WongKinYiu/yolov7",
+    "desc": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alembics/disco-diffusion",
+    "url": "https://github.com/alembics/disco-diffusion",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nextcloud/server",
+    "url": "https://github.com/nextcloud/server",
+    "desc": "☁️ Nextcloud server, a safe home for all your data",
+    "lang": "PHP"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "desc": "人人可用的开源数据可视化分析工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "apple/swift-book",
+    "url": "https://github.com/apple/swift-book",
+    "desc": "The Swift Programming Language book",
+    "lang": "Markdown"
+  },
+  {
+    "title": "total-typescript/typescript-generics-tutorial",
+    "url": "https://github.com/total-typescript/typescript-generics-tutorial",
+    "desc": "Interactive tutorial on using generics in TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "adap/flower",
+    "url": "https://github.com/adap/flower",
+    "desc": "Flower - A Friendly Federated Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
+    "desc": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vmware-tanzu/kubeapps",
+    "url": "https://github.com/vmware-tanzu/kubeapps",
+    "desc": "A web-based UI for deploying and managing applications in Kubernetes clusters",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/EasyCV",
+    "url": "https://github.com/alibaba/EasyCV",
+    "desc": "An all-in-one toolkit for computer vision",
+    "lang": "Python"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "lang": "Rust"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  }
+]
