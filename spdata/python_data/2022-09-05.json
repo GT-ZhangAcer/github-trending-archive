@@ -1,0 +1,152 @@
+[
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "EvanLi/Github-Ranking",
+    "url": "https://github.com/EvanLi/Github-Ranking",
+    "desc": "⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "eloialonso/iris",
+    "url": "https://github.com/eloialonso/iris",
+    "desc": "Transformers are Sample Efficient World Models",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "impira/docquery",
+    "url": "https://github.com/impira/docquery",
+    "desc": "An easy way to extract information from documents",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/EasyCV",
+    "url": "https://github.com/alibaba/EasyCV",
+    "desc": "An all-in-one toolkit for computer vision",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "alievk/avatarify-python",
+    "url": "https://github.com/alievk/avatarify-python",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "lang": "Python"
+  },
+  {
+    "title": "riverscuomo/new-albums",
+    "url": "https://github.com/riverscuomo/new-albums",
+    "desc": "This project is for me to experiment with open-source collaboration. So please feel free to chime in and participate. If you like, you can join the 'coder' channel on my discord server. https://discord.gg/mr-rivers-neighborhood . I've been learning programming since 2015 but I've been mostly working on my own. So my github/collaboration skills a…",
+    "lang": "Python"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "TingsongYu/PyTorch_Tutorial",
+    "url": "https://github.com/TingsongYu/PyTorch_Tutorial",
+    "desc": "《Pytorch模型训练实用教程》中配套代码",
+    "lang": "Python"
+  },
+  {
+    "title": "zhongxinghong/PKUAutoElective",
+    "url": "https://github.com/zhongxinghong/PKUAutoElective",
+    "desc": "北大选课网补退选阶段自动选课小工具",
+    "lang": "Python"
+  },
+  {
+    "title": "crytic/slither",
+    "url": "https://github.com/crytic/slither",
+    "desc": "Static Analyzer for Solidity",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "sammchardy/python-binance",
+    "url": "https://github.com/sammchardy/python-binance",
+    "desc": "Binance Exchange API python implementation for automated trading",
+    "lang": "Python"
+  },
+  {
+    "title": "limoest/daily_reminder",
+    "url": "https://github.com/limoest/daily_reminder",
+    "desc": "微信公众号全自动每日推送（先看README.md里的内容）",
+    "lang": "Python"
+  },
+  {
+    "title": "rbbrdckybk/ai-art-generator",
+    "url": "https://github.com/rbbrdckybk/ai-art-generator",
+    "desc": "For automating the creation of large batches of AI-generated artwork locally.",
+    "lang": "Python"
+  },
+  {
+    "title": "tianqiraf/DouZero_For_HappyDouDiZhu",
+    "url": "https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu",
+    "desc": "基于DouZero定制AI实战欢乐斗地主",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "KurtBestor/Hitomi-Downloader",
+    "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+    "desc": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+    "lang": "Python"
+  }
+]
