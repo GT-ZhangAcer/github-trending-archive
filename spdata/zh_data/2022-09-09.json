@@ -1,0 +1,142 @@
+[
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "wenbochang888/house",
+    "url": "https://github.com/wenbochang888/house",
+    "desc": "有完整版的PDF下载。",
+    "lang": "Java"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "guangzhengli/k8s-tutorials",
+    "url": "https://github.com/guangzhengli/k8s-tutorials",
+    "desc": "k8s tutorials | k8s 教程",
+    "lang": "Go"
+  },
+  {
+    "title": "CavsZhouyou/Front-End-Interview-Notebook",
+    "url": "https://github.com/CavsZhouyou/Front-End-Interview-Notebook",
+    "desc": "🐜前端面试复习笔记"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "tianqiraf/DouZero_For_HappyDouDiZhu",
+    "url": "https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu",
+    "desc": "基于DouZero定制AI实战欢乐斗地主",
+    "lang": "Python"
+  },
+  {
+    "title": "wll8/lodash-utils",
+    "url": "https://github.com/wll8/lodash-utils",
+    "desc": "基于 evil.js 优化，引入之后, 可以当作 lodash 使用，然后在特定条件下产生一些错误。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "v2fly/fhs-install-v2ray",
+    "url": "https://github.com/v2fly/fhs-install-v2ray",
+    "desc": "Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd",
+    "lang": "Shell"
+  },
+  {
+    "title": "Tencent/puerts",
+    "url": "https://github.com/Tencent/puerts",
+    "desc": "普洱TS！Write your game with TypeScript in UE or Unity. PuerTS can be pronounced as pu-erh TS",
+    "lang": "C++"
+  },
+  {
+    "title": "dundunnp/auto_xuexiqiangguo",
+    "url": "https://github.com/dundunnp/auto_xuexiqiangguo",
+    "desc": "（已适配新界面）每日拿满61分！免root，四人赛双人对战秒答，安卓端学习强国自动化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skywind3000/kcp",
+    "url": "https://github.com/skywind3000/kcp",
+    "desc": "⚡ KCP - A Fast and Reliable ARQ Protocol",
+    "lang": "C"
+  },
+  {
+    "title": "xitu/gold-miner",
+    "url": "https://github.com/xitu/gold-miner",
+    "desc": "🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台："
+  },
+  {
+    "title": "pig-mesh/pig",
+    "url": "https://github.com/pig-mesh/pig",
+    "desc": "↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2021 、Spring Boot 2.7、 OAuth2 的 RBAC 权限管理系统",
+    "lang": "Java"
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "desc": "7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",
+    "lang": "Go"
+  },
+  {
+    "title": "JakHuang/form-generator",
+    "url": "https://github.com/JakHuang/form-generator",
+    "desc": "✨Element UI表单设计及代码生成器",
+    "lang": "Vue"
+  },
+  {
+    "title": "digoal/blog",
+    "url": "https://github.com/digoal/blog",
+    "desc": "Everything about database,business.(Most for PostgreSQL).",
+    "lang": "PLpgSQL"
+  },
+  {
+    "title": "Alpha-Yang/CS-BAOYAN-2022",
+    "url": "https://github.com/Alpha-Yang/CS-BAOYAN-2022",
+    "desc": "计算机保研交流群（QQ群号：605176069）",
+    "lang": "HTML"
+  },
+  {
+    "title": "oceanbase/miniob",
+    "url": "https://github.com/oceanbase/miniob",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "jdf2e/nutui",
+    "url": "https://github.com/jdf2e/nutui",
+    "desc": "京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)",
+    "lang": "Vue"
+  },
+  {
+    "title": "sec-an/Better-Auto-XXQG",
+    "url": "https://github.com/sec-an/Better-Auto-XXQG",
+    "desc": "学习强国 基于Auto.js实现的学习助手 免root 适配安卓 自动化脚本 热更新",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nswbmw/N-blog",
+    "url": "https://github.com/nswbmw/N-blog",
+    "desc": "《一起学 Node.js》",
+    "lang": "JavaScript"
+  }
+]
