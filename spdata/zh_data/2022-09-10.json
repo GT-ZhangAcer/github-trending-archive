@@ -1,0 +1,147 @@
+[
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "sec-an/Better-Auto-XXQG",
+    "url": "https://github.com/sec-an/Better-Auto-XXQG",
+    "desc": "学习强国 基于Auto.js实现的学习助手 免root 适配安卓 自动化脚本 热更新",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tw93/MiaoYan",
+    "url": "https://github.com/tw93/MiaoYan",
+    "desc": "⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wjz304/Redpill_CustomBuild",
+    "url": "https://github.com/wjz304/Redpill_CustomBuild",
+    "desc": "Redpill 定制化编译"
+  },
+  {
+    "title": "wenbochang888/house",
+    "url": "https://github.com/wenbochang888/house",
+    "desc": "有完整版的PDF下载。",
+    "lang": "Java"
+  },
+  {
+    "title": "liuke-wuhan/ZuAnBot",
+    "url": "https://github.com/liuke-wuhan/ZuAnBot",
+    "desc": "英雄联盟（League Of Legends）一键喷人，LOL游戏和客户端中可用。只为反击喷子！",
+    "lang": "C#"
+  },
+  {
+    "title": "v2fly/fhs-install-v2ray",
+    "url": "https://github.com/v2fly/fhs-install-v2ray",
+    "desc": "Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd",
+    "lang": "Shell"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "wll8/lodash-utils",
+    "url": "https://github.com/wll8/lodash-utils",
+    "desc": "基于 evil.js 优化，引入之后, 可以当作 lodash 使用，然后在特定条件下产生一些错误。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "qinguoyi/TinyWebServer",
+    "url": "https://github.com/qinguoyi/TinyWebServer",
+    "desc": "🔥 Linux下C++轻量级Web服务器学习",
+    "lang": "C++"
+  },
+  {
+    "title": "CavsZhouyou/Front-End-Interview-Notebook",
+    "url": "https://github.com/CavsZhouyou/Front-End-Interview-Notebook",
+    "desc": "🐜前端面试复习笔记"
+  },
+  {
+    "title": "FloatTech/ZeroBot-Plugin",
+    "url": "https://github.com/FloatTech/ZeroBot-Plugin",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  },
+  {
+    "title": "johlanse/study_xxqg",
+    "url": "https://github.com/johlanse/study_xxqg",
+    "desc": "自动化学习强国,每日稳定45分",
+    "lang": "Go"
+  },
+  {
+    "title": "wangeditor-team/wangEditor",
+    "url": "https://github.com/wangeditor-team/wangEditor",
+    "desc": "wangEditor —— 开源 Web 富文本编辑器",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "VirgilClyne/GetSomeFries",
+    "url": "https://github.com/VirgilClyne/GetSomeFries",
+    "desc": "个人独立作品或公共组件库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tr0uble-mAker/POC-bomber",
+    "url": "https://github.com/tr0uble-mAker/POC-bomber",
+    "desc": "利用大量高威胁poc/exp快速获取目标权限，用于渗透和红队快速打点",
+    "lang": "Python"
+  },
+  {
+    "title": "chuzhixin/vue-admin-better",
+    "url": "https://github.com/chuzhixin/vue-admin-better",
+    "desc": "🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+    "lang": "Vue"
+  },
+  {
+    "title": "dundunnp/auto_xuexiqiangguo",
+    "url": "https://github.com/dundunnp/auto_xuexiqiangguo",
+    "desc": "（已适配新界面）每日拿满61分！免root，四人赛双人对战秒答，安卓端学习强国自动化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "ronggang/PT-Plugin-Plus",
+    "url": "https://github.com/ronggang/PT-Plugin-Plus",
+    "desc": "PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ip-scanner/cloudflare",
+    "url": "https://github.com/ip-scanner/cloudflare",
+    "desc": ""
+  }
+]

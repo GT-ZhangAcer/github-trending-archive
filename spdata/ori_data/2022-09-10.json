@@ -1,0 +1,148 @@
+[
+  {
+    "title": "somebasj/ParallelsDesktopCrack",
+    "url": "https://github.com/somebasj/ParallelsDesktopCrack",
+    "desc": "Parallels Desktop for mac Crack",
+    "lang": "Shell"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "desc": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/incubator-streampark",
+    "url": "https://github.com/apache/incubator-streampark",
+    "desc": "StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",
+    "lang": "Java"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenRadioss/OpenRadioss",
+    "url": "https://github.com/OpenRadioss/OpenRadioss",
+    "desc": "OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis",
+    "lang": "Fortran"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "desc": "A collection of full-stack resources for programmers.",
+    "lang": "Python"
+  },
+  {
+    "title": "akka/akka",
+    "url": "https://github.com/akka/akka",
+    "desc": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+    "lang": "Scala"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "desc": "Productive & portable high-performance programming in Python.",
+    "lang": "C++"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "100devs/binary-upload-boom",
+    "url": "https://github.com/100devs/binary-upload-boom",
+    "desc": "The 100Devs Social Network",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "sd-webui/stable-diffusion-webui",
+    "url": "https://github.com/sd-webui/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "inkasadev/osib-frontend-pt",
+    "url": "https://github.com/inkasadev/osib-frontend-pt",
+    "desc": "Caminho para uma educação autodidata gratuita em Frontend!"
+  },
+  {
+    "title": "picotorrent/picotorrent",
+    "url": "https://github.com/picotorrent/picotorrent",
+    "desc": "A tiny, hackable BitTorrent client.",
+    "lang": "C++"
+  },
+  {
+    "title": "XavierXiao/Dreambooth-Stable-Diffusion",
+    "url": "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion",
+    "desc": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "actions/runner-images",
+    "url": "https://github.com/actions/runner-images",
+    "desc": "GitHub Actions runner images",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "benphelps/homepage",
+    "url": "https://github.com/benphelps/homepage",
+    "desc": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openai/CLIP",
+    "url": "https://github.com/openai/CLIP",
+    "desc": "Contrastive Language-Image Pretraining",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  }
+]
