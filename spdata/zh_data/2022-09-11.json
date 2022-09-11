@@ -1,0 +1,150 @@
+[
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "wjz304/Redpill_CustomBuild",
+    "url": "https://github.com/wjz304/Redpill_CustomBuild",
+    "desc": "Redpill 定制化编译"
+  },
+  {
+    "title": "1357310795/MyComputerManager",
+    "url": "https://github.com/1357310795/MyComputerManager",
+    "desc": "管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”",
+    "lang": "C#"
+  },
+  {
+    "title": "sec-an/Better-Auto-XXQG",
+    "url": "https://github.com/sec-an/Better-Auto-XXQG",
+    "desc": "学习强国 基于Auto.js实现的学习助手 免root 适配安卓 自动化脚本 热更新",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "listen1/listen1_desktop",
+    "url": "https://github.com/listen1/listen1_desktop",
+    "desc": "one for all free music in china (Windows, Mac, Linux desktop)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tw93/MiaoYan",
+    "url": "https://github.com/tw93/MiaoYan",
+    "desc": "⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hehonghui/awesome-english-ebooks",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "lang": "CSS"
+  },
+  {
+    "title": "FloatTech/ZeroBot-Plugin",
+    "url": "https://github.com/FloatTech/ZeroBot-Plugin",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "messense/aliyundrive-webdav",
+    "url": "https://github.com/messense/aliyundrive-webdav",
+    "desc": "阿里云盘 WebDAV 服务",
+    "lang": "Rust"
+  },
+  {
+    "title": "yoimiya-kokomi/miao-plugin",
+    "url": "https://github.com/yoimiya-kokomi/miao-plugin",
+    "desc": "Miao-Plugin for Yunzai-Bot",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mamoe/mirai",
+    "url": "https://github.com/mamoe/mirai",
+    "desc": "高效率 QQ 机器人支持库",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Le-niao/Yunzai-Bot",
+    "url": "https://github.com/Le-niao/Yunzai-Bot",
+    "desc": "原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ender-zhao/Clash-for-Windows_Chinese",
+    "url": "https://github.com/ender-zhao/Clash-for-Windows_Chinese",
+    "desc": "clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  },
+  {
+    "title": "7eu7d7/genshin_auto_fish",
+    "url": "https://github.com/7eu7d7/genshin_auto_fish",
+    "desc": "基于深度强化学习的原神自动钓鱼AI",
+    "lang": "Python"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界",
+    "lang": "Python"
+  },
+  {
+    "title": "hq450/fancyss",
+    "url": "https://github.com/hq450/fancyss",
+    "desc": "fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.",
+    "lang": "Shell"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "url": "https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "desc": "转存助手ui优化版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "desc": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "lang": "C++"
+  },
+  {
+    "title": "TGSAN/CMWTAT_Digital_Edition",
+    "url": "https://github.com/TGSAN/CMWTAT_Digital_Edition",
+    "desc": "CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！",
+    "lang": "C#"
+  },
+  {
+    "title": "BoyceLig/Clash_Chinese_Patch",
+    "url": "https://github.com/BoyceLig/Clash_Chinese_Patch",
+    "desc": "Clash For Windows 汉化补丁和汉化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "biuuu/genshin-wish-export",
+    "url": "https://github.com/biuuu/genshin-wish-export",
+    "desc": "Easily export the Genshin Impact wish record.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lilishop/lilishop",
+    "url": "https://github.com/lilishop/lilishop",
+    "desc": "电商商城 多语言商城 跨境商城 多用户商城 小程序商城 微服务商城 新零售 社区商城",
+    "lang": "Java"
+  }
+]
