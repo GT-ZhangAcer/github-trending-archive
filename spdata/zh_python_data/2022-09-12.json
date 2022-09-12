@@ -1,0 +1,152 @@
+[
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "pythonstock/stock",
+    "url": "https://github.com/pythonstock/stock",
+    "desc": "stock，股票系统。使用python进行开发。",
+    "lang": "Python"
+  },
+  {
+    "title": "rev1si0n/lamda",
+    "url": "https://github.com/rev1si0n/lamda",
+    "desc": "⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/自动化辅助框架",
+    "lang": "Python"
+  },
+  {
+    "title": "heiheiyoyo/uie_pytorch",
+    "url": "https://github.com/heiheiyoyo/uie_pytorch",
+    "desc": "PaddleNLP UIE模型的PyTorch版实现",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "wbt5/real-url",
+    "url": "https://github.com/wbt5/real-url",
+    "desc": "获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。",
+    "lang": "Python"
+  },
+  {
+    "title": "liangliangyy/DjangoBlog",
+    "url": "https://github.com/liangliangyy/DjangoBlog",
+    "desc": "🍺基于Django的博客系统",
+    "lang": "Python"
+  },
+  {
+    "title": "CMHopeSunshine/LittlePaimon",
+    "url": "https://github.com/CMHopeSunshine/LittlePaimon",
+    "desc": "小派蒙！原神qq群机器人，基于NoneBot2的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。",
+    "lang": "Python"
+  },
+  {
+    "title": "yoshiko2/Movie_Data_Capture",
+    "url": "https://github.com/yoshiko2/Movie_Data_Capture",
+    "desc": "Local Movies Organizer",
+    "lang": "Python"
+  },
+  {
+    "title": "alpha-miner/Finance-Python",
+    "url": "https://github.com/alpha-miner/Finance-Python",
+    "desc": "python tools for Finance with the functionality of indicator calculation, business day calculation and so on.",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/AI-Writer",
+    "url": "https://github.com/BlinkDL/AI-Writer",
+    "desc": "AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "ermaozi/get_subscribe",
+    "url": "https://github.com/ermaozi/get_subscribe",
+    "desc": "✈️ 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙",
+    "lang": "Python"
+  },
+  {
+    "title": "TingsongYu/PyTorch_Tutorial",
+    "url": "https://github.com/TingsongYu/PyTorch_Tutorial",
+    "desc": "《Pytorch模型训练实用教程》中配套代码",
+    "lang": "Python"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "CollegesChat/university-information",
+    "url": "https://github.com/CollegesChat/university-information",
+    "desc": "收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节",
+    "lang": "Python"
+  },
+  {
+    "title": "daydreaming666/Amenoma",
+    "url": "https://github.com/daydreaming666/Amenoma",
+    "desc": "A simple desktop application to scan and export Genshin Impact Artifacts and Materials.",
+    "lang": "Python"
+  },
+  {
+    "title": "foyoux/aligo",
+    "url": "https://github.com/foyoux/aligo",
+    "desc": "🔥简单、易用、可扩展的阿里云盘 API 接口库🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "tianqiraf/DouZero_For_HappyDouDiZhu",
+    "url": "https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu",
+    "desc": "基于DouZero定制AI实战欢乐斗地主",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "aidlearning/AidLearning-FrameWork",
+    "url": "https://github.com/aidlearning/AidLearning-FrameWork",
+    "desc": "🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS",
+    "lang": "Python"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  },
+  {
+    "title": "dataabc/weiboSpider",
+    "url": "https://github.com/dataabc/weiboSpider",
+    "desc": "新浪微博爬虫，用python爬取新浪微博数据",
+    "lang": "Python"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  }
+]

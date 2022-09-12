@@ -1,0 +1,148 @@
+[
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "hteen/apple-store-helper",
+    "url": "https://github.com/hteen/apple-store-helper",
+    "desc": "Apple Store iPhone预约助手",
+    "lang": "Go"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "BoyceLig/Clash_Chinese_Patch",
+    "url": "https://github.com/BoyceLig/Clash_Chinese_Patch",
+    "desc": "Clash For Windows 汉化补丁和汉化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yann0917/dedao-dl",
+    "url": "https://github.com/yann0917/dedao-dl",
+    "desc": "得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿(热门留言)等。",
+    "lang": "Go"
+  },
+  {
+    "title": "FloatTech/ZeroBot-Plugin",
+    "url": "https://github.com/FloatTech/ZeroBot-Plugin",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  },
+  {
+    "title": "arcxingye/EatKano",
+    "url": "https://github.com/arcxingye/EatKano",
+    "desc": "H5 Games",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WTFAcademy/WTFEthers",
+    "url": "https://github.com/WTFAcademy/WTFEthers",
+    "desc": "我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "XrayR-project/XrayR",
+    "url": "https://github.com/XrayR-project/XrayR",
+    "desc": "A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",
+    "lang": "Go"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "deezertidal/shadowrocket-rules",
+    "url": "https://github.com/deezertidal/shadowrocket-rules",
+    "desc": "小火箭 shadowrocket 配置 模块 图文教程"
+  },
+  {
+    "title": "mamoe/mirai",
+    "url": "https://github.com/mamoe/mirai",
+    "desc": "高效率 QQ 机器人支持库",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "vernesong/OpenClash",
+    "url": "https://github.com/vernesong/OpenClash",
+    "desc": "A Clash Client For OpenWrt",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zhanwen/MathModel",
+    "url": "https://github.com/zhanwen/MathModel",
+    "desc": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
+    "lang": "TeX"
+  },
+  {
+    "title": "wjz304/Redpill_CustomBuild",
+    "url": "https://github.com/wjz304/Redpill_CustomBuild",
+    "desc": "Redpill 定制化编译"
+  },
+  {
+    "title": "sec-an/Better-Auto-XXQG",
+    "url": "https://github.com/sec-an/Better-Auto-XXQG",
+    "desc": "学习强国 基于Auto.js实现的学习助手 免root 适配安卓 自动化脚本 热更新",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TGSAN/CMWTAT_Digital_Edition",
+    "url": "https://github.com/TGSAN/CMWTAT_Digital_Edition",
+    "desc": "CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！",
+    "lang": "C#"
+  },
+  {
+    "title": "tw93/MiaoYan",
+    "url": "https://github.com/tw93/MiaoYan",
+    "desc": "⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "url": "https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "desc": "转存助手ui优化版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AmazingAng/WTFSolidity",
+    "url": "https://github.com/AmazingAng/WTFSolidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。",
+    "lang": "Solidity"
+  },
+  {
+    "title": "ender-zhao/Clash-for-Windows_Chinese",
+    "url": "https://github.com/ender-zhao/Clash-for-Windows_Chinese",
+    "desc": "clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "v2fly/fhs-install-v2ray",
+    "url": "https://github.com/v2fly/fhs-install-v2ray",
+    "desc": "Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd",
+    "lang": "Shell"
+  },
+  {
+    "title": "listen1/listen1_chrome_extension",
+    "url": "https://github.com/listen1/listen1_chrome_extension",
+    "desc": "one for all free music in china (chrome extension, also works for firefox)",
+    "lang": "HTML"
+  },
+  {
+    "title": "FASTSHIFT/X-TRACK",
+    "url": "https://github.com/FASTSHIFT/X-TRACK",
+    "desc": "A GPS bicycle speedometer that supports offline maps and track recording",
+    "lang": "C"
+  }
+]
