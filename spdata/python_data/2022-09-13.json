@@ -1,0 +1,152 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "desc": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to coordinate your dataflow",
+    "lang": "Python"
+  },
+  {
+    "title": "mohamedbenchikh/CVE-2022-27925",
+    "url": "https://github.com/mohamedbenchikh/CVE-2022-27925",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "bobbyrsec/Microsoft-Teams-GIFShell",
+    "url": "https://github.com/bobbyrsec/Microsoft-Teams-GIFShell",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "sd-webui/stable-diffusion-webui",
+    "url": "https://github.com/sd-webui/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "serengil/deepface",
+    "url": "https://github.com/serengil/deepface",
+    "desc": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "httpie/httpie",
+    "url": "https://github.com/httpie/httpie",
+    "desc": "🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+    "lang": "Python"
+  },
+  {
+    "title": "PyCQA/isort",
+    "url": "https://github.com/PyCQA/isort",
+    "desc": "A Python utility / library to sort imports.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "bridgecrewio/checkov",
+    "url": "https://github.com/bridgecrewio/checkov",
+    "desc": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+    "lang": "Python"
+  },
+  {
+    "title": "nianticlabs/simplerecon",
+    "url": "https://github.com/nianticlabs/simplerecon",
+    "desc": "[ECCV 2022] SimpleRecon: 3D Reconstruction Without 3D Convolutions",
+    "lang": "Python"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Offensive Google framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "aws-cloudformation/cfn-lint",
+    "url": "https://github.com/aws-cloudformation/cfn-lint",
+    "desc": "CloudFormation Linter",
+    "lang": "Python"
+  },
+  {
+    "title": "saleor/saleor",
+    "url": "https://github.com/saleor/saleor",
+    "desc": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
+    "lang": "Python"
+  },
+  {
+    "title": "boto/boto3",
+    "url": "https://github.com/boto/boto3",
+    "desc": "AWS SDK for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "aladdinpersson/Machine-Learning-Collection",
+    "url": "https://github.com/aladdinpersson/Machine-Learning-Collection",
+    "desc": "A resource for learning about ML, DL, PyTorch and TensorFlow. Feedback always appreciated :)",
+    "lang": "Python"
+  },
+  {
+    "title": "drpancake/chard",
+    "url": "https://github.com/drpancake/chard",
+    "desc": "A simple async/await task queue for Django. One process, no threads, no other dependencies.",
+    "lang": "Python"
+  },
+  {
+    "title": "ray-project/ray",
+    "url": "https://github.com/ray-project/ray",
+    "desc": "Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "title": "hteen/apple-store-helper",
+    "url": "https://github.com/hteen/apple-store-helper",
+    "desc": "Apple Store iPhone预约助手",
+    "lang": "Go"
+  },
+  {
+    "title": "personqianduixue/Math_Model",
+    "url": "https://github.com/personqianduixue/Math_Model",
+    "desc": "数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法、现代的算法",
+    "lang": "MATLAB"
+  },
+  {
+    "title": "WTFAcademy/WTFEthers",
+    "url": "https://github.com/WTFAcademy/WTFEthers",
+    "desc": "我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "zhanwen/MathModel",
+    "url": "https://github.com/zhanwen/MathModel",
+    "desc": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
+    "lang": "TeX"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "iamseancheney/python_for_data_analysis_2nd_chinese_version",
+    "url": "https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version",
+    "desc": "《利用Python进行数据分析·第2版》"
+  },
+  {
+    "title": "XJP-GIT/AntiZhaPian",
+    "url": "https://github.com/XJP-GIT/AntiZhaPian",
+    "desc": "假的国家反诈中心"
+  },
+  {
+    "title": "WebStackPage/WebStackPage.github.io",
+    "url": "https://github.com/WebStackPage/WebStackPage.github.io",
+    "desc": "❤️静态响应式网址导航网站 - webstack.cc",
+    "lang": "CSS"
+  },
+  {
+    "title": "tv-player/TvBox",
+    "url": "https://github.com/tv-player/TvBox",
+    "desc": "TvBox 配置、maoTv配置"
+  },
+  {
+    "title": "CS-BAOYAN/CSYuTuiMian2022",
+    "url": "https://github.com/CS-BAOYAN/CSYuTuiMian2022",
+    "desc": "关于2022年CS保研预推免通知公告的汇总，欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？"
+  },
+  {
+    "title": "shuax/MouseInc.Settings",
+    "url": "https://github.com/shuax/MouseInc.Settings",
+    "desc": "MouseInc设置界面",
+    "lang": "Vue"
+  },
+  {
+    "title": "wjz304/Redpill_CustomBuild",
+    "url": "https://github.com/wjz304/Redpill_CustomBuild",
+    "desc": "Redpill 定制化编译"
+  },
+  {
+    "title": "XrayR-project/XrayR",
+    "url": "https://github.com/XrayR-project/XrayR",
+    "desc": "A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",
+    "lang": "Go"
+  },
+  {
+    "title": "91p2022/91",
+    "url": "https://github.com/91p2022/91",
+    "desc": "91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Lerist/FakeLocation",
+    "url": "https://github.com/Lerist/FakeLocation",
+    "desc": "Fake Location",
+    "lang": "HTML"
+  },
+  {
+    "title": "peng-zhihui/Dummy-Robot",
+    "url": "https://github.com/peng-zhihui/Dummy-Robot",
+    "desc": "我的超迷你机械臂机器人项目。",
+    "lang": "C"
+  },
+  {
+    "title": "nilaoda/N_m3u8DL-CLI",
+    "url": "https://github.com/nilaoda/N_m3u8DL-CLI",
+    "desc": "[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.",
+    "lang": "C#"
+  },
+  {
+    "title": "FloatTech/ZeroBot-Plugin",
+    "url": "https://github.com/FloatTech/ZeroBot-Plugin",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  },
+  {
+    "title": "dlgt7/TVbox-interface",
+    "url": "https://github.com/dlgt7/TVbox-interface",
+    "desc": "TVBox"
+  },
+  {
+    "title": "ddgksf2013/Cuttlefish",
+    "url": "https://github.com/ddgksf2013/Cuttlefish",
+    "desc": "Scripts for self-use, ⛔️ fork",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ButTaiwan/iansui",
+    "url": "https://github.com/ButTaiwan/iansui",
+    "desc": "芫荽，基於 Klee One 改造的學習用台灣繁體字型"
+  },
+  {
+    "title": "Caldis/Mos",
+    "url": "https://github.com/Caldis/Mos",
+    "desc": "一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "shockerli/go-awesome",
+    "url": "https://github.com/shockerli/go-awesome",
+    "desc": "Go 语言优秀资源整理，为项目落地加速🏃"
+  }
+]
