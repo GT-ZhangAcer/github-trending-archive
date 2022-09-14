@@ -1,0 +1,151 @@
+[
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "tw93/MiaoYan",
+    "url": "https://github.com/tw93/MiaoYan",
+    "desc": "⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "cq-panda/Vue.NetCore",
+    "url": "https://github.com/cq-panda/Vue.NetCore",
+    "desc": ".NetCore+Vue2/Vue3+Element plus+uniapp前后端分离，全自动生成代码；支持移动端(uniapp)ios/android/h5/微信小程序。http://www.volcore.xyz/",
+    "lang": "TSQL"
+  },
+  {
+    "title": "alibaba/COLA",
+    "url": "https://github.com/alibaba/COLA",
+    "desc": "🥤 COLA: Clean Object-oriented & Layered Architecture",
+    "lang": "Java"
+  },
+  {
+    "title": "Lerist/FakeLocation",
+    "url": "https://github.com/Lerist/FakeLocation",
+    "desc": "Fake Location",
+    "lang": "HTML"
+  },
+  {
+    "title": "A-Normal-User/NtSocket_NtClient_NtServer",
+    "url": "https://github.com/A-Normal-User/NtSocket_NtClient_NtServer",
+    "desc": "Using NtCreateFile and NtDeviceIoControlFile to realize the function of winsock（利用NtCreateFile和NtDeviceIoControlFile 实现winsock的功能）",
+    "lang": "C++"
+  },
+  {
+    "title": "91p2022/91",
+    "url": "https://github.com/91p2022/91",
+    "desc": "91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hhyo/Archery",
+    "url": "https://github.com/hhyo/Archery",
+    "desc": "SQL 审核查询平台",
+    "lang": "Python"
+  },
+  {
+    "title": "JeffreySu/WeiXinMPSDK",
+    "url": "https://github.com/JeffreySu/WeiXinMPSDK",
+    "desc": "微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.",
+    "lang": "C#"
+  },
+  {
+    "title": "wgpsec/ENScan_GO",
+    "url": "https://github.com/wgpsec/ENScan_GO",
+    "desc": "一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。",
+    "lang": "Go"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "bailicangdu/vue2-manage",
+    "url": "https://github.com/bailicangdu/vue2-manage",
+    "desc": "A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "ffffffff0x/1earn",
+    "url": "https://github.com/ffffffff0x/1earn",
+    "desc": "ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup",
+    "lang": "C++"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "BlinkDL/AI-Writer",
+    "url": "https://github.com/BlinkDL/AI-Writer",
+    "desc": "AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "Baiyuetribe/paper2gui",
+    "url": "https://github.com/Baiyuetribe/paper2gui",
+    "desc": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Mikoto10032/DeepLearning",
+    "url": "https://github.com/Mikoto10032/DeepLearning",
+    "desc": "深度学习入门教程, 优秀文章, Deep Learning Tutorial",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "saturn-opposition/wechat_analysis",
+    "url": "https://github.com/saturn-opposition/wechat_analysis",
+    "desc": "微信聊天记录文本分析",
+    "lang": "Python"
+  },
+  {
+    "title": "baomidou/dynamic-datasource-spring-boot-starter",
+    "url": "https://github.com/baomidou/dynamic-datasource-spring-boot-starter",
+    "desc": "dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务",
+    "lang": "Java"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hteen/apple-store-helper",
+    "url": "https://github.com/hteen/apple-store-helper",
+    "desc": "Apple Store iPhone预约助手",
+    "lang": "Go"
+  }
+]

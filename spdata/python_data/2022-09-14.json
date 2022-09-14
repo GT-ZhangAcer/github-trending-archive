@@ -1,0 +1,152 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "desc": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "tahaluindo/Shopee-flashsale",
+    "url": "https://github.com/tahaluindo/Shopee-flashsale",
+    "desc": "This Shopee Flash Sale BOT",
+    "lang": "Python"
+  },
+  {
+    "title": "deepset-ai/haystack",
+    "url": "https://github.com/deepset-ai/haystack",
+    "desc": "🔍 Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleHub",
+    "url": "https://github.com/PaddlePaddle/PaddleHub",
+    "desc": "Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)",
+    "lang": "Python"
+  },
+  {
+    "title": "vishnubob/wait-for-it",
+    "url": "https://github.com/vishnubob/wait-for-it",
+    "desc": "Pure bash script to test and wait on the availability of a TCP host and port",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmtracking",
+    "url": "https://github.com/open-mmlab/mmtracking",
+    "desc": "OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "hhyo/Archery",
+    "url": "https://github.com/hhyo/Archery",
+    "desc": "SQL 审核查询平台",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/fairseq",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "deepinsight/insightface",
+    "url": "https://github.com/deepinsight/insightface",
+    "desc": "State-of-the-art 2D and 3D Face Analysis Project",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/detr",
+    "url": "https://github.com/facebookresearch/detr",
+    "desc": "End-to-End Object Detection with Transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "locustio/locust",
+    "url": "https://github.com/locustio/locust",
+    "desc": "Scalable user load testing tool written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEACVR/DINO",
+    "url": "https://github.com/IDEACVR/DINO",
+    "desc": "Official implementation of the paper DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/AI-Writer",
+    "url": "https://github.com/BlinkDL/AI-Writer",
+    "desc": "AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/dino",
+    "url": "https://github.com/facebookresearch/dino",
+    "desc": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO",
+    "lang": "Python"
+  },
+  {
+    "title": "PyCQA/isort",
+    "url": "https://github.com/PyCQA/isort",
+    "desc": "A Python utility / library to sort imports.",
+    "lang": "Python"
+  },
+  {
+    "title": "PeterL1n/RobustVideoMatting",
+    "url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "desc": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+    "lang": "Python"
+  },
+  {
+    "title": "saturn-opposition/wechat_analysis",
+    "url": "https://github.com/saturn-opposition/wechat_analysis",
+    "desc": "微信聊天记录文本分析",
+    "lang": "Python"
+  },
+  {
+    "title": "eriklindernoren/PyTorch-GAN",
+    "url": "https://github.com/eriklindernoren/PyTorch-GAN",
+    "desc": "PyTorch implementations of Generative Adversarial Networks.",
+    "lang": "Python"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and web app—powerful open source team chat",
+    "lang": "Python"
+  }
+]
