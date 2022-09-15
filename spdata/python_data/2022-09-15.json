@@ -1,0 +1,152 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleHub",
+    "url": "https://github.com/PaddlePaddle/PaddleHub",
+    "desc": "Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)",
+    "lang": "Python"
+  },
+  {
+    "title": "malwaredllc/byob",
+    "url": "https://github.com/malwaredllc/byob",
+    "desc": "An open-source post-exploitation framework for students, researchers and developers.",
+    "lang": "Python"
+  },
+  {
+    "title": "cloud-custodian/cloud-custodian",
+    "url": "https://github.com/cloud-custodian/cloud-custodian",
+    "desc": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/Paddle",
+    "url": "https://github.com/PaddlePaddle/Paddle",
+    "desc": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "kornia/kornia",
+    "url": "https://github.com/kornia/kornia",
+    "desc": "Open Source Differentiable Computer Vision Library",
+    "lang": "Python"
+  },
+  {
+    "title": "ex0dus-0x/fuzzable",
+    "url": "https://github.com/ex0dus-0x/fuzzable",
+    "desc": "Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022.",
+    "lang": "Python"
+  },
+  {
+    "title": "MIC-DKFZ/nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "carlospolop/hacktricks",
+    "url": "https://github.com/carlospolop/hacktricks",
+    "desc": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
+    "lang": "Python"
+  },
+  {
+    "title": "nccgroup/ScoutSuite",
+    "url": "https://github.com/nccgroup/ScoutSuite",
+    "desc": "Multi-Cloud Security Auditing Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "DiegoDBLe/Python-Basico-Lets-Code",
+    "url": "https://github.com/DiegoDBLe/Python-Basico-Lets-Code",
+    "desc": "Curso Básico de Python da Lets-Code",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmgeneration",
+    "url": "https://github.com/open-mmlab/mmgeneration",
+    "desc": "MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV.",
+    "lang": "Python"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "In-Database Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "jquesnelle/txt2imghd",
+    "url": "https://github.com/jquesnelle/txt2imghd",
+    "desc": "A port of GOBIG for Stable Diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "AnthonyCalandra/modern-cpp-features",
+    "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
+    "desc": "A cheatsheet of modern C++ language and library features.",
+    "lang": "Python"
+  },
+  {
+    "title": "openreplay/openreplay",
+    "url": "https://github.com/openreplay/openreplay",
+    "desc": "📺 OpenReplay is developer-friendly, open-source session replay.",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "SecureAuthCorp/impacket",
+    "url": "https://github.com/SecureAuthCorp/impacket",
+    "desc": "Impacket is a collection of Python classes for working with network protocols.",
+    "lang": "Python"
+  },
+  {
+    "title": "ethereum/consensus-specs",
+    "url": "https://github.com/ethereum/consensus-specs",
+    "desc": "Ethereum Proof-of-Stake Consensus Specifications",
+    "lang": "Python"
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "desc": "An orchestration platform for the development, production, and observation of data assets.",
+    "lang": "Python"
+  },
+  {
+    "title": "zhiqi-li/BEVFormer",
+    "url": "https://github.com/zhiqi-li/BEVFormer",
+    "desc": "[ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.",
+    "lang": "Python"
+  }
+]
