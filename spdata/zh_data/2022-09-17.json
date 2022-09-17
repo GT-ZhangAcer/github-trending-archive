@@ -1,0 +1,149 @@
+[
+  {
+    "title": "zc2638/ylgy",
+    "url": "https://github.com/zc2638/ylgy",
+    "desc": "羊了个羊 通关程序，支持无限通关",
+    "lang": "Go"
+  },
+  {
+    "title": "Lcry/a-sheep-assistant",
+    "url": "https://github.com/Lcry/a-sheep-assistant",
+    "desc": "羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。更多好玩黑科技关注作者公众号： 《码上有效率》，口令羊了个羊"
+  },
+  {
+    "title": "george-jiang-wow/yanglegeyang",
+    "url": "https://github.com/george-jiang-wow/yanglegeyang",
+    "desc": "羊了个羊在线版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "yaklang/yakit",
+    "url": "https://github.com/yaklang/yakit",
+    "desc": "Cyber Security ALL-IN-ONE Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "missuo/FuckSheepGame",
+    "url": "https://github.com/missuo/FuckSheepGame",
+    "desc": "羊了个羊刷通关助手 支持QuanX和HTTP Catcher",
+    "lang": "Python"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "xuxueli/xxl-job",
+    "url": "https://github.com/xuxueli/xxl-job",
+    "desc": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "lang": "Java"
+  },
+  {
+    "title": "yangzhi-1/yanglegeyang",
+    "url": "https://github.com/yangzhi-1/yanglegeyang",
+    "desc": "羊了个羊微信PC版无限道具；重复进入第一关。"
+  },
+  {
+    "title": "djerryz/Sheep_Sheep_Ni",
+    "url": "https://github.com/djerryz/Sheep_Sheep_Ni",
+    "desc": "羊了个羊- 前端源码与接口分析",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ezshine/wxapkg-convertor",
+    "url": "https://github.com/ezshine/wxapkg-convertor",
+    "desc": "一个反编译微信小程序的工具，仓库也收集各种微信小程序/小游戏.wxapkg文件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "wechat-miniprogram/minigame-unity-webgl-transform",
+    "url": "https://github.com/wechat-miniprogram/minigame-unity-webgl-transform",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wangxinleo/wechat-public-account-push",
+    "url": "https://github.com/wangxinleo/wechat-public-account-push",
+    "desc": "微信公众号推送-给女朋友的浪漫",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/wujie",
+    "url": "https://github.com/Tencent/wujie",
+    "desc": "极致的微前端框架",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yangdaozhao/ylgy",
+    "url": "https://github.com/yangdaozhao/ylgy",
+    "desc": "羊了个羊 Quantumult X 重写脚本 秒过关",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fuzhengwei/CodeGuide",
+    "url": "https://github.com/fuzhengwei/CodeGuide",
+    "desc": "📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！"
+  },
+  {
+    "title": "Jack-Cherish/Machine-Learning",
+    "url": "https://github.com/Jack-Cherish/Machine-Learning",
+    "desc": "⚡机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归",
+    "lang": "Python"
+  },
+  {
+    "title": "openspug/spug",
+    "url": "https://github.com/openspug/spug",
+    "desc": "开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "didi/KnowStreaming",
+    "url": "https://github.com/didi/KnowStreaming",
+    "desc": "一站式云原生Kafka管控平台",
+    "lang": "Java"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "648540858/wvp-GB28181-pro",
+    "url": "https://github.com/648540858/wvp-GB28181-pro",
+    "desc": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "dromara/hutool",
+    "url": "https://github.com/dromara/hutool",
+    "desc": "🍬A set of tools that keep Java sweet.",
+    "lang": "Java"
+  }
+]
