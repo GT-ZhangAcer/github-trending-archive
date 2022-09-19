@@ -1,0 +1,151 @@
+[
+  {
+    "title": "hsutter/cppfront",
+    "url": "https://github.com/hsutter/cppfront",
+    "desc": "A personal experimental C++ Syntax 2 -> Syntax 1 compiler",
+    "lang": "C++"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "desc": "Penpot - The Open-Source design & prototyping platform",
+    "lang": "Clojure"
+  },
+  {
+    "title": "revanced/revanced-manager",
+    "url": "https://github.com/revanced/revanced-manager",
+    "desc": "💊 The official ReVanced Manager",
+    "lang": "Dart"
+  },
+  {
+    "title": "Lcry/a-sheep-assistant",
+    "url": "https://github.com/Lcry/a-sheep-assistant",
+    "desc": "羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。保姆级学习教程关注作者公众号： 《码上有效率》，口令羊了个羊",
+    "lang": "Python"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++"
+  },
+  {
+    "title": "t3-oss/create-t3-app",
+    "url": "https://github.com/t3-oss/create-t3-app",
+    "desc": "Quickest way to start a new web app with full stack typesafety",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "carson-katri/dream-textures",
+    "url": "https://github.com/carson-katri/dream-textures",
+    "desc": "Stable Diffusion built-in to the Blender shader editor",
+    "lang": "Python"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "desc": "Vector database for scalable similarity search and AI applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "liyupi/yulegeyu",
+    "url": "https://github.com/liyupi/yulegeyu",
+    "desc": "羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "desc": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "lang": "HTML"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "extrawurst/gitui",
+    "url": "https://github.com/extrawurst/gitui",
+    "desc": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+    "lang": "Rust"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "AbdBarho/stable-diffusion-webui-docker",
+    "url": "https://github.com/AbdBarho/stable-diffusion-webui-docker",
+    "desc": "Easy Docker setup for Stable Diffusion with user-friendly UI",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "nuttyartist/notes",
+    "url": "https://github.com/nuttyartist/notes",
+    "desc": "Note-taking application, write down your thoughts.",
+    "lang": "C++"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/nn-zero-to-hero",
+    "url": "https://github.com/karpathy/nn-zero-to-hero",
+    "desc": "Neural Networks: Zero to Hero",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "zc2638/ylgy",
+    "url": "https://github.com/zc2638/ylgy",
+    "desc": "羊了个羊 通关程序，支持无限通关",
+    "lang": "Go"
+  },
+  {
+    "title": "gohugoio/hugo",
+    "url": "https://github.com/gohugoio/hugo",
+    "desc": "The world’s fastest framework for building websites.",
+    "lang": "Go"
+  },
+  {
+    "title": "carbon-language/carbon-lang",
+    "url": "https://github.com/carbon-language/carbon-lang",
+    "desc": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
+    "lang": "C++"
+  },
+  {
+    "title": "alist-org/alist",
+    "url": "https://github.com/alist-org/alist",
+    "desc": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
+    "lang": "Go"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "elihwyma/Pogo",
+    "url": "https://github.com/elihwyma/Pogo",
+    "desc": "",
+    "lang": "Swift"
+  },
+  {
+    "title": "mrdbourke/pytorch-deep-learning",
+    "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+    "desc": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+    "lang": "JupyterNotebook"
+  }
+]
