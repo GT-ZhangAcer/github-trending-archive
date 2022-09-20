@@ -1,0 +1,149 @@
+[
+  {
+    "title": "SwaggyMacro/YangLeGeYang",
+    "url": "https://github.com/SwaggyMacro/YangLeGeYang",
+    "desc": "免抓包版本，羊了个羊 小助手，羊了个羊一键通关，自动获取Token，羊了个羊辅助，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。",
+    "lang": "C#"
+  },
+  {
+    "title": "liyupi/yulegeyu",
+    "url": "https://github.com/liyupi/yulegeyu",
+    "desc": "羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Selina1981/yanglegeyang",
+    "url": "https://github.com/Selina1981/yanglegeyang",
+    "desc": "羊了个羊通关助手（java稳定版）全网唯一，禁止盗版！羊了个羊助手，羊了个羊一键闯关。",
+    "lang": "Java"
+  },
+  {
+    "title": "EastWorld/wechat-app-mall",
+    "url": "https://github.com/EastWorld/wechat-app-mall",
+    "desc": "微信小程序商城，微信小程序微店",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "george-jiang-wow/yanglegeyang",
+    "url": "https://github.com/george-jiang-wow/yanglegeyang",
+    "desc": "羊了个羊在线版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wangxinleo/wechat-public-account-push",
+    "url": "https://github.com/wangxinleo/wechat-public-account-push",
+    "desc": "微信公众号推送-给女朋友的浪漫",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "djerryz/Sheep_Sheep_Ni",
+    "url": "https://github.com/djerryz/Sheep_Sheep_Ni",
+    "desc": "羊了个羊- 前端源码与接口分析",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antvis/G6",
+    "url": "https://github.com/antvis/G6",
+    "desc": "♾ A Graph Visualization Framework in JavaScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yaklang/yakit",
+    "url": "https://github.com/yaklang/yakit",
+    "desc": "Cyber Security ALL-IN-ONE Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Semporia/TikTok-Unlock",
+    "url": "https://github.com/Semporia/TikTok-Unlock",
+    "desc": "TikTok免拔卡解锁最新支持 iPhone （iOS 16.0） 、TikTok（V25.9.0）、TikTok TestFlight 26.0.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "desc": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "lang": "Java"
+  },
+  {
+    "title": "ezshine/wxapkg-convertor",
+    "url": "https://github.com/ezshine/wxapkg-convertor",
+    "desc": "一个反编译微信小程序的工具，仓库也收集各种微信小程序/小游戏.wxapkg文件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "desc": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。"
+  },
+  {
+    "title": "CoderLeixiaoshuai/java-eight-part",
+    "url": "https://github.com/CoderLeixiaoshuai/java-eight-part",
+    "desc": "『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！",
+    "lang": "Java"
+  },
+  {
+    "title": "X1192176811/blog",
+    "url": "https://github.com/X1192176811/blog",
+    "desc": "基于SpringBoot + Vue 开发的前后端分离博客，采用SpringSecurity进行权限管理，ElasticSearch全文搜索，支持QQ、微博第三方登录、在线聊天、发布说说等功能。",
+    "lang": "Java"
+  },
+  {
+    "title": "zc2638/ylgy",
+    "url": "https://github.com/zc2638/ylgy",
+    "desc": "羊了个羊 通关程序，支持自动通关，支持 关卡重写",
+    "lang": "Go"
+  },
+  {
+    "title": "antvis/G2",
+    "url": "https://github.com/antvis/G2",
+    "desc": "📊 A visualization grammar for dashboard building, data exploration and storytelling.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "KISS1996/trexminer",
+    "url": "https://github.com/KISS1996/trexminer",
+    "desc": "【全网最强】minerproxy矿池中转，原创minerproxy，唯一正版，性能强大, 功能齐全, 9000台无压力不崩溃，BTC ETC ETH LTC ERGO RVN CFX ETC等全币种无损抽水，体验拉满的minerproxy, 软防CC, 动态难度调整抽水，不爆内存。支持绝大部分币种的转发、加密、自定义抽水、精确到单台设备的24小时数据统计、自定义隧道推送工具、修改矿池本地算力..",
+    "lang": "Shell"
+  },
+  {
+    "title": "AmazingAng/WTFSolidity",
+    "url": "https://github.com/AmazingAng/WTFSolidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。",
+    "lang": "Solidity"
+  },
+  {
+    "title": "focus-creative-games/hybridclr",
+    "url": "https://github.com/focus-creative-games/hybridclr",
+    "desc": "HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix",
+    "lang": "C++"
+  },
+  {
+    "title": "pofey/movie_robot",
+    "url": "https://github.com/pofey/movie_robot",
+    "desc": "轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。",
+    "lang": "Python"
+  },
+  {
+    "title": "SleepyAsh0191/sheep-n-sheep-backend",
+    "url": "https://github.com/SleepyAsh0191/sheep-n-sheep-backend",
+    "desc": "随便用java写的自制羊了个羊服务端，写的很垃圾，勿喷",
+    "lang": "Java"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  }
+]
