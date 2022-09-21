@@ -1,0 +1,144 @@
+[
+  {
+    "title": "liyupi/yulegeyu",
+    "url": "https://github.com/liyupi/yulegeyu",
+    "desc": "羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "SwaggyMacro/YangLeGeYang",
+    "url": "https://github.com/SwaggyMacro/YangLeGeYang",
+    "desc": "免抓包版本，羊了个羊 小助手，羊了个羊一键通关，自动获取Token，羊了个羊辅助，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。",
+    "lang": "C#"
+  },
+  {
+    "title": "StreakingMan/solvable-sheep-game",
+    "url": "https://github.com/StreakingMan/solvable-sheep-game",
+    "desc": "能够解出来的“羊了个羊”小游戏demo（react实现）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Selina1981/yanglegeyang",
+    "url": "https://github.com/Selina1981/yanglegeyang",
+    "desc": "羊了个羊通关助手（java稳定版）全网唯一，禁止盗版！羊了个羊助手，羊了个羊一键闯关。",
+    "lang": "Java"
+  },
+  {
+    "title": "guangzhengli/k8s-tutorials",
+    "url": "https://github.com/guangzhengli/k8s-tutorials",
+    "desc": "k8s tutorials | k8s 教程",
+    "lang": "Go"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "peng-zhihui/HelloWord-Keyboard",
+    "url": "https://github.com/peng-zhihui/HelloWord-Keyboard",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "EastWorld/wechat-app-mall",
+    "url": "https://github.com/EastWorld/wechat-app-mall",
+    "desc": "微信小程序商城，微信小程序微店",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "the1812/Bilibili-Evolved",
+    "url": "https://github.com/the1812/Bilibili-Evolved",
+    "desc": "强大的哔哩哔哩增强脚本",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ddgksf2013/Cuttlefish",
+    "url": "https://github.com/ddgksf2013/Cuttlefish",
+    "desc": "Scripts for self-use, ⛔️ fork",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MustangYM/WeChatExtension-ForMac",
+    "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
+    "desc": "Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "AmazingAng/WTFSolidity",
+    "url": "https://github.com/AmazingAng/WTFSolidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。",
+    "lang": "Solidity"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "zhangchuangiie/SimpleKafka",
+    "url": "https://github.com/zhangchuangiie/SimpleKafka",
+    "desc": "一个基于Kafka客户端封装的工具，Kafka开发效率神器",
+    "lang": "Java"
+  },
+  {
+    "title": "Python3WebSpider/ProxyPool",
+    "url": "https://github.com/Python3WebSpider/ProxyPool",
+    "desc": "An Efficient ProxyPool with Getter, Tester and Server",
+    "lang": "Python"
+  },
+  {
+    "title": "SleepyAsh0191/sheep-n-sheep-backend",
+    "url": "https://github.com/SleepyAsh0191/sheep-n-sheep-backend",
+    "desc": "随便用java写的自制羊了个羊服务端，写的很垃圾，勿喷",
+    "lang": "Java"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "justjavac/awesome-wechat-weapp",
+    "url": "https://github.com/justjavac/awesome-wechat-weapp",
+    "desc": "微信小程序开发资源汇总 💯"
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "desc": "7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列",
+    "lang": "Go"
+  },
+  {
+    "title": "OI-wiki/OI-wiki",
+    "url": "https://github.com/OI-wiki/OI-wiki",
+    "desc": "🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）",
+    "lang": "TypeScript"
+  }
+]
