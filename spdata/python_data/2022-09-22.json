@@ -1,0 +1,152 @@
+[
+  {
+    "title": "open-mmlab/mmyolo",
+    "url": "https://github.com/open-mmlab/mmyolo",
+    "desc": "OpenMMLab YOLO series toolbox and benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "Visual-Attention-Network/SegNeXt",
+    "url": "https://github.com/Visual-Attention-Network/SegNeXt",
+    "desc": "Official Pytorch implementations for SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation (NeurIPS 2022)",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "desc": "scikit-learn: machine learning in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "triton-inference-server/server",
+    "url": "https://github.com/triton-inference-server/server",
+    "desc": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "scipy/scipy",
+    "url": "https://github.com/scipy/scipy",
+    "desc": "SciPy library main repository",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "carson-katri/dream-textures",
+    "url": "https://github.com/carson-katri/dream-textures",
+    "desc": "Stable Diffusion built-in to the Blender shader editor",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "salesforce/LAVIS",
+    "url": "https://github.com/salesforce/LAVIS",
+    "desc": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+    "lang": "Python"
+  },
+  {
+    "title": "kakaobrain/NeRF-Factory",
+    "url": "https://github.com/kakaobrain/NeRF-Factory",
+    "desc": "An awesome PyTorch NeRF library",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/data-science-ipython-notebooks",
+    "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+    "desc": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+    "lang": "Python"
+  },
+  {
+    "title": "13812851221/-rxrw-daily_morning",
+    "url": "https://github.com/13812851221/-rxrw-daily_morning",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "brycedrennan/imaginAIry",
+    "url": "https://github.com/brycedrennan/imaginAIry",
+    "desc": "AI imagined images. Pythonic generation of stable diffusion images.",
+    "lang": "Python"
+  },
+  {
+    "title": "sharonzhou/long_stable_diffusion",
+    "url": "https://github.com/sharonzhou/long_stable_diffusion",
+    "desc": "Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)",
+    "lang": "Python"
+  },
+  {
+    "title": "cado-security/varc",
+    "url": "https://github.com/cado-security/varc",
+    "desc": "Volatile Artifact Collector",
+    "lang": "Python"
+  },
+  {
+    "title": "postgresml/postgresml",
+    "url": "https://github.com/postgresml/postgresml",
+    "desc": "PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.",
+    "lang": "Python"
+  },
+  {
+    "title": "frida/frida",
+    "url": "https://github.com/frida/frida",
+    "desc": "Clone this repo to build Frida",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmcv",
+    "url": "https://github.com/open-mmlab/mmcv",
+    "desc": "OpenMMLab Computer Vision Foundation",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "ydataai/pandas-profiling",
+    "url": "https://github.com/ydataai/pandas-profiling",
+    "desc": "Create HTML profiling reports from pandas DataFrame objects",
+    "lang": "Python"
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "desc": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "lang": "Python"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  }
+]
