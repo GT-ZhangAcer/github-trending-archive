@@ -1,0 +1,152 @@
+[
+  {
+    "title": "IDEA-Research/detrex",
+    "url": "https://github.com/IDEA-Research/detrex",
+    "desc": "IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms",
+    "lang": "Python"
+  },
+  {
+    "title": "salesforce/LAVIS",
+    "url": "https://github.com/salesforce/LAVIS",
+    "desc": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "iterative/dvc",
+    "url": "https://github.com/iterative/dvc",
+    "desc": "🦉Data Version Control | Git for Data & Models | ML Experiments Management",
+    "lang": "Python"
+  },
+  {
+    "title": "PyCQA/pylint",
+    "url": "https://github.com/PyCQA/pylint",
+    "desc": "It's not just a linter that annoys you!",
+    "lang": "Python"
+  },
+  {
+    "title": "advanced-threat-research/Creosote",
+    "url": "https://github.com/advanced-threat-research/Creosote",
+    "desc": "Creosote is our solution to searching for the tarfile vulnerability described by CVE-2007-4559.",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmyolo",
+    "url": "https://github.com/open-mmlab/mmyolo",
+    "desc": "OpenMMLab YOLO series toolbox and benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and web app—powerful open source team chat",
+    "lang": "Python"
+  },
+  {
+    "title": "krea-ai/open-prompts",
+    "url": "https://github.com/krea-ai/open-prompts",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Miksus/rocketry",
+    "url": "https://github.com/Miksus/rocketry",
+    "desc": "Modern scheduling library for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "Sentinel-One/CobaltStrikeParser",
+    "url": "https://github.com/Sentinel-One/CobaltStrikeParser",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/tvm",
+    "url": "https://github.com/apache/tvm",
+    "desc": "Open deep learning compiler stack for cpu, gpu and specialized accelerators",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/accelerate",
+    "url": "https://github.com/huggingface/accelerate",
+    "desc": "🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision",
+    "lang": "Python"
+  },
+  {
+    "title": "blakeblackshear/frigate",
+    "url": "https://github.com/blakeblackshear/frigate",
+    "desc": "NVR with realtime local object detection for IP cameras",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "piercefreeman/cloud-gpu-reliability",
+    "url": "https://github.com/piercefreeman/cloud-gpu-reliability",
+    "desc": "A mini container to log cloud gpu reliability",
+    "lang": "Python"
+  },
+  {
+    "title": "jsvine/pdfplumber",
+    "url": "https://github.com/jsvine/pdfplumber",
+    "desc": "Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/requests",
+    "url": "https://github.com/psf/requests",
+    "desc": "A simple, yet elegant, HTTP library.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmaction2",
+    "url": "https://github.com/open-mmlab/mmaction2",
+    "desc": "OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark",
+    "lang": "Python"
+  }
+]
