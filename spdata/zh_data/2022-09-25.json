@@ -1,0 +1,150 @@
+[
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "desc": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "lang": "C++"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's OpenWrt source",
+    "lang": "C"
+  },
+  {
+    "title": "vaxilu/x-ui",
+    "url": "https://github.com/vaxilu/x-ui",
+    "desc": "支持多协议多用户的 xray 面板",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "lxwily/yanglegeyang",
+    "url": "https://github.com/lxwily/yanglegeyang",
+    "desc": "羊了个羊通关助手（更新2022-09-24 14:30:00分）全网唯一，禁止盗版！羊了个羊助手，羊了个羊一键闯关。",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "sec-an/TV_Spider",
+    "url": "https://github.com/sec-an/TV_Spider",
+    "desc": "TVBoxOSC 服务端爬虫 Custom Server Spider for Tv Written in Python3",
+    "lang": "Python"
+  },
+  {
+    "title": "GlossMod/UnityScriptTrainer",
+    "url": "https://github.com/GlossMod/UnityScriptTrainer",
+    "desc": "一些unity游戏的内置修改器",
+    "lang": "C#"
+  },
+  {
+    "title": "whyour/qinglong",
+    "url": "https://github.com/whyour/qinglong",
+    "desc": "支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "v2fly/fhs-install-v2ray",
+    "url": "https://github.com/v2fly/fhs-install-v2ray",
+    "desc": "Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd",
+    "lang": "Shell"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "opendilab/DI-sheep",
+    "url": "https://github.com/opendilab/DI-sheep",
+    "desc": "深度强化学习 + 羊了个羊（Deep Reinforcement Learning + 3 Tiles Game",
+    "lang": "Python"
+  },
+  {
+    "title": "macrozheng/mall-admin-web",
+    "url": "https://github.com/macrozheng/mall-admin-web",
+    "desc": "mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。",
+    "lang": "Vue"
+  },
+  {
+    "title": "googlehosts/hosts",
+    "url": "https://github.com/googlehosts/hosts",
+    "desc": "镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "Loyalsoldier/clash-rules",
+    "url": "https://github.com/Loyalsoldier/clash-rules",
+    "desc": "🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。"
+  },
+  {
+    "title": "jeessy2/ddns-go",
+    "url": "https://github.com/jeessy2/ddns-go",
+    "desc": "简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、华为云、百度云、porkbun)",
+    "lang": "Go"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "MicroCBer/BetterNCM",
+    "url": "https://github.com/MicroCBer/BetterNCM",
+    "desc": "PC版网易云客户端插件管理器",
+    "lang": "C++"
+  },
+  {
+    "title": "ender-zhao/Clash-for-Windows_Chinese",
+    "url": "https://github.com/ender-zhao/Clash-for-Windows_Chinese",
+    "desc": "clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SuLingGG/OpenWrt-Rpi",
+    "url": "https://github.com/SuLingGG/OpenWrt-Rpi",
+    "desc": "Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)",
+    "lang": "Shell"
+  },
+  {
+    "title": "gaoxiang12/slambook2",
+    "url": "https://github.com/gaoxiang12/slambook2",
+    "desc": "edition 2 of the slambook",
+    "lang": "C++"
+  },
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "desc": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+    "lang": "C#"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "desc": "该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、ema…",
+    "lang": "Java"
+  }
+]

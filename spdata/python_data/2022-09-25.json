@@ -1,0 +1,152 @@
+[
+  {
+    "title": "jina-ai/docarray",
+    "url": "https://github.com/jina-ai/docarray",
+    "desc": "🧬 The data structure for unstructured multimodal data · Neural Search · Vector Search · Document Store",
+    "lang": "Python"
+  },
+  {
+    "title": "m1guelpf/yt-whisper",
+    "url": "https://github.com/m1guelpf/yt-whisper",
+    "desc": "Using OpenAI's Whisper to automatically generate YouTube subtitles",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "dwyl/english-words",
+    "url": "https://github.com/dwyl/english-words",
+    "desc": "📝 A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEA-Research/detrex",
+    "url": "https://github.com/IDEA-Research/detrex",
+    "desc": "IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms",
+    "lang": "Python"
+  },
+  {
+    "title": "towhee-io/towhee",
+    "url": "https://github.com/towhee-io/towhee",
+    "desc": "Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.",
+    "lang": "Python"
+  },
+  {
+    "title": "lxwily/yanglegeyang",
+    "url": "https://github.com/lxwily/yanglegeyang",
+    "desc": "羊了个羊通关助手（更新2022-09-24 14:30:00分）全网唯一，禁止盗版！羊了个羊助手，羊了个羊一键闯关。",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "salesforce/LAVIS",
+    "url": "https://github.com/salesforce/LAVIS",
+    "desc": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+    "lang": "Python"
+  },
+  {
+    "title": "sec-an/TV_Spider",
+    "url": "https://github.com/sec-an/TV_Spider",
+    "desc": "TVBoxOSC 服务端爬虫 Custom Server Spider for Tv Written in Python3",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "ManimCommunity/manim",
+    "url": "https://github.com/ManimCommunity/manim",
+    "desc": "A community-maintained Python framework for creating mathematical animations.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "jaywalnut310/vits",
+    "url": "https://github.com/jaywalnut310/vits",
+    "desc": "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech",
+    "lang": "Python"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and web app—powerful open source team chat",
+    "lang": "Python"
+  },
+  {
+    "title": "MShawon/YouTube-Viewer",
+    "url": "https://github.com/MShawon/YouTube-Viewer",
+    "desc": "A multithreaded view bot for YouTube",
+    "lang": "Python"
+  },
+  {
+    "title": "jofpin/trape",
+    "url": "https://github.com/jofpin/trape",
+    "desc": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "Newbeeer/Poisson_flow",
+    "url": "https://github.com/Newbeeer/Poisson_flow",
+    "desc": "Code for NeurIPS 2022 Paper, Poisson Flow Generative Models",
+    "lang": "Python"
+  },
+  {
+    "title": "opendilab/DI-sheep",
+    "url": "https://github.com/opendilab/DI-sheep",
+    "desc": "深度强化学习 + 羊了个羊（Deep Reinforcement Learning + 3 Tiles Game",
+    "lang": "Python"
+  },
+  {
+    "title": "OctoPrint/OctoPrint",
+    "url": "https://github.com/OctoPrint/OctoPrint",
+    "desc": "OctoPrint is the snappy web interface for your 3D printer!",
+    "lang": "Python"
+  }
+]
