@@ -1,0 +1,152 @@
+[
+  {
+    "title": "m1guelpf/yt-whisper",
+    "url": "https://github.com/m1guelpf/yt-whisper",
+    "desc": "Using OpenAI's Whisper to automatically generate YouTube subtitles",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/torchdynamo",
+    "url": "https://github.com/pytorch/torchdynamo",
+    "desc": "A Python-level JIT compiler designed to make unmodified PyTorch programs faster.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "TheKingOfDuck/fuzzDicts",
+    "url": "https://github.com/TheKingOfDuck/fuzzDicts",
+    "desc": "Web Pentesting Fuzz 字典,一个就够了。",
+    "lang": "Python"
+  },
+  {
+    "title": "iamnihal/warf",
+    "url": "https://github.com/iamnihal/warf",
+    "desc": "WARF is a Web Application Reconnaissance Framework that helps to gather information about the target.",
+    "lang": "Python"
+  },
+  {
+    "title": "Axx8/ShellCode_Loader",
+    "url": "https://github.com/Axx8/ShellCode_Loader",
+    "desc": "ShellCode_Loader - Msf&CobaltStrike免杀ShellCode加载器、Shellcode_encryption - 免杀Shellcode加密生成工具，目前测试免杀360&火绒&电脑管家&Windows Defender（其他杀软未测试）。",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "Porchetta-Industries/CrackMapExec",
+    "url": "https://github.com/Porchetta-Industries/CrackMapExec",
+    "desc": "A swiss army knife for pentesting networks",
+    "lang": "Python"
+  },
+  {
+    "title": "spulec/moto",
+    "url": "https://github.com/spulec/moto",
+    "desc": "A library that allows you to easily mock out tests based on AWS infrastructure.",
+    "lang": "Python"
+  },
+  {
+    "title": "CTFd/CTFd",
+    "url": "https://github.com/CTFd/CTFd",
+    "desc": "CTFs as you need them",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/bert",
+    "url": "https://github.com/google-research/bert",
+    "desc": "TensorFlow code and pre-trained models for BERT",
+    "lang": "Python"
+  },
+  {
+    "title": "celery/celery",
+    "url": "https://github.com/celery/celery",
+    "desc": "Distributed Task Queue (development branch)",
+    "lang": "Python"
+  },
+  {
+    "title": "parlance-zz/g-diffuser-lib",
+    "url": "https://github.com/parlance-zz/g-diffuser-lib",
+    "desc": "Experimental utilities, extensions, and frontend interfaces for the diffusers library (stable-diffusion)",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEA-Research/DINO",
+    "url": "https://github.com/IDEA-Research/DINO",
+    "desc": "Official implementation of the paper DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/clip-as-service",
+    "url": "https://github.com/jina-ai/clip-as-service",
+    "desc": "🏄 Embed/reason/rank images and sentences with CLIP models",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/fairseq",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "shirayu/whispering",
+    "url": "https://github.com/shirayu/whispering",
+    "desc": "Streaming transcriber with whisper",
+    "lang": "Python"
+  },
+  {
+    "title": "frappe/frappe",
+    "url": "https://github.com/frappe/frappe",
+    "desc": "Low code web framework for real world applications, in Python and Javascript",
+    "lang": "Python"
+  },
+  {
+    "title": "FederatedAI/FATE",
+    "url": "https://github.com/FederatedAI/FATE",
+    "desc": "An Industrial Grade Federated Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/recommenders",
+    "url": "https://github.com/microsoft/recommenders",
+    "desc": "Best Practices on Recommendation Systems",
+    "lang": "Python"
+  }
+]
