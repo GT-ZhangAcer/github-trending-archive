@@ -1,0 +1,152 @@
+[
+  {
+    "title": "huggingface/setfit",
+    "url": "https://github.com/huggingface/setfit",
+    "desc": "Efficient few-shot learning with Sentence Transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/detr",
+    "url": "https://github.com/facebookresearch/detr",
+    "desc": "End-to-End Object Detection with Transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "Netflix/vmaf",
+    "url": "https://github.com/Netflix/vmaf",
+    "desc": "Perceptual video quality assessment based on multi-method fusion.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmaction2",
+    "url": "https://github.com/open-mmlab/mmaction2",
+    "desc": "OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "desc": "An orchestration platform for the development, production, and observation of data assets.",
+    "lang": "Python"
+  },
+  {
+    "title": "NaiboWang/CommandlineConfig",
+    "url": "https://github.com/NaiboWang/CommandlineConfig",
+    "desc": "A library for users to write (experiment in research) configurations in Python Dict or JSON format, while can read parameters from the command line to modify values.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/xformers",
+    "url": "https://github.com/facebookresearch/xformers",
+    "desc": "Hackable and optimized Transformers building blocks, supporting a composable construction.",
+    "lang": "Python"
+  },
+  {
+    "title": "MIC-DKFZ/nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。",
+    "lang": "Python"
+  },
+  {
+    "title": "Axx8/ShellCode_Loader",
+    "url": "https://github.com/Axx8/ShellCode_Loader",
+    "desc": "ShellCode_Loader - Msf&CobaltStrike免杀ShellCode加载器、Shellcode_encryption - 免杀Shellcode加密生成工具，目前测试免杀360&火绒&电脑管家&Windows Defender（其他杀软未测试）。",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmpose",
+    "url": "https://github.com/open-mmlab/mmpose",
+    "desc": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "databricks-academy/data-engineering-with-databricks-english",
+    "url": "https://github.com/databricks-academy/data-engineering-with-databricks-english",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "TheKingOfDuck/fuzzDicts",
+    "url": "https://github.com/TheKingOfDuck/fuzzDicts",
+    "desc": "Web Pentesting Fuzz 字典,一个就够了。",
+    "lang": "Python"
+  },
+  {
+    "title": "ray-project/ray",
+    "url": "https://github.com/ray-project/ray",
+    "desc": "Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.",
+    "lang": "Python"
+  },
+  {
+    "title": "deepinsight/insightface",
+    "url": "https://github.com/deepinsight/insightface",
+    "desc": "State-of-the-art 2D and 3D Face Analysis Project",
+    "lang": "Python"
+  },
+  {
+    "title": "Porchetta-Industries/CrackMapExec",
+    "url": "https://github.com/Porchetta-Industries/CrackMapExec",
+    "desc": "A swiss army knife for pentesting networks",
+    "lang": "Python"
+  },
+  {
+    "title": "pyg-team/pytorch_geometric",
+    "url": "https://github.com/pyg-team/pytorch_geometric",
+    "desc": "Graph Neural Network Library for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "bokeh/bokeh",
+    "url": "https://github.com/bokeh/bokeh",
+    "desc": "Interactive Data Visualization in the browser, from Python",
+    "lang": "Python"
+  }
+]

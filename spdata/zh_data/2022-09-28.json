@@ -1,0 +1,151 @@
+[
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "seventeenman/CallBackDump",
+    "url": "https://github.com/seventeenman/CallBackDump",
+    "desc": "能过卡巴、核晶、defender等杀软的dump lsass进程工具",
+    "lang": "C++"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "desc": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "lang": "Java"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "jumpserver/jumpserver",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "desc": "JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。",
+    "lang": "Python"
+  },
+  {
+    "title": "may-fly/mayfly-go",
+    "url": "https://github.com/may-fly/mayfly-go",
+    "desc": "web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql)、redis(单机 哨兵 集群)、mongo统一管理操作平台。",
+    "lang": "Vue"
+  },
+  {
+    "title": "Axx8/ShellCode_Loader",
+    "url": "https://github.com/Axx8/ShellCode_Loader",
+    "desc": "ShellCode_Loader - Msf&CobaltStrike免杀ShellCode加载器、Shellcode_encryption - 免杀Shellcode加密生成工具，目前测试免杀360&火绒&电脑管家&Windows Defender（其他杀软未测试）。",
+    "lang": "Python"
+  },
+  {
+    "title": "xuxueli/xxl-job",
+    "url": "https://github.com/xuxueli/xxl-job",
+    "desc": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "lang": "Java"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "TheKingOfDuck/fuzzDicts",
+    "url": "https://github.com/TheKingOfDuck/fuzzDicts",
+    "desc": "Web Pentesting Fuzz 字典,一个就够了。",
+    "lang": "Python"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "desc": "该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、ema…",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/canal",
+    "url": "https://github.com/alibaba/canal",
+    "desc": "阿里巴巴 MySQL binlog 增量订阅&消费组件",
+    "lang": "Java"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "LandGrey/SpringBootVulExploit",
+    "url": "https://github.com/LandGrey/SpringBootVulExploit",
+    "desc": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list",
+    "lang": "Java"
+  },
+  {
+    "title": "qianguyihao/Web",
+    "url": "https://github.com/qianguyihao/Web",
+    "desc": "千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
+    "lang": "Java"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "desc": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "lang": "HTML"
+  },
+  {
+    "title": "jdf2e/nutui",
+    "url": "https://github.com/jdf2e/nutui",
+    "desc": "京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)",
+    "lang": "Vue"
+  },
+  {
+    "title": "chokcoco/iCSS",
+    "url": "https://github.com/chokcoco/iCSS",
+    "desc": "不止于 CSS",
+    "lang": "CSS"
+  },
+  {
+    "title": "Mr-xn/Penetration_Testing_POC",
+    "url": "https://github.com/Mr-xn/Penetration_Testing_POC",
+    "desc": "渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "desc": "基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",
+    "lang": "Go"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  }
+]
