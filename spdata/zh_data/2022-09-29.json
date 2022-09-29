@@ -1,0 +1,150 @@
+[
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "a1phaboy/FastjsonScan",
+    "url": "https://github.com/a1phaboy/FastjsonScan",
+    "desc": "Fastjson扫描器，可识别版本、依赖库、autoType状态等。A tool to distinguish fastjson ,version and dependency",
+    "lang": "Go"
+  },
+  {
+    "title": "isaced/V2exOS",
+    "url": "https://github.com/isaced/V2exOS",
+    "desc": "一个用 SwiftUI 编写的 V2ex macOS 客户端（Beta）",
+    "lang": "Swift"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "desc": "🚀一个用来深入学习并实战 Spring Boot 的项目。",
+    "lang": "Java"
+  },
+  {
+    "title": "opengoofy/hippo4j",
+    "url": "https://github.com/opengoofy/hippo4j",
+    "desc": "📌 强大的动态线程池框架，附带监控报警功能。支持 JDK、Tomcat、Jetty、Undertow 线程池；RocketMQ、Dubbo、Alibaba Dubbo、RabbitMQ、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "Momo707577045/m3u8-downloader",
+    "url": "https://github.com/Momo707577045/m3u8-downloader",
+    "desc": "m3u8 视频在线提取工具",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DGP-Studio/Snap.Hutao",
+    "url": "https://github.com/DGP-Studio/Snap.Hutao",
+    "desc": "唷，找本堂主有何贵干呀？",
+    "lang": "C#"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "kokdemo/beijing-popup-map",
+    "url": "https://github.com/kokdemo/beijing-popup-map",
+    "desc": "北京健康宝弹窗地图，数据来源北京疾控中心，不定期更新",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "desc": "收集整理 GitHub 上高质量、有趣的开源项目。"
+  },
+  {
+    "title": "Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "url": "https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "desc": "转存助手ui优化版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "whyour/qinglong",
+    "url": "https://github.com/whyour/qinglong",
+    "desc": "支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "iamseancheney/python_for_data_analysis_2nd_chinese_version",
+    "url": "https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version",
+    "desc": "《利用Python进行数据分析·第2版》"
+  },
+  {
+    "title": "chenxch/xlegex",
+    "url": "https://github.com/chenxch/xlegex",
+    "desc": "简化版羊了个羊",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "unknwon/the-way-to-go_ZH_CN",
+    "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+    "desc": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+    "lang": "Go"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/COLA",
+    "url": "https://github.com/alibaba/COLA",
+    "desc": "🥤 COLA: Clean Object-oriented & Layered Architecture",
+    "lang": "Java"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "macrozheng/mall-swarm",
+    "url": "https://github.com/macrozheng/mall-swarm",
+    "desc": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud 2021 & Alibaba、Spring Boot 2.7、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "dunwu/nginx-tutorial",
+    "url": "https://github.com/dunwu/nginx-tutorial",
+    "desc": "这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openspug/spug",
+    "url": "https://github.com/openspug/spug",
+    "desc": "开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "KikiLetGo/MyDisk",
+    "url": "https://github.com/KikiLetGo/MyDisk",
+    "desc": "MyDisk",
+    "lang": "Java"
+  },
+  {
+    "title": "Tencent/tmagic-editor",
+    "url": "https://github.com/Tencent/tmagic-editor",
+    "desc": "",
+    "lang": "TypeScript"
+  }
+]
