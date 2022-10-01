@@ -1,0 +1,152 @@
+[
+  {
+    "title": "lucidrains/make-a-video-pytorch",
+    "url": "https://github.com/lucidrains/make-a-video-pytorch",
+    "desc": "Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "nv-tlabs/GET3D",
+    "url": "https://github.com/nv-tlabs/GET3D",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Ildaron/Laser_control",
+    "url": "https://github.com/Ildaron/Laser_control",
+    "desc": "Open-Source Laser for control mosquito, weed, and pest",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/latexify_py",
+    "url": "https://github.com/google/latexify_py",
+    "desc": "Generates LaTeX math description from Python functions.",
+    "lang": "Python"
+  },
+  {
+    "title": "dosisod/refurb",
+    "url": "https://github.com/dosisod/refurb",
+    "desc": "A tool for refurbishing and modernizing Python codebases",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "NaiboWang/CommandlineConfig",
+    "url": "https://github.com/NaiboWang/CommandlineConfig",
+    "desc": "A library for users to write (experiment in research) configurations in Python Dict or JSON format, read and write parameter value via dot . in code, while can read parameters from the command line to modify values. 一个供用户以Python Dict或JSON格式编写（科研中实验）配置的库，在代码中用点.读写属性，同时可以从命令行中读取参数配置并修改参数值。",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/demucs",
+    "url": "https://github.com/facebookresearch/demucs",
+    "desc": "Code for the paper Hybrid Spectrogram and Waveform Source Separation",
+    "lang": "Python"
+  },
+  {
+    "title": "mlflow/mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "desc": "Open source platform for the machine learning lifecycle",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "desc": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "redis/redis-py",
+    "url": "https://github.com/redis/redis-py",
+    "desc": "Redis Python Client",
+    "lang": "Python"
+  },
+  {
+    "title": "kedro-org/kedro",
+    "url": "https://github.com/kedro-org/kedro",
+    "desc": "A Python framework for creating reproducible, maintainable and modular data science code.",
+    "lang": "Python"
+  },
+  {
+    "title": "CharlesPikachu/Games",
+    "url": "https://github.com/CharlesPikachu/Games",
+    "desc": "Games: Create interesting games by pure python.",
+    "lang": "Python"
+  },
+  {
+    "title": "benbusby/whoogle-search",
+    "url": "https://github.com/benbusby/whoogle-search",
+    "desc": "A self-hosted, ad-free, privacy-respecting metasearch engine",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "desc": "PyTorch package for the discrete VAE used for DALL·E.",
+    "lang": "Python"
+  },
+  {
+    "title": "flyteorg/flyte",
+    "url": "https://github.com/flyteorg/flyte",
+    "desc": "Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.",
+    "lang": "Python"
+  },
+  {
+    "title": "fboulnois/stable-diffusion-docker",
+    "url": "https://github.com/fboulnois/stable-diffusion-docker",
+    "desc": "Runs the official Stable Diffusion release in a Docker container.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/fairseq",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "dbisu/pico-ducky",
+    "url": "https://github.com/dbisu/pico-ducky",
+    "desc": "Create a USB Rubber Ducky like device using a Raspberry PI Pico",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "desc": "Cross-platform, fast, feature-rich, GPU based terminal",
+    "lang": "Python"
+  }
+]

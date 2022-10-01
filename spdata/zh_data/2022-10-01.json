@@ -1,0 +1,145 @@
+[
+  {
+    "title": "isaced/V2exOS",
+    "url": "https://github.com/isaced/V2exOS",
+    "desc": "一个用 SwiftUI 编写的 V2ex macOS 客户端（Beta）",
+    "lang": "Swift"
+  },
+  {
+    "title": "lidangzzz/How-to-run",
+    "url": "https://github.com/lidangzzz/How-to-run",
+    "desc": "立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记"
+  },
+  {
+    "title": "lidangzzz/canada-run",
+    "url": "https://github.com/lidangzzz/canada-run",
+    "desc": "成本100万人民币拿15张枫叶卡零基础教程（程序员篇）"
+  },
+  {
+    "title": "opengoofy/hippo4j",
+    "url": "https://github.com/opengoofy/hippo4j",
+    "desc": "📌 强大的动态线程池框架，附带监控报警功能。支持 JDK、Tomcat、Jetty、Undertow 线程池；RocketMQ、Dubbo、Alibaba Dubbo、RabbitMQ、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "desc": "🚀一个用来深入学习并实战 Spring Boot 的项目。",
+    "lang": "Java"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "Momo707577045/m3u8-downloader",
+    "url": "https://github.com/Momo707577045/m3u8-downloader",
+    "desc": "m3u8 视频在线提取工具",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xifangczy/cat-catch",
+    "url": "https://github.com/xifangczy/cat-catch",
+    "desc": "猫抓 chrome资源嗅探扩展",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "desc": "基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",
+    "lang": "Go"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "hehonghui/awesome-english-ebooks",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "lang": "CSS"
+  },
+  {
+    "title": "a1phaboy/FastjsonScan",
+    "url": "https://github.com/a1phaboy/FastjsonScan",
+    "desc": "Fastjson扫描器，可识别版本、依赖库、autoType状态等。A tool to distinguish fastjson ,version and dependency",
+    "lang": "Go"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "stevenjoezhang/live2d-widget",
+    "url": "https://github.com/stevenjoezhang/live2d-widget",
+    "desc": "把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "xinliangnote/Go",
+    "url": "https://github.com/xinliangnote/Go",
+    "desc": "【Go 从入门到实战】学习笔记，从零开始学 Go、Gin 框架，基本语法包括 26 个Demo，Gin 框架包括：Gin 自定义路由配置、Gin 使用 Logrus 进行日志记录、Gin 数据绑定和验证、Gin 自定义错误处理、Go gRPC Hello World... 持续更新中...",
+    "lang": "Go"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "EndlessCheng/codeforces-go",
+    "url": "https://github.com/EndlessCheng/codeforces-go",
+    "desc": "Golang 算法竞赛模板库 | Solutions to Codeforces by Go 💭💡🎈",
+    "lang": "Go"
+  },
+  {
+    "title": "yeszao/dnmp",
+    "url": "https://github.com/yeszao/dnmp",
+    "desc": "Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)",
+    "lang": "Shell"
+  },
+  {
+    "title": "HalseySpicy/Geeker-Admin",
+    "url": "https://github.com/HalseySpicy/Geeker-Admin",
+    "desc": "✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。",
+    "lang": "Vue"
+  },
+  {
+    "title": "blackmatrix7/ios_rule_script",
+    "url": "https://github.com/blackmatrix7/ios_rule_script",
+    "desc": "分流规则、重写写规则及脚本。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "applenob/Cpp_Primer_Practice",
+    "url": "https://github.com/applenob/Cpp_Primer_Practice",
+    "desc": "搞定C++👊。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。",
+    "lang": "C++"
+  },
+  {
+    "title": "FloatTech/ZeroBot-Plugin",
+    "url": "https://github.com/FloatTech/ZeroBot-Plugin",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  }
+]
