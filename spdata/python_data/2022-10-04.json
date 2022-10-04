@@ -1,0 +1,152 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "soxoj/maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "desc": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+    "lang": "Python"
+  },
+  {
+    "title": "lkwq007/stablediffusion-infinity",
+    "url": "https://github.com/lkwq007/stablediffusion-infinity",
+    "desc": "Outpainting with Stable Diffusion on an infinite canvas",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "PyCQA/bandit",
+    "url": "https://github.com/PyCQA/bandit",
+    "desc": "Bandit is a tool designed to find common security issues in Python code.",
+    "lang": "Python"
+  },
+  {
+    "title": "joschuck/matrix-webcam",
+    "url": "https://github.com/joschuck/matrix-webcam",
+    "desc": "Take your video conference from within the matrix.",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "fineanmol/Hacktoberfest2022",
+    "url": "https://github.com/fineanmol/Hacktoberfest2022",
+    "desc": "Make your first Pull Request on Hacktoberfest 2022. Don't forget to spread love and if you like give us a ⭐️",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "SHI-Labs/Neighborhood-Attention-Transformer",
+    "url": "https://github.com/SHI-Labs/Neighborhood-Attention-Transformer",
+    "desc": "[Preprint] Neighborhood Attention Transformer, 2022",
+    "lang": "Python"
+  },
+  {
+    "title": "sj5027052/Hactoberfest2022",
+    "url": "https://github.com/sj5027052/Hactoberfest2022",
+    "desc": "Contribute on this repository with valid pull request to Hacktoberfest 2022 and earn amazing swags!",
+    "lang": "Python"
+  },
+  {
+    "title": "iterative/dvc",
+    "url": "https://github.com/iterative/dvc",
+    "desc": "🦉Data Version Control | Git for Data & Models | ML Experiments Management",
+    "lang": "Python"
+  },
+  {
+    "title": "fei-protocol/checkthechain",
+    "url": "https://github.com/fei-protocol/checkthechain",
+    "desc": "ctc is a tool for collecting and analyzing historical data of Ethereum and other EVM chains",
+    "lang": "Python"
+  },
+  {
+    "title": "NaiboWang/CommandlineConfig",
+    "url": "https://github.com/NaiboWang/CommandlineConfig",
+    "desc": "A library for users to write (experiment in research) configurations in Python Dict or JSON format, read and write parameter value via dot . in code, while can read parameters from the command line to modify values. 一个供用户以Python Dict或JSON格式编写（科研中实验）配置的库，在代码中用点.读写属性，同时可以从命令行中读取参数配置并修改参数值。",
+    "lang": "Python"
+  },
+  {
+    "title": "evidentlyai/evidently",
+    "url": "https://github.com/evidentlyai/evidently",
+    "desc": "Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "openedx/edx-platform",
+    "url": "https://github.com/openedx/edx-platform",
+    "desc": "The Open edX LMS & Studio, powering education sites around the world!",
+    "lang": "Python"
+  },
+  {
+    "title": "online-ml/river",
+    "url": "https://github.com/online-ml/river",
+    "desc": "🌊 Online machine learning in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "codePerfectPlus/awesomeScripts",
+    "url": "https://github.com/codePerfectPlus/awesomeScripts",
+    "desc": "A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a ⭐",
+    "lang": "Python"
+  },
+  {
+    "title": "tony9402/baekjoon",
+    "url": "https://github.com/tony9402/baekjoon",
+    "desc": "코딩테스트 대비 문제집(Baekjoon Online Judge)",
+    "lang": "Python"
+  },
+  {
+    "title": "sd-webui/stable-diffusion-webui",
+    "url": "https://github.com/sd-webui/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  }
+]

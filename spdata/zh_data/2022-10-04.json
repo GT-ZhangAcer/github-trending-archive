@@ -1,0 +1,148 @@
+[
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wulabing/V2Ray_ws-tls_bash_onekey",
+    "url": "https://github.com/wulabing/V2Ray_ws-tls_bash_onekey",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "kirin10000/Xray-script",
+    "url": "https://github.com/kirin10000/Xray-script",
+    "desc": "Xray：（VLESS/VMess）-（TCP/gRPC/WebSocket）-（XTLS/TLS）+Web 搭建/管理脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "mack-a/v2ray-agent",
+    "url": "https://github.com/mack-a/v2ray-agent",
+    "desc": "（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装",
+    "lang": "Shell"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "wulabing/Xray_onekey",
+    "url": "https://github.com/wulabing/Xray_onekey",
+    "desc": "Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "RobAI-Lab/hainanu-course-resource",
+    "url": "https://github.com/RobAI-Lab/hainanu-course-resource",
+    "desc": "海南大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "proxysu/ProxySU",
+    "url": "https://github.com/proxysu/ProxySU",
+    "desc": "Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）",
+    "lang": "C#"
+  },
+  {
+    "title": "MicroCBer/BetterNCM-Installer",
+    "url": "https://github.com/MicroCBer/BetterNCM-Installer",
+    "desc": "一键安装BetterNCM",
+    "lang": "Rust"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "u1f383/fuzzing-learning-in-30-days",
+    "url": "https://github.com/u1f383/fuzzing-learning-in-30-days",
+    "desc": ""
+  },
+  {
+    "title": "lib-pku/libpku",
+    "url": "https://github.com/lib-pku/libpku",
+    "desc": "贵校课程资料民间整理",
+    "lang": "TeX"
+  },
+  {
+    "title": "ip-scanner/cloudflare",
+    "url": "https://github.com/ip-scanner/cloudflare",
+    "desc": ""
+  },
+  {
+    "title": "FloatTech/ZeroBot-Plugin",
+    "url": "https://github.com/FloatTech/ZeroBot-Plugin",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  },
+  {
+    "title": "leiurayer/downkyi",
+    "url": "https://github.com/leiurayer/downkyi",
+    "desc": "哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。",
+    "lang": "C#"
+  },
+  {
+    "title": "PKUanonym/REKCARC-TSC-UHT",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "desc": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
+    "lang": "HTML"
+  },
+  {
+    "title": "Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "url": "https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "desc": "转存助手ui优化版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bumingbaipod/podcast",
+    "url": "https://github.com/bumingbaipod/podcast",
+    "desc": "此 GitHub 作为《不明白播客》官网的备份站，用于分享文字版播客。 版权所有 ©️ 不明白播客 bumingbai.net"
+  },
+  {
+    "title": "dream7180/foobox-cn",
+    "url": "https://github.com/dream7180/foobox-cn",
+    "desc": "CUI 整合 for foobar2000",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "v2fly/fhs-install-v2ray",
+    "url": "https://github.com/v2fly/fhs-install-v2ray",
+    "desc": "Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd",
+    "lang": "Shell"
+  },
+  {
+    "title": "Notsfsssf/pixez-flutter",
+    "url": "https://github.com/Notsfsssf/pixez-flutter",
+    "desc": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端",
+    "lang": "Dart"
+  },
+  {
+    "title": "XrayR-project/XrayR",
+    "url": "https://github.com/XrayR-project/XrayR",
+    "desc": "A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",
+    "lang": "Go"
+  },
+  {
+    "title": "niuhuan/pikapika",
+    "url": "https://github.com/niuhuan/pikapika",
+    "desc": "美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。",
+    "lang": "Dart"
+  },
+  {
+    "title": "Jrohy/multi-v2ray",
+    "url": "https://github.com/Jrohy/multi-v2ray",
+    "desc": "v2ray/xray多用户管理部署程序",
+    "lang": "Python"
+  },
+  {
+    "title": "shuax/MouseInc.Settings",
+    "url": "https://github.com/shuax/MouseInc.Settings",
+    "desc": "MouseInc设置界面",
+    "lang": "Vue"
+  }
+]
