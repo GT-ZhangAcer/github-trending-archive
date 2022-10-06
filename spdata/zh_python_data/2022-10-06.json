@@ -1,0 +1,152 @@
+[
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "xmu-xiaoma666/External-Attention-pytorch",
+    "url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
+    "desc": "🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐",
+    "lang": "Python"
+  },
+  {
+    "title": "Jrohy/multi-v2ray",
+    "url": "https://github.com/Jrohy/multi-v2ray",
+    "desc": "v2ray/xray多用户管理部署程序",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "Miraclelucy/dive_into_deep_learning",
+    "url": "https://github.com/Miraclelucy/dive_into_deep_learning",
+    "desc": "✔️李沐 【动手学深度学习】课程学习笔记：使用pycharm编程，基于pytorch框架实现。",
+    "lang": "Python"
+  },
+  {
+    "title": "heroaku/TVboxo",
+    "url": "https://github.com/heroaku/TVboxo",
+    "desc": "自用资源",
+    "lang": "Python"
+  },
+  {
+    "title": "h2y/Shadowrocket-ADBlock-Rules",
+    "url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
+    "desc": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "Python3WebSpider/ProxyPool",
+    "url": "https://github.com/Python3WebSpider/ProxyPool",
+    "desc": "An Efficient ProxyPool with Getter, Tester and Server",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/Machine-Learning",
+    "url": "https://github.com/Jack-Cherish/Machine-Learning",
+    "desc": "⚡机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归",
+    "lang": "Python"
+  },
+  {
+    "title": "waditu/czsc",
+    "url": "https://github.com/waditu/czsc",
+    "desc": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+    "lang": "Python"
+  },
+  {
+    "title": "649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "url": "https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "desc": "使用Bert，ERNIE，进行中文文本分类",
+    "lang": "Python"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "Limour-dev/daily_fudan_core",
+    "url": "https://github.com/Limour-dev/daily_fudan_core",
+    "desc": "daily_fudan的代码，无需fork；请fork https://github.com/Limour-dev/daily_fudan_actions 来自动执行该repo下的最新代码。有问题请提issue",
+    "lang": "Python"
+  },
+  {
+    "title": "HIllya51/LunaTranslator",
+    "url": "https://github.com/HIllya51/LunaTranslator",
+    "desc": "Galgame翻译工具，支持OCR、HOOK，支持20+种翻译工具，支持TTS",
+    "lang": "Python"
+  },
+  {
+    "title": "justinzm/gopup",
+    "url": "https://github.com/justinzm/gopup",
+    "desc": "数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…",
+    "lang": "Python"
+  },
+  {
+    "title": "vpei/Free-TVUrl-Merge",
+    "url": "https://github.com/vpei/Free-TVUrl-Merge",
+    "desc": "免费电视台网址聚合，测试不能用链接。TVBox、Pluto Player、猫影视TV等影视播放软件通用接口都可使用。Pluto兼容性最强。",
+    "lang": "Python"
+  },
+  {
+    "title": "begood0513/goodnews",
+    "url": "https://github.com/begood0513/goodnews",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "MerickBao/LZU-COVID-AutoCheck",
+    "url": "https://github.com/MerickBao/LZU-COVID-AutoCheck",
+    "desc": "兰州大学定时自动健康打卡",
+    "lang": "Python"
+  },
+  {
+    "title": "TurboWay/bigdata_analyse",
+    "url": "https://github.com/TurboWay/bigdata_analyse",
+    "desc": "大数据分析项目",
+    "lang": "Python"
+  },
+  {
+    "title": "kifuan/helang",
+    "url": "https://github.com/kifuan/helang",
+    "desc": "何语言，次世代赛博编程语言。",
+    "lang": "Python"
+  },
+  {
+    "title": "6dylan6/auto_comment",
+    "url": "https://github.com/6dylan6/auto_comment",
+    "desc": "自动评价",
+    "lang": "Python"
+  },
+  {
+    "title": "RimoChan/unvcode",
+    "url": "https://github.com/RimoChan/unvcode",
+    "desc": "【幼女Code】反和谐超级武器！",
+    "lang": "Python"
+  }
+]
