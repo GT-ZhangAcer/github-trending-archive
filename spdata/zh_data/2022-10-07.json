@@ -1,0 +1,150 @@
+[
+  {
+    "title": "zhanwen/MathModel",
+    "url": "https://github.com/zhanwen/MathModel",
+    "desc": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
+    "lang": "TeX"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "XIU2/CloudflareSpeedTest",
+    "url": "https://github.com/XIU2/CloudflareSpeedTest",
+    "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~",
+    "lang": "Go"
+  },
+  {
+    "title": "AmazingAng/WTF-Solidity",
+    "url": "https://github.com/AmazingAng/WTF-Solidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。",
+    "lang": "Solidity"
+  },
+  {
+    "title": "proxysu/ProxySU",
+    "url": "https://github.com/proxysu/ProxySU",
+    "desc": "Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）",
+    "lang": "C#"
+  },
+  {
+    "title": "johlanse/study_xxqg",
+    "url": "https://github.com/johlanse/study_xxqg",
+    "desc": "自动化学习强国,每日稳定45分",
+    "lang": "Go"
+  },
+  {
+    "title": "leafTheFish/DeathNote",
+    "url": "https://github.com/leafTheFish/DeathNote",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wulabing/Xray_onekey",
+    "url": "https://github.com/wulabing/Xray_onekey",
+    "desc": "Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "dream7180/foobox-cn",
+    "url": "https://github.com/dream7180/foobox-cn",
+    "desc": "CUI 整合 for foobar2000",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SharingSource/LogicStack-LeetCode",
+    "url": "https://github.com/SharingSource/LogicStack-LeetCode",
+    "desc": "公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码"
+  },
+  {
+    "title": "xmu-xiaoma666/External-Attention-pytorch",
+    "url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
+    "desc": "🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐",
+    "lang": "Python"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "desc": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "lang": "C++"
+  },
+  {
+    "title": "jadepeng/XMusicDownloader",
+    "url": "https://github.com/jadepeng/XMusicDownloader",
+    "desc": "一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐",
+    "lang": "C#"
+  },
+  {
+    "title": "StreakingMan/solvable-sheep-game",
+    "url": "https://github.com/StreakingMan/solvable-sheep-game",
+    "desc": "能够解出来的“羊了个羊”小游戏demo（react实现）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "desc": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。"
+  },
+  {
+    "title": "vaxilu/x-ui",
+    "url": "https://github.com/vaxilu/x-ui",
+    "desc": "支持多协议多用户的 xray 面板",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kirin10000/Xray-script",
+    "url": "https://github.com/kirin10000/Xray-script",
+    "desc": "Xray：（VLESS/VMess）-（TCP/gRPC/WebSocket）-（XTLS/TLS）+Web 搭建/管理脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "QInzhengk/Math-Model-and-Machine-Learning",
+    "url": "https://github.com/QInzhengk/Math-Model-and-Machine-Learning",
+    "desc": "数学建模和机器学习的笔记和资料（持续更新中......）。",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Jrohy/trojan",
+    "url": "https://github.com/Jrohy/trojan",
+    "desc": "trojan多用户管理部署程序, 支持web页面管理",
+    "lang": "Go"
+  },
+  {
+    "title": "Molunerfinn/PicGo",
+    "url": "https://github.com/Molunerfinn/PicGo",
+    "desc": "🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ljpzzz/machinelearning",
+    "url": "https://github.com/ljpzzz/machinelearning",
+    "desc": "My blogs and code for machine learning. http://cnblogs.com/pinard",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "v2fly/v2ray-examples",
+    "url": "https://github.com/v2fly/v2ray-examples",
+    "desc": "v2ray-core 的模板们",
+    "lang": "CSS"
+  },
+  {
+    "title": "foamzou/melody",
+    "url": "https://github.com/foamzou/melody",
+    "desc": "我的音乐精灵",
+    "lang": "Vue"
+  },
+  {
+    "title": "Alinshans/MyTinySTL",
+    "url": "https://github.com/Alinshans/MyTinySTL",
+    "desc": "Achieve a tiny STL in C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "VirgilClyne/iRingo",
+    "url": "https://github.com/VirgilClyne/iRingo",
+    "desc": "解锁完整的 Apple功能和集成服务",
+    "lang": "JavaScript"
+  }
+]
