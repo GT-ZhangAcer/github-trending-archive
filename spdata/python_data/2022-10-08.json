@@ -1,0 +1,152 @@
+[
+  {
+    "title": "ashawkey/stable-dreamfusion",
+    "url": "https://github.com/ashawkey/stable-dreamfusion",
+    "desc": "A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/alphatensor",
+    "url": "https://github.com/deepmind/alphatensor",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/accelerate",
+    "url": "https://github.com/huggingface/accelerate",
+    "desc": "🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "desc": "A SQL linter and auto-formatter for Humans",
+    "lang": "Python"
+  },
+  {
+    "title": "octallium/modern-python-101",
+    "url": "https://github.com/octallium/modern-python-101",
+    "desc": "Modern Python 101 - Thinking In Types",
+    "lang": "Python"
+  },
+  {
+    "title": "megadose/holehe",
+    "url": "https://github.com/megadose/holehe",
+    "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/makemore",
+    "url": "https://github.com/karpathy/makemore",
+    "desc": "An autoregressive character-level language model for making more things",
+    "lang": "Python"
+  },
+  {
+    "title": "danielgatis/rembg",
+    "url": "https://github.com/danielgatis/rembg",
+    "desc": "Rembg is a tool to remove images background.",
+    "lang": "Python"
+  },
+  {
+    "title": "aerdem4/lofo-importance",
+    "url": "https://github.com/aerdem4/lofo-importance",
+    "desc": "Leave One Feature Out Importance",
+    "lang": "Python"
+  },
+  {
+    "title": "t3l3machus/eviltree",
+    "url": "https://github.com/t3l3machus/eviltree",
+    "desc": "A python3 remake of the classic tree command with the additional feature of searching for user provided keywords/regex in files, highlighting those that contain matches.",
+    "lang": "Python"
+  },
+  {
+    "title": "SecureAuthCorp/impacket",
+    "url": "https://github.com/SecureAuthCorp/impacket",
+    "desc": "Impacket is a collection of Python classes for working with network protocols.",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "NaiboWang/CommandlineConfig",
+    "url": "https://github.com/NaiboWang/CommandlineConfig",
+    "desc": "A library for users to write (experiment in research) configurations in Python Dict or JSON format, read and write parameter value via dot . in code, while can read parameters from the command line to modify values. 一个供用户以Python Dict或JSON格式编写（科研中实验）配置的库，在代码中用点.读写属性，同时可以从命令行中读取参数配置并修改参数值。",
+    "lang": "Python"
+  },
+  {
+    "title": "vpei/Free-TVUrl-Merge",
+    "url": "https://github.com/vpei/Free-TVUrl-Merge",
+    "desc": "免费电视台网址聚合，测试不能用链接。TVBox、Pluto Player、猫影视TV等影视播放软件通用接口都可使用。Pluto兼容性最强。",
+    "lang": "Python"
+  },
+  {
+    "title": "deepset-ai/haystack",
+    "url": "https://github.com/deepset-ai/haystack",
+    "desc": "🔍 Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/awesome-aws",
+    "url": "https://github.com/donnemartin/awesome-aws",
+    "desc": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "Tw1sm/RITM",
+    "url": "https://github.com/Tw1sm/RITM",
+    "desc": "Roast in the Middle",
+    "lang": "Python"
+  },
+  {
+    "title": "optuna/optuna",
+    "url": "https://github.com/optuna/optuna",
+    "desc": "A hyperparameter optimization framework",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "desc": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "lang": "Python"
+  }
+]
