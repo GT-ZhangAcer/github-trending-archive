@@ -1,0 +1,152 @@
+[
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "soxoj/maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "desc": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "relt-1/czeditor",
+    "url": "https://github.com/relt-1/czeditor",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "ashawkey/stable-dreamfusion",
+    "url": "https://github.com/ashawkey/stable-dreamfusion",
+    "desc": "A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmcv",
+    "url": "https://github.com/open-mmlab/mmcv",
+    "desc": "OpenMMLab Computer Vision Foundation",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "ageitgey/face_recognition",
+    "url": "https://github.com/ageitgey/face_recognition",
+    "desc": "The world's simplest facial recognition api for Python and the command line",
+    "lang": "Python"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/fairseq",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "octallium/modern-python-101",
+    "url": "https://github.com/octallium/modern-python-101",
+    "desc": "Modern Python 101 - Thinking In Types",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmsegmentation",
+    "url": "https://github.com/open-mmlab/mmsegmentation",
+    "desc": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "danielgatis/rembg",
+    "url": "https://github.com/danielgatis/rembg",
+    "desc": "Rembg is a tool to remove images background.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/xformers",
+    "url": "https://github.com/facebookresearch/xformers",
+    "desc": "Hackable and optimized Transformers building blocks, supporting a composable construction.",
+    "lang": "Python"
+  },
+  {
+    "title": "HazyResearch/manifest",
+    "url": "https://github.com/HazyResearch/manifest",
+    "desc": "Prompt programming with FMs.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  }
+]

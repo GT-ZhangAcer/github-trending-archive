@@ -1,0 +1,149 @@
+[
+  {
+    "title": "AmazingAng/WTF-Solidity",
+    "url": "https://github.com/AmazingAng/WTF-Solidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。",
+    "lang": "Solidity"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "dromara/hutool",
+    "url": "https://github.com/dromara/hutool",
+    "desc": "🍬A set of tools that keep Java sweet.",
+    "lang": "Java"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "desc": "基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",
+    "lang": "Go"
+  },
+  {
+    "title": "Binaryify/NeteaseCloudMusicApi",
+    "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+    "desc": "网易云音乐 Node.js API service",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lenve/vhr",
+    "url": "https://github.com/lenve/vhr",
+    "desc": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。",
+    "lang": "Java"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "elunez/eladmin",
+    "url": "https://github.com/elunez/eladmin",
+    "desc": "项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由",
+    "lang": "Java"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "xuxueli/xxl-job",
+    "url": "https://github.com/xuxueli/xxl-job",
+    "desc": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "lang": "Java"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "BugMaker888/sheep",
+    "url": "https://github.com/BugMaker888/sheep",
+    "desc": "羊了个羊自动生成3d地图",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "gaoxiang12/slambook2",
+    "url": "https://github.com/gaoxiang12/slambook2",
+    "desc": "edition 2 of the slambook",
+    "lang": "C++"
+  },
+  {
+    "title": "foamzou/melody",
+    "url": "https://github.com/foamzou/melody",
+    "desc": "我的音乐精灵",
+    "lang": "Vue"
+  },
+  {
+    "title": "bannedbook/fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "desc": "翻墙-科学上网",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "desc": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "desc": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "lang": "C#"
+  },
+  {
+    "title": "Schira4396/VcenterKiller",
+    "url": "https://github.com/Schira4396/VcenterKiller",
+    "desc": "一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接",
+    "lang": "Go"
+  }
+]
