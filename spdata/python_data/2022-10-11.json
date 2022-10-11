@@ -1,0 +1,152 @@
+[
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "jupyterhub/jupyterhub",
+    "url": "https://github.com/jupyterhub/jupyterhub",
+    "desc": "Multi-user server for Jupyter notebooks",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "frappe/frappe",
+    "url": "https://github.com/frappe/frappe",
+    "desc": "Low code web framework for real world applications, in Python and Javascript",
+    "lang": "Python"
+  },
+  {
+    "title": "AtsushiSakai/PythonRobotics",
+    "url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "desc": "Python sample codes for robotics algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "hacs/integration",
+    "url": "https://github.com/hacs/integration",
+    "desc": "HACS gives you a powerful UI to handle downloads of all your custom needs.",
+    "lang": "Python"
+  },
+  {
+    "title": "ekzhang/inline-sql",
+    "url": "https://github.com/ekzhang/inline-sql",
+    "desc": "🪄 Inline SQL in any Python program",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX Project",
+    "lang": "Python"
+  },
+  {
+    "title": "RotBotSlicer/Transform",
+    "url": "https://github.com/RotBotSlicer/Transform",
+    "desc": "Algorithm for 3D printer with new kinematics",
+    "lang": "Python"
+  },
+  {
+    "title": "KichangKim/DeepDanbooru",
+    "url": "https://github.com/KichangKim/DeepDanbooru",
+    "desc": "AI based multi-label girl image classification system, implemented by using TensorFlow.",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEA-Research/detrex",
+    "url": "https://github.com/IDEA-Research/detrex",
+    "desc": "IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms",
+    "lang": "Python"
+  },
+  {
+    "title": "metafy-social/daily-python-scripts",
+    "url": "https://github.com/metafy-social/daily-python-scripts",
+    "desc": "A repository of python scripts that come in handy in automating day-to-day tasks",
+    "lang": "Python"
+  },
+  {
+    "title": "OPTML-Group/BiP",
+    "url": "https://github.com/OPTML-Group/BiP",
+    "desc": "[NeurIPS22] Advancing Model Pruning via Bi-level Optimization by Yihua Zhang*, Yuguang Yao*, Parikshit Ram, Pu Zhao, Tianlong Chen, Mingyi Hong, Yanzhi Wang, and Sijia Liu",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "jaywalnut310/vits",
+    "url": "https://github.com/jaywalnut310/vits",
+    "desc": "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "zhm-real/PathPlanning",
+    "url": "https://github.com/zhm-real/PathPlanning",
+    "desc": "Common used path planning algorithms with animations.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmclassification",
+    "url": "https://github.com/open-mmlab/mmclassification",
+    "desc": "OpenMMLab Image Classification Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "smallevilbeast/ntchat",
+    "url": "https://github.com/smallevilbeast/ntchat",
+    "desc": "微信SDK, Python微信机器人SDK, Python微信WebApi接口",
+    "lang": "Python"
+  },
+  {
+    "title": "josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "desc": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "lang": "Python"
+  },
+  {
+    "title": "FederatedAI/FATE",
+    "url": "https://github.com/FederatedAI/FATE",
+    "desc": "An Industrial Grade Federated Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "AdminTurnedDevOps/DevOps-The-Hard-Way-AWS",
+    "url": "https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS",
+    "desc": "This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  }
+]
