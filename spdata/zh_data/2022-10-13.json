@@ -1,0 +1,145 @@
+[
+  {
+    "title": "koishijs/novelai-bot",
+    "url": "https://github.com/koishijs/novelai-bot",
+    "desc": "Generate images by NovelAI | 基于 NovelAI 的画图机器人",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "desc": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。"
+  },
+  {
+    "title": "forthespada/CS-Books",
+    "url": "https://github.com/forthespada/CS-Books",
+    "desc": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~"
+  },
+  {
+    "title": "justjavac/awesome-wechat-weapp",
+    "url": "https://github.com/justjavac/awesome-wechat-weapp",
+    "desc": "微信小程序开发资源汇总 💯"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "desc": "🚀一个用来深入学习并实战 Spring Boot 的项目。",
+    "lang": "Java"
+  },
+  {
+    "title": "hua1995116/awesome-ai-painting",
+    "url": "https://github.com/hua1995116/awesome-ai-painting",
+    "desc": "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等）"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "zcyzcy88/TagTable",
+    "url": "https://github.com/zcyzcy88/TagTable",
+    "desc": "[Dump] gelbooru, danbooru, sankaku complex, konachan, yande.re | keywords sheet, experience for image search (关键词/搜图经验)",
+    "lang": "HTML"
+  },
+  {
+    "title": "jynew/jynew",
+    "url": "https://github.com/jynew/jynew",
+    "desc": "群侠传，启动！（原金群3D重制版）",
+    "lang": "C#"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "✍ 一款现代化的开源建站 / CMS 系统。",
+    "lang": "Java"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "didi/KnowStreaming",
+    "url": "https://github.com/didi/KnowStreaming",
+    "desc": "一站式云原生流数据管控平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "jekip/naive-ui-admin",
+    "url": "https://github.com/jekip/naive-ui-admin",
+    "desc": "Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。",
+    "lang": "Vue"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "desc": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "desc": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类"
+  },
+  {
+    "title": "unknwon/the-way-to-go_ZH_CN",
+    "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+    "desc": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+    "lang": "Go"
+  },
+  {
+    "title": "zq2599/blog_demos",
+    "url": "https://github.com/zq2599/blog_demos",
+    "desc": "CSDN博客专家程序员欣宸的github，这里有六百多篇原创文章的详细分类和汇总，以及对应的源码，内容涉及Java、Docker、Kubernetes、DevOPS等方面",
+    "lang": "Java"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+  },
+  {
+    "title": "dunwu/nginx-tutorial",
+    "url": "https://github.com/dunwu/nginx-tutorial",
+    "desc": "这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WeiYe-Jing/datax-web",
+    "url": "https://github.com/WeiYe-Jing/datax-web",
+    "desc": "DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。",
+    "lang": "Java"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "xxjwxc/uber_go_guide_cn",
+    "url": "https://github.com/xxjwxc/uber_go_guide_cn",
+    "desc": "Uber Go 语言编码规范中文版. The Uber Go Style Guide ."
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  }
+]

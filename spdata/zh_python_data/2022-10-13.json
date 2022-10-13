@@ -1,0 +1,152 @@
+[
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "smallevilbeast/ntchat",
+    "url": "https://github.com/smallevilbeast/ntchat",
+    "desc": "微信SDK, Python微信机器人SDK, Python微信WebApi接口",
+    "lang": "Python"
+  },
+  {
+    "title": "fxsjy/jieba",
+    "url": "https://github.com/fxsjy/jieba",
+    "desc": "结巴中文分词",
+    "lang": "Python"
+  },
+  {
+    "title": "rev1si0n/lamda",
+    "url": "https://github.com/rev1si0n/lamda",
+    "desc": "⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/自动化辅助框架，你的工作从未如此简单快捷。",
+    "lang": "Python"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, PPYOLO, PPYOLOv2, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "tkfy920/qstock",
+    "url": "https://github.com/tkfy920/qstock",
+    "desc": "qstock由“Python金融量化”公众号开发，试图打造成个人量化投研分析包，目前包括数据获取（data）、可视化(plot)、选股(stock)和量化回测（策略backtest）模块。 qstock将为用户提供简洁的数据接口和规整化后的金融市场数据。可视化模块为用户提供基于web的交互图形的简单接口； 选股模块提供了同花顺的选股数据和自定义选股，包括RPS、MM趋势、财务指标、资金流模型等； 回测模块为大家提供向量化（基于pandas）和基于事件驱动的基本框架和模型。 关注“Python金融量化“微信公众号，获取更多应用信息。",
+    "lang": "Python"
+  },
+  {
+    "title": "startkkkkkk/Beijing_Daxuexi_Simple",
+    "url": "https://github.com/startkkkkkk/Beijing_Daxuexi_Simple",
+    "desc": "北京 青年大学习 使用Github Actions自动完成",
+    "lang": "Python"
+  },
+  {
+    "title": "TophantTechnology/ARL",
+    "url": "https://github.com/TophantTechnology/ARL",
+    "desc": "ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。",
+    "lang": "Python"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "desc": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "lang": "Python"
+  },
+  {
+    "title": "shmilylty/OneForAll",
+    "url": "https://github.com/shmilylty/OneForAll",
+    "desc": "OneForAll是一款功能强大的子域收集工具",
+    "lang": "Python"
+  },
+  {
+    "title": "wbt5/real-url",
+    "url": "https://github.com/wbt5/real-url",
+    "desc": "获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。",
+    "lang": "Python"
+  },
+  {
+    "title": "shibing624/pycorrector",
+    "url": "https://github.com/shibing624/pycorrector",
+    "desc": "pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer，T5等模型实现，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "wistbean/learn_python3_spider",
+    "url": "https://github.com/wistbean/learn_python3_spider",
+    "desc": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+    "lang": "Python"
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "lang": "Python"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "Python3WebSpider/ProxyPool",
+    "url": "https://github.com/Python3WebSpider/ProxyPool",
+    "desc": "An Efficient ProxyPool with Getter, Tester and Server",
+    "lang": "Python"
+  },
+  {
+    "title": "Justin62628/Squirrel-RIFE",
+    "url": "https://github.com/Justin62628/Squirrel-RIFE",
+    "desc": "效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "0voice/interview_internal_reference",
+    "url": "https://github.com/0voice/interview_internal_reference",
+    "desc": "2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/AI-Writer",
+    "url": "https://github.com/BlinkDL/AI-Writer",
+    "desc": "AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "liuhuanyong/QASystemOnMedicalKG",
+    "url": "https://github.com/liuhuanyong/QASystemOnMedicalKG",
+    "desc": "A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。",
+    "lang": "Python"
+  },
+  {
+    "title": "jhao104/proxy_pool",
+    "url": "https://github.com/jhao104/proxy_pool",
+    "desc": "Python爬虫代理IP池(proxy pool)",
+    "lang": "Python"
+  },
+  {
+    "title": "scooderic/exhentai-tags-chinese-translation",
+    "url": "https://github.com/scooderic/exhentai-tags-chinese-translation",
+    "desc": "E-Hentai/ExHentai 全部 TAGs 中文翻译",
+    "lang": "Python"
+  }
+]
