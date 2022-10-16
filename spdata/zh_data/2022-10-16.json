@@ -1,0 +1,146 @@
+[
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "lang": "Java"
+  },
+  {
+    "title": "koishijs/novelai-bot",
+    "url": "https://github.com/koishijs/novelai-bot",
+    "desc": "Generate images by NovelAI | 基于 NovelAI 的画图机器人",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "VirgilClyne/iRingo",
+    "url": "https://github.com/VirgilClyne/iRingo",
+    "desc": "解锁完整的 Apple功能和集成服务",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "oceanbase/miniob",
+    "url": "https://github.com/oceanbase/miniob",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "bannedbook/fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "desc": "翻墙-科学上网",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "vpncn/vpncn.github.io",
+    "url": "https://github.com/vpncn/vpncn.github.io",
+    "desc": "2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。",
+    "lang": "HTML"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "startkkkkkk/Beijing_Daxuexi_Simple",
+    "url": "https://github.com/startkkkkkk/Beijing_Daxuexi_Simple",
+    "desc": "北京 青年大学习 使用Github Actions自动完成",
+    "lang": "Python"
+  },
+  {
+    "title": "hq450/fancyss",
+    "url": "https://github.com/hq450/fancyss",
+    "desc": "fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.",
+    "lang": "Shell"
+  },
+  {
+    "title": "sudoskys/StableDiffusionBook",
+    "url": "https://github.com/sudoskys/StableDiffusionBook",
+    "desc": "Stable Diffusion Book |关于 Ai 绘画的全面中文Wiki|入门到入土|开源文档",
+    "lang": "HTML"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  },
+  {
+    "title": "FloatTech/ZeroBot-Plugin",
+    "url": "https://github.com/FloatTech/ZeroBot-Plugin",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  },
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "desc": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+    "lang": "C#"
+  },
+  {
+    "title": "unlock-music/unlock-music",
+    "url": "https://github.com/unlock-music/unlock-music",
+    "desc": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。"
+  },
+  {
+    "title": "blackmatrix7/ios_rule_script",
+    "url": "https://github.com/blackmatrix7/ios_rule_script",
+    "desc": "分流规则、重写写规则及脚本。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "leiurayer/downkyi",
+    "url": "https://github.com/leiurayer/downkyi",
+    "desc": "哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。",
+    "lang": "C#"
+  },
+  {
+    "title": "dreamhead/patterns-of-distributed-systems",
+    "url": "https://github.com/dreamhead/patterns-of-distributed-systems",
+    "desc": "《Patterns of Distributed Systems》中文版"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "desc": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "lang": "C#"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "desc": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "lang": "Vue"
+  },
+  {
+    "title": "vaxilu/x-ui",
+    "url": "https://github.com/vaxilu/x-ui",
+    "desc": "支持多协议多用户的 xray 面板",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hua1995116/awesome-ai-painting",
+    "url": "https://github.com/hua1995116/awesome-ai-painting",
+    "desc": "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等）"
+  }
+]
