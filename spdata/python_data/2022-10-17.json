@@ -1,0 +1,152 @@
+[
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "starlite-api/starlite",
+    "url": "https://github.com/starlite-api/starlite",
+    "desc": "Light, Flexible and Extensible ASGI API framework",
+    "lang": "Python"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "In-Database Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/stable-diffusion-deploy",
+    "url": "https://github.com/Lightning-AI/stable-diffusion-deploy",
+    "desc": "Learn to serve Stable Diffusion models on cloud infrastructure at scale. This Lightning App shows load-balancing, orchestrating, pre-provisioning, dynamic batching, GPU-inference, micro-services working together via the Lightning Apps framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "Fluepke/konnektor-patch",
+    "url": "https://github.com/Fluepke/konnektor-patch",
+    "desc": "Saving 400 million euro of public health care money from reckless vendors",
+    "lang": "Python"
+  },
+  {
+    "title": "matrix-org/synapse",
+    "url": "https://github.com/matrix-org/synapse",
+    "desc": "Synapse: Matrix homeserver written in Python 3/Twisted.",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "lutris/lutris",
+    "url": "https://github.com/lutris/lutris",
+    "desc": "Lutris desktop client in Python / PyGObject",
+    "lang": "Python"
+  },
+  {
+    "title": "r0oth3x49/ghauri",
+    "url": "https://github.com/r0oth3x49/ghauri",
+    "desc": "An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws",
+    "lang": "Python"
+  },
+  {
+    "title": "imvast/Discord-Account-Creator",
+    "url": "https://github.com/imvast/Discord-Account-Creator",
+    "desc": "Discord Account/Token Creator + Automatic Server Joiner + Automatic Boosts",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/interactive-coding-challenges",
+    "url": "https://github.com/donnemartin/interactive-coding-challenges",
+    "desc": "120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "WAMAWAMA/wama_medic",
+    "url": "https://github.com/WAMAWAMA/wama_medic",
+    "desc": "A simple-to-use yet function-rich medical image processing toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "KichangKim/DeepDanbooru",
+    "url": "https://github.com/KichangKim/DeepDanbooru",
+    "desc": "AI based multi-label girl image classification system, implemented by using TensorFlow.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "startkkkkkk/Beijing_Daxuexi_Simple",
+    "url": "https://github.com/startkkkkkk/Beijing_Daxuexi_Simple",
+    "desc": "北京 青年大学习 使用Github Actions自动完成",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "JingShing/NovelAI-installation-tutorial",
+    "url": "https://github.com/JingShing/NovelAI-installation-tutorial",
+    "desc": "NovelAI installation tutorial",
+    "lang": "Python"
+  },
+  {
+    "title": "searxng/searxng",
+    "url": "https://github.com/searxng/searxng",
+    "desc": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+    "lang": "Python"
+  }
+]
