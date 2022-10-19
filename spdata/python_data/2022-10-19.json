@@ -1,0 +1,152 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "WeAreMahsaAmini/FreeInternet",
+    "url": "https://github.com/WeAreMahsaAmini/FreeInternet",
+    "desc": "Women, Life, Freedom. The goal of this project is to provide free internet access to Iranian people by any means. #MahsaAmini",
+    "lang": "Python"
+  },
+  {
+    "title": "diego-vicente/som-tsp",
+    "url": "https://github.com/diego-vicente/som-tsp",
+    "desc": "Solving the Traveling Salesman Problem using Self-Organizing Maps",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "desc": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "desc": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "newren/git-filter-repo",
+    "url": "https://github.com/newren/git-filter-repo",
+    "desc": "Quickly rewrite git repository history (filter-branch replacement)",
+    "lang": "Python"
+  },
+  {
+    "title": "deforum-art/deforum-for-automatic1111-webui",
+    "url": "https://github.com/deforum-art/deforum-for-automatic1111-webui",
+    "desc": "Deforum extention script for AUTOMATIC1111's Stable Diffusion webui",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
+    "lang": "Python"
+  },
+  {
+    "title": "OctoPrint/OctoPrint",
+    "url": "https://github.com/OctoPrint/OctoPrint",
+    "desc": "OctoPrint is the snappy web interface for your 3D printer!",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSpeech",
+    "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "desc": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.",
+    "lang": "Python"
+  },
+  {
+    "title": "its-arun/CVE-2022-39197",
+    "url": "https://github.com/its-arun/CVE-2022-39197",
+    "desc": "CobaltStrike <= 4.7.1 RCE",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmediting",
+    "url": "https://github.com/open-mmlab/mmediting",
+    "desc": "MMEditing is a low-level vision toolbox based on PyTorch, supporting super-resolution, inpainting, matting, video interpolation, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "desc": "scikit-learn: machine learning in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "benrugg/AI-Render",
+    "url": "https://github.com/benrugg/AI-Render",
+    "desc": "Stable Diffusion in Blender",
+    "lang": "Python"
+  },
+  {
+    "title": "starlite-api/starlite",
+    "url": "https://github.com/starlite-api/starlite",
+    "desc": "Light, Flexible and Extensible ASGI API framework",
+    "lang": "Python"
+  },
+  {
+    "title": "demisto/content",
+    "url": "https://github.com/demisto/content",
+    "desc": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
+    "lang": "Python"
+  },
+  {
+    "title": "Visual-Attention-Network/SegNeXt",
+    "url": "https://github.com/Visual-Attention-Network/SegNeXt",
+    "desc": "Official Pytorch implementations for SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation (NeurIPS 2022)",
+    "lang": "Python"
+  },
+  {
+    "title": "JustAnotherArchivist/snscrape",
+    "url": "https://github.com/JustAnotherArchivist/snscrape",
+    "desc": "A social networking service scraper in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "desc": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmsegmentation",
+    "url": "https://github.com/open-mmlab/mmsegmentation",
+    "desc": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "wkentaro/labelme",
+    "url": "https://github.com/wkentaro/labelme",
+    "desc": "Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).",
+    "lang": "Python"
+  }
+]
