@@ -1,0 +1,148 @@
+[
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "desc": "🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.",
+    "lang": "Rust"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "desc": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "lang": "Java"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "desc": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "tw93/MiaoYan",
+    "url": "https://github.com/tw93/MiaoYan",
+    "desc": "⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言",
+    "lang": "Swift"
+  },
+  {
+    "title": "OI-wiki/OI-wiki",
+    "url": "https://github.com/OI-wiki/OI-wiki",
+    "desc": "🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "desc": "收集整理 GitHub 上高质量、有趣的开源项目。"
+  },
+  {
+    "title": "Blinue/Magpie",
+    "url": "https://github.com/Blinue/Magpie",
+    "desc": "使游戏窗口全屏显示",
+    "lang": "HLSL"
+  },
+  {
+    "title": "Kaiyiwing/qwerty-learner",
+    "url": "https://github.com/Kaiyiwing/qwerty-learner",
+    "desc": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/canal",
+    "url": "https://github.com/alibaba/canal",
+    "desc": "阿里巴巴 MySQL binlog 增量订阅&消费组件",
+    "lang": "Java"
+  },
+  {
+    "title": "liyupi/code-roadmap",
+    "url": "https://github.com/liyupi/code-roadmap",
+    "desc": "原创编程学习路线，包括全面的知识点、免费资源、面试题、学习建议、项目，适用于所有学习编程、求职的同学。已完成 Java、前端"
+  },
+  {
+    "title": "lxhao61/integrated-examples",
+    "url": "https://github.com/lxhao61/integrated-examples",
+    "desc": "以Xray或v2ray（V4）、trojan或trojan-go、naiveproxy、hysteria等打造科学上网的优化配置及最优组合示例，且提供集成常用插件的caddy（caddy2）程序，分享给大家食用及自己备份。",
+    "lang": "Shell"
+  },
+  {
+    "title": "Le-niao/Yunzai-Bot",
+    "url": "https://github.com/Le-niao/Yunzai-Bot",
+    "desc": "原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Semporia/TikTok-Unlock",
+    "url": "https://github.com/Semporia/TikTok-Unlock",
+    "desc": "TikTok免拔卡解锁最新支持 iPhone （iOS 16.1） 、TikTok（V26.4.1）、TikTok TestFlight 26.5.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！"
+  },
+  {
+    "title": "layui/layui",
+    "url": "https://github.com/layui/layui",
+    "desc": "一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1",
+    "url": "https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1",
+    "desc": "Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/T…",
+    "lang": "Brainfuck"
+  },
+  {
+    "title": "sudoskys/StableDiffusionBook",
+    "url": "https://github.com/sudoskys/StableDiffusionBook",
+    "desc": "Stable Diffusion Book |关于 Ai 绘画的全面中文Wiki|入门到入土|开源文档",
+    "lang": "HTML"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "desc": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "chuzhixin/vue-admin-better",
+    "url": "https://github.com/chuzhixin/vue-admin-better",
+    "desc": "🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+    "lang": "Vue"
+  },
+  {
+    "title": "guanzhi/GmSSL",
+    "url": "https://github.com/guanzhi/GmSSL",
+    "desc": "支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱",
+    "lang": "C"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  }
+]
