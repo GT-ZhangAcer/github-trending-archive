@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmrotate",
+    "url": "https://github.com/open-mmlab/mmrotate",
+    "desc": "OpenMMLab Rotated Object Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "lkwq007/stablediffusion-infinity",
+    "url": "https://github.com/lkwq007/stablediffusion-infinity",
+    "desc": "Outpainting with Stable Diffusion on an infinite canvas",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of SOTA Quant research works/papers are released in Qlib.",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "desc": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/fluentui-emoji",
+    "url": "https://github.com/microsoft/fluentui-emoji",
+    "desc": "A collection of familiar, friendly, and modern emoji from Microsoft",
+    "lang": "Python"
+  },
+  {
+    "title": "FTM-Labs/Aptos-NFT-Mint",
+    "url": "https://github.com/FTM-Labs/Aptos-NFT-Mint",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "some9000/StylePile",
+    "url": "https://github.com/some9000/StylePile",
+    "desc": "A helper script for AUTOMATIC1111/stable-diffusion-webui Basically a mix and match to quickly get different results without wasting a lot of time writing prompts.",
+    "lang": "Python"
+  },
+  {
+    "title": "kitao/pyxel",
+    "url": "https://github.com/kitao/pyxel",
+    "desc": "A retro game engine for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "spotDL/spotify-downloader",
+    "url": "https://github.com/spotDL/spotify-downloader",
+    "desc": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+    "lang": "Python"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "desc": "Experience macOS just like before",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "adieyal/sd-dynamic-prompting",
+    "url": "https://github.com/adieyal/sd-dynamic-prompting",
+    "desc": "A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation",
+    "lang": "Python"
+  },
+  {
+    "title": "nv-tlabs/GET3D",
+    "url": "https://github.com/nv-tlabs/GET3D",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/fairseq",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "h9-tect/Machine-learning-roadmap-and-projects",
+    "url": "https://github.com/h9-tect/Machine-learning-roadmap-and-projects",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "mementum/backtrader",
+    "url": "https://github.com/mementum/backtrader",
+    "desc": "Python Backtesting library for trading strategies",
+    "lang": "Python"
+  }
+]

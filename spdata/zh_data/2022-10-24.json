@@ -1,0 +1,149 @@
+[
+  {
+    "title": "liyupi/sql-father-backend-public",
+    "url": "https://github.com/liyupi/sql-father-backend-public",
+    "desc": "新项目：快速生成 SQL 和模拟数据的网站（Java 后端），大幅提高开发测试效率！by 程序员鱼皮",
+    "lang": "Java"
+  },
+  {
+    "title": "liyupi/sql-father-frontend-public",
+    "url": "https://github.com/liyupi/sql-father-frontend-public",
+    "desc": "新项目：快速生成 SQL 和模拟数据的网站（React 前端），大幅提高开发测试效率！by 程序员鱼皮",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MonsterNone/tmall-miao",
+    "url": "https://github.com/MonsterNone/tmall-miao",
+    "desc": "喵币助手：618天猫（淘宝）、京东任务一键完成。基于Auto.JS。打包版已做防检测处理。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "lang": "Markdown"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "hua1995116/awesome-ai-painting",
+    "url": "https://github.com/hua1995116/awesome-ai-painting",
+    "desc": "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等）"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "Markdown"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+    "lang": "Shell"
+  },
+  {
+    "title": "vaxilu/x-ui",
+    "url": "https://github.com/vaxilu/x-ui",
+    "desc": "支持多协议多用户的 xray 面板",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MatsuriDayo/nekoray",
+    "url": "https://github.com/MatsuriDayo/nekoray",
+    "desc": "基于 Qt/C++ 的跨平台代理配置管理器 / v2ray sing-box GUI客户端 / Qt/C++ based cross-platform proxy configuration manager / v2ray sing-box GUI client",
+    "lang": "C++"
+  },
+  {
+    "title": "6dylan6/jdpro",
+    "url": "https://github.com/6dylan6/jdpro",
+    "desc": "青龙脚本库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "flightsteed/oms-erp",
+    "url": "https://github.com/flightsteed/oms-erp",
+    "desc": "一站式中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。",
+    "lang": "Java"
+  },
+  {
+    "title": "czj2369/jd_tb_auto",
+    "url": "https://github.com/czj2369/jd_tb_auto",
+    "desc": "基于AutoJsx编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币||炸年兽任务自动完成脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "the1812/Bilibili-Evolved",
+    "url": "https://github.com/the1812/Bilibili-Evolved",
+    "desc": "强大的哔哩哔哩增强脚本",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "desc": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+    "lang": "C#"
+  },
+  {
+    "title": "zealotCE/America-Against-America",
+    "url": "https://github.com/zealotCE/America-Against-America",
+    "desc": "《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界",
+    "lang": "Python"
+  },
+  {
+    "title": "itgoyo/TelegramGroup",
+    "url": "https://github.com/itgoyo/TelegramGroup",
+    "desc": "悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests"
+  },
+  {
+    "title": "mack-a/v2ray-agent",
+    "url": "https://github.com/mack-a/v2ray-agent",
+    "desc": "（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装",
+    "lang": "Shell"
+  },
+  {
+    "title": "jeessy2/ddns-go",
+    "url": "https://github.com/jeessy2/ddns-go",
+    "desc": "简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、华为云、百度云、porkbun)",
+    "lang": "Go"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "JDHelloWorld/jd_scripts",
+    "url": "https://github.com/JDHelloWorld/jd_scripts",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  }
+]
