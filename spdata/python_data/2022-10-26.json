@@ -1,0 +1,152 @@
+[
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "desc": "Experience macOS just like before",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "desc": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
+    "lang": "Python"
+  },
+  {
+    "title": "nerfstudio-project/nerfstudio",
+    "url": "https://github.com/nerfstudio-project/nerfstudio",
+    "desc": "A collaboration friendly studio for NeRFs",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "mesonbuild/meson",
+    "url": "https://github.com/mesonbuild/meson",
+    "desc": "The Meson Build System",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection3d",
+    "url": "https://github.com/open-mmlab/mmdetection3d",
+    "desc": "OpenMMLab's next-generation platform for general 3D object detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "FTM-Labs/Aptos-NFT-Mint",
+    "url": "https://github.com/FTM-Labs/Aptos-NFT-Mint",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "pyinstaller/pyinstaller",
+    "url": "https://github.com/pyinstaller/pyinstaller",
+    "desc": "Freeze (package) Python programs into stand-alone executables",
+    "lang": "Python"
+  },
+  {
+    "title": "corpnewt/gibMacOS",
+    "url": "https://github.com/corpnewt/gibMacOS",
+    "desc": "Py2/py3 script that can download macOS components direct from Apple",
+    "lang": "Python"
+  },
+  {
+    "title": "matrix-org/synapse",
+    "url": "https://github.com/matrix-org/synapse",
+    "desc": "Synapse: Matrix homeserver written in Python/Twisted.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmyolo",
+    "url": "https://github.com/open-mmlab/mmyolo",
+    "desc": "OpenMMLab YOLO series toolbox and benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/scenic",
+    "url": "https://github.com/google-research/scenic",
+    "desc": "Scenic: A Jax Library for Computer Vision Research and Beyond",
+    "lang": "Python"
+  },
+  {
+    "title": "zenml-io/zenml",
+    "url": "https://github.com/zenml-io/zenml",
+    "desc": "ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.",
+    "lang": "Python"
+  },
+  {
+    "title": "rev1si0n/lamda",
+    "url": "https://github.com/rev1si0n/lamda",
+    "desc": "⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/自动化辅助框架，你的工作从未如此简单快捷。",
+    "lang": "Python"
+  },
+  {
+    "title": "derv82/wifite2",
+    "url": "https://github.com/derv82/wifite2",
+    "desc": "Rewrite of the popular wireless network auditor, wifite",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/OpenPCDet",
+    "url": "https://github.com/open-mmlab/OpenPCDet",
+    "desc": "OpenPCDet Toolbox for LiDAR-based 3D Object Detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "snowflakedb/snowflake-connector-python",
+    "url": "https://github.com/snowflakedb/snowflake-connector-python",
+    "desc": "Snowflake Connector for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/prophet",
+    "url": "https://github.com/facebook/prophet",
+    "desc": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients",
+    "desc": "Aesthetic gradients extension for web ui",
+    "lang": "Python"
+  },
+  {
+    "title": "ifzhang/ByteTrack",
+    "url": "https://github.com/ifzhang/ByteTrack",
+    "desc": "[ECCV 2022] ByteTrack: Multi-Object Tracking by Associating Every Detection Box",
+    "lang": "Python"
+  }
+]
