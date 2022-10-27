@@ -1,0 +1,149 @@
+[
+  {
+    "title": "jetlinks/jetlinks-community",
+    "url": "https://github.com/jetlinks/jetlinks-community",
+    "desc": "JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。",
+    "lang": "Java"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "Markdown"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "lang": "Java"
+  },
+  {
+    "title": "midoks/mdserver-web",
+    "url": "https://github.com/midoks/mdserver-web",
+    "desc": "Simple Linux Panel",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "forthespada/CampusShame",
+    "url": "https://github.com/forthespada/CampusShame",
+    "desc": "互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想绵薄之力！"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "lzyAB/link-helper",
+    "url": "https://github.com/lzyAB/link-helper",
+    "desc": "支持下载飞猫云、kufile等15+网赚网盘的油猴脚本！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "desc": "人人可用的开源数据可视化分析工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "czj2369/jd_tb_auto",
+    "url": "https://github.com/czj2369/jd_tb_auto",
+    "desc": "基于AutoJsx编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币||炸年兽任务自动完成脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bannedbook/fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "desc": "翻墙-科学上网",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "guanzhi/GmSSL",
+    "url": "https://github.com/guanzhi/GmSSL",
+    "desc": "支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱",
+    "lang": "C"
+  },
+  {
+    "title": "p4gefau1t/trojan-go",
+    "url": "https://github.com/p4gefau1t/trojan-go",
+    "desc": "Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/",
+    "lang": "Go"
+  },
+  {
+    "title": "HyNetwork/hysteria",
+    "url": "https://github.com/HyNetwork/hysteria",
+    "desc": "Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",
+    "lang": "Go"
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kelvinBen/AppInfoScanner",
+    "url": "https://github.com/kelvinBen/AppInfoScanner",
+    "desc": "一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "648540858/wvp-GB28181-pro",
+    "url": "https://github.com/648540858/wvp-GB28181-pro",
+    "desc": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+    "lang": "Java"
+  },
+  {
+    "title": "HummerRisk/HummerRisk",
+    "url": "https://github.com/HummerRisk/HummerRisk",
+    "desc": "HummerRisk 是云原生安全平台，包括混合云安全治理和容器云安全检测。",
+    "lang": "Java"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "yangzongzhuan/RuoYi",
+    "url": "https://github.com/yangzongzhuan/RuoYi",
+    "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用",
+    "lang": "HTML"
+  },
+  {
+    "title": "geekan/HowToLiveLonger",
+    "url": "https://github.com/geekan/HowToLiveLonger",
+    "desc": "程序员延寿指南 | A programmer's guide to live longer"
+  },
+  {
+    "title": "BlinkDL/AI-Writer",
+    "url": "https://github.com/BlinkDL/AI-Writer",
+    "desc": "AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "ilovexjp/trip-card",
+    "url": "https://github.com/ilovexjp/trip-card",
+    "desc": "通信大数据行程卡模拟"
+  },
+  {
+    "title": "shengqiangzhang/examples-of-web-crawlers",
+    "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "desc": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",
+    "lang": "Python"
+  }
+]

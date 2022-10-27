@@ -1,0 +1,152 @@
+[
+  {
+    "title": "nerfstudio-project/nerfstudio",
+    "url": "https://github.com/nerfstudio-project/nerfstudio",
+    "desc": "A collaboration friendly studio for NeRFs",
+    "lang": "Python"
+  },
+  {
+    "title": "bumble-tech/private-detector",
+    "url": "https://github.com/bumble-tech/private-detector",
+    "desc": "Bumble's Private Detector - a pretrained model for detecting lewd images",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "desc": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "desc": "Experience macOS just like before",
+    "lang": "Python"
+  },
+  {
+    "title": "yfszzx/stable-diffusion-webui-images-browser",
+    "url": "https://github.com/yfszzx/stable-diffusion-webui-images-browser",
+    "desc": "an images browse for stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "matrix-org/synapse",
+    "url": "https://github.com/matrix-org/synapse",
+    "desc": "Synapse: Matrix homeserver written in Python/Twisted.",
+    "lang": "Python"
+  },
+  {
+    "title": "FTM-Labs/Aptos-NFT-Mint",
+    "url": "https://github.com/FTM-Labs/Aptos-NFT-Mint",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/encodec",
+    "url": "https://github.com/facebookresearch/encodec",
+    "desc": "State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python packaging and dependency management made easy",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "pyca/cryptography",
+    "url": "https://github.com/pyca/cryptography",
+    "desc": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "desc": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "pyinstaller/pyinstaller",
+    "url": "https://github.com/pyinstaller/pyinstaller",
+    "desc": "Freeze (package) Python programs into stand-alone executables",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "triton-inference-server/server",
+    "url": "https://github.com/triton-inference-server/server",
+    "desc": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+    "lang": "Python"
+  },
+  {
+    "title": "openvinotoolkit/open_model_zoo",
+    "url": "https://github.com/openvinotoolkit/open_model_zoo",
+    "desc": "Pre-trained Deep Learning models and demos (high quality and extremely fast)",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/scenic",
+    "url": "https://github.com/google-research/scenic",
+    "desc": "Scenic: A Jax Library for Computer Vision Research and Beyond",
+    "lang": "Python"
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "desc": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmengine",
+    "url": "https://github.com/open-mmlab/mmengine",
+    "desc": "OpenMMLab Foundational Library for Training Deep Learning Models",
+    "lang": "Python"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  }
+]
