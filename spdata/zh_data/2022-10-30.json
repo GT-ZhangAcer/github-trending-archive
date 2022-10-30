@@ -1,0 +1,148 @@
+[
+  {
+    "title": "AmazingAng/WTF-Solidity",
+    "url": "https://github.com/AmazingAng/WTF-Solidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy",
+    "lang": "Solidity"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "yuesong-feng/30dayMakeCppServer",
+    "url": "https://github.com/yuesong-feng/30dayMakeCppServer",
+    "desc": "30天自制C++服务器，包含教程和源代码",
+    "lang": "C++"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vernesong/OpenClash",
+    "url": "https://github.com/vernesong/OpenClash",
+    "desc": "A Clash Client For OpenWrt",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yeahwu/v2ray-wss",
+    "url": "https://github.com/yeahwu/v2ray-wss",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "greycodee/wechat-backup",
+    "url": "https://github.com/greycodee/wechat-backup",
+    "desc": "微信聊天记录持久化备份本地硬盘，释放手机存储空间。",
+    "lang": "Go"
+  },
+  {
+    "title": "FloatTech/ZeroBot-Plugin",
+    "url": "https://github.com/FloatTech/ZeroBot-Plugin",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  },
+  {
+    "title": "blackmatrix7/ios_rule_script",
+    "url": "https://github.com/blackmatrix7/ios_rule_script",
+    "desc": "分流规则、重写写规则及脚本。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DivineEngine/Profiles",
+    "url": "https://github.com/DivineEngine/Profiles",
+    "desc": "🌐Dial-up Internet access"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "XrayR-project/XrayR",
+    "url": "https://github.com/XrayR-project/XrayR",
+    "desc": "A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",
+    "lang": "Go"
+  },
+  {
+    "title": "kirin10000/Xray-script",
+    "url": "https://github.com/kirin10000/Xray-script",
+    "desc": "Xray：（VLESS/VMess）-（TCP/gRPC/WebSocket）-（XTLS/TLS）+Web 搭建/管理脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "Semporia/TikTok-Unlock",
+    "url": "https://github.com/Semporia/TikTok-Unlock",
+    "desc": "TikTok免拔卡解锁最新支持 iPhone （iOS 16.2） 、TikTok（V26.6.1）、TikTok TestFlight 26.7.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！"
+  },
+  {
+    "title": "mack-a/v2ray-agent",
+    "url": "https://github.com/mack-a/v2ray-agent",
+    "desc": "（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装",
+    "lang": "Shell"
+  },
+  {
+    "title": "KingRan/KR",
+    "url": "https://github.com/KingRan/KR",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "desc": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "lang": "Vue"
+  },
+  {
+    "title": "yoimiya-kokomi/miao-plugin",
+    "url": "https://github.com/yoimiya-kokomi/miao-plugin",
+    "desc": "Miao-Plugin for Yunzai-Bot",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pppscn/SmsForwarder",
+    "url": "https://github.com/pppscn/SmsForwarder",
+    "desc": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、智能排版合并段落、适应横/竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "jetlinks/jetlinks-community",
+    "url": "https://github.com/jetlinks/jetlinks-community",
+    "desc": "JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。",
+    "lang": "Java"
+  },
+  {
+    "title": "jaywcjlove/reference",
+    "url": "https://github.com/jaywcjlove/reference",
+    "desc": "为开发人员分享快速参考备忘单(主要是方便自己)。",
+    "lang": "JavaScript"
+  }
+]

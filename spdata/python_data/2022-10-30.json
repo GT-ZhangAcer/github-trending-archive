@@ -1,0 +1,152 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleHub",
+    "url": "https://github.com/PaddlePaddle/PaddleHub",
+    "desc": "Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)",
+    "lang": "Python"
+  },
+  {
+    "title": "JustAnotherArchivist/snscrape",
+    "url": "https://github.com/JustAnotherArchivist/snscrape",
+    "desc": "A social networking service scraper in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "desc": "Experience macOS just like before",
+    "lang": "Python"
+  },
+  {
+    "title": "Yetiowner/Increasing-code-complexity",
+    "url": "https://github.com/Yetiowner/Increasing-code-complexity",
+    "desc": "Every day, I commit a new and more complicated version of some simple code.",
+    "lang": "Python"
+  },
+  {
+    "title": "anasty17/mirror-leech-telegram-bot",
+    "url": "https://github.com/anasty17/mirror-leech-telegram-bot",
+    "desc": "Official Repository: Telegram bot which can download torrents, mega, google drive, telegram file and direct links + all yt-dlp supported sites, then upload them to google drive or telegram cloud. This bot supports more features like zip or extract before upload, seed after upload using qBittorrent or aria2c and many more, read features below.",
+    "lang": "Python"
+  },
+  {
+    "title": "bkerler/mtkclient",
+    "url": "https://github.com/bkerler/mtkclient",
+    "desc": "MTK reverse engineering and flash tool",
+    "lang": "Python"
+  },
+  {
+    "title": "weebzone/WZML",
+    "url": "https://github.com/weebzone/WZML",
+    "desc": "A Powerful Pyrogram Based Telegram Mirror Leech Bot Modded by Codewithweeb to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirroring & Leeching",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "desc": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "AndrewEllis93/Print-Tuning-Guide",
+    "url": "https://github.com/AndrewEllis93/Print-Tuning-Guide",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "corpnewt/gibMacOS",
+    "url": "https://github.com/corpnewt/gibMacOS",
+    "desc": "Py2/py3 script that can download macOS components direct from Apple",
+    "lang": "Python"
+  },
+  {
+    "title": "matplotlib/cheatsheets",
+    "url": "https://github.com/matplotlib/cheatsheets",
+    "desc": "Official Matplotlib cheat sheets",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "spotDL/spotify-downloader",
+    "url": "https://github.com/spotDL/spotify-downloader",
+    "desc": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+    "lang": "Python"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "davidbombal/red-python-scripts",
+    "url": "https://github.com/davidbombal/red-python-scripts",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and web app—powerful open source team chat",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  }
+]
