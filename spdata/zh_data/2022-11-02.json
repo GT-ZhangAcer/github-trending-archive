@@ -1,0 +1,144 @@
+[
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "lidangzzz/How-to-run",
+    "url": "https://github.com/lidangzzz/How-to-run",
+    "desc": "立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "desc": "天涯 kkndme 神贴聊房价"
+  },
+  {
+    "title": "ilovexjp/jkb-simulator",
+    "url": "https://github.com/ilovexjp/jkb-simulator",
+    "desc": "基于 Web 的北京健康宝模拟"
+  },
+  {
+    "title": "710765989/my_textual_inversions",
+    "url": "https://github.com/710765989/my_textual_inversions",
+    "desc": "个人训练的自用模型"
+  },
+  {
+    "title": "linhaojun857/aurora-public",
+    "url": "https://github.com/linhaojun857/aurora-public",
+    "desc": "基于SpringBoot+Vue开发的个人博客系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "bumingbaipod/podcast",
+    "url": "https://github.com/bumingbaipod/podcast",
+    "desc": "此 GitHub 作为《不明白播客》官网的备份站，用于分享文字版播客。 版权所有 ©️ 不明白播客 bumingbai.net"
+  },
+  {
+    "title": "ilovexjp/trip-card",
+    "url": "https://github.com/ilovexjp/trip-card",
+    "desc": "通信大数据行程卡模拟"
+  },
+  {
+    "title": "H4de5-7/geacon_pro",
+    "url": "https://github.com/H4de5-7/geacon_pro",
+    "desc": "跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本。 A cobaltstrike Beacon bypass anti-virus, supports 4.1+ version.",
+    "lang": "Go"
+  },
+  {
+    "title": "Tencent/puerts",
+    "url": "https://github.com/Tencent/puerts",
+    "desc": "普洱TS！Write your game with TypeScript in UE or Unity. PuerTS can be pronounced as pu-erh TS",
+    "lang": "C++"
+  },
+  {
+    "title": "macrozheng/mall-swarm",
+    "url": "https://github.com/macrozheng/mall-swarm",
+    "desc": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud 2021 & Alibaba、Spring Boot 2.7、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。",
+    "lang": "Java"
+  },
+  {
+    "title": "tianqiraf/DouZero_For_HappyDouDiZhu",
+    "url": "https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu",
+    "desc": "基于DouZero定制AI实战欢乐斗地主",
+    "lang": "Python"
+  },
+  {
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "desc": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。 https://taro.zone/",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MustangYM/WeChatExtension-ForMac",
+    "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
+    "desc": "Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "Cyril0563/lanjing_live",
+    "url": "https://github.com/Cyril0563/lanjing_live",
+    "desc": "🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看"
+  },
+  {
+    "title": "antvis/G6",
+    "url": "https://github.com/antvis/G6",
+    "desc": "♾ A Graph Visualization Framework in JavaScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "lang": "Java"
+  },
+  {
+    "title": "macrozheng/mall-learning",
+    "url": "https://github.com/macrozheng/mall-learning",
+    "desc": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（50k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/canal",
+    "url": "https://github.com/alibaba/canal",
+    "desc": "阿里巴巴 MySQL binlog 增量订阅&消费组件",
+    "lang": "Java"
+  },
+  {
+    "title": "xuxueli/xxl-job",
+    "url": "https://github.com/xuxueli/xxl-job",
+    "desc": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "lang": "Java"
+  },
+  {
+    "title": "didi/LogicFlow",
+    "url": "https://github.com/didi/LogicFlow",
+    "desc": "A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  }
+]
