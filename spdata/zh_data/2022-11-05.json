@@ -1,0 +1,145 @@
+[
+  {
+    "title": "alibaba/havenask",
+    "url": "https://github.com/alibaba/havenask",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "ssnhd/googlevoice",
+    "url": "https://github.com/ssnhd/googlevoice",
+    "desc": "注册 Google Voice 号码详细步骤"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "desc": "收集整理 GitHub 上高质量、有趣的开源项目。"
+  },
+  {
+    "title": "lidangzzz/How-to-run",
+    "url": "https://github.com/lidangzzz/How-to-run",
+    "desc": "立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "yichengchen/ATV-Bilibili-demo",
+    "url": "https://github.com/yichengchen/ATV-Bilibili-demo",
+    "desc": "BiliBili Live Client Demo for Apple TV (tvOS)",
+    "lang": "Swift"
+  },
+  {
+    "title": "cloudreve/Cloudreve",
+    "url": "https://github.com/cloudreve/Cloudreve",
+    "desc": "🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",
+    "lang": "Go"
+  },
+  {
+    "title": "xiaojieonly/Ehviewer_CN_SXJ",
+    "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+    "desc": "ehviewer，用爱发电，快乐前行",
+    "lang": "Java"
+  },
+  {
+    "title": "ilovexjp/health-code-index",
+    "url": "https://github.com/ilovexjp/health-code-index",
+    "desc": "健康码模拟 - 索引",
+    "lang": "HTML"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "xxlllq/system_architect",
+    "url": "https://github.com/xxlllq/system_architect",
+    "desc": "💯2022年系统架构设计师（软考高级）备考资源库。",
+    "lang": "HTML"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "desc": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "lang": "HTML"
+  },
+  {
+    "title": "FJ-OMS/oms-erp",
+    "url": "https://github.com/FJ-OMS/oms-erp",
+    "desc": "一站式全渠道业务中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。",
+    "lang": "Java"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "desc": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+    "lang": "C++"
+  },
+  {
+    "title": "changgyhub/leetcode_101",
+    "url": "https://github.com/changgyhub/leetcode_101",
+    "desc": "LeetCode 101：和你一起你轻松刷题（C++）"
+  },
+  {
+    "title": "aardio/Ghips",
+    "url": "https://github.com/aardio/Ghips",
+    "desc": "GitHub 网速优化与修复工具"
+  },
+  {
+    "title": "hellojuantu/image_border_optimizer",
+    "url": "https://github.com/hellojuantu/image_border_optimizer",
+    "desc": "轻量化的图片编辑器",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tylearymf/UniHacker",
+    "url": "https://github.com/tylearymf/UniHacker",
+    "desc": "Patch all versions of Unity3D and UnityHub",
+    "lang": "C#"
+  },
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "desc": "🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.",
+    "lang": "Rust"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+  },
+  {
+    "title": "DataV-Team/DataV",
+    "url": "https://github.com/DataV-Team/DataV",
+    "desc": "Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)",
+    "lang": "Vue"
+  },
+  {
+    "title": "tyIceStream/GLaDOS_Checkin",
+    "url": "https://github.com/tyIceStream/GLaDOS_Checkin",
+    "desc": "GLaDOS automatic check-in bypassing CloudFlare using github action",
+    "lang": "Python"
+  },
+  {
+    "title": "ShawnZhang31/cmit_faceswap",
+    "url": "https://github.com/ShawnZhang31/cmit_faceswap",
+    "desc": "Face Swap for CMIT",
+    "lang": "Python"
+  }
+]
