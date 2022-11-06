@@ -1,0 +1,152 @@
+[
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/typer",
+    "url": "https://github.com/tiangolo/typer",
+    "desc": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/calibre",
+    "url": "https://github.com/kovidgoyal/calibre",
+    "desc": "The official source code repository for the calibre ebook manager",
+    "lang": "Python"
+  },
+  {
+    "title": "carson-katri/dream-textures",
+    "url": "https://github.com/carson-katri/dream-textures",
+    "desc": "Stable Diffusion built-in to the Blender shader editor",
+    "lang": "Python"
+  },
+  {
+    "title": "mininet/mininet",
+    "url": "https://github.com/mininet/mininet",
+    "desc": "Emulator for rapid prototyping of Software Defined Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "desc": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "lang": "Python"
+  },
+  {
+    "title": "Serhiodev/Aptos_Bluemove_mint_bot",
+    "url": "https://github.com/Serhiodev/Aptos_Bluemove_mint_bot",
+    "desc": "Private Aptos Minting Bot | Bluemove Lounchpad",
+    "lang": "Python"
+  },
+  {
+    "title": "tssovi/grokking-the-object-oriented-design-interview",
+    "url": "https://github.com/tssovi/grokking-the-object-oriented-design-interview",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "CjangCjengh/MoeGoe",
+    "url": "https://github.com/CjangCjengh/MoeGoe",
+    "desc": "Executable file for VITS inference",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/pyright",
+    "url": "https://github.com/microsoft/pyright",
+    "desc": "Static type checker for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "NPCat/bad-apple-bot",
+    "url": "https://github.com/NPCat/bad-apple-bot",
+    "desc": "the discord bot from this video: https://www.youtube.com/watch?v=PLP9c0Z4Q3Y",
+    "lang": "Python"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "drivendata/cookiecutter-data-science",
+    "url": "https://github.com/drivendata/cookiecutter-data-science",
+    "desc": "A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.",
+    "lang": "Python"
+  },
+  {
+    "title": "otto-de/recsys-dataset",
+    "url": "https://github.com/otto-de/recsys-dataset",
+    "desc": "🛍 A real-world e-commerce dataset for multi-objective recommender systems research.",
+    "lang": "Python"
+  },
+  {
+    "title": "Bdenneu/CVE-2022-33679",
+    "url": "https://github.com/Bdenneu/CVE-2022-33679",
+    "desc": "One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html",
+    "lang": "Python"
+  },
+  {
+    "title": "derv82/wifite2",
+    "url": "https://github.com/derv82/wifite2",
+    "desc": "Rewrite of the popular wireless network auditor, wifite",
+    "lang": "Python"
+  },
+  {
+    "title": "django/django",
+    "url": "https://github.com/django/django",
+    "desc": "The Web framework for perfectionists with deadlines.",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlmapproject/sqlmap",
+    "url": "https://github.com/sqlmapproject/sqlmap",
+    "desc": "Automatic SQL injection and database takeover tool",
+    "lang": "Python"
+  },
+  {
+    "title": "bhattsameer/Bombers",
+    "url": "https://github.com/bhattsameer/Bombers",
+    "desc": "SMS/Email/Whatsapp/Twitter/Instagram bombers Collection 💣💣💣 💥 Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.",
+    "lang": "Python"
+  }
+]

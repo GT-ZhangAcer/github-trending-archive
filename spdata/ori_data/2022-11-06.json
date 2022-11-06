@@ -1,0 +1,150 @@
+[
+  {
+    "title": "stashapp/stash",
+    "url": "https://github.com/stashapp/stash",
+    "desc": "An organizer for your porn, written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "alibaba/higress",
+    "url": "https://github.com/alibaba/higress",
+    "desc": "Next-generation Cloud Native Gateway",
+    "lang": "C++"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "lang": "Java"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "huggingface/diffusion-models-class",
+    "url": "https://github.com/huggingface/diffusion-models-class",
+    "desc": "Materials for the Hugging Face Diffusion Models Course"
+  },
+  {
+    "title": "tiangolo/typer",
+    "url": "https://github.com/tiangolo/typer",
+    "desc": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+    "lang": "Python"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "Netflix/conductor",
+    "url": "https://github.com/Netflix/conductor",
+    "desc": "Conductor is a microservices orchestration engine.",
+    "lang": "Java"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "desc": "Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "desc": "The content behind MDN Web Docs",
+    "lang": "Markdown"
+  },
+  {
+    "title": "rocketseat-education/nlw-copa-ignite",
+    "url": "https://github.com/rocketseat-education/nlw-copa-ignite",
+    "desc": "Projeto desenvolvido durante a Next Level Week Copa, na trilha Ignite.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "desc": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "lang": "Go"
+  },
+  {
+    "title": "Ehviewer-Overhauled/Ehviewer",
+    "url": "https://github.com/Ehviewer-Overhauled/Ehviewer",
+    "desc": "EhViewer overhauled with Material Design 3 and more",
+    "lang": "Java"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "desc": "Windows Package Manager CLI (aka winget)",
+    "lang": "C++"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "lidangzzz/How-to-run",
+    "url": "https://github.com/lidangzzz/How-to-run",
+    "desc": "立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "pygame/pygame",
+    "url": "https://github.com/pygame/pygame",
+    "desc": "🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+    "lang": "C"
+  },
+  {
+    "title": "pi-hole/docker-pi-hole",
+    "url": "https://github.com/pi-hole/docker-pi-hole",
+    "desc": "Pi-hole in a docker container",
+    "lang": "Shell"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "lang": "Rust"
+  }
+]

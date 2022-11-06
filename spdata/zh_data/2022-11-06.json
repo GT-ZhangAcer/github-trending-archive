@@ -1,0 +1,146 @@
+[
+  {
+    "title": "alibaba/higress",
+    "url": "https://github.com/alibaba/higress",
+    "desc": "Next-generation Cloud Native Gateway",
+    "lang": "C++"
+  },
+  {
+    "title": "lidangzzz/How-to-run",
+    "url": "https://github.com/lidangzzz/How-to-run",
+    "desc": "立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lidangzzz/how-to-run-Q-and-A",
+    "url": "https://github.com/lidangzzz/how-to-run-Q-and-A",
+    "desc": "立党润学笔记问答"
+  },
+  {
+    "title": "linyiLYi/pose-monitor",
+    "url": "https://github.com/linyiLYi/pose-monitor",
+    "desc": "“让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "xb2016/EhViewer-NekoInverter",
+    "url": "https://github.com/xb2016/EhViewer-NekoInverter",
+    "desc": "🥥 EhViewer-NekoInverter [白E] [DEPRECATED]",
+    "lang": "Java"
+  },
+  {
+    "title": "Uahh/Reborn",
+    "url": "https://github.com/Uahh/Reborn",
+    "desc": "投胎模拟器",
+    "lang": "Vue"
+  },
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "desc": "🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.",
+    "lang": "Rust"
+  },
+  {
+    "title": "linhaojun857/aurora-public",
+    "url": "https://github.com/linhaojun857/aurora-public",
+    "desc": "基于SpringBoot+Vue开发的个人博客系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "xiaojieonly/Ehviewer_CN_SXJ",
+    "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+    "desc": "ehviewer，用爱发电，快乐前行",
+    "lang": "Java"
+  },
+  {
+    "title": "lzyAB/link-helper",
+    "url": "https://github.com/lzyAB/link-helper",
+    "desc": "支持下载飞猫云、kufile等15+网赚网盘的油猴脚本！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Art0white/FastBeeIM",
+    "url": "https://github.com/Art0white/FastBeeIM",
+    "desc": "🐝极蜜IM, 快速尝到甜头!",
+    "lang": "Java"
+  },
+  {
+    "title": "lidangzzz/canada-run",
+    "url": "https://github.com/lidangzzz/canada-run",
+    "desc": "成本100万人民币拿15张枫叶卡零基础教程（程序员篇）"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "ilovexjp/health-code-index",
+    "url": "https://github.com/ilovexjp/health-code-index",
+    "desc": "健康码模拟 - 索引",
+    "lang": "HTML"
+  },
+  {
+    "title": "Ben-love-zy/web-editor-markdown",
+    "url": "https://github.com/Ben-love-zy/web-editor-markdown",
+    "desc": "A Markdown editor in browser with collaborative editing",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ender-zhao/Clash-for-Windows_Chinese",
+    "url": "https://github.com/ender-zhao/Clash-for-Windows_Chinese",
+    "desc": "clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "geekan/HowToLiveLonger",
+    "url": "https://github.com/geekan/HowToLiveLonger",
+    "desc": "程序员延寿指南 | A programmer's guide to live longer"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "ssnhd/googlevoice",
+    "url": "https://github.com/ssnhd/googlevoice",
+    "desc": "注册 Google Voice 号码详细步骤"
+  },
+  {
+    "title": "kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1",
+    "url": "https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1",
+    "desc": "Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/T…",
+    "lang": "Brainfuck"
+  },
+  {
+    "title": "BoyceLig/Clash_Chinese_Patch",
+    "url": "https://github.com/BoyceLig/Clash_Chinese_Patch",
+    "desc": "Clash For Windows 汉化补丁和汉化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "liangliangyy/DjangoBlog",
+    "url": "https://github.com/liangliangyy/DjangoBlog",
+    "desc": "🍺基于Django的博客系统",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  }
+]

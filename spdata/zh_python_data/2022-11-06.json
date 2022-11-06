@@ -1,0 +1,152 @@
+[
+  {
+    "title": "liangliangyy/DjangoBlog",
+    "url": "https://github.com/liangliangyy/DjangoBlog",
+    "desc": "🍺基于Django的博客系统",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "apachecn/ailearning",
+    "url": "https://github.com/apachecn/ailearning",
+    "desc": "AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "ermaozi/get_subscribe",
+    "url": "https://github.com/ermaozi/get_subscribe",
+    "desc": "✈️ 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙",
+    "lang": "Python"
+  },
+  {
+    "title": "tyIceStream/GLaDOS_Checkin",
+    "url": "https://github.com/tyIceStream/GLaDOS_Checkin",
+    "desc": "GLaDOS automatic check-in bypassing CloudFlare using github action",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "vpei/Free-Node-Merge",
+    "url": "https://github.com/vpei/Free-Node-Merge",
+    "desc": "自动合并 ss ssr trojan vmess vless 等免费节点链接，科学上网，定阅免费机场。有资源网址，请加Telegram群：opmhth",
+    "lang": "Python"
+  },
+  {
+    "title": "Jrohy/multi-v2ray",
+    "url": "https://github.com/Jrohy/multi-v2ray",
+    "desc": "v2ray/xray多用户管理部署程序",
+    "lang": "Python"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "desc": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "jhao104/proxy_pool",
+    "url": "https://github.com/jhao104/proxy_pool",
+    "desc": "Python爬虫代理IP池(proxy pool)",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "ccc-f/PenKitGui",
+    "url": "https://github.com/ccc-f/PenKitGui",
+    "desc": "渗透测试武器库",
+    "lang": "Python"
+  },
+  {
+    "title": "Samueli924/chaoxing",
+    "url": "https://github.com/Samueli924/chaoxing",
+    "desc": "超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点",
+    "lang": "Python"
+  },
+  {
+    "title": "r0ysue/r0capture",
+    "url": "https://github.com/r0ysue/r0capture",
+    "desc": "安卓应用层抓包通杀脚本",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "yu-steven/openit",
+    "url": "https://github.com/yu-steven/openit",
+    "desc": "致力于打造免费无感的翻墙环境",
+    "lang": "Python"
+  },
+  {
+    "title": "649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "url": "https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "desc": "使用Bert，ERNIE，进行中文文本分类",
+    "lang": "Python"
+  },
+  {
+    "title": "vpei/Free-TVUrl-Merge",
+    "url": "https://github.com/vpei/Free-TVUrl-Merge",
+    "desc": "免费TvBox影视站聚合，测试不能用链接。TVBox、Pluto Player、猫影视TV等影视播放软件通用接口都可使用。Pluto兼容性最强。",
+    "lang": "Python"
+  },
+  {
+    "title": "Johnserf-Seed/TikTokDownload",
+    "url": "https://github.com/Johnserf-Seed/TikTokDownload",
+    "desc": "抖音去水印批量下载用户主页作品、喜欢、图文、音频",
+    "lang": "Python"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界",
+    "lang": "Python"
+  }
+]
