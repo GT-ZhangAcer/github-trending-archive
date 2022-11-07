@@ -1,0 +1,151 @@
+[
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MubertAI/Mubert-Text-to-Music",
+    "url": "https://github.com/MubertAI/Mubert-Text-to-Music",
+    "desc": "A simple notebook demonstrating prompt-based music generation via Mubert API",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "stashapp/stash",
+    "url": "https://github.com/stashapp/stash",
+    "desc": "An organizer for your porn, written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rodrigorgtic/nlwcopa-mobile-components",
+    "url": "https://github.com/rodrigorgtic/nlwcopa-mobile-components",
+    "desc": "⚽ NLW Copa - Componentes do App Mobile.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "lang": "Rust"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/higress",
+    "url": "https://github.com/alibaba/higress",
+    "desc": "Next-generation Cloud Native Gateway",
+    "lang": "C++"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "desc": "A black hole for Internet advertisements",
+    "lang": "Shell"
+  },
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "diracdeltas/tweets",
+    "url": "https://github.com/diracdeltas/tweets",
+    "desc": "janky twitter replacement.",
+    "lang": "Shell"
+  },
+  {
+    "title": "trinib/Linux-Bash-Commands",
+    "url": "https://github.com/trinib/Linux-Bash-Commands",
+    "desc": "Ultimate list of Linux bash commands"
+  },
+  {
+    "title": "idanya/algo-trader",
+    "url": "https://github.com/idanya/algo-trader",
+    "desc": "Trading bot with support for realtime trading, backtesting, custom strategies and much more.",
+    "lang": "Python"
+  },
+  {
+    "title": "linyiLYi/pose-monitor",
+    "url": "https://github.com/linyiLYi/pose-monitor",
+    "desc": "“让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CryoByte33/steam-deck-utilities",
+    "url": "https://github.com/CryoByte33/steam-deck-utilities",
+    "desc": "Scripts to help make the Steam Deck the best it can be.",
+    "lang": "Shell"
+  },
+  {
+    "title": "superseriousbusiness/gotosocial",
+    "url": "https://github.com/superseriousbusiness/gotosocial",
+    "desc": "Fast, fun, ActivityPub server, powered by Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "iterativv/NostalgiaForInfinity",
+    "url": "https://github.com/iterativv/NostalgiaForInfinity",
+    "desc": "Trading strategy for the Freqtrade crypto bot",
+    "lang": "Python"
+  },
+  {
+    "title": "lensterxyz/lenster",
+    "url": "https://github.com/lensterxyz/lenster",
+    "desc": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mastodon/mastodon-android",
+    "url": "https://github.com/mastodon/mastodon-android",
+    "desc": "Official Android app for Mastodon",
+    "lang": "Java"
+  },
+  {
+    "title": "dillongoostudios/goo-engine",
+    "url": "https://github.com/dillongoostudios/goo-engine",
+    "desc": "Custom build of blender with some extra NPR features.",
+    "lang": "C"
+  },
+  {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "desc": "The content behind MDN Web Docs",
+    "lang": "Markdown"
+  }
+]

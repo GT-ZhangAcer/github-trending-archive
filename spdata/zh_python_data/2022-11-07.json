@@ -1,0 +1,152 @@
+[
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "Jack-Cherish/Machine-Learning",
+    "url": "https://github.com/Jack-Cherish/Machine-Learning",
+    "desc": "⚡机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "jhao104/proxy_pool",
+    "url": "https://github.com/jhao104/proxy_pool",
+    "desc": "Python爬虫代理IP池(proxy pool)",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "ccc-f/PenKitGui",
+    "url": "https://github.com/ccc-f/PenKitGui",
+    "desc": "渗透测试武器库",
+    "lang": "Python"
+  },
+  {
+    "title": "h2y/Shadowrocket-ADBlock-Rules",
+    "url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
+    "desc": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。",
+    "lang": "Python"
+  },
+  {
+    "title": "Womsxd/AutoMihoyoBBS",
+    "url": "https://github.com/Womsxd/AutoMihoyoBBS",
+    "desc": "米游社自动签到，支持：崩坏二、崩坏三、原神、未定事件簿，米游币自动获取",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "Justin62628/Squirrel-RIFE",
+    "url": "https://github.com/Justin62628/Squirrel-RIFE",
+    "desc": "效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感",
+    "lang": "Python"
+  },
+  {
+    "title": "hcfyapp/google-translate-cn-ip",
+    "url": "https://github.com/hcfyapp/google-translate-cn-ip",
+    "desc": "收集国内可用的谷歌翻译 IP 地址。",
+    "lang": "Python"
+  },
+  {
+    "title": "yoshiko2/Movie_Data_Capture",
+    "url": "https://github.com/yoshiko2/Movie_Data_Capture",
+    "desc": "Local Movies Organizer",
+    "lang": "Python"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "smallevilbeast/ntchat",
+    "url": "https://github.com/smallevilbeast/ntchat",
+    "desc": "微信SDK, Python微信机器人SDK, Python微信WebApi接口",
+    "lang": "Python"
+  },
+  {
+    "title": "lining0806/PythonSpiderNotes",
+    "url": "https://github.com/lining0806/PythonSpiderNotes",
+    "desc": "Python入门网络爬虫之精华版",
+    "lang": "Python"
+  },
+  {
+    "title": "pyecharts/pyecharts",
+    "url": "https://github.com/pyecharts/pyecharts",
+    "desc": "🎨 Python Echarts Plotting Library",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "dataabc/weiboSpider",
+    "url": "https://github.com/dataabc/weiboSpider",
+    "desc": "新浪微博爬虫，用python爬取新浪微博数据",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "nghuyong/WeiboSpider",
+    "url": "https://github.com/nghuyong/WeiboSpider",
+    "desc": "持续维护的新浪微博采集工具🚀🚀🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "tonquer/picacg-qt",
+    "url": "https://github.com/tonquer/picacg-qt",
+    "desc": "哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/models",
+    "url": "https://github.com/PaddlePaddle/models",
+    "desc": "Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）",
+    "lang": "Python"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "wistbean/learn_python3_spider",
+    "url": "https://github.com/wistbean/learn_python3_spider",
+    "desc": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+    "lang": "Python"
+  }
+]

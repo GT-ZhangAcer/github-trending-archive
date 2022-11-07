@@ -1,0 +1,152 @@
+[
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "idanya/algo-trader",
+    "url": "https://github.com/idanya/algo-trader",
+    "desc": "Trading bot with support for realtime trading, backtesting, custom strategies and much more.",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "iterativv/NostalgiaForInfinity",
+    "url": "https://github.com/iterativv/NostalgiaForInfinity",
+    "desc": "Trading strategy for the Freqtrade crypto bot",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/typer",
+    "url": "https://github.com/tiangolo/typer",
+    "desc": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "mage-ai/mage-ai",
+    "url": "https://github.com/mage-ai/mage-ai",
+    "desc": "🧙 A modern replacement for Airflow.",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/pyright",
+    "url": "https://github.com/microsoft/pyright",
+    "desc": "Static type checker for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/calibre",
+    "url": "https://github.com/kovidgoyal/calibre",
+    "desc": "The official source code repository for the calibre ebook manager",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmocr",
+    "url": "https://github.com/open-mmlab/mmocr",
+    "desc": "OpenMMLab Text Detection, Recognition and Understanding Toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "otto-de/recsys-dataset",
+    "url": "https://github.com/otto-de/recsys-dataset",
+    "desc": "🛍 A real-world e-commerce dataset for multi-objective recommender systems research.",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "desc": "We have made you a wrapper you can't refuse",
+    "lang": "Python"
+  },
+  {
+    "title": "Cog-Creators/Red-DiscordBot",
+    "url": "https://github.com/Cog-Creators/Red-DiscordBot",
+    "desc": "A multi-function Discord bot",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "CjangCjengh/MoeGoe",
+    "url": "https://github.com/CjangCjengh/MoeGoe",
+    "desc": "Executable file for VITS inference",
+    "lang": "Python"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "searxng/searxng",
+    "url": "https://github.com/searxng/searxng",
+    "desc": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "qu3vipon/python-ddd",
+    "url": "https://github.com/qu3vipon/python-ddd",
+    "desc": "Python DDD pattern example using FastAPI",
+    "lang": "Python"
+  }
+]
