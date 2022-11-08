@@ -1,0 +1,150 @@
+[
+  {
+    "title": "alibaba/higress",
+    "url": "https://github.com/alibaba/higress",
+    "desc": "Next-generation Cloud Native Gateway",
+    "lang": "C++"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+    "lang": "Shell"
+  },
+  {
+    "title": "linyiLYi/pose-monitor",
+    "url": "https://github.com/linyiLYi/pose-monitor",
+    "desc": "“让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Ponderfly/GoogleTranslateIpCheck",
+    "url": "https://github.com/Ponderfly/GoogleTranslateIpCheck",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "Ben-love-zy/web-editor-markdown",
+    "url": "https://github.com/Ben-love-zy/web-editor-markdown",
+    "desc": "A Markdown editor in browser with collaborative editing",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lzyAB/link-helper",
+    "url": "https://github.com/lzyAB/link-helper",
+    "desc": "支持下载飞猫云、kufile等15+网赚网盘的油猴脚本！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ilovexjp/health-code-index",
+    "url": "https://github.com/ilovexjp/health-code-index",
+    "desc": "健康码模拟 - 索引",
+    "lang": "HTML"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "didi/LogicFlow",
+    "url": "https://github.com/didi/LogicFlow",
+    "desc": "A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lidangzzz/How-to-run",
+    "url": "https://github.com/lidangzzz/How-to-run",
+    "desc": "立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "egametang/ET",
+    "url": "https://github.com/egametang/ET",
+    "desc": "Unity3D Client And C# Server Framework",
+    "lang": "C#"
+  },
+  {
+    "title": "easzlab/kubeasz",
+    "url": "https://github.com/easzlab/kubeasz",
+    "desc": "使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响",
+    "lang": "Jinja"
+  },
+  {
+    "title": "applenob/Cpp_Primer_Practice",
+    "url": "https://github.com/applenob/Cpp_Primer_Practice",
+    "desc": "搞定C++👊。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。",
+    "lang": "C++"
+  },
+  {
+    "title": "focus-creative-games/hybridclr",
+    "url": "https://github.com/focus-creative-games/hybridclr",
+    "desc": "HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix",
+    "lang": "C++"
+  },
+  {
+    "title": "DataV-Team/DataV",
+    "url": "https://github.com/DataV-Team/DataV",
+    "desc": "Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)",
+    "lang": "Vue"
+  },
+  {
+    "title": "heibaiying/BigData-Notes",
+    "url": "https://github.com/heibaiying/BigData-Notes",
+    "desc": "大数据入门指南 ⭐",
+    "lang": "Java"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub."
+  },
+  {
+    "title": "BlinkDL/AI-Writer",
+    "url": "https://github.com/BlinkDL/AI-Writer",
+    "desc": "AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nilaoda/BBDown",
+    "url": "https://github.com/nilaoda/BBDown",
+    "desc": "Bilibili Downloader. 一款命令行式哔哩哔哩下载器.",
+    "lang": "C#"
+  },
+  {
+    "title": "Tencent/APIJSON",
+    "url": "https://github.com/Tencent/APIJSON",
+    "desc": "🚀 零代码、全功能、强安全 ORM 库 🏆 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library 🏆 provides APIs and Docs without writing any code.",
+    "lang": "Java"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "mlogclub/bbs-go",
+    "url": "https://github.com/mlogclub/bbs-go",
+    "desc": "基于Golang的开源社区系统。",
+    "lang": "Vue"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "BlinkDL/AI-Writer",
+    "url": "https://github.com/BlinkDL/AI-Writer",
+    "desc": "AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ddddocr",
+    "url": "https://github.com/sml2h3/ddddocr",
+    "desc": "带带弟弟 通用验证码识别OCR pypi版",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSlim",
+    "url": "https://github.com/PaddlePaddle/PaddleSlim",
+    "desc": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+    "lang": "Python"
+  },
+  {
+    "title": "vpei/Free-TVUrl-Merge",
+    "url": "https://github.com/vpei/Free-TVUrl-Merge",
+    "desc": "免费TvBox影视站聚合，测试不能用链接。TVBox、Pluto Player、猫影视TV等影视播放软件通用接口都可使用。Pluto兼容性最强。",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/models",
+    "url": "https://github.com/PaddlePaddle/models",
+    "desc": "Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）",
+    "lang": "Python"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "desc": "中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理",
+    "lang": "Python"
+  },
+  {
+    "title": "openatx/uiautomator2",
+    "url": "https://github.com/openatx/uiautomator2",
+    "desc": "Android Uiautomator2 Python Wrapper",
+    "lang": "Python"
+  },
+  {
+    "title": "ymcui/Chinese-BERT-wwm",
+    "url": "https://github.com/ymcui/Chinese-BERT-wwm",
+    "desc": "Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）",
+    "lang": "Python"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, PPYOLO, PPYOLOv2, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "Evil0ctal/Douyin_TikTok_Download_API",
+    "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+    "desc": "不依赖任何第三方网站实现在线批量TikTok/抖音解析下载无水印视频/图集，并将结果显示在网页上。同时支持API调用，可配合iOS快捷指令APP实现应用内下载。免费，开源，无广告，长期维护。",
+    "lang": "Python"
+  },
+  {
+    "title": "nl8590687/ASRT_SpeechRecognition",
+    "url": "https://github.com/nl8590687/ASRT_SpeechRecognition",
+    "desc": "A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统",
+    "lang": "Python"
+  },
+  {
+    "title": "0voice/interview_internal_reference",
+    "url": "https://github.com/0voice/interview_internal_reference",
+    "desc": "2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+    "lang": "Python"
+  },
+  {
+    "title": "waditu/czsc",
+    "url": "https://github.com/waditu/czsc",
+    "desc": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+    "lang": "Python"
+  },
+  {
+    "title": "shmilylty/OneForAll",
+    "url": "https://github.com/shmilylty/OneForAll",
+    "desc": "OneForAll是一款功能强大的子域收集工具",
+    "lang": "Python"
+  },
+  {
+    "title": "bojone/bert4keras",
+    "url": "https://github.com/bojone/bert4keras",
+    "desc": "keras implement of transformers for humans",
+    "lang": "Python"
+  },
+  {
+    "title": "chineseocr/chineseocr",
+    "url": "https://github.com/chineseocr/chineseocr",
+    "desc": "yolo3+ocr",
+    "lang": "Python"
+  },
+  {
+    "title": "liangliangyy/DjangoBlog",
+    "url": "https://github.com/liangliangyy/DjangoBlog",
+    "desc": "🍺基于Django的博客系统",
+    "lang": "Python"
+  },
+  {
+    "title": "649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "url": "https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch",
+    "desc": "使用Bert，ERNIE，进行中文文本分类",
+    "lang": "Python"
+  },
+  {
+    "title": "MingchaoZhu/DeepLearning",
+    "url": "https://github.com/MingchaoZhu/DeepLearning",
+    "desc": "Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "yoshiko2/Movie_Data_Capture",
+    "url": "https://github.com/yoshiko2/Movie_Data_Capture",
+    "desc": "Local Movies Organizer",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "shibing624/pycorrector",
+    "url": "https://github.com/shibing624/pycorrector",
+    "desc": "pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer，T5等模型实现，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "pyecharts/pyecharts",
+    "url": "https://github.com/pyecharts/pyecharts",
+    "desc": "🎨 Python Echarts Plotting Library",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。",
+    "lang": "Python"
+  }
+]

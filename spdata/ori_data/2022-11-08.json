@@ -1,0 +1,146 @@
+[
+  {
+    "title": "stashapp/stash",
+    "url": "https://github.com/stashapp/stash",
+    "desc": "An organizer for your porn, written in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "MubertAI/Mubert-Text-to-Music",
+    "url": "https://github.com/MubertAI/Mubert-Text-to-Music",
+    "desc": "A simple notebook demonstrating prompt-based music generation via Mubert API",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "lensterxyz/lenster",
+    "url": "https://github.com/lensterxyz/lenster",
+    "desc": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/higress",
+    "url": "https://github.com/alibaba/higress",
+    "desc": "Next-generation Cloud Native Gateway",
+    "lang": "C++"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "ProjectOpenSea/operator-filter-registry",
+    "url": "https://github.com/ProjectOpenSea/operator-filter-registry",
+    "desc": "",
+    "lang": "Solidity"
+  },
+  {
+    "title": "trinib/Linux-Bash-Commands",
+    "url": "https://github.com/trinib/Linux-Bash-Commands",
+    "desc": "Ultimate list of Linux bash commands"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "6mile/DevSecOps-Playbook",
+    "url": "https://github.com/6mile/DevSecOps-Playbook",
+    "desc": "This is a step-by-step guide to implementing a DevSecOps program for any size organization"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "desc": "Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nathanlesage/academics-on-mastodon",
+    "url": "https://github.com/nathanlesage/academics-on-mastodon",
+    "desc": "A list of various lists consisting of academics on Mastodon"
+  },
+  {
+    "title": "dillongoostudios/goo-engine",
+    "url": "https://github.com/dillongoostudios/goo-engine",
+    "desc": "Custom build of blender with some extra NPR features.",
+    "lang": "C"
+  },
+  {
+    "title": "RustScan/RustScan",
+    "url": "https://github.com/RustScan/RustScan",
+    "desc": "🤖 The Modern Port Scanner 🤖",
+    "lang": "Rust"
+  },
+  {
+    "title": "mastodon/mastodon-android",
+    "url": "https://github.com/mastodon/mastodon-android",
+    "desc": "Official Android app for Mastodon",
+    "lang": "Java"
+  },
+  {
+    "title": "ant-design/pro-components",
+    "url": "https://github.com/ant-design/pro-components",
+    "desc": "🏆 Use Ant Design like a Pro!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计"
+  },
+  {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "desc": "The content behind MDN Web Docs",
+    "lang": "Markdown"
+  },
+  {
+    "title": "safing/portmaster",
+    "url": "https://github.com/safing/portmaster",
+    "desc": "🏔 Love Freedom - ❌ Block Mass Surveillance",
+    "lang": "Go"
+  }
+]
