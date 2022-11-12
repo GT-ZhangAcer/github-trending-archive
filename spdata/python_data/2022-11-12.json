@@ -1,0 +1,152 @@
+[
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
+    "lang": "Python"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "reddelexc/hackerone-reports",
+    "url": "https://github.com/reddelexc/hackerone-reports",
+    "desc": "Top disclosed reports from HackerOne",
+    "lang": "Python"
+  },
+  {
+    "title": "andyzys/jd_seckill",
+    "url": "https://github.com/andyzys/jd_seckill",
+    "desc": "京东秒杀商品抢购",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "nccgroup/ScoutSuite",
+    "url": "https://github.com/nccgroup/ScoutSuite",
+    "desc": "Multi-Cloud Security Auditing Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection3d",
+    "url": "https://github.com/open-mmlab/mmdetection3d",
+    "desc": "OpenMMLab's next-generation platform for general 3D object detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "danielgatis/rembg",
+    "url": "https://github.com/danielgatis/rembg",
+    "desc": "Rembg is a tool to remove images background.",
+    "lang": "Python"
+  },
+  {
+    "title": "zabbix/community-templates",
+    "url": "https://github.com/zabbix/community-templates",
+    "desc": "Zabbix Community Templates repository",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/playwright-python",
+    "url": "https://github.com/microsoft/playwright-python",
+    "desc": "Python version of the Playwright testing and automation library.",
+    "lang": "Python"
+  },
+  {
+    "title": "aladdinpersson/Machine-Learning-Collection",
+    "url": "https://github.com/aladdinpersson/Machine-Learning-Collection",
+    "desc": "A resource for learning about Machine learning & Deep Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/EasyNLP",
+    "url": "https://github.com/alibaba/EasyNLP",
+    "desc": "EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/FocalNet",
+    "url": "https://github.com/microsoft/FocalNet",
+    "desc": "[NeurIPS 2022] Official code for Focal Modulation Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "woolen-sheep/md2report",
+    "url": "https://github.com/woolen-sheep/md2report",
+    "desc": "一个用于将Markdown文件转换为可以直接提交给学校的docx实验报告/大作业报告/期末小论文的工具。",
+    "lang": "Python"
+  },
+  {
+    "title": "triton-inference-server/server",
+    "url": "https://github.com/triton-inference-server/server",
+    "desc": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "pre-commit/pre-commit-hooks",
+    "url": "https://github.com/pre-commit/pre-commit-hooks",
+    "desc": "Some out-of-the-box hooks for pre-commit",
+    "lang": "Python"
+  },
+  {
+    "title": "cloneofsimo/paint-with-words-sd",
+    "url": "https://github.com/cloneofsimo/paint-with-words-sd",
+    "desc": "Implementation of Paint-with-words with Stable Diffusion : method from eDiffi that let you generate image from text-labeled segmentation map.",
+    "lang": "Python"
+  },
+  {
+    "title": "DingXiaoH/RepVGG",
+    "url": "https://github.com/DingXiaoH/RepVGG",
+    "desc": "RepVGG: Making VGG-style ConvNets Great Again",
+    "lang": "Python"
+  },
+  {
+    "title": "GerryDazoo/Slinger",
+    "url": "https://github.com/GerryDazoo/Slinger",
+    "desc": "Reuse SlingBox hardware without SlingBox Servers",
+    "lang": "Python"
+  },
+  {
+    "title": "warpdotdev/themes",
+    "url": "https://github.com/warpdotdev/themes",
+    "desc": "Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.",
+    "lang": "Python"
+  },
+  {
+    "title": "demisto/content",
+    "url": "https://github.com/demisto/content",
+    "desc": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
+    "lang": "Python"
+  }
+]
