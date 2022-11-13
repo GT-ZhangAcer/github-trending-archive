@@ -1,0 +1,150 @@
+[
+  {
+    "title": "timhutton/twitter-archive-parser",
+    "url": "https://github.com/timhutton/twitter-archive-parser",
+    "desc": "Python code to parse a Twitter archive and output in various ways",
+    "lang": "Python"
+  },
+  {
+    "title": "hyprwm/Hyprland",
+    "url": "https://github.com/hyprwm/Hyprland",
+    "desc": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "lang": "C++"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "desc": "Experimental Nintendo Switch Emulator written in C#",
+    "lang": "C#"
+  },
+  {
+    "title": "tokio-rs/axum",
+    "url": "https://github.com/tokio-rs/axum",
+    "desc": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+    "lang": "Rust"
+  },
+  {
+    "title": "wseagar/eight-dollars",
+    "url": "https://github.com/wseagar/eight-dollars",
+    "desc": "A browser extension that shows twitter blue vs real verified users",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AleoHQ/snarkOS",
+    "url": "https://github.com/AleoHQ/snarkOS",
+    "desc": "A Decentralized Operating System for ZK Applications",
+    "lang": "Rust"
+  },
+  {
+    "title": "jaywcjlove/reference",
+    "url": "https://github.com/jaywcjlove/reference",
+    "desc": "为开发人员分享快速参考备忘清单(速查表)",
+    "lang": "CSS"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "desc": "The automation tower defense RTS",
+    "lang": "Java"
+  },
+  {
+    "title": "danielgatis/rembg",
+    "url": "https://github.com/danielgatis/rembg",
+    "desc": "Rembg is a tool to remove images background.",
+    "lang": "Python"
+  },
+  {
+    "title": "solidjs/solid-start",
+    "url": "https://github.com/solidjs/solid-start",
+    "desc": "SolidStart, the Solid app framework",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "github/hubot-sans",
+    "url": "https://github.com/github/hubot-sans",
+    "desc": "Hubot Sans, a variable font from GitHub"
+  },
+  {
+    "title": "User9684/stupid-discord-badge",
+    "url": "https://github.com/User9684/stupid-discord-badge",
+    "desc": "Port this repo into https://replit.com and read the readme file for instructions on how to SHIT on discord",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "alanzjl/AlkaidMount",
+    "url": "https://github.com/alanzjl/AlkaidMount",
+    "desc": "HarmonicDrive equatorial mount",
+    "lang": "C"
+  },
+  {
+    "title": "PojavLauncherTeam/PojavLauncher",
+    "url": "https://github.com/PojavLauncherTeam/PojavLauncher",
+    "desc": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.",
+    "lang": "Java"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "desc": "A V2Ray client for Windows, support Xray core and v2fly core",
+    "lang": "C#"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "lang": "PHP"
+  },
+  {
+    "title": "MaximilianAnzinger/pgdp2223-tests",
+    "url": "https://github.com/MaximilianAnzinger/pgdp2223-tests",
+    "desc": "Collection of JUnit Tests for PGdP exercises at TUM in WS22/23",
+    "lang": "Java"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "gustavoguanabara/html-css",
+    "url": "https://github.com/gustavoguanabara/html-css",
+    "desc": "Curso de HTML5 e CSS3",
+    "lang": "HTML"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A build system and primary set of packages for Termux.",
+    "lang": "Shell"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "desc": "Collection of TypeScript type challenges with online judge",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rome/tools",
+    "url": "https://github.com/rome/tools",
+    "desc": "Unified developer tools for JavaScript, TypeScript, and the web",
+    "lang": "Rust"
+  }
+]
