@@ -1,0 +1,152 @@
+[
+  {
+    "title": "timhutton/twitter-archive-parser",
+    "url": "https://github.com/timhutton/twitter-archive-parser",
+    "desc": "Python code to parse a Twitter archive and output in various ways",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "google/latexify_py",
+    "url": "https://github.com/google/latexify_py",
+    "desc": "Generates LaTeX math description from Python functions.",
+    "lang": "Python"
+  },
+  {
+    "title": "AlexFlipnote/GiveMeBadge",
+    "url": "https://github.com/AlexFlipnote/GiveMeBadge",
+    "desc": "Pretty simple Discord bot to get the active developer badge",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "RedditWritesCode/RedditWritesCode",
+    "url": "https://github.com/RedditWritesCode/RedditWritesCode",
+    "desc": "The mirror of the series The most upvoted comment picks the next line of code on Reddit by https://www.reddit.com/user/AggravatingCorner133/",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "jasonstrimpel/volatility-trading",
+    "url": "https://github.com/jasonstrimpel/volatility-trading",
+    "desc": "A complete set of volatility estimators based on Euan Sinclair's Volatility Trading",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "desc": "Download market data from Yahoo! Finance's API",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "danielgatis/rembg",
+    "url": "https://github.com/danielgatis/rembg",
+    "desc": "Rembg is a tool to remove images background.",
+    "lang": "Python"
+  },
+  {
+    "title": "thewhiteh4t/nexfil",
+    "url": "https://github.com/thewhiteh4t/nexfil",
+    "desc": "OSINT tool for finding profiles by username",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "jessevig/bertviz",
+    "url": "https://github.com/jessevig/bertviz",
+    "desc": "BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.)",
+    "lang": "Python"
+  },
+  {
+    "title": "joke2k/faker",
+    "url": "https://github.com/joke2k/faker",
+    "desc": "Faker is a Python package that generates fake data for you.",
+    "lang": "Python"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "lmcinnes/umap",
+    "url": "https://github.com/lmcinnes/umap",
+    "desc": "Uniform Manifold Approximation and Projection",
+    "lang": "Python"
+  },
+  {
+    "title": "streamlink/streamlink",
+    "url": "https://github.com/streamlink/streamlink",
+    "desc": "Streamlink is a CLI utility which pipes video streams from various services into a video player",
+    "lang": "Python"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "mementum/backtrader",
+    "url": "https://github.com/mementum/backtrader",
+    "desc": "Python Backtesting library for trading strategies",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  }
+]
