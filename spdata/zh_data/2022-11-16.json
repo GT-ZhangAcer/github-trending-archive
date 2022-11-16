@@ -1,0 +1,148 @@
+[
+  {
+    "title": "jaywcjlove/reference",
+    "url": "https://github.com/jaywcjlove/reference",
+    "desc": "为开发人员分享快速参考备忘清单(速查表)",
+    "lang": "CSS"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/havenask",
+    "url": "https://github.com/alibaba/havenask",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "taowen/awesome-lowcode",
+    "url": "https://github.com/taowen/awesome-lowcode",
+    "desc": "国内低代码平台从业者交流"
+  },
+  {
+    "title": "MicroCBer/BetterNCM",
+    "url": "https://github.com/MicroCBer/BetterNCM",
+    "desc": "PC版网易云客户端插件管理器",
+    "lang": "C++"
+  },
+  {
+    "title": "White-hua/Apt_t00ls",
+    "url": "https://github.com/White-hua/Apt_t00ls",
+    "desc": "高危漏洞利用工具",
+    "lang": "Java"
+  },
+  {
+    "title": "forthespada/CampusShame",
+    "url": "https://github.com/forthespada/CampusShame",
+    "desc": "互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想绵薄之力！"
+  },
+  {
+    "title": "tangly1024/NotionNext",
+    "url": "https://github.com/tangly1024/NotionNext",
+    "desc": "一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hyperai/tvm-cn",
+    "url": "https://github.com/hyperai/tvm-cn",
+    "desc": "TVM Documentation in Chinese Simplified (Unofficial) / TVM 中文文档",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "desc": "人人可用的开源数据可视化分析工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "baidu/amis",
+    "url": "https://github.com/baidu/amis",
+    "desc": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "UnblockNeteaseMusic/server",
+    "url": "https://github.com/UnblockNeteaseMusic/server",
+    "desc": "Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Molunerfinn/PicGo",
+    "url": "https://github.com/Molunerfinn/PicGo",
+    "desc": "🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zgzhengSEU/HWStatusCodeAutoQuery",
+    "url": "https://github.com/zgzhengSEU/HWStatusCodeAutoQuery",
+    "desc": "华为招聘状态码全天候在线自动查询工具",
+    "lang": "Python"
+  },
+  {
+    "title": "star-start/Beating_heart",
+    "url": "https://github.com/star-start/Beating_heart",
+    "desc": "李峋的跳动的爱心，你值得拥有❤❤❤",
+    "lang": "Python"
+  },
+  {
+    "title": "heroaku/TVboxo",
+    "url": "https://github.com/heroaku/TVboxo",
+    "desc": "自用资源",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/secguide",
+    "url": "https://github.com/Tencent/secguide",
+    "desc": "面向开发人员梳理的代码安全指南"
+  },
+  {
+    "title": "zeroruka/GI-Mods",
+    "url": "https://github.com/zeroruka/GI-Mods",
+    "desc": "Archive for anime game mods",
+    "lang": "C#"
+  },
+  {
+    "title": "fluid-dev/hexo-theme-fluid",
+    "url": "https://github.com/fluid-dev/hexo-theme-fluid",
+    "desc": "🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "wechat-miniprogram/minigame-unity-webgl-transform",
+    "url": "https://github.com/wechat-miniprogram/minigame-unity-webgl-transform",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MicroCBer/BetterNCM-Installer",
+    "url": "https://github.com/MicroCBer/BetterNCM-Installer",
+    "desc": "一键安装BetterNCM",
+    "lang": "Rust"
+  },
+  {
+    "title": "xuxueli/xxl-job",
+    "url": "https://github.com/xuxueli/xxl-job",
+    "desc": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "lang": "Java"
+  }
+]

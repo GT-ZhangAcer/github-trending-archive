@@ -1,0 +1,149 @@
+[
+  {
+    "title": "godot-rust/gdextension",
+    "url": "https://github.com/godot-rust/gdextension",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "desc": "Collection of TypeScript type challenges with online judge",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vcheckzen/KeepAliveE5",
+    "url": "https://github.com/vcheckzen/KeepAliveE5",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "desc": "iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak",
+    "lang": "Shell"
+  },
+  {
+    "title": "jaywcjlove/reference",
+    "url": "https://github.com/jaywcjlove/reference",
+    "desc": "为开发人员分享快速参考备忘清单(速查表)",
+    "lang": "CSS"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "desc": "Experimental Nintendo Switch Emulator written in C#",
+    "lang": "C#"
+  },
+  {
+    "title": "sehno/Bug-bounty",
+    "url": "https://github.com/sehno/Bug-bounty",
+    "desc": "Ressources for bug bounty hunting"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "helm/helm",
+    "url": "https://github.com/helm/helm",
+    "desc": "The Kubernetes Package Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
+    "lang": "Rust"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "timhutton/twitter-archive-parser",
+    "url": "https://github.com/timhutton/twitter-archive-parser",
+    "desc": "Python code to parse a Twitter archive and output in various ways",
+    "lang": "Python"
+  },
+  {
+    "title": "trustwallet/wallet-core",
+    "url": "https://github.com/trustwallet/wallet-core",
+    "desc": "Cross-platform, cross-blockchain wallet library.",
+    "lang": "C++"
+  },
+  {
+    "title": "davidfowl/TodoApi",
+    "url": "https://github.com/davidfowl/TodoApi",
+    "desc": "ASP.NET Core API with JWT authentication and authorization",
+    "lang": "C#"
+  },
+  {
+    "title": "alibaba/havenask",
+    "url": "https://github.com/alibaba/havenask",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase SDK for Apple App Development",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "daffainfo/AllAboutBugBounty",
+    "url": "https://github.com/daffainfo/AllAboutBugBounty",
+    "desc": "All about bug bounty (bypasses, payloads, and etc)"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "danielgatis/rembg",
+    "url": "https://github.com/danielgatis/rembg",
+    "desc": "Rembg is a tool to remove images background.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmrotate",
+    "url": "https://github.com/open-mmlab/mmrotate",
+    "desc": "OpenMMLab Rotated Object Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "google/latexify_py",
+    "url": "https://github.com/google/latexify_py",
+    "desc": "Generates LaTeX math description from Python functions.",
+    "lang": "Python"
+  }
+]

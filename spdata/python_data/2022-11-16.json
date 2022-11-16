@@ -1,0 +1,152 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "timhutton/twitter-archive-parser",
+    "url": "https://github.com/timhutton/twitter-archive-parser",
+    "desc": "Python code to parse a Twitter archive and output in various ways",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "danielgatis/rembg",
+    "url": "https://github.com/danielgatis/rembg",
+    "desc": "Rembg is a tool to remove images background.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmrotate",
+    "url": "https://github.com/open-mmlab/mmrotate",
+    "desc": "OpenMMLab Rotated Object Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "google/latexify_py",
+    "url": "https://github.com/google/latexify_py",
+    "desc": "Generates LaTeX math description from Python functions.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "7eu7d7/DreamArtist-stable-diffusion",
+    "url": "https://github.com/7eu7d7/DreamArtist-stable-diffusion",
+    "desc": "stable diffusion webui with contrastive prompt tuning",
+    "lang": "Python"
+  },
+  {
+    "title": "7eu7d7/DreamArtist-sd-webui-extension",
+    "url": "https://github.com/7eu7d7/DreamArtist-sd-webui-extension",
+    "desc": "DreamArtist for Stable-Diffusion-webui extension",
+    "lang": "Python"
+  },
+  {
+    "title": "andrewgodwin/takahe",
+    "url": "https://github.com/andrewgodwin/takahe",
+    "desc": "An ActivityPub/Fediverse server",
+    "lang": "Python"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "lang": "Python"
+  },
+  {
+    "title": "autonomousvision/unimatch",
+    "url": "https://github.com/autonomousvision/unimatch",
+    "desc": "Unifying Flow, Stereo and Depth Estimation",
+    "lang": "Python"
+  },
+  {
+    "title": "clovaai/donut",
+    "url": "https://github.com/clovaai/donut",
+    "desc": "Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "desc": "Models and examples built with TensorFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "zgzhengSEU/HWStatusCodeAutoQuery",
+    "url": "https://github.com/zgzhengSEU/HWStatusCodeAutoQuery",
+    "desc": "华为招聘状态码全天候在线自动查询工具",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookincubator/AITemplate",
+    "url": "https://github.com/facebookincubator/AITemplate",
+    "desc": "AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.",
+    "lang": "Python"
+  },
+  {
+    "title": "star-start/Beating_heart",
+    "url": "https://github.com/star-start/Beating_heart",
+    "desc": "李峋的跳动的爱心，你值得拥有❤❤❤",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "lang": "Python"
+  },
+  {
+    "title": "pre-commit/pre-commit-hooks",
+    "url": "https://github.com/pre-commit/pre-commit-hooks",
+    "desc": "Some out-of-the-box hooks for pre-commit",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  }
+]
