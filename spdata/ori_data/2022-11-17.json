@@ -1,0 +1,147 @@
+[
+  {
+    "title": "jaywcjlove/reference",
+    "url": "https://github.com/jaywcjlove/reference",
+    "desc": "为开发人员分享快速参考备忘清单(速查表)",
+    "lang": "CSS"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "desc": "iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak",
+    "lang": "Shell"
+  },
+  {
+    "title": "openblocks-dev/openblocks",
+    "url": "https://github.com/openblocks-dev/openblocks",
+    "desc": "🔥 🔥 🔥 The Open Source Retool Alternative",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "vasanthk/how-web-works",
+    "url": "https://github.com/vasanthk/how-web-works",
+    "desc": "What happens behind the scenes when we type www.google.com in a browser?"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "desc": "A set of best practices for JavaScript projects",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "midudev/preguntas-entrevista-react",
+    "url": "https://github.com/midudev/preguntas-entrevista-react",
+    "desc": "Preguntas típicas sobre React para entrevistas de trabajo ⚛️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rqlite/rqlite",
+    "url": "https://github.com/rqlite/rqlite",
+    "desc": "The lightweight, distributed relational database built on SQLite",
+    "lang": "Go"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "avelino/awesome-go",
+    "url": "https://github.com/avelino/awesome-go",
+    "desc": "A curated list of awesome Go frameworks, libraries and software",
+    "lang": "Go"
+  },
+  {
+    "title": "google/latexify_py",
+    "url": "https://github.com/google/latexify_py",
+    "desc": "Generates LaTeX math description from Python functions.",
+    "lang": "Python"
+  },
+  {
+    "title": "daffainfo/AllAboutBugBounty",
+    "url": "https://github.com/daffainfo/AllAboutBugBounty",
+    "desc": "All about bug bounty (bypasses, payloads, and etc)"
+  },
+  {
+    "title": "jackluson/fund-morning-star-crawler",
+    "url": "https://github.com/jackluson/fund-morning-star-crawler",
+    "desc": "中国场外基金数据爬取&汇总分析",
+    "lang": "Python"
+  },
+  {
+    "title": "qax-os/excelize",
+    "url": "https://github.com/qax-os/excelize",
+    "desc": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "lang": "Go"
+  },
+  {
+    "title": "dotnet/roslyn",
+    "url": "https://github.com/dotnet/roslyn",
+    "desc": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+    "lang": "C#"
+  },
+  {
+    "title": "crossplane/crossplane",
+    "url": "https://github.com/crossplane/crossplane",
+    "desc": "Cloud Native Control Planes",
+    "lang": "Go"
+  },
+  {
+    "title": "spf13/cobra",
+    "url": "https://github.com/spf13/cobra",
+    "desc": "A Commander for modern Go CLI interactions",
+    "lang": "Go"
+  }
+]

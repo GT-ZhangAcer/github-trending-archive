@@ -1,0 +1,152 @@
+[
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "google/latexify_py",
+    "url": "https://github.com/google/latexify_py",
+    "desc": "Generates LaTeX math description from Python functions.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackluson/fund-morning-star-crawler",
+    "url": "https://github.com/jackluson/fund-morning-star-crawler",
+    "desc": "中国场外基金数据爬取&汇总分析",
+    "lang": "Python"
+  },
+  {
+    "title": "danielgatis/rembg",
+    "url": "https://github.com/danielgatis/rembg",
+    "desc": "Rembg is a tool to remove images background.",
+    "lang": "Python"
+  },
+  {
+    "title": "vwxyzjn/cleanrl",
+    "url": "https://github.com/vwxyzjn/cleanrl",
+    "desc": "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.",
+    "lang": "Python"
+  },
+  {
+    "title": "sktime/sktime",
+    "url": "https://github.com/sktime/sktime",
+    "desc": "A unified framework for machine learning with time series",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookincubator/AITemplate",
+    "url": "https://github.com/facebookincubator/AITemplate",
+    "desc": "AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.",
+    "lang": "Python"
+  },
+  {
+    "title": "timhutton/twitter-archive-parser",
+    "url": "https://github.com/timhutton/twitter-archive-parser",
+    "desc": "Python code to parse a Twitter archive and output in various ways",
+    "lang": "Python"
+  },
+  {
+    "title": "PyCQA/flake8",
+    "url": "https://github.com/PyCQA/flake8",
+    "desc": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.",
+    "lang": "Python"
+  },
+  {
+    "title": "deepset-ai/haystack",
+    "url": "https://github.com/deepset-ai/haystack",
+    "desc": "🔍 Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "adrienverge/yamllint",
+    "url": "https://github.com/adrienverge/yamllint",
+    "desc": "A linter for YAML files.",
+    "lang": "Python"
+  },
+  {
+    "title": "blakeblackshear/frigate",
+    "url": "https://github.com/blakeblackshear/frigate",
+    "desc": "NVR with realtime local object detection for IP cameras",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "kedro-org/kedro",
+    "url": "https://github.com/kedro-org/kedro",
+    "desc": "A Python framework for creating reproducible, maintainable and modular data science code.",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/audiolm-pytorch",
+    "url": "https://github.com/lucidrains/audiolm-pytorch",
+    "desc": "Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "Yelp/detect-secrets",
+    "url": "https://github.com/Yelp/detect-secrets",
+    "desc": "An enterprise friendly way of detecting and preventing secrets in code.",
+    "lang": "Python"
+  },
+  {
+    "title": "pre-commit/pre-commit-hooks",
+    "url": "https://github.com/pre-commit/pre-commit-hooks",
+    "desc": "Some out-of-the-box hooks for pre-commit",
+    "lang": "Python"
+  }
+]
