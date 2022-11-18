@@ -1,0 +1,152 @@
+[
+  {
+    "title": "paperswithcode/galai",
+    "url": "https://github.com/paperswithcode/galai",
+    "desc": "Model API for GALACTICA",
+    "lang": "Python"
+  },
+  {
+    "title": "SHI-Labs/Versatile-Diffusion",
+    "url": "https://github.com/SHI-Labs/Versatile-Diffusion",
+    "desc": "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022",
+    "lang": "Python"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "Python"
+  },
+  {
+    "title": "raminmh/CfC",
+    "url": "https://github.com/raminmh/CfC",
+    "desc": "Closed-form Continuous-time Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "awslabs/autogluon",
+    "url": "https://github.com/awslabs/autogluon",
+    "desc": "AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "zjc062/mind-vis",
+    "url": "https://github.com/zjc062/mind-vis",
+    "desc": "Code base for MinD-Vis",
+    "lang": "Python"
+  },
+  {
+    "title": "salesforce/CodeGen",
+    "url": "https://github.com/salesforce/CodeGen",
+    "desc": "CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.",
+    "lang": "Python"
+  },
+  {
+    "title": "ludwig-ai/ludwig",
+    "url": "https://github.com/ludwig-ai/ludwig",
+    "desc": "Data-centric declarative deep learning framework",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "desc": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+    "lang": "Python"
+  },
+  {
+    "title": "electricitymaps/electricitymaps-contrib",
+    "url": "https://github.com/electricitymaps/electricitymaps-contrib",
+    "desc": "A real-time visualisation of the CO2 emissions of electricity consumption",
+    "lang": "Python"
+  },
+  {
+    "title": "thunil/TecoGAN",
+    "url": "https://github.com/thunil/TecoGAN",
+    "desc": "This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.",
+    "lang": "Python"
+  },
+  {
+    "title": "t3l3machus/Villain",
+    "url": "https://github.com/t3l3machus/Villain",
+    "desc": "Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/NeMo",
+    "url": "https://github.com/NVIDIA/NeMo",
+    "desc": "NeMo: a toolkit for conversational AI",
+    "lang": "Python"
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "desc": "An orchestration platform for the development, production, and observation of data assets.",
+    "lang": "Python"
+  },
+  {
+    "title": "aws/aws-cli",
+    "url": "https://github.com/aws/aws-cli",
+    "desc": "Universal Command Line Interface for Amazon Web Services",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "PyCQA/flake8",
+    "url": "https://github.com/PyCQA/flake8",
+    "desc": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.",
+    "lang": "Python"
+  },
+  {
+    "title": "netbox-community/netbox",
+    "url": "https://github.com/netbox-community/netbox",
+    "desc": "The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmengine",
+    "url": "https://github.com/open-mmlab/mmengine",
+    "desc": "OpenMMLab Foundational Library for Training Deep Learning Models",
+    "lang": "Python"
+  }
+]

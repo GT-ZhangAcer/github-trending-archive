@@ -1,0 +1,147 @@
+[
+  {
+    "title": "GreptimeTeam/greptimedb",
+    "url": "https://github.com/GreptimeTeam/greptimedb",
+    "desc": "GreptimeDB, an open-source, cloud-native, distributed time-series database.",
+    "lang": "Rust"
+  },
+  {
+    "title": "paperswithcode/galai",
+    "url": "https://github.com/paperswithcode/galai",
+    "desc": "Model API for GALACTICA",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/sapling",
+    "url": "https://github.com/facebook/sapling",
+    "desc": "A Scalable, User-Friendly Source Control System.",
+    "lang": "Rust"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jaywcjlove/reference",
+    "url": "https://github.com/jaywcjlove/reference",
+    "desc": "为开发人员分享快速参考备忘清单(速查表)",
+    "lang": "CSS"
+  },
+  {
+    "title": "techiescamp/kubernetes-learning-path",
+    "url": "https://github.com/techiescamp/kubernetes-learning-path",
+    "desc": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)"
+  },
+  {
+    "title": "SHI-Labs/Versatile-Diffusion",
+    "url": "https://github.com/SHI-Labs/Versatile-Diffusion",
+    "desc": "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022",
+    "lang": "Python"
+  },
+  {
+    "title": "cheatsnake/backend-cheats",
+    "url": "https://github.com/cheatsnake/backend-cheats",
+    "desc": "🔰 Шпаргалка по бэкенду с картинками и не только"
+  },
+  {
+    "title": "nuxt/framework",
+    "url": "https://github.com/nuxt/framework",
+    "desc": "The Intuitive Web Framework, based on Vue 3.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "The modern web developer’s platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "Python"
+  },
+  {
+    "title": "Baiyuetribe/paper2gui",
+    "url": "https://github.com/Baiyuetribe/paper2gui",
+    "desc": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Kr328/ClashForAndroid",
+    "url": "https://github.com/Kr328/ClashForAndroid",
+    "desc": "A rule-based tunnel for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "angular/components",
+    "url": "https://github.com/angular/components",
+    "desc": "Component infrastructure and Material Design components for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups"
+  },
+  {
+    "title": "iranxray/hope",
+    "url": "https://github.com/iranxray/hope",
+    "desc": ""
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
+    "lang": "Clojure"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "brave-people/Dev-Event",
+    "url": "https://github.com/brave-people/Dev-Event",
+    "desc": "🎉🎈 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 알려드립니다. [with 남송리 삼번지]"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "desc": "Spring Framework",
+    "lang": "Java"
+  },
+  {
+    "title": "raminmh/CfC",
+    "url": "https://github.com/raminmh/CfC",
+    "desc": "Closed-form Continuous-time Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "desc": "Odoo. Open Source Apps To Grow Your Business.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "atelier-anchor/smiley-sans",
+    "url": "https://github.com/atelier-anchor/smiley-sans",
+    "desc": "得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体",
+    "lang": "HTML"
+  },
+  {
+    "title": "kubernetes/client-go",
+    "url": "https://github.com/kubernetes/client-go",
+    "desc": "Go client for Kubernetes.",
+    "lang": "Go"
+  }
+]
