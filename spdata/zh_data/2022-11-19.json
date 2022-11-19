@@ -1,0 +1,149 @@
+[
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "heroaku/TVboxo",
+    "url": "https://github.com/heroaku/TVboxo",
+    "desc": "自用资源",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pingc0y/go_proxy_pool",
+    "url": "https://github.com/pingc0y/go_proxy_pool",
+    "desc": "无环境依赖开箱即用的代理IP池",
+    "lang": "Go"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "desc": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "lang": "C++"
+  },
+  {
+    "title": "hehonghui/awesome-english-ebooks",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "lang": "CSS"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "krenx1983/openctp",
+    "url": "https://github.com/krenx1983/openctp",
+    "desc": "CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。",
+    "lang": "C"
+  },
+  {
+    "title": "xuxiaodong/usingcli-book",
+    "url": "https://github.com/xuxiaodong/usingcli-book",
+    "desc": "像黑客一样使用命令行",
+    "lang": "TeX"
+  },
+  {
+    "title": "Visualize-ML/Book3_Fundamentals-of-Mathematics",
+    "url": "https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics",
+    "desc": "《数学要素》，清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "《矩阵力量》，清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "Lakr233/SafariYYDS",
+    "url": "https://github.com/Lakr233/SafariYYDS",
+    "desc": "",
+    "lang": "Swift"
+  },
+  {
+    "title": "jdf2e/nutui",
+    "url": "https://github.com/jdf2e/nutui",
+    "desc": "京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)",
+    "lang": "Vue"
+  },
+  {
+    "title": "Ponderfly/GoogleTranslateIpCheck",
+    "url": "https://github.com/Ponderfly/GoogleTranslateIpCheck",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "linhaojun857/aurora",
+    "url": "https://github.com/linhaojun857/aurora",
+    "desc": "基于SpringBoot+Vue开发的个人博客系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "limoruirui/misaka",
+    "url": "https://github.com/limoruirui/misaka",
+    "desc": "开源的一些乱七八糟的东西",
+    "lang": "Python"
+  },
+  {
+    "title": "Baiyuetribe/paper2gui",
+    "url": "https://github.com/Baiyuetribe/paper2gui",
+    "desc": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "desc": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "lang": "Java"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "Shell"
+  },
+  {
+    "title": "DivineEngine/Profiles",
+    "url": "https://github.com/DivineEngine/Profiles",
+    "desc": "🌐Dial-up Internet access"
+  },
+  {
+    "title": "hunshcn/gh-proxy",
+    "url": "https://github.com/hunshcn/gh-proxy",
+    "desc": "github release、archive以及项目文件的加速项目",
+    "lang": "Python"
+  },
+  {
+    "title": "jeequan/jeepay",
+    "url": "https://github.com/jeequan/jeepay",
+    "desc": "Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。",
+    "lang": "Java"
+  },
+  {
+    "title": "pipipi-pikachu/PPTist",
+    "url": "https://github.com/pipipi-pikachu/PPTist",
+    "desc": "基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。",
+    "lang": "Vue"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "desc": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "lang": "Java"
+  }
+]

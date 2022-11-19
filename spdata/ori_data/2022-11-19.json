@@ -1,0 +1,147 @@
+[
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "desc": "CLI tool for Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "The modern web developer’s platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GreptimeTeam/greptimedb",
+    "url": "https://github.com/GreptimeTeam/greptimedb",
+    "desc": "GreptimeDB, an open-source, cloud-native, distributed time-series database.",
+    "lang": "Rust"
+  },
+  {
+    "title": "facebook/sapling",
+    "url": "https://github.com/facebook/sapling",
+    "desc": "A Scalable, User-Friendly Source Control System.",
+    "lang": "Rust"
+  },
+  {
+    "title": "nuxt/framework",
+    "url": "https://github.com/nuxt/framework",
+    "desc": "The Intuitive Web Framework, based on Vue 3.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "desc": "⚙️ NGINX config generator on steroids 💉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "paperswithcode/galai",
+    "url": "https://github.com/paperswithcode/galai",
+    "desc": "Model API for GALACTICA",
+    "lang": "Python"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "An enterprise-class UI design language and React UI library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "raminmh/CfC",
+    "url": "https://github.com/raminmh/CfC",
+    "desc": "Closed-form Continuous-time Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "nathanlesage/academics-on-mastodon",
+    "url": "https://github.com/nathanlesage/academics-on-mastodon",
+    "desc": "A list of various lists consisting of academics on Mastodon"
+  },
+  {
+    "title": "hashicorp/golang-lru",
+    "url": "https://github.com/hashicorp/golang-lru",
+    "desc": "Golang LRU cache",
+    "lang": "Go"
+  },
+  {
+    "title": "heroaku/TVboxo",
+    "url": "https://github.com/heroaku/TVboxo",
+    "desc": "自用资源",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/incubator-seatunnel",
+    "url": "https://github.com/apache/incubator-seatunnel",
+    "desc": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
+    "lang": "Java"
+  },
+  {
+    "title": "mapbox/mapbox-gl-js",
+    "url": "https://github.com/mapbox/mapbox-gl-js",
+    "desc": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "0x90n/InfoSec-Black-Friday",
+    "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+    "desc": "All the deals for InfoSec related software/tools this Black Friday"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "desc": "Odoo. Open Source Apps To Grow Your Business.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pingc0y/go_proxy_pool",
+    "url": "https://github.com/pingc0y/go_proxy_pool",
+    "desc": "无环境依赖开箱即用的代理IP池",
+    "lang": "Go"
+  }
+]

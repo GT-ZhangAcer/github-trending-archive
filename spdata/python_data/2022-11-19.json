@@ -1,0 +1,152 @@
+[
+  {
+    "title": "paperswithcode/galai",
+    "url": "https://github.com/paperswithcode/galai",
+    "desc": "Model API for GALACTICA",
+    "lang": "Python"
+  },
+  {
+    "title": "raminmh/CfC",
+    "url": "https://github.com/raminmh/CfC",
+    "desc": "Closed-form Continuous-time Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "Python"
+  },
+  {
+    "title": "FlagAI-Open/FlagAI",
+    "url": "https://github.com/FlagAI-Open/FlagAI",
+    "desc": "FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlmapproject/sqlmap",
+    "url": "https://github.com/sqlmapproject/sqlmap",
+    "desc": "Automatic SQL injection and database takeover tool",
+    "lang": "Python"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "lang": "Python"
+  },
+  {
+    "title": "testanull/ProxyNotShell-PoC",
+    "url": "https://github.com/testanull/ProxyNotShell-PoC",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book3_Fundamentals-of-Mathematics",
+    "url": "https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics",
+    "desc": "《数学要素》，清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "Gioman101/FlipperAmiibo",
+    "url": "https://github.com/Gioman101/FlipperAmiibo",
+    "desc": "Made to be used with Flipper just drag the folder into NFC",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "《矩阵力量》，清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "zjc062/mind-vis",
+    "url": "https://github.com/zjc062/mind-vis",
+    "desc": "Code base for MinD-Vis",
+    "lang": "Python"
+  },
+  {
+    "title": "adamian98/pulse",
+    "url": "https://github.com/adamian98/pulse",
+    "desc": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
+    "lang": "Python"
+  },
+  {
+    "title": "thebaselab/codeapp",
+    "url": "https://github.com/thebaselab/codeapp",
+    "desc": "Building a full-fledged code editor for iPad",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/pyright",
+    "url": "https://github.com/microsoft/pyright",
+    "desc": "Static type checker for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "aws/aws-sam-cli",
+    "url": "https://github.com/aws/aws-sam-cli",
+    "desc": "CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM",
+    "lang": "Python"
+  },
+  {
+    "title": "thunil/TecoGAN",
+    "url": "https://github.com/thunil/TecoGAN",
+    "desc": "This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.",
+    "lang": "Python"
+  },
+  {
+    "title": "limoruirui/misaka",
+    "url": "https://github.com/limoruirui/misaka",
+    "desc": "开源的一些乱七八糟的东西",
+    "lang": "Python"
+  },
+  {
+    "title": "mikf/gallery-dl",
+    "url": "https://github.com/mikf/gallery-dl",
+    "desc": "Command-line program to download image galleries and collections from several image hosting sites",
+    "lang": "Python"
+  },
+  {
+    "title": "SHI-Labs/Versatile-Diffusion",
+    "url": "https://github.com/SHI-Labs/Versatile-Diffusion",
+    "desc": "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdeploy",
+    "url": "https://github.com/open-mmlab/mmdeploy",
+    "desc": "OpenMMLab Model Deployment Framework",
+    "lang": "Python"
+  }
+]
