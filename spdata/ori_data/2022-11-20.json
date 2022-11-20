@@ -1,0 +1,147 @@
+[
+  {
+    "title": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "desc": "An open-source, self-hosted memo hub for knowledge management and collaboration.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "desc": "Port of OpenAI's Whisper model in C/C++",
+    "lang": "C"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "lang": "Rust"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "facebook/sapling",
+    "url": "https://github.com/facebook/sapling",
+    "desc": "A Scalable, User-Friendly Source Control System.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ShoufaChen/DiffusionDet",
+    "url": "https://github.com/ShoufaChen/DiffusionDet",
+    "desc": "PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)",
+    "lang": "Python"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "desc": "A rule-based tunnel in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "Purp1eW0lf/Blue-Team-Notes",
+    "url": "https://github.com/Purp1eW0lf/Blue-Team-Notes",
+    "desc": "You didn't think I'd go and leave the blue team out, right?"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "desc": "Black Friday Deals for macOS / iOS Software & Books",
+    "lang": "Swift"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "cheatsnake/backend-cheats",
+    "url": "https://github.com/cheatsnake/backend-cheats",
+    "desc": "🔰 Шпаргалка по бэкенду с картинками и не только"
+  },
+  {
+    "title": "mastodon/mastodon-ios",
+    "url": "https://github.com/mastodon/mastodon-ios",
+    "desc": "Official iOS app for Mastodon",
+    "lang": "Swift"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "fbelavenuto/arpl",
+    "url": "https://github.com/fbelavenuto/arpl",
+    "desc": "Automated Redpill Loader",
+    "lang": "Shell"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "FlagAI-Open/FlagAI",
+    "url": "https://github.com/FlagAI-Open/FlagAI",
+    "desc": "FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.",
+    "lang": "Python"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "desc": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "lang": "C++"
+  },
+  {
+    "title": "Uniswap/permit2",
+    "url": "https://github.com/Uniswap/permit2",
+    "desc": "🔑🔑🔑 next generation token approvals mechanism",
+    "lang": "Solidity"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "desc": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  }
+]

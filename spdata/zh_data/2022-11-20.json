@@ -1,0 +1,148 @@
+[
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "desc": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "lang": "C++"
+  },
+  {
+    "title": "Visualize-ML/Book3_Fundamentals-of-Mathematics",
+    "url": "https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics",
+    "desc": "《数学要素》，清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "nilaoda/N_m3u8DL-CLI",
+    "url": "https://github.com/nilaoda/N_m3u8DL-CLI",
+    "desc": "[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.",
+    "lang": "C#"
+  },
+  {
+    "title": "leafTheFish/DeathNote",
+    "url": "https://github.com/leafTheFish/DeathNote",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "messense/aliyundrive-webdav",
+    "url": "https://github.com/messense/aliyundrive-webdav",
+    "desc": "阿里云盘 WebDAV 服务",
+    "lang": "Rust"
+  },
+  {
+    "title": "heroaku/TVboxo",
+    "url": "https://github.com/heroaku/TVboxo",
+    "desc": "自用资源",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "Binaryify/NeteaseCloudMusicApi",
+    "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+    "desc": "网易云音乐 Node.js API service",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hua1995116/awesome-ai-painting",
+    "url": "https://github.com/hua1995116/awesome-ai-painting",
+    "desc": "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform"
+  },
+  {
+    "title": "vaxilu/x-ui",
+    "url": "https://github.com/vaxilu/x-ui",
+    "desc": "支持多协议多用户的 xray 面板",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BoyceLig/Clash_Chinese_Patch",
+    "url": "https://github.com/BoyceLig/Clash_Chinese_Patch",
+    "desc": "Clash For Windows 汉化补丁和汉化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pingc0y/go_proxy_pool",
+    "url": "https://github.com/pingc0y/go_proxy_pool",
+    "desc": "无环境依赖开箱即用的代理IP池",
+    "lang": "Go"
+  },
+  {
+    "title": "pipipi-pikachu/PPTist",
+    "url": "https://github.com/pipipi-pikachu/PPTist",
+    "desc": "基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。",
+    "lang": "Vue"
+  },
+  {
+    "title": "linhaojun857/aurora",
+    "url": "https://github.com/linhaojun857/aurora",
+    "desc": "基于SpringBoot+Vue开发的个人博客系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "lzyAB/link-helper",
+    "url": "https://github.com/lzyAB/link-helper",
+    "desc": "支持下载飞猫云、kufile等15+网赚网盘的油猴脚本！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Icalingua-plus-plus/Icalingua-plus-plus",
+    "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus",
+    "desc": "A client for QQ and more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tencent/APIJSON",
+    "url": "https://github.com/Tencent/APIJSON",
+    "desc": "🚀 零代码、全功能、强安全 ORM 库 🏆 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library 🏆 provides APIs and Docs without writing any code.",
+    "lang": "Java"
+  },
+  {
+    "title": "h2y/Shadowrocket-ADBlock-Rules",
+    "url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
+    "desc": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。",
+    "lang": "Python"
+  },
+  {
+    "title": "6dylan6/jdpro",
+    "url": "https://github.com/6dylan6/jdpro",
+    "desc": "青龙脚本库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Ponderfly/GoogleTranslateIpCheck",
+    "url": "https://github.com/Ponderfly/GoogleTranslateIpCheck",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  }
+]
