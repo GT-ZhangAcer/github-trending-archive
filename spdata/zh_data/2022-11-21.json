@@ -1,0 +1,147 @@
+[
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "maotoumao/MusicFree",
+    "url": "https://github.com/maotoumao/MusicFree",
+    "desc": "插件化、定制化、无广告的免费音乐播放器",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Baiyuetribe/paper2gui",
+    "url": "https://github.com/Baiyuetribe/paper2gui",
+    "desc": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "the1812/Bilibili-Evolved",
+    "url": "https://github.com/the1812/Bilibili-Evolved",
+    "desc": "强大的哔哩哔哩增强脚本",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lzyAB/link-helper",
+    "url": "https://github.com/lzyAB/link-helper",
+    "desc": "支持下载飞猫云、kufile等15+网赚网盘的油猴脚本！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "heroaku/TVboxo",
+    "url": "https://github.com/heroaku/TVboxo",
+    "desc": "自用资源",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Hex-Dragon/PCL2",
+    "url": "https://github.com/Hex-Dragon/PCL2",
+    "desc": "Plain Craft Launcher 2（我的世界启动器 PCL2）的源代码库。",
+    "lang": "VisualBasic.NET"
+  },
+  {
+    "title": "Cyril0563/lanjing_live",
+    "url": "https://github.com/Cyril0563/lanjing_live",
+    "desc": "🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lyswhut/lx-music-mobile",
+    "url": "https://github.com/lyswhut/lx-music-mobile",
+    "desc": "一个基于 React native 开发的音乐软件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "messense/aliyundrive-webdav",
+    "url": "https://github.com/messense/aliyundrive-webdav",
+    "desc": "阿里云盘 WebDAV 服务",
+    "lang": "Rust"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿"
+  },
+  {
+    "title": "Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "url": "https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "desc": "转存助手ui优化版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "redleafnew/Chinese-STD-GB-T-7714-related-csl",
+    "url": "https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl",
+    "desc": "GB/T 7714相关的csl以及Zotero使用技巧及教程。"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  },
+  {
+    "title": "nilaoda/BBDown",
+    "url": "https://github.com/nilaoda/BBDown",
+    "desc": "Bilibili Downloader. 一款命令行式哔哩哔哩下载器.",
+    "lang": "C#"
+  },
+  {
+    "title": "AmazingAng/WTF-Solidity",
+    "url": "https://github.com/AmazingAng/WTF-Solidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy",
+    "lang": "Solidity"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "desc": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "lang": "C++"
+  },
+  {
+    "title": "Binaryify/NeteaseCloudMusicApi",
+    "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+    "desc": "网易云音乐 Node.js API service",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "scriptscat/scriptcat",
+    "url": "https://github.com/scriptscat/scriptcat",
+    "desc": "脚本猫,一个可以执行用户脚本的浏览器扩展,万物皆可脚本化,让你的浏览器可以做更多的事情!",
+    "lang": "TypeScript"
+  }
+]

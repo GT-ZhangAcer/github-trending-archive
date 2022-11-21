@@ -1,0 +1,152 @@
+[
+  {
+    "title": "andrewgodwin/takahe",
+    "url": "https://github.com/andrewgodwin/takahe",
+    "desc": "An ActivityPub/Fediverse server",
+    "lang": "Python"
+  },
+  {
+    "title": "ShoufaChen/DiffusionDet",
+    "url": "https://github.com/ShoufaChen/DiffusionDet",
+    "desc": "PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "desc": "Deepfakes Software For All",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "Free-TV/IPTV",
+    "url": "https://github.com/Free-TV/IPTV",
+    "desc": "M3U Playlist for free TV channels",
+    "lang": "Python"
+  },
+  {
+    "title": "FlagAI-Open/FlagAI",
+    "url": "https://github.com/FlagAI-Open/FlagAI",
+    "desc": "FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "magicleap/SuperGluePretrainedNetwork",
+    "url": "https://github.com/magicleap/SuperGluePretrainedNetwork",
+    "desc": "SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral)",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/pyright",
+    "url": "https://github.com/microsoft/pyright",
+    "desc": "Static type checker for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "nat/natbot",
+    "url": "https://github.com/nat/natbot",
+    "desc": "Drive a browser with GPT-3",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "desc": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
+    "lang": "Python"
+  },
+  {
+    "title": "fr4nc1stein/osint-framework",
+    "url": "https://github.com/fr4nc1stein/osint-framework",
+    "desc": "OSINT Framework : A python based Open Source Intelligence CLI framework similar to Metasploit.",
+    "lang": "Python"
+  },
+  {
+    "title": "matrix-org/synapse",
+    "url": "https://github.com/matrix-org/synapse",
+    "desc": "Synapse: Matrix homeserver written in Python/Twisted.",
+    "lang": "Python"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "desc": "We have made you a wrapper you can't refuse",
+    "lang": "Python"
+  },
+  {
+    "title": "deepchem/deepchem",
+    "url": "https://github.com/deepchem/deepchem",
+    "desc": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",
+    "lang": "Python"
+  }
+]

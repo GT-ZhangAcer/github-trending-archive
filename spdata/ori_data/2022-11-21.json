@@ -1,0 +1,148 @@
+[
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "andrewgodwin/takahe",
+    "url": "https://github.com/andrewgodwin/takahe",
+    "desc": "An ActivityPub/Fediverse server",
+    "lang": "Python"
+  },
+  {
+    "title": "metabolist/metatext",
+    "url": "https://github.com/metabolist/metatext",
+    "desc": "A free, open-source iOS Mastodon client.",
+    "lang": "Swift"
+  },
+  {
+    "title": "ShoufaChen/DiffusionDet",
+    "url": "https://github.com/ShoufaChen/DiffusionDet",
+    "desc": "PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)",
+    "lang": "Python"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "desc": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "lang": "Rust"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "cachix/devenv",
+    "url": "https://github.com/cachix/devenv",
+    "desc": "Fast, Declarative, Reproducible, and Composable Developer Environments",
+    "lang": "Nix"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "desc": "Port of OpenAI's Whisper model in C/C++",
+    "lang": "C"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "desc": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "desc": "An open-source, self-hosted memo hub with knowledge management and collaboration.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BuilderIO/qwik",
+    "url": "https://github.com/BuilderIO/qwik",
+    "desc": "The HTML-first framework. Instant apps of any size with ~ 1kb JS",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "yeswehack/vulnerable-code-snippets",
+    "url": "https://github.com/yeswehack/vulnerable-code-snippets",
+    "desc": "Twitter vulnerable snippets",
+    "lang": "PHP"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "superseriousbusiness/gotosocial",
+    "url": "https://github.com/superseriousbusiness/gotosocial",
+    "desc": "Fast, fun, ActivityPub server, powered by Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "desc": "This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.",
+    "lang": "Java"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Java"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills."
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "desc": "✅ The Node.js best practices list (November 2022)",
+    "lang": "JavaScript"
+  }
+]

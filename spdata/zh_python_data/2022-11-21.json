@@ -1,0 +1,152 @@
+[
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "wbt5/real-url",
+    "url": "https://github.com/wbt5/real-url",
+    "desc": "获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。",
+    "lang": "Python"
+  },
+  {
+    "title": "xiaoming2028/FreePAC",
+    "url": "https://github.com/xiaoming2028/FreePAC",
+    "desc": "科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "lang": "Python"
+  },
+  {
+    "title": "yihong0618/GitHubPoster",
+    "url": "https://github.com/yihong0618/GitHubPoster",
+    "desc": "Make everything a GitHub svg poster and Skyline!",
+    "lang": "Python"
+  },
+  {
+    "title": "triwinds/ns-emu-tools",
+    "url": "https://github.com/triwinds/ns-emu-tools",
+    "desc": "一个用于安装/更新 NS 模拟器的工具",
+    "lang": "Python"
+  },
+  {
+    "title": "HFrost0/bilix",
+    "url": "https://github.com/HFrost0/bilix",
+    "desc": "⚡️快如闪电的bilibili下载工具，基于Python现代Async特性，高速批量下载整部动漫，电视剧，up投稿等。现已支持抖音等更多站点",
+    "lang": "Python"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, PPYOLO, PPYOLOv2, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "conwnet/wpa-dictionary",
+    "url": "https://github.com/conwnet/wpa-dictionary",
+    "desc": "WPA/WPA2 密码字典，用于 wifi 密码暴力破解",
+    "lang": "Python"
+  },
+  {
+    "title": "Womsxd/AutoMihoyoBBS",
+    "url": "https://github.com/Womsxd/AutoMihoyoBBS",
+    "desc": "米游社自动签到，支持：崩坏二、崩坏三、原神、未定事件簿，米游币自动获取",
+    "lang": "Python"
+  },
+  {
+    "title": "sml2h3/ocr_api_server",
+    "url": "https://github.com/sml2h3/ocr_api_server",
+    "desc": "使用ddddocr的最简api搭建项目，支持docker",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "XuanRanDev/Auto-GongXueYun",
+    "url": "https://github.com/XuanRanDev/Auto-GongXueYun",
+    "desc": "😴 蘑菇丁 & 工学云每日自动打卡、支持多用户、自定义地区与时间、免服务器部署。",
+    "lang": "Python"
+  },
+  {
+    "title": "GoodCoder666/GoogleTranslate_IPFinder",
+    "url": "https://github.com/GoodCoder666/GoogleTranslate_IPFinder",
+    "desc": "谷歌翻译服务器在中国大陆的IP地址扫描、测速工具，支持GUI图形界面。",
+    "lang": "Python"
+  },
+  {
+    "title": "tonquer/picacg-qt",
+    "url": "https://github.com/tonquer/picacg-qt",
+    "desc": "哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS)",
+    "lang": "Python"
+  },
+  {
+    "title": "Johnserf-Seed/TikTokDownload",
+    "url": "https://github.com/Johnserf-Seed/TikTokDownload",
+    "desc": "抖音去水印批量下载用户主页作品、喜欢、图文、音频",
+    "lang": "Python"
+  },
+  {
+    "title": "hgalytoby/MyselfAnimeDownloader",
+    "url": "https://github.com/hgalytoby/MyselfAnimeDownloader",
+    "desc": "MyselfAnimeDownloader / Myself動漫下載 / Myself動畫下載",
+    "lang": "Python"
+  },
+  {
+    "title": "SuperCV/Book",
+    "url": "https://github.com/SuperCV/Book",
+    "desc": "📗我的个人书籍学习和收藏",
+    "lang": "Python"
+  },
+  {
+    "title": "0voice/interview_internal_reference",
+    "url": "https://github.com/0voice/interview_internal_reference",
+    "desc": "2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+    "lang": "Python"
+  },
+  {
+    "title": "Evil0ctal/Douyin_TikTok_Download_API",
+    "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+    "desc": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音|TikTok数据爬取工具，支持API调用，在线批量解析及下载。",
+    "lang": "Python"
+  },
+  {
+    "title": "Samueli924/chaoxing",
+    "url": "https://github.com/Samueli924/chaoxing",
+    "desc": "超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点",
+    "lang": "Python"
+  }
+]
