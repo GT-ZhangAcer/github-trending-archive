@@ -1,0 +1,147 @@
+[
+  {
+    "title": "terrastruct/d2",
+    "url": "https://github.com/terrastruct/d2",
+    "desc": "D2 is a modern diagram scripting language that turns text to diagrams.",
+    "lang": "Go"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "desc": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bdebon/choiceof.dev",
+    "url": "https://github.com/bdebon/choiceof.dev",
+    "desc": "Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebookresearch/diplomacy_cicero",
+    "url": "https://github.com/facebookresearch/diplomacy_cicero",
+    "desc": "Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation.",
+    "lang": "Python"
+  },
+  {
+    "title": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "url": "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "desc": "Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc."
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "dromara/hutool",
+    "url": "https://github.com/dromara/hutool",
+    "desc": "🍬A set of tools that keep Java sweet.",
+    "lang": "Java"
+  },
+  {
+    "title": "gbj/leptos",
+    "url": "https://github.com/gbj/leptos",
+    "desc": "Build fast web applications with Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "0x90n/InfoSec-Black-Friday",
+    "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+    "desc": "All the deals for InfoSec related software/tools this Black Friday"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "desc": "The open-source notification infrastructure for developers",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "filipedeschamps/tabnews.com.br",
+    "url": "https://github.com/filipedeschamps/tabnews.com.br",
+    "desc": "Conteúdos de valor concreto para quem vive de programação e tecnologia.",
+    "lang": "HTML"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "chronicle/GCTI",
+    "url": "https://github.com/chronicle/GCTI",
+    "desc": "",
+    "lang": "YARA"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "desc": "Black Friday Deals for macOS / iOS Software & Books",
+    "lang": "Swift"
+  },
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "desc": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "illacloud/illa-builder",
+    "url": "https://github.com/illacloud/illa-builder",
+    "desc": "An open-source low-code Platform for Developers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apernet/hysteria",
+    "url": "https://github.com/apernet/hysteria",
+    "desc": "Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)",
+    "lang": "Go"
+  },
+  {
+    "title": "GyulyVGC/sniffnet",
+    "url": "https://github.com/GyulyVGC/sniffnet",
+    "desc": "Cross-platform application to monitor your network traffic with ease",
+    "lang": "Rust"
+  },
+  {
+    "title": "GoogleCloudPlatform/cloud-foundation-fabric",
+    "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+    "desc": "End-to-end modular samples for Terraform on GCP.",
+    "lang": "HCL"
+  },
+  {
+    "title": "baaivision/EVA",
+    "url": "https://github.com/baaivision/EVA",
+    "desc": "Exploring the Limits of Masked Visual Representation Learning at Scale (https://arxiv.org/abs/2211.07636)",
+    "lang": "Python"
+  }
+]
