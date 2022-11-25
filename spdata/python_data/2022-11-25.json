@@ -1,0 +1,152 @@
+[
+  {
+    "title": "facebookresearch/diplomacy_cicero",
+    "url": "https://github.com/facebookresearch/diplomacy_cicero",
+    "desc": "Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation.",
+    "lang": "Python"
+  },
+  {
+    "title": "mlfoundations/open_clip",
+    "url": "https://github.com/mlfoundations/open_clip",
+    "desc": "An open source implementation of CLIP.",
+    "lang": "Python"
+  },
+  {
+    "title": "chidiwilliams/buzz",
+    "url": "https://github.com/chidiwilliams/buzz",
+    "desc": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmocr",
+    "url": "https://github.com/open-mmlab/mmocr",
+    "desc": "OpenMMLab Text Detection, Recognition and Understanding Toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/xformers",
+    "url": "https://github.com/facebookresearch/xformers",
+    "desc": "Hackable and optimized Transformers building blocks, supporting a composable construction.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "luong-komorebi/Awesome-Linux-Software",
+    "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+    "desc": "A list of awesome applications, software, tools and other materials for Linux distros.",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "t3l3machus/Villain",
+    "url": "https://github.com/t3l3machus/Villain",
+    "desc": "Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.",
+    "lang": "Python"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "0xJs/RedTeaming_CheatSheet",
+    "url": "https://github.com/0xJs/RedTeaming_CheatSheet",
+    "desc": "Pentesting cheatsheet with all the commands I learned during my learning journey. Will try to to keep it up-to-date.",
+    "lang": "Python"
+  },
+  {
+    "title": "limoruirui/misaka",
+    "url": "https://github.com/limoruirui/misaka",
+    "desc": "开源的一些乱七八糟的东西",
+    "lang": "Python"
+  },
+  {
+    "title": "yzhao062/pyod",
+    "url": "https://github.com/yzhao062/pyod",
+    "desc": "A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSlim",
+    "url": "https://github.com/PaddlePaddle/PaddleSlim",
+    "desc": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+    "lang": "Python"
+  },
+  {
+    "title": "sshuttle/sshuttle",
+    "url": "https://github.com/sshuttle/sshuttle",
+    "desc": "Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "huawei-noah/Efficient-AI-Backbones",
+    "url": "https://github.com/huawei-noah/Efficient-AI-Backbones",
+    "desc": "Efficient AI Backbones including GhostNet, TNT and MLP, developed by Huawei Noah's Ark Lab.",
+    "lang": "Python"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "heartexlabs/label-studio",
+    "url": "https://github.com/heartexlabs/label-studio",
+    "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "lang": "Python"
+  },
+  {
+    "title": "emeryberger/CSrankings",
+    "url": "https://github.com/emeryberger/CSrankings",
+    "desc": "A web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas.",
+    "lang": "Python"
+  }
+]

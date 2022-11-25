@@ -1,0 +1,147 @@
+[
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "desc": "The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "runfinch/finch",
+    "url": "https://github.com/runfinch/finch",
+    "desc": "The Finch CLI an open source client for container development",
+    "lang": "Go"
+  },
+  {
+    "title": "davidfowl/TodoApi",
+    "url": "https://github.com/davidfowl/TodoApi",
+    "desc": "ASP.NET Core API with JWT authentication and authorization",
+    "lang": "C#"
+  },
+  {
+    "title": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "url": "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "desc": "Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc."
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "facebookresearch/diplomacy_cicero",
+    "url": "https://github.com/facebookresearch/diplomacy_cicero",
+    "desc": "Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation.",
+    "lang": "Python"
+  },
+  {
+    "title": "filipedeschamps/tabnews.com.br",
+    "url": "https://github.com/filipedeschamps/tabnews.com.br",
+    "desc": "Conteúdos de valor concreto para quem vive de programação e tecnologia.",
+    "lang": "HTML"
+  },
+  {
+    "title": "mlfoundations/open_clip",
+    "url": "https://github.com/mlfoundations/open_clip",
+    "desc": "An open source implementation of CLIP.",
+    "lang": "Python"
+  },
+  {
+    "title": "chidiwilliams/buzz",
+    "url": "https://github.com/chidiwilliams/buzz",
+    "desc": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "youshandefeiyang/IPTV",
+    "url": "https://github.com/youshandefeiyang/IPTV",
+    "desc": "肥羊的IPTV直播源搜集仓库",
+    "lang": "PHP"
+  },
+  {
+    "title": "terrastruct/d2",
+    "url": "https://github.com/terrastruct/d2",
+    "desc": "D2 is a modern diagram scripting language that turns text to diagrams.",
+    "lang": "Go"
+  },
+  {
+    "title": "google/flatbuffers",
+    "url": "https://github.com/google/flatbuffers",
+    "desc": "FlatBuffers: Memory Efficient Serialization Library",
+    "lang": "C++"
+  },
+  {
+    "title": "gulihua10010/playPiano",
+    "url": "https://github.com/gulihua10010/playPiano",
+    "desc": "Java弹奏钢琴乐曲",
+    "lang": "Java"
+  },
+  {
+    "title": "tree-sitter/tree-sitter",
+    "url": "https://github.com/tree-sitter/tree-sitter",
+    "desc": "An incremental parsing system for programming tools",
+    "lang": "Rust"
+  },
+  {
+    "title": "0x90n/InfoSec-Black-Friday",
+    "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+    "desc": "All the deals for InfoSec related software/tools this Black Friday"
+  },
+  {
+    "title": "k88hudson/git-flight-rules",
+    "url": "https://github.com/k88hudson/git-flight-rules",
+    "desc": "Flight rules for git"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "desc": "The fastest way to build Svelte apps",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "lang": "C#"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "desc": "The Laravel Framework.",
+    "lang": "PHP"
+  },
+  {
+    "title": "bytecodealliance/wasmtime",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "desc": "A fast and secure runtime for WebAssembly",
+    "lang": "Rust"
+  },
+  {
+    "title": "vitkarpov/coding-interviews-blog-archive",
+    "url": "https://github.com/vitkarpov/coding-interviews-blog-archive",
+    "desc": "vitkarpov.me blog archive"
+  }
+]
