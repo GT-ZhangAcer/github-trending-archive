@@ -1,0 +1,149 @@
+[
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "gulihua10010/playPiano",
+    "url": "https://github.com/gulihua10010/playPiano",
+    "desc": "Java弹奏钢琴乐曲",
+    "lang": "Java"
+  },
+  {
+    "title": "SmallRuralDog/vue3-music",
+    "url": "https://github.com/SmallRuralDog/vue3-music",
+    "desc": "VUE3+TS 开发的音乐播放器，界面模仿QQ音乐mac客户端，支持黑夜模式",
+    "lang": "Vue"
+  },
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "desc": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+    "lang": "C#"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "desc": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。"
+  },
+  {
+    "title": "youshandefeiyang/IPTV",
+    "url": "https://github.com/youshandefeiyang/IPTV",
+    "desc": "肥羊的IPTV直播源搜集仓库",
+    "lang": "PHP"
+  },
+  {
+    "title": "yoimiya-kokomi/miao-plugin",
+    "url": "https://github.com/yoimiya-kokomi/miao-plugin",
+    "desc": "Miao-Plugin for Yunzai-Bot",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "forthespada/CampusShame",
+    "url": "https://github.com/forthespada/CampusShame",
+    "desc": "互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想绵薄之力！"
+  },
+  {
+    "title": "leiurayer/downkyi",
+    "url": "https://github.com/leiurayer/downkyi",
+    "desc": "哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。",
+    "lang": "C#"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "desc": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "lang": "C#"
+  },
+  {
+    "title": "yuesong-feng/30dayMakeCppServer",
+    "url": "https://github.com/yuesong-feng/30dayMakeCppServer",
+    "desc": "30天自制C++服务器，包含教程和源代码",
+    "lang": "C++"
+  },
+  {
+    "title": "limoruirui/misaka",
+    "url": "https://github.com/limoruirui/misaka",
+    "desc": "开源的一些乱七八糟的东西",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "bannedbook/fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "desc": "翻墙-科学上网",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "vaxilu/x-ui",
+    "url": "https://github.com/vaxilu/x-ui",
+    "desc": "支持多协议多用户的 xray 面板",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "url": "https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper",
+    "desc": "转存助手ui优化版",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "assimon/dujiaoka",
+    "url": "https://github.com/assimon/dujiaoka",
+    "desc": "🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉",
+    "lang": "PHP"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "desc": "基于Python的开源量化交易平台开发框架",
+    "lang": "Python"
+  },
+  {
+    "title": "ermaozi/get_subscribe",
+    "url": "https://github.com/ermaozi/get_subscribe",
+    "desc": "✈️ 免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙",
+    "lang": "Python"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+    "lang": "Shell"
+  },
+  {
+    "title": "prophesier/diff-svc",
+    "url": "https://github.com/prophesier/diff-svc",
+    "desc": "Singing Voice Conversion via diffusion model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TGSAN/CMWTAT_Digital_Edition",
+    "url": "https://github.com/TGSAN/CMWTAT_Digital_Edition",
+    "desc": "CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！",
+    "lang": "C#"
+  },
+  {
+    "title": "idontlovexjp/health-code-index.bak",
+    "url": "https://github.com/idontlovexjp/health-code-index.bak",
+    "desc": "健康码模拟；变态清零，祸国殃民。（备份自 https://github.com/ilovexjp/health-code-index ）新家在此：👇"
+  },
+  {
+    "title": "klever1988/nanopi-openwrt",
+    "url": "https://github.com/klever1988/nanopi-openwrt",
+    "desc": "Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩",
+    "lang": "Shell"
+  },
+  {
+    "title": "biubiubiu01/vue3-bigData",
+    "url": "https://github.com/biubiubiu01/vue3-bigData",
+    "desc": "一个基于vue3.0的大数据分析系统，包含各种echarts和vue3.0新API",
+    "lang": "Vue"
+  }
+]
