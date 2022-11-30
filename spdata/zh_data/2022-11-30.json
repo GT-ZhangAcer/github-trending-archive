@@ -1,0 +1,147 @@
+[
+  {
+    "title": "forthespada/CampusShame",
+    "url": "https://github.com/forthespada/CampusShame",
+    "desc": "互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想绵薄之力！"
+  },
+  {
+    "title": "ShirasawaSama/CefDetector",
+    "url": "https://github.com/ShirasawaSama/CefDetector",
+    "desc": "Check how many CEFs are on your computer. 检测你电脑上有几个CEF.",
+    "lang": "C#"
+  },
+  {
+    "title": "xiangyuecn/AreaCity-JsSpider-StatsGov",
+    "url": "https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov",
+    "desc": "省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2022年11月28日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MuiseDestiny/ZoteroStyle",
+    "url": "https://github.com/MuiseDestiny/ZoteroStyle",
+    "desc": "一个随便写写的Zotero插件",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fjqisba/WeChatStudy",
+    "url": "https://github.com/fjqisba/WeChatStudy",
+    "desc": "StudyWechat",
+    "lang": "C++"
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "StarCrossPortal/scalpel",
+    "url": "https://github.com/StarCrossPortal/scalpel",
+    "desc": "scalpel是一款命令行漏洞扫描工具，支持深度参数注入，拥有一个强大的数据解析和变异算法，可以将常见的数据格式（json, xml, form等）解析为树结构，然后根据poc中的规则，对树进行变异，包括对叶子节点和树结构 的变异。变异完成之后，将树结构还原为原始的数据格式。 原理：https://mp.weixin.qq.com/s/U_llBwC05vb84U9wb8NZog"
+  },
+  {
+    "title": "digoal/blog",
+    "url": "https://github.com/digoal/blog",
+    "desc": "Everything about database,business.(Most for PostgreSQL).",
+    "lang": "PLpgSQL"
+  },
+  {
+    "title": "Mereithhh/vanblog",
+    "url": "https://github.com/Mereithhh/vanblog",
+    "desc": "一款简洁实用优雅的高性能个人博客系统",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ldqk/Masuit.Tools",
+    "url": "https://github.com/ldqk/Masuit.Tools",
+    "desc": "包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！",
+    "lang": "C#"
+  },
+  {
+    "title": "ShirasawaSama/CefDetectorX",
+    "url": "https://github.com/ShirasawaSama/CefDetectorX",
+    "desc": "【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Planshit/Tai",
+    "url": "https://github.com/Planshit/Tai",
+    "desc": "👻 在Windows上统计软件使用时长",
+    "lang": "C#"
+  },
+  {
+    "title": "Anthem-whisper/YApi-Exploit",
+    "url": "https://github.com/Anthem-whisper/YApi-Exploit",
+    "desc": "YApi boolean-based injection exploit.",
+    "lang": "Python"
+  },
+  {
+    "title": "fuckxmz/LoveGreenCode",
+    "url": "https://github.com/fuckxmz/LoveGreenCode",
+    "desc": "",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "begood0513/goodnews",
+    "url": "https://github.com/begood0513/goodnews",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "winezer0/passive-scan-client-plus",
+    "url": "https://github.com/winezer0/passive-scan-client-plus",
+    "desc": "passive-scan-client 维护分支",
+    "lang": "Java"
+  },
+  {
+    "title": "ZJUZBW/Wotr-BD-LR",
+    "url": "https://github.com/ZJUZBW/Wotr-BD-LR",
+    "desc": "正义之怒Wotr主角BD搜集"
+  },
+  {
+    "title": "Tongjilibo/bert4torch",
+    "url": "https://github.com/Tongjilibo/bert4torch",
+    "desc": "参考bert4keras的pytorch实现",
+    "lang": "Python"
+  },
+  {
+    "title": "haiibo/OpenWrt",
+    "url": "https://github.com/haiibo/OpenWrt",
+    "desc": "基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5S、香橙派 R1 Plus、树莓派3B/B+、树莓派4B、R66S、R68S、H66K、H68K、H88K、Rock5b、M68S、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等",
+    "lang": "Shell"
+  },
+  {
+    "title": "567haofeiji/yingyuan",
+    "url": "https://github.com/567haofeiji/yingyuan",
+    "desc": ""
+  },
+  {
+    "title": "quarkape/free_logo",
+    "url": "https://github.com/quarkape/free_logo",
+    "desc": "【一个】插件帮你快速、免费下载【两个】网站的无水印、高清LOGO！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pengxurui/AndroidFamily",
+    "url": "https://github.com/pengxurui/AndroidFamily",
+    "desc": "🔥【Android 面经 + Android 学习指南】一份帮助 Android 开发者知识积累与能力进阶的学习路线"
+  },
+  {
+    "title": "dushixiang/next-terminal",
+    "url": "https://github.com/dushixiang/next-terminal",
+    "desc": "Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EhViewer-NekoInverter/EhViewer",
+    "url": "https://github.com/EhViewer-NekoInverter/EhViewer",
+    "desc": "🥥 EhViewer-NekoInverter [白E]",
+    "lang": "Java"
+  },
+  {
+    "title": "yulichang/mybatis-plus-join",
+    "url": "https://github.com/yulichang/mybatis-plus-join",
+    "desc": "支持连表查询的mybatis-plus,mybatis-plus风格的连表操作提供wrapper.leftJoin(),wrapper.rightJoin()等操作",
+    "lang": "Java"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Anthem-whisper/YApi-Exploit",
+    "url": "https://github.com/Anthem-whisper/YApi-Exploit",
+    "desc": "YApi boolean-based injection exploit.",
+    "lang": "Python"
+  },
+  {
+    "title": "begood0513/goodnews",
+    "url": "https://github.com/begood0513/goodnews",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Tongjilibo/bert4torch",
+    "url": "https://github.com/Tongjilibo/bert4torch",
+    "desc": "参考bert4keras的pytorch实现",
+    "lang": "Python"
+  },
+  {
+    "title": "tw93/tw93",
+    "url": "https://github.com/tw93/tw93",
+    "desc": "Github 首页自动信息工作流",
+    "lang": "Python"
+  },
+  {
+    "title": "zhaoolee/ins",
+    "url": "https://github.com/zhaoolee/ins",
+    "desc": "🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度",
+    "lang": "Python"
+  },
+  {
+    "title": "founder-yu/Healthy-Punch-Card",
+    "url": "https://github.com/founder-yu/Healthy-Punch-Card",
+    "desc": "中南大学健康打卡（2022年新版）",
+    "lang": "Python"
+  },
+  {
+    "title": "pofey/movie_robot",
+    "url": "https://github.com/pofey/movie_robot",
+    "desc": "轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。",
+    "lang": "Python"
+  },
+  {
+    "title": "Gaoyongxian666/OpenSearcher",
+    "url": "https://github.com/Gaoyongxian666/OpenSearcher",
+    "desc": "一个基于PyQT5开源的、本地的、安全的、支持全文检索的搜索器。",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/FreeSVC",
+    "url": "https://github.com/innnky/FreeSVC",
+    "desc": "基于FreeVC的歌声转换",
+    "lang": "Python"
+  },
+  {
+    "title": "guanguans/favorite-link",
+    "url": "https://github.com/guanguans/favorite-link",
+    "desc": "❤️ 每天收集喜欢的开源项目 | RSS 订阅 | 快知 app 订阅",
+    "lang": "Python"
+  },
+  {
+    "title": "Zakkoree/woiden_extend",
+    "url": "https://github.com/Zakkoree/woiden_extend",
+    "desc": "woiden.id and hax.co.id auto extend",
+    "lang": "Python"
+  },
+  {
+    "title": "shibing624/pycorrector",
+    "url": "https://github.com/shibing624/pycorrector",
+    "desc": "pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer，T5等模型实现，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "Javacr/PyQt5-YOLOv5",
+    "url": "https://github.com/Javacr/PyQt5-YOLOv5",
+    "desc": "PyQt5 implementation of YOLOv5 GUI",
+    "lang": "Python"
+  }
+]
