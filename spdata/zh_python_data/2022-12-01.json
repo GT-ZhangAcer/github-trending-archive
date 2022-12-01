@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Anthem-whisper/YApi-Exploit",
+    "url": "https://github.com/Anthem-whisper/YApi-Exploit",
+    "desc": "YApi boolean-based injection exploit.",
+    "lang": "Python"
+  },
+  {
+    "title": "we0091234/Chinese_license_plate_detection_recognition",
+    "url": "https://github.com/we0091234/Chinese_license_plate_detection_recognition",
+    "desc": "yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/FreeSVC",
+    "url": "https://github.com/innnky/FreeSVC",
+    "desc": "基于FreeVC的歌声转换",
+    "lang": "Python"
+  },
+  {
+    "title": "OFA-Sys/Chinese-CLIP",
+    "url": "https://github.com/OFA-Sys/Chinese-CLIP",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "gfw-breaker/banned-news3",
+    "url": "https://github.com/gfw-breaker/banned-news3",
+    "desc": "禁闻聚合",
+    "lang": "Python"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "begood0513/goodnews",
+    "url": "https://github.com/begood0513/goodnews",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Gaoyongxian666/OpenSearcher",
+    "url": "https://github.com/Gaoyongxian666/OpenSearcher",
+    "desc": "一个基于PyQT5开源的、本地的、安全的、支持全文检索的搜索器。",
+    "lang": "Python"
+  },
+  {
+    "title": "0-8-4/miui-auto-tasks",
+    "url": "https://github.com/0-8-4/miui-auto-tasks",
+    "desc": "一个自动化完成小米社区任务的脚本",
+    "lang": "Python"
+  },
+  {
+    "title": "Zakkoree/woiden_extend",
+    "url": "https://github.com/Zakkoree/woiden_extend",
+    "desc": "woiden.id and hax.co.id auto extend",
+    "lang": "Python"
+  },
+  {
+    "title": "PantsuDango/Dango-Translator",
+    "url": "https://github.com/PantsuDango/Dango-Translator",
+    "desc": "团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器",
+    "lang": "Python"
+  },
+  {
+    "title": "Dod-o/Statistical-Learning-Method_Code",
+    "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+    "desc": "手写实现李航《统计学习方法》书中全部算法",
+    "lang": "Python"
+  },
+  {
+    "title": "shibing624/pycorrector",
+    "url": "https://github.com/shibing624/pycorrector",
+    "desc": "pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer，T5等模型实现，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "Tongjilibo/bert4torch",
+    "url": "https://github.com/Tongjilibo/bert4torch",
+    "desc": "参考bert4keras的pytorch实现",
+    "lang": "Python"
+  },
+  {
+    "title": "test502git/awvs14-scan",
+    "url": "https://github.com/test502git/awvs14-scan",
+    "desc": "针对 Acunetix AWVS扫描器开发的批量扫描脚本，支持log4j漏洞、SpringShell、SQL注入、XSS、弱口令等专项，支持联动xray、burp、w13scan等被动批量",
+    "lang": "Python"
+  },
+  {
+    "title": "guanguans/favorite-link",
+    "url": "https://github.com/guanguans/favorite-link",
+    "desc": "❤️ 每天收集喜欢的开源项目 | RSS 订阅 | 快知 app 订阅",
+    "lang": "Python"
+  },
+  {
+    "title": "dongrixinyu/JioNLP",
+    "url": "https://github.com/dongrixinyu/JioNLP",
+    "desc": "中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com",
+    "lang": "Python"
+  },
+  {
+    "title": "founder-yu/V2free-Checkin",
+    "url": "https://github.com/founder-yu/V2free-Checkin",
+    "desc": "V2free自动签到",
+    "lang": "Python"
+  },
+  {
+    "title": "kangvcar/InfoSpider",
+    "url": "https://github.com/kangvcar/InfoSpider",
+    "desc": "INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。",
+    "lang": "Python"
+  },
+  {
+    "title": "founder-yu/Healthy-Punch-Card",
+    "url": "https://github.com/founder-yu/Healthy-Punch-Card",
+    "desc": "中南大学健康打卡（2022年新版）",
+    "lang": "Python"
+  },
+  {
+    "title": "BNDou/World_Cup",
+    "url": "https://github.com/BNDou/World_Cup",
+    "desc": "2022世界杯预测",
+    "lang": "Python"
+  },
+  {
+    "title": "zhaoolee/ins",
+    "url": "https://github.com/zhaoolee/ins",
+    "desc": "🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度",
+    "lang": "Python"
+  }
+]

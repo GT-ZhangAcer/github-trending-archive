@@ -1,0 +1,147 @@
+[
+  {
+    "title": "forthespada/CampusShame",
+    "url": "https://github.com/forthespada/CampusShame",
+    "desc": "互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！"
+  },
+  {
+    "title": "opendilab/PPOxFamily",
+    "url": "https://github.com/opendilab/PPOxFamily",
+    "desc": "PPO x Family DRL Tutorial Course"
+  },
+  {
+    "title": "jeequan/jeepay",
+    "url": "https://github.com/jeequan/jeepay",
+    "desc": "Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。",
+    "lang": "Java"
+  },
+  {
+    "title": "dundunnp/auto_xuexiqiangguo",
+    "url": "https://github.com/dundunnp/auto_xuexiqiangguo",
+    "desc": "每日拿满61分！免root，四人赛双人对战秒答，安卓端学习强国自动化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ShirasawaSama/CefDetectorX",
+    "url": "https://github.com/ShirasawaSama/CefDetectorX",
+    "desc": "【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Anthem-whisper/YApi-Exploit",
+    "url": "https://github.com/Anthem-whisper/YApi-Exploit",
+    "desc": "YApi boolean-based injection exploit.",
+    "lang": "Python"
+  },
+  {
+    "title": "zlib-download/zlib-download",
+    "url": "https://github.com/zlib-download/zlib-download",
+    "desc": "zlib.download project",
+    "lang": "HTML"
+  },
+  {
+    "title": "Mereithhh/vanblog",
+    "url": "https://github.com/Mereithhh/vanblog",
+    "desc": "一款简洁实用优雅的高性能个人博客系统",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "we0091234/Chinese_license_plate_detection_recognition",
+    "url": "https://github.com/we0091234/Chinese_license_plate_detection_recognition",
+    "desc": "yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌",
+    "lang": "Python"
+  },
+  {
+    "title": "yhArcadia/Yunzai-Bot-plugins-index",
+    "url": "https://github.com/yhArcadia/Yunzai-Bot-plugins-index",
+    "desc": "Yunzai-Bot云崽QQ机器人插件索引"
+  },
+  {
+    "title": "haiibo/OpenWrt",
+    "url": "https://github.com/haiibo/OpenWrt",
+    "desc": "基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5S、香橙派 R1 Plus、树莓派3B/B+、树莓派4B、R66S、R68S、H66K、H68K、H88K、Rock5b、M68S、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等",
+    "lang": "Shell"
+  },
+  {
+    "title": "fjqisba/WeChatStudy",
+    "url": "https://github.com/fjqisba/WeChatStudy",
+    "desc": "StudyWechat",
+    "lang": "C++"
+  },
+  {
+    "title": "ZhongFuCheng3y/austin",
+    "url": "https://github.com/ZhongFuCheng3y/austin",
+    "desc": "消息推送平台📝 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。所使用的技术栈包括：SpringBoot、SpringDataJPA、MySQL、Docker、docker-compose、Kafka、Redis、Apollo、prometheus、Grafana、GrayLog、Flink、Xxl-job、Echarts等等",
+    "lang": "Java"
+  },
+  {
+    "title": "StarCrossPortal/scalpel",
+    "url": "https://github.com/StarCrossPortal/scalpel",
+    "desc": "scalpel是一款命令行漏洞扫描工具，支持深度参数注入，拥有一个强大的数据解析和变异算法，可以将常见的数据格式（json, xml, form等）解析为树结构，然后根据poc中的规则，对树进行变异，包括对叶子节点和树结构 的变异。变异完成之后，将树结构还原为原始的数据格式。 原理：https://mp.weixin.qq.com/s/U_llBwC05vb84U9wb8NZog"
+  },
+  {
+    "title": "likeyun/liKeYun_Huoma",
+    "url": "https://github.com/likeyun/liKeYun_Huoma",
+    "desc": "引流宝的主要用途就是辅助基于微信私域流量的获取工作，可以减轻人力，有效降低资源损失、流量流失的几率。这是一个开源、免费、活码管理平台，便于协助自己、他人进行微信私域流量资源获取，更大化地进行营销推广活动！降低运营成本，提高工作效率，获取更多资源。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jaywcjlove/reference",
+    "url": "https://github.com/jaywcjlove/reference",
+    "desc": "为开发人员分享快速参考备忘清单(速查表)",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "EhViewer-NekoInverter/EhViewer",
+    "url": "https://github.com/EhViewer-NekoInverter/EhViewer",
+    "desc": "🥥 EhViewer-NekoInverter [白E]",
+    "lang": "Java"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/higress",
+    "url": "https://github.com/alibaba/higress",
+    "desc": "Next-generation Cloud Native Gateway",
+    "lang": "C++"
+  },
+  {
+    "title": "a406010503/Miui_Camera",
+    "url": "https://github.com/a406010503/Miui_Camera",
+    "desc": "一個基於 MIUI13（Android12）適配的 Magisk 相機模組"
+  },
+  {
+    "title": "dushixiang/next-terminal",
+    "url": "https://github.com/dushixiang/next-terminal",
+    "desc": "Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "innnky/FreeSVC",
+    "url": "https://github.com/innnky/FreeSVC",
+    "desc": "基于FreeVC的歌声转换",
+    "lang": "Python"
+  },
+  {
+    "title": "fuckxmz/LoveGreenCode",
+    "url": "https://github.com/fuckxmz/LoveGreenCode",
+    "desc": "",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "MuiseDestiny/ZoteroStyle",
+    "url": "https://github.com/MuiseDestiny/ZoteroStyle",
+    "desc": "一个随便写写的Zotero插件",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "evilbutcher/QuantumultX",
+    "url": "https://github.com/evilbutcher/QuantumultX",
+    "desc": "瞎写的QuantumultX的代码",
+    "lang": "JavaScript"
+  }
+]

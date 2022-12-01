@@ -1,0 +1,147 @@
+[
+  {
+    "title": "gbj/leptos",
+    "url": "https://github.com/gbj/leptos",
+    "desc": "Build fast web applications with Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups"
+  },
+  {
+    "title": "huggingface/diffusion-models-class",
+    "url": "https://github.com/huggingface/diffusion-models-class",
+    "desc": "Materials for the Hugging Face Diffusion Models Course",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers."
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "desc": "The communications platform that puts data protection first.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
+  },
+  {
+    "title": "cugu/awesome-forensics",
+    "url": "https://github.com/cugu/awesome-forensics",
+    "desc": "A curated list of awesome forensic analysis tools and resources"
+  },
+  {
+    "title": "zu1k/zlib-searcher",
+    "url": "https://github.com/zu1k/zlib-searcher",
+    "desc": "search zlib/libgen index to get ipfs_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.",
+    "lang": "Rust"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "desc": "AWS SDK for the Go programming language.",
+    "lang": "Go"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "midudev/libros-programacion-gratis",
+    "url": "https://github.com/midudev/libros-programacion-gratis",
+    "desc": "📚 Lista de libros sobre programación en Español y gratis"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "title": "rfordatascience/tidytuesday",
+    "url": "https://github.com/rfordatascience/tidytuesday",
+    "desc": "Official repo for the #tidytuesday project",
+    "lang": "HTML"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "corkami/pics",
+    "url": "https://github.com/corkami/pics",
+    "desc": "Posters, drawings...",
+    "lang": "Assembly"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "desc": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "lang": "Go"
+  },
+  {
+    "title": "siyuan-note/siyuan",
+    "url": "https://github.com/siyuan-note/siyuan",
+    "desc": "Build Your Eternal Digital Garden 构建你永恒的数字花园",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "celery/celery",
+    "url": "https://github.com/celery/celery",
+    "desc": "Distributed Task Queue (development branch)",
+    "lang": "Python"
+  },
+  {
+    "title": "isocpp/CppCoreGuidelines",
+    "url": "https://github.com/isocpp/CppCoreGuidelines",
+    "desc": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+    "lang": "Python"
+  },
+  {
+    "title": "WasmEdge/WasmEdge",
+    "url": "https://github.com/WasmEdge/WasmEdge",
+    "desc": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
+    "lang": "WebAssembly"
+  }
+]

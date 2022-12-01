@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "celery/celery",
+    "url": "https://github.com/celery/celery",
+    "desc": "Distributed Task Queue (development branch)",
+    "lang": "Python"
+  },
+  {
+    "title": "isocpp/CppCoreGuidelines",
+    "url": "https://github.com/isocpp/CppCoreGuidelines",
+    "desc": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "t3l3machus/Villain",
+    "url": "https://github.com/t3l3machus/Villain",
+    "desc": "Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book3_Elements-of-Mathematics",
+    "url": "https://github.com/Visualize-ML/Book3_Elements-of-Mathematics",
+    "desc": "Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；本册有，583幅图，136个代码文件，其中24个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "SHI-Labs/Versatile-Diffusion",
+    "url": "https://github.com/SHI-Labs/Versatile-Diffusion",
+    "desc": "Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022",
+    "lang": "Python"
+  },
+  {
+    "title": "elceef/subzuf",
+    "url": "https://github.com/elceef/subzuf",
+    "desc": "a smart DNS response-guided subdomain fuzzer",
+    "lang": "Python"
+  },
+  {
+    "title": "spulec/moto",
+    "url": "https://github.com/spulec/moto",
+    "desc": "A library that allows you to easily mock out tests based on AWS infrastructure.",
+    "lang": "Python"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "t3l3machus/hoaxshell",
+    "url": "https://github.com/t3l3machus/hoaxshell",
+    "desc": "A Windows reverse shell payload generator and handler that abuses the http(s) protocol to establish a beacon-like reverse shell.",
+    "lang": "Python"
+  },
+  {
+    "title": "ubisoft/ubisoft-laforge-ZeroEGGS",
+    "url": "https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS",
+    "desc": "All about ZeroEggs publication ( https://arxiv.org/abs/2209.07556 )",
+    "lang": "Python"
+  },
+  {
+    "title": "electricitymaps/electricitymaps-contrib",
+    "url": "https://github.com/electricitymaps/electricitymaps-contrib",
+    "desc": "A real-time visualisation of the CO2 emissions of electricity consumption",
+    "lang": "Python"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "veebch/photon",
+    "url": "https://github.com/veebch/photon",
+    "desc": "A DIY incident light meter",
+    "lang": "Python"
+  },
+  {
+    "title": "aws/aws-cli",
+    "url": "https://github.com/aws/aws-cli",
+    "desc": "Universal Command Line Interface for Amazon Web Services",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "CTFd/CTFd",
+    "url": "https://github.com/CTFd/CTFd",
+    "desc": "CTFs as you need them",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/OpenPCDet",
+    "url": "https://github.com/open-mmlab/OpenPCDet",
+    "desc": "OpenPCDet Toolbox for LiDAR-based 3D Object Detection.",
+    "lang": "Python"
+  }
+]
