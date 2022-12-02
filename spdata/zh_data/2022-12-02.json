@@ -1,0 +1,148 @@
+[
+  {
+    "title": "forthespada/CampusShame",
+    "url": "https://github.com/forthespada/CampusShame",
+    "desc": "互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！"
+  },
+  {
+    "title": "Visualize-ML/Book3_Elements-of-Mathematics",
+    "url": "https://github.com/Visualize-ML/Book3_Elements-of-Mathematics",
+    "desc": "Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；本册有，583幅图，136个代码文件，其中24个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "maplecool/easytrojan",
+    "url": "https://github.com/maplecool/easytrojan",
+    "desc": "世界上最简单的Trojan部署脚本，仅需一行命令即可搭建一台代理服务器",
+    "lang": "Shell"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "desc": "《Hello 算法》一本动画图解、能运行、可讨论的数据结构与算法快速入门教程",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/higress",
+    "url": "https://github.com/alibaba/higress",
+    "desc": "Next-generation Cloud Native Gateway",
+    "lang": "C++"
+  },
+  {
+    "title": "ShirasawaSama/CefDetectorX",
+    "url": "https://github.com/ShirasawaSama/CefDetectorX",
+    "desc": "【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "digoal/blog",
+    "url": "https://github.com/digoal/blog",
+    "desc": "Everything about database,business.(Most for PostgreSQL).",
+    "lang": "PLpgSQL"
+  },
+  {
+    "title": "sayokey/link-helper",
+    "url": "https://github.com/sayokey/link-helper",
+    "desc": "支持下载飞猫云、kufile等15+网赚网盘的油猴脚本！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ddgksf2013/ddgksf2013",
+    "url": "https://github.com/ddgksf2013/ddgksf2013",
+    "desc": ""
+  },
+  {
+    "title": "panhuanghe/v2ray-agent",
+    "url": "https://github.com/panhuanghe/v2ray-agent",
+    "desc": "（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装",
+    "lang": "Shell"
+  },
+  {
+    "title": "tylearymf/UniHacker",
+    "url": "https://github.com/tylearymf/UniHacker",
+    "desc": "Patch all versions of Unity3D and UnityHub for Windows, MacOS, Linux and Docker.",
+    "lang": "C#"
+  },
+  {
+    "title": "knownsec/404StarLink",
+    "url": "https://github.com/knownsec/404StarLink",
+    "desc": "404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目"
+  },
+  {
+    "title": "valarchie/AgileBoot-Back-End",
+    "url": "https://github.com/valarchie/AgileBoot-Back-End",
+    "desc": "🔥 基于Ruoyi做了大量重构优化的全栈基础快速开发脚手架。🔥 采用Springboot + Vue 3 + Mybatis Plus + Redis + 更面向对象的业务建模 + 面向生产的项目（非玩具项目）。你的 ⭐️ Star ⭐️，是作者更新的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "quarkape/free_logo",
+    "url": "https://github.com/quarkape/free_logo",
+    "desc": "【一个】插件帮你快速、免费下载【两个】网站的无水印、高清LOGO！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "opendilab/PPOxFamily",
+    "url": "https://github.com/opendilab/PPOxFamily",
+    "desc": "PPO x Family DRL Tutorial Course"
+  },
+  {
+    "title": "zlib-download/zlib-download",
+    "url": "https://github.com/zlib-download/zlib-download",
+    "desc": "zlib.download project",
+    "lang": "HTML"
+  },
+  {
+    "title": "XuanRanDev/Auto-GongXueYun",
+    "url": "https://github.com/XuanRanDev/Auto-GongXueYun",
+    "desc": "😴 蘑菇丁 & 工学云每日自动打卡、支持多用户、自定义地区与时间、免服务器部署。",
+    "lang": "Python"
+  },
+  {
+    "title": "rust-tw/advent-of-code",
+    "url": "https://github.com/rust-tw/advent-of-code",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "xiangyuecn/AreaCity-JsSpider-StatsGov",
+    "url": "https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov",
+    "desc": "省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2022年11月28日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dundunnp/auto_xuexiqiangguo",
+    "url": "https://github.com/dundunnp/auto_xuexiqiangguo",
+    "desc": "每日拿满61分！免root，四人赛双人对战秒答，安卓端学习强国自动化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BruceQiu1996/EFCoreDemo",
+    "url": "https://github.com/BruceQiu1996/EFCoreDemo",
+    "desc": "一个优雅使用EFCore的示例代码",
+    "lang": "C#"
+  },
+  {
+    "title": "MuiseDestiny/ZoteroStyle",
+    "url": "https://github.com/MuiseDestiny/ZoteroStyle",
+    "desc": "一个随便写写的Zotero插件",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fjqisba/WeChatStudy",
+    "url": "https://github.com/fjqisba/WeChatStudy",
+    "desc": "StudyWechat",
+    "lang": "C++"
+  },
+  {
+    "title": "xunkong/xunkong",
+    "url": "https://github.com/xunkong/xunkong",
+    "desc": "记录旅途中发生的事",
+    "lang": "C#"
+  }
+]
