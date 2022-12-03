@@ -1,0 +1,151 @@
+[
+  {
+    "title": "apple/ml-stable-diffusion",
+    "url": "https://github.com/apple/ml-stable-diffusion",
+    "desc": "Stable Diffusion with Core ML on Apple Silicon",
+    "lang": "Python"
+  },
+  {
+    "title": "invoke-ai/InvokeAI",
+    "url": "https://github.com/invoke-ai/InvokeAI",
+    "desc": "This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a dream bot style interface, and multiple features and other enhancements. For more info, see the website link below.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "thangchung/go-coffeeshop",
+    "url": "https://github.com/thangchung/go-coffeeshop",
+    "desc": "☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "charlax/engineering-management",
+    "url": "https://github.com/charlax/engineering-management",
+    "desc": "A collection of inspiring resources related to engineering management and tech leadership",
+    "lang": "Shell"
+  },
+  {
+    "title": "calcom/cal.com",
+    "url": "https://github.com/calcom/cal.com",
+    "desc": "Scheduling infrastructure for absolutely everyone.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "Bogdanp/awesome-advent-of-code",
+    "url": "https://github.com/Bogdanp/awesome-advent-of-code",
+    "desc": "A collection of awesome resources related to the yearly Advent of Code challenge."
+  },
+  {
+    "title": "AleoHQ/snarkOS",
+    "url": "https://github.com/AleoHQ/snarkOS",
+    "desc": "A Decentralized Operating System for ZK Applications",
+    "lang": "Rust"
+  },
+  {
+    "title": "bobby-didcoding/drf_course",
+    "url": "https://github.com/bobby-didcoding/drf_course",
+    "desc": "Django Rest Framework Course",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "Nixtla/statsforecast",
+    "url": "https://github.com/Nixtla/statsforecast",
+    "desc": "Lightning ⚡️ fast forecasting with statistical and econometric models.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "desc": "🔥 🔥 🔥 Open Source Airtable Alternative",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/security-research",
+    "url": "https://github.com/google/security-research",
+    "desc": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "lang": "Go"
+  },
+  {
+    "title": "hehonghui/awesome-english-ebooks",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "lang": "CSS"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "benthosdev/benthos",
+    "url": "https://github.com/benthosdev/benthos",
+    "desc": "Fancy stream processing made operationally mundane",
+    "lang": "Go"
+  },
+  {
+    "title": "openzfs/zfs",
+    "url": "https://github.com/openzfs/zfs",
+    "desc": "OpenZFS on Linux and FreeBSD",
+    "lang": "C"
+  },
+  {
+    "title": "datahub-project/datahub",
+    "url": "https://github.com/datahub-project/datahub",
+    "desc": "The Metadata Platform for the Modern Data Stack",
+    "lang": "Java"
+  },
+  {
+    "title": "kotlin-hands-on/advent-of-code-kotlin-template",
+    "url": "https://github.com/kotlin-hands-on/advent-of-code-kotlin-template",
+    "desc": "The Advent of Code template project for Kotlin",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Cysharp/MemoryPack",
+    "url": "https://github.com/Cysharp/MemoryPack",
+    "desc": "Zero encoding extreme performance binary serializer for C# and Unity.",
+    "lang": "C#"
+  }
+]

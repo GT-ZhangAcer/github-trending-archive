@@ -1,0 +1,152 @@
+[
+  {
+    "title": "apple/ml-stable-diffusion",
+    "url": "https://github.com/apple/ml-stable-diffusion",
+    "desc": "Stable Diffusion with Core ML on Apple Silicon",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "desc": "the only cheat sheet you need",
+    "lang": "Python"
+  },
+  {
+    "title": "mlflow/mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "desc": "Open source platform for the machine learning lifecycle",
+    "lang": "Python"
+  },
+  {
+    "title": "vwxyzjn/cleanrl",
+    "url": "https://github.com/vwxyzjn/cleanrl",
+    "desc": "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)",
+    "lang": "Python"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "celery/celery",
+    "url": "https://github.com/celery/celery",
+    "desc": "Distributed Task Queue (development branch)",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "isocpp/CppCoreGuidelines",
+    "url": "https://github.com/isocpp/CppCoreGuidelines",
+    "desc": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlalchemy/sqlalchemy",
+    "url": "https://github.com/sqlalchemy/sqlalchemy",
+    "desc": "The Database Toolkit for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-python",
+    "url": "https://github.com/openai/openai-python",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "wimglenn/advent-of-code-data",
+    "url": "https://github.com/wimglenn/advent-of-code-data",
+    "desc": "Get your Advent of Code data with a single import statement",
+    "lang": "Python"
+  },
+  {
+    "title": "extreme-bert/extreme-bert",
+    "url": "https://github.com/extreme-bert/extreme-bert",
+    "desc": "ExtremeBERT is a toolkit that accelerates the pretraining of customized language models on customized datasets, described in the paper “ExtremeBERT: A Toolkit for Accelerating Pretraining of Customized BERT”.",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",
+    "lang": "Python"
+  },
+  {
+    "title": "tinyvision/DAMO-YOLO",
+    "url": "https://github.com/tinyvision/DAMO-YOLO",
+    "desc": "DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement.",
+    "lang": "Python"
+  },
+  {
+    "title": "alanbobs999/TopFreeProxies",
+    "url": "https://github.com/alanbobs999/TopFreeProxies",
+    "desc": "高质量免费节点分享，以及订阅链接收集。",
+    "lang": "Python"
+  },
+  {
+    "title": "getsentry/sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "desc": "Developer-first error tracking and performance monitoring",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "desc": "Code for the paper Language Models are Unsupervised Multitask Learners",
+    "lang": "Python"
+  },
+  {
+    "title": "kernc/backtesting.py",
+    "url": "https://github.com/kernc/backtesting.py",
+    "desc": "🔎 📈 🐍 💰 Backtest trading strategies in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/Megatron-LM",
+    "url": "https://github.com/NVIDIA/Megatron-LM",
+    "desc": "Ongoing research training transformer models at scale",
+    "lang": "Python"
+  },
+  {
+    "title": "MIC-DKFZ/nnUNet",
+    "url": "https://github.com/MIC-DKFZ/nnUNet",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "desc": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "lang": "Python"
+  }
+]
