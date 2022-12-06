@@ -1,0 +1,152 @@
+[
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
+    "lang": "Python"
+  },
+  {
+    "title": "max-sixty/aoc-gpt",
+    "url": "https://github.com/max-sixty/aoc-gpt",
+    "desc": "Solve Advent of Code puzzles with GPT-3",
+    "lang": "Python"
+  },
+  {
+    "title": "altryne/chatGPT-telegram-bot",
+    "url": "https://github.com/altryne/chatGPT-telegram-bot",
+    "desc": "This is a very early attempt at having chatGPT work within a telegram bot",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "hodgesmr/mastodon_digest",
+    "url": "https://github.com/hodgesmr/mastodon_digest",
+    "desc": "A Python script that aggregates recent popular tweets from your Mastodon timeline",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "An index created by GPT to organize external information and answer queries!",
+    "lang": "Python"
+  },
+  {
+    "title": "taranjeet/chatgpt-api",
+    "url": "https://github.com/taranjeet/chatgpt-api",
+    "desc": "This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT",
+    "lang": "Python"
+  },
+  {
+    "title": "mmabrouk/chatgpt-wrapper",
+    "url": "https://github.com/mmabrouk/chatgpt-wrapper",
+    "desc": "API for interacting with ChatGPT using Python and from Shell.",
+    "lang": "Python"
+  },
+  {
+    "title": "speechbrain/speechbrain",
+    "url": "https://github.com/speechbrain/speechbrain",
+    "desc": "A PyTorch-based Speech Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "JusticeRage/Gepetto",
+    "url": "https://github.com/JusticeRage/Gepetto",
+    "desc": "IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering",
+    "lang": "Python"
+  },
+  {
+    "title": "EleutherAI/gpt-neo",
+    "url": "https://github.com/EleutherAI/gpt-neo",
+    "desc": "An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.",
+    "lang": "Python"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Offensive Google framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "pyg-team/pytorch_geometric",
+    "url": "https://github.com/pyg-team/pytorch_geometric",
+    "desc": "Graph Neural Network Library for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "dbt-labs/dbt-core",
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-python",
+    "url": "https://github.com/openai/openai-python",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "jonathanpaulson/AdventOfCode",
+    "url": "https://github.com/jonathanpaulson/AdventOfCode",
+    "desc": "My Advent of Code solutions. I also upload videos of my solves: https://www.youtube.com/channel/UCuWLIm0l4sDpEe28t41WITA",
+    "lang": "Python"
+  },
+  {
+    "title": "Farama-Foundation/Gymnasium",
+    "url": "https://github.com/Farama-Foundation/Gymnasium",
+    "desc": "A standard API for reinforcement learning and a diverse set of reference environments (formerly Gym)",
+    "lang": "Python"
+  },
+  {
+    "title": "takito1812/web-hacking-playground",
+    "url": "https://github.com/takito1812/web-hacking-playground",
+    "desc": "Web application with vulnerabilities found in real cases, both in pentests and in Bug Bounty programs.",
+    "lang": "Python"
+  },
+  {
+    "title": "akfamily/akshare",
+    "url": "https://github.com/akfamily/akshare",
+    "desc": "AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库",
+    "lang": "Python"
+  },
+  {
+    "title": "AtsushiSakai/PythonRobotics",
+    "url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "desc": "Python sample codes for robotics algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "root-tanishq/userefuzz",
+    "url": "https://github.com/root-tanishq/userefuzz",
+    "desc": "User-Agent , X-Forwarded-For and Referer SQLI Fuzzer",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmclassification",
+    "url": "https://github.com/open-mmlab/mmclassification",
+    "desc": "OpenMMLab Image Classification Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "Morizeyao/GPT2-Chinese",
+    "url": "https://github.com/Morizeyao/GPT2-Chinese",
+    "desc": "Chinese version of GPT2 training code, using BERT tokenizer.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/improved-diffusion",
+    "url": "https://github.com/openai/improved-diffusion",
+    "desc": "Release for Improved Denoising Diffusion Probabilistic Models",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "MayoBlueSky/My-Actions",
+    "url": "https://github.com/MayoBlueSky/My-Actions",
+    "desc": "爱奇艺会员,腾讯视频,哔哩哔哩,百度,各类签到",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "OFA-Sys/Chinese-CLIP",
+    "url": "https://github.com/OFA-Sys/Chinese-CLIP",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "XuanRanDev/Auto-ShiXiBeiAn",
+    "url": "https://github.com/XuanRanDev/Auto-ShiXiBeiAn",
+    "desc": "🎨实习备案（职校家园）自动打卡，支持多用户、自定义位置与时间、微信消息推送。",
+    "lang": "Python"
+  },
+  {
+    "title": "shibing624/text2vec",
+    "url": "https://github.com/shibing624/text2vec",
+    "desc": "text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "zq1997/deepin-wine",
+    "url": "https://github.com/zq1997/deepin-wine",
+    "desc": "【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式",
+    "lang": "Python"
+  },
+  {
+    "title": "XiaoMiku01/fansMedalHelper",
+    "url": "https://github.com/XiaoMiku01/fansMedalHelper",
+    "desc": "新版B站粉丝牌助手 全自动升级粉丝牌",
+    "lang": "Python"
+  },
+  {
+    "title": "yangjianxin1/GPT2-chitchat",
+    "url": "https://github.com/yangjianxin1/GPT2-chitchat",
+    "desc": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)",
+    "lang": "Python"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "begood0513/goodnews",
+    "url": "https://github.com/begood0513/goodnews",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "awake1t/HackReport",
+    "url": "https://github.com/awake1t/HackReport",
+    "desc": "渗透测试报告/资料文档/渗透经验文档/安全书籍",
+    "lang": "Python"
+  },
+  {
+    "title": "xunonxyz/xy_dingtalk",
+    "url": "https://github.com/xunonxyz/xy_dingtalk",
+    "desc": "dingtalk for odoo",
+    "lang": "Python"
+  },
+  {
+    "title": "founder-yu/V2free-Checkin",
+    "url": "https://github.com/founder-yu/V2free-Checkin",
+    "desc": "V2free自动签到",
+    "lang": "Python"
+  },
+  {
+    "title": "radiantwf/esp32-circuitpython-switch-joystick",
+    "url": "https://github.com/radiantwf/esp32-circuitpython-switch-joystick",
+    "desc": "A virtual HID USB joystick created using ESP32S2/S3",
+    "lang": "Python"
+  },
+  {
+    "title": "jinmu333/python_PlateRecogntion",
+    "url": "https://github.com/jinmu333/python_PlateRecogntion",
+    "desc": "python opencv 车牌识别 PlateRecogntion",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book5_Essentials-of-Probability-and-Statistics",
+    "url": "https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics",
+    "desc": "Book_5_《统计至简》 | 鸢尾花书：从加减乘除到机器学习；陆续上传25章草稿。草稿还会经过至少两轮修改，大家注意下载最新版本。请多提意见，谢谢",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "RimoChan/raspberry-pi-bedroom-monitor",
+    "url": "https://github.com/RimoChan/raspberry-pi-bedroom-monitor",
+    "desc": "基于树莓派的多功能寝室监控系统",
+    "lang": "Python"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "rev1si0n/lamda",
+    "url": "https://github.com/rev1si0n/lamda",
+    "desc": "⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/自动化辅助框架，你的工作从未如此简单快捷。",
+    "lang": "Python"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSports",
+    "url": "https://github.com/PaddlePaddle/PaddleSports",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "EricZhu-42/SteamTradingSiteTracker",
+    "url": "https://github.com/EricZhu-42/SteamTradingSiteTracker",
+    "desc": "Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com and youpin898.com.",
+    "lang": "Python"
+  },
+  {
+    "title": "78778443/QingScan",
+    "url": "https://github.com/78778443/QingScan",
+    "desc": "一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。",
+    "lang": "Python"
+  }
+]
