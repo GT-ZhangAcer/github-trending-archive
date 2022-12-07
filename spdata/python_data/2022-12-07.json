@@ -1,0 +1,152 @@
+[
+  {
+    "title": "rawandahmad698/PyChatGPT",
+    "url": "https://github.com/rawandahmad698/PyChatGPT",
+    "desc": "⚡️ TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
+    "lang": "Python"
+  },
+  {
+    "title": "JusticeRage/Gepetto",
+    "url": "https://github.com/JusticeRage/Gepetto",
+    "desc": "IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering",
+    "lang": "Python"
+  },
+  {
+    "title": "bupticybee/ChineseAiDungeonChatGPT",
+    "url": "https://github.com/bupticybee/ChineseAiDungeonChatGPT",
+    "desc": "中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "mmabrouk/chatgpt-wrapper",
+    "url": "https://github.com/mmabrouk/chatgpt-wrapper",
+    "desc": "API for interacting with ChatGPT using Python and from Shell.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-python",
+    "url": "https://github.com/openai/openai-python",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/DeepSpeed",
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/baselines",
+    "url": "https://github.com/openai/baselines",
+    "desc": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "shankarpandala/lazypredict",
+    "url": "https://github.com/shankarpandala/lazypredict",
+    "desc": "Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/torchrec",
+    "url": "https://github.com/pytorch/torchrec",
+    "desc": "Pytorch domain library for recommendation systems",
+    "lang": "Python"
+  },
+  {
+    "title": "altryne/chatGPT-telegram-bot",
+    "url": "https://github.com/altryne/chatGPT-telegram-bot",
+    "desc": "This is a very early attempt at having chatGPT work within a telegram bot",
+    "lang": "Python"
+  },
+  {
+    "title": "EleutherAI/gpt-neox",
+    "url": "https://github.com/EleutherAI/gpt-neox",
+    "desc": "An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "kingoflolz/mesh-transformer-jax",
+    "url": "https://github.com/kingoflolz/mesh-transformer-jax",
+    "desc": "Model parallel transformers in JAX and Haiku",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "lang": "Python"
+  },
+  {
+    "title": "pre-commit/pre-commit-hooks",
+    "url": "https://github.com/pre-commit/pre-commit-hooks",
+    "desc": "Some out-of-the-box hooks for pre-commit",
+    "lang": "Python"
+  },
+  {
+    "title": "EverythingSuckz/TG-FileStreamBot",
+    "url": "https://github.com/EverythingSuckz/TG-FileStreamBot",
+    "desc": "A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.",
+    "lang": "Python"
+  },
+  {
+    "title": "speechbrain/speechbrain",
+    "url": "https://github.com/speechbrain/speechbrain",
+    "desc": "A PyTorch-based Speech Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "vishnubob/wait-for-it",
+    "url": "https://github.com/vishnubob/wait-for-it",
+    "desc": "Pure bash script to test and wait on the availability of a TCP host and port",
+    "lang": "Python"
+  },
+  {
+    "title": "locustio/locust",
+    "url": "https://github.com/locustio/locust",
+    "desc": "Scalable load testing tool written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "Morizeyao/GPT2-Chinese",
+    "url": "https://github.com/Morizeyao/GPT2-Chinese",
+    "desc": "Chinese version of GPT2 training code, using BERT tokenizer.",
+    "lang": "Python"
+  }
+]
