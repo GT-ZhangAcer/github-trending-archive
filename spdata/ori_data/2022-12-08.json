@@ -1,0 +1,149 @@
+[
+  {
+    "title": "fuergaosi233/wechat-chatgpt",
+    "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "desc": "Use ChatGPT On Wechat via wechaty",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "desc": "Port of OpenAI's Whisper model in C/C++",
+    "lang": "C"
+  },
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bupticybee/ChineseAiDungeonChatGPT",
+    "url": "https://github.com/bupticybee/ChineseAiDungeonChatGPT",
+    "desc": "中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "android/architecture-templates",
+    "url": "https://github.com/android/architecture-templates",
+    "desc": ""
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "transitive-bullshit/chatgpt-api",
+    "url": "https://github.com/transitive-bullshit/chatgpt-api",
+    "desc": "Node.js client for the unofficial ChatGPT API. 🔥",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rawandahmad698/PyChatGPT",
+    "url": "https://github.com/rawandahmad698/PyChatGPT",
+    "desc": "⚡️ TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "lang": "Swift"
+  },
+  {
+    "title": "cpq/bare-metal-programming-guide",
+    "url": "https://github.com/cpq/bare-metal-programming-guide",
+    "desc": "A bare metal programming guide on STM32 microcontroller",
+    "lang": "C"
+  },
+  {
+    "title": "qunash/chatgpt-advanced",
+    "url": "https://github.com/qunash/chatgpt-advanced",
+    "desc": "A browser extension that augments your ChatGPT prompts with web results.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wong2/chat-gpt-google-extension",
+    "url": "https://github.com/wong2/chat-gpt-google-extension",
+    "desc": "A browser extension to display ChatGPT response alongside Google Search results",
+    "lang": "CSS"
+  },
+  {
+    "title": "humanloop/awesome-chatgpt",
+    "url": "https://github.com/humanloop/awesome-chatgpt",
+    "desc": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "sudoskys/Openaibot",
+    "url": "https://github.com/sudoskys/Openaibot",
+    "desc": "🤖 Using OpenAi's Api on Telegram to achieve chatGPT func | 在 Telegram 上使用 openai *API* 对话/续写 机器人| 👋支持上下文对话 |异步 | 一键部署⚡️",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/Hippy",
+    "url": "https://github.com/Tencent/Hippy",
+    "desc": "Hippy is designed to easily build cross-platform dynamic apps. 👏",
+    "lang": "C++"
+  },
+  {
+    "title": "Netflix/conductor",
+    "url": "https://github.com/Netflix/conductor",
+    "desc": "Conductor is a microservices orchestration engine.",
+    "lang": "Java"
+  },
+  {
+    "title": "labteral/chatgpt-python",
+    "url": "https://github.com/labteral/chatgpt-python",
+    "desc": "Unofficial Python SDK for OpenAI's ChatGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": ""
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "desc": "Visual Studio Code",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gorilla/mux",
+    "url": "https://github.com/gorilla/mux",
+    "desc": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
+    "lang": "Go"
+  },
+  {
+    "title": "AutumnWhj/ChatGPT-wechat-bot",
+    "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "desc": "ChatGPT for wechat",
+    "lang": "TypeScript"
+  }
+]

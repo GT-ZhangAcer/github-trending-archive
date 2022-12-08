@@ -1,0 +1,152 @@
+[
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
+    "lang": "Python"
+  },
+  {
+    "title": "bupticybee/ChineseAiDungeonChatGPT",
+    "url": "https://github.com/bupticybee/ChineseAiDungeonChatGPT",
+    "desc": "中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "rawandahmad698/PyChatGPT",
+    "url": "https://github.com/rawandahmad698/PyChatGPT",
+    "desc": "⚡️ TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "sudoskys/Openaibot",
+    "url": "https://github.com/sudoskys/Openaibot",
+    "desc": "🤖 Using OpenAi's Api on Telegram to achieve chatGPT func | 在 Telegram 上使用 openai *API* 对话/续写 机器人| 👋支持上下文对话 |异步 | 一键部署⚡️",
+    "lang": "Python"
+  },
+  {
+    "title": "labteral/chatgpt-python",
+    "url": "https://github.com/labteral/chatgpt-python",
+    "desc": "Unofficial Python SDK for OpenAI's ChatGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "PyGithub/PyGithub",
+    "url": "https://github.com/PyGithub/PyGithub",
+    "desc": "Typed interactions with the GitHub API v3",
+    "lang": "Python"
+  },
+  {
+    "title": "saleor/saleor",
+    "url": "https://github.com/saleor/saleor",
+    "desc": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "Zero6992/chatGPT-discord-bot",
+    "url": "https://github.com/Zero6992/chatGPT-discord-bot",
+    "desc": "Integrate chatGPT into your own discord bot",
+    "lang": "Python"
+  },
+  {
+    "title": "mmabrouk/chatgpt-wrapper",
+    "url": "https://github.com/mmabrouk/chatgpt-wrapper",
+    "desc": "API for interacting with ChatGPT using Python and from Shell.",
+    "lang": "Python"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+    "lang": "Python"
+  },
+  {
+    "title": "shankarpandala/lazypredict",
+    "url": "https://github.com/shankarpandala/lazypredict",
+    "desc": "Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning",
+    "lang": "Python"
+  },
+  {
+    "title": "ashemery/exploitation-course",
+    "url": "https://github.com/ashemery/exploitation-course",
+    "desc": "Offensive Software Exploitation Course",
+    "lang": "Python"
+  },
+  {
+    "title": "getredash/redash",
+    "url": "https://github.com/getredash/redash",
+    "desc": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-python",
+    "url": "https://github.com/openai/openai-python",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "jhao104/proxy_pool",
+    "url": "https://github.com/jhao104/proxy_pool",
+    "desc": "Python爬虫代理IP池(proxy pool)",
+    "lang": "Python"
+  },
+  {
+    "title": "jonathanpaulson/AdventOfCode",
+    "url": "https://github.com/jonathanpaulson/AdventOfCode",
+    "desc": "My Advent of Code solutions. I also upload videos of my solves: https://www.youtube.com/channel/UCuWLIm0l4sDpEe28t41WITA",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "desc": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/baselines",
+    "url": "https://github.com/openai/baselines",
+    "desc": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "lang": "Python"
+  },
+  {
+    "title": "altryne/chatGPT-telegram-bot",
+    "url": "https://github.com/altryne/chatGPT-telegram-bot",
+    "desc": "This is a very early attempt at having chatGPT work within a telegram bot",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/spinningup",
+    "url": "https://github.com/openai/spinningup",
+    "desc": "An educational resource to help anyone learn deep reinforcement learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "OFA-Sys/OFA",
+    "url": "https://github.com/OFA-Sys/OFA",
+    "desc": "Official repository of OFA (ICML 2022). Paper: OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "EleutherAI/gpt-neo",
+    "url": "https://github.com/EleutherAI/gpt-neo",
+    "desc": "An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.",
+    "lang": "Python"
+  }
+]
