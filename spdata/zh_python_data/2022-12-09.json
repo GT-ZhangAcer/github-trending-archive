@@ -1,0 +1,152 @@
+[
+  {
+    "title": "bupticybee/ChineseAiDungeonChatGPT",
+    "url": "https://github.com/bupticybee/ChineseAiDungeonChatGPT",
+    "desc": "中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "A-kirami/nonebot-plugin-chatgpt",
+    "url": "https://github.com/A-kirami/nonebot-plugin-chatgpt",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "opendilab/PPOxFamily",
+    "url": "https://github.com/opendilab/PPOxFamily",
+    "desc": "PPO x Family DRL Tutorial Course（决策智能入门级公开课：8节课帮你盘清算法理论，理顺代码逻辑，玩转决策AI应用实践 ）",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "sudoskys/Openaibot",
+    "url": "https://github.com/sudoskys/Openaibot",
+    "desc": "🤖 Using OpenAi's Api on Telegram to achieve chatGPT func|在 Telegram 上使用 openai *API* 对话/续写 异步机器人| 👋 支持上下文对话 | 一键部署⚡️ | 非逆向",
+    "lang": "Python"
+  },
+  {
+    "title": "OFA-Sys/Chinese-CLIP",
+    "url": "https://github.com/OFA-Sys/Chinese-CLIP",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEA-CCNL/Fengshenbang-LM",
+    "url": "https://github.com/IDEA-CCNL/Fengshenbang-LM",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "XiaoMiku01/fansMedalHelper",
+    "url": "https://github.com/XiaoMiku01/fansMedalHelper",
+    "desc": "新版B站粉丝牌助手 全自动升级粉丝牌",
+    "lang": "Python"
+  },
+  {
+    "title": "Byaidu/QChatBot-GPT",
+    "url": "https://github.com/Byaidu/QChatBot-GPT",
+    "desc": "基于 OpenAI GPT-3 和 Mirai 的 QQ Bot 聊天机器人，提供公用测试 Bot，支持自定义人格以及各种参数，长文自动转图片发送，可持久化配置，多个群聊之间上下文隔离，异步响应，可扩展功能",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "NewFuture/DDNS",
+    "url": "https://github.com/NewFuture/DDNS",
+    "desc": "🚩 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)",
+    "lang": "Python"
+  },
+  {
+    "title": "dongrixinyu/JioNLP",
+    "url": "https://github.com/dongrixinyu/JioNLP",
+    "desc": "中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com",
+    "lang": "Python"
+  },
+  {
+    "title": "239144498/Streaming-Media-Server-Pro",
+    "url": "https://github.com/239144498/Streaming-Media-Server-Pro",
+    "desc": "这是一个强大的IPTV源后端服务，具有视频缓冲区功能，程序内置了很多独家频道，不够？你还可以自定义添加电视源；超多功能接口，还可以添加你的代理，并且适合任意平台，非常适合作为家庭影院的IPTV服务！可玩性超高，更多详情点击查看。",
+    "lang": "Python"
+  },
+  {
+    "title": "yangjianxin1/CLIP-Chinese",
+    "url": "https://github.com/yangjianxin1/CLIP-Chinese",
+    "desc": "中文CLIP预训练模型",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "OpenAI ChatGPT for Mirai QQ Bot，每个群组/好友单独一个 Conversation，文字转图片发送， Docker 快速部署",
+    "lang": "Python"
+  },
+  {
+    "title": "max32002/tixcraft_bot",
+    "url": "https://github.com/max32002/tixcraft_bot",
+    "desc": "Max搶票機器人(maxbot) help you quickly buy your tickets",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "hecoter/hm3u8dl_cli",
+    "url": "https://github.com/hecoter/hm3u8dl_cli",
+    "desc": "python m3u8下载，支持windows,linux,mac；支持aes-128、widevine等",
+    "lang": "Python"
+  },
+  {
+    "title": "begood0513/goodnews",
+    "url": "https://github.com/begood0513/goodnews",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "xushier/HD-Icons",
+    "url": "https://github.com/xushier/HD-Icons",
+    "desc": "高清仪表盘图标（1024x1024 分辨率）",
+    "lang": "Python"
+  },
+  {
+    "title": "PantsuDango/Dango-Translator",
+    "url": "https://github.com/PantsuDango/Dango-Translator",
+    "desc": "团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器",
+    "lang": "Python"
+  },
+  {
+    "title": "Quan666/ELFChatBot",
+    "url": "https://github.com/Quan666/ELFChatBot",
+    "desc": "闲聊QQ机器人，也就是人工智障",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "MayoBlueSky/My-Actions",
+    "url": "https://github.com/MayoBlueSky/My-Actions",
+    "desc": "爱奇艺会员,腾讯视频,哔哩哔哩,百度,各类签到",
+    "lang": "Python"
+  },
+  {
+    "title": "guanguans/favorite-link",
+    "url": "https://github.com/guanguans/favorite-link",
+    "desc": "❤️ 每天收集喜欢的开源项目 | RSS 订阅 | 快知 app 订阅",
+    "lang": "Python"
+  }
+]

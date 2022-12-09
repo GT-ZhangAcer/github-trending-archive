@@ -1,0 +1,148 @@
+[
+  {
+    "title": "869413421/wechatbot",
+    "url": "https://github.com/869413421/wechatbot",
+    "desc": "为个人微信接入ChatGPT",
+    "lang": "Go"
+  },
+  {
+    "title": "bupticybee/ChineseAiDungeonChatGPT",
+    "url": "https://github.com/bupticybee/ChineseAiDungeonChatGPT",
+    "desc": "中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "makoto56/penetration-suite-toolkit",
+    "url": "https://github.com/makoto56/penetration-suite-toolkit",
+    "desc": "本项目制作的初衷是帮助渗透新手快速搭建工作环境，工欲善其事，必先利其器。"
+  },
+  {
+    "title": "A-kirami/nonebot-plugin-chatgpt",
+    "url": "https://github.com/A-kirami/nonebot-plugin-chatgpt",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "opendilab/PPOxFamily",
+    "url": "https://github.com/opendilab/PPOxFamily",
+    "desc": "PPO x Family DRL Tutorial Course（决策智能入门级公开课：8节课帮你盘清算法理论，理顺代码逻辑，玩转决策AI应用实践 ）",
+    "lang": "Python"
+  },
+  {
+    "title": "chuzhixin/vue-admin-better",
+    "url": "https://github.com/chuzhixin/vue-admin-better",
+    "desc": "🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+    "lang": "Vue"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "sudoskys/Openaibot",
+    "url": "https://github.com/sudoskys/Openaibot",
+    "desc": "🤖 Using OpenAi's Api on Telegram to achieve chatGPT func|在 Telegram 上使用 openai *API* 对话/续写 异步机器人| 👋 支持上下文对话 | 一键部署⚡️ | 非逆向",
+    "lang": "Python"
+  },
+  {
+    "title": "egametang/ET",
+    "url": "https://github.com/egametang/ET",
+    "desc": "Unity3D Client And C# Server Framework",
+    "lang": "C#"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "desc": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类"
+  },
+  {
+    "title": "ShirasawaSama/CefDetectorX",
+    "url": "https://github.com/ShirasawaSama/CefDetectorX",
+    "desc": "【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xiaolincoder/CS-Base",
+    "url": "https://github.com/xiaolincoder/CS-Base",
+    "desc": "图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com"
+  },
+  {
+    "title": "iiop123/dingding",
+    "url": "https://github.com/iiop123/dingding",
+    "desc": "丁丁快传-基于cloudflare workers的文件传输工具",
+    "lang": "Vue"
+  },
+  {
+    "title": "ShirasawaSama/CefDetector",
+    "url": "https://github.com/ShirasawaSama/CefDetector",
+    "desc": "Check how many CEFs are on your computer. 检测你电脑上有几个CEF.",
+    "lang": "C#"
+  },
+  {
+    "title": "wangrongding/wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "desc": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 可以用来帮助你自动回复微信消息，或者管理微信群/好友.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OFA-Sys/Chinese-CLIP",
+    "url": "https://github.com/OFA-Sys/Chinese-CLIP",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/Paddle-Lite",
+    "url": "https://github.com/PaddlePaddle/Paddle-Lite",
+    "desc": "PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）",
+    "lang": "C++"
+  },
+  {
+    "title": "xy-sea/web-see",
+    "url": "https://github.com/xy-sea/web-see",
+    "desc": "一款自研的前端监控SDK，可用来收集并上报：代码报错、性能数据、用户行为、加载资源、个性化指标等数据",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lyt-Top/vue-next-admin",
+    "url": "https://github.com/lyt-Top/vue-next-admin",
+    "desc": "🎉🎉🔥基于vue3.x 、Typescript、vite、Element plus等，适配手机、平板、pc 的后台开源免费模板库（vue2.x请切换vue-prev-admin分支）",
+    "lang": "Vue"
+  },
+  {
+    "title": "IDEA-CCNL/Fengshenbang-LM",
+    "url": "https://github.com/IDEA-CCNL/Fengshenbang-LM",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "studyhelperhelper/studyhelper",
+    "url": "https://github.com/studyhelperhelper/studyhelper",
+    "desc": "学习强国 xxqg 助手 数独 sudoku"
+  },
+  {
+    "title": "valarchie/AgileBoot-Back-End",
+    "url": "https://github.com/valarchie/AgileBoot-Back-End",
+    "desc": "🔥 基于Ruoyi做了大量重构优化的全栈基础快速开发脚手架。🔥 采用Springboot + Vue 3 + Mybatis Plus + Redis + 更面向对象的业务建模 + 面向生产的项目（非玩具项目）。你的 ⭐️ Star ⭐️，是作者更新的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "XiaoMiku01/fansMedalHelper",
+    "url": "https://github.com/XiaoMiku01/fansMedalHelper",
+    "desc": "新版B站粉丝牌助手 全自动升级粉丝牌",
+    "lang": "Python"
+  }
+]

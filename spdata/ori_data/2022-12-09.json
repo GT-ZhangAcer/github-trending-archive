@@ -1,0 +1,146 @@
+[
+  {
+    "title": "fuergaosi233/wechat-chatgpt",
+    "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "desc": "Use ChatGPT On Wechat via wechaty",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "desc": "Port of OpenAI's Whisper model in C/C++",
+    "lang": "C"
+  },
+  {
+    "title": "remix-run/react-router",
+    "url": "https://github.com/remix-run/react-router",
+    "desc": "Declarative routing for React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AutumnWhj/ChatGPT-wechat-bot",
+    "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "desc": "ChatGPT for wechat",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "paradigmxyz/reth",
+    "url": "https://github.com/paradigmxyz/reth",
+    "desc": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "869413421/wechatbot",
+    "url": "https://github.com/869413421/wechatbot",
+    "desc": "为个人微信接入ChatGPT",
+    "lang": "Go"
+  },
+  {
+    "title": "rawandahmad698/PyChatGPT",
+    "url": "https://github.com/rawandahmad698/PyChatGPT",
+    "desc": "⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "lang": "Rust"
+  },
+  {
+    "title": "gragland/chatgpt-chrome-extension",
+    "url": "https://github.com/gragland/chatgpt-chrome-extension",
+    "desc": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/Hippy",
+    "url": "https://github.com/Tencent/Hippy",
+    "desc": "Hippy is designed to easily build cross-platform dynamic apps. 👏",
+    "lang": "C++"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
+    "lang": "Python"
+  },
+  {
+    "title": "izackwu/TeachYourselfCS-CN",
+    "url": "https://github.com/izackwu/TeachYourselfCS-CN",
+    "desc": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2023",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2023",
+    "desc": "Statistical Rethinking Course for Jan-Mar 2023"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "humanloop/awesome-chatgpt",
+    "url": "https://github.com/humanloop/awesome-chatgpt",
+    "desc": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT promt curation to use ChatGPT better."
+  },
+  {
+    "title": "LyraSearch/lyra",
+    "url": "https://github.com/LyraSearch/lyra",
+    "desc": "🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vincelwt/chatgpt-mac",
+    "url": "https://github.com/vincelwt/chatgpt-mac",
+    "desc": "ChatGPT for Mac, living in your menubar.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  }
+]
