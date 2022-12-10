@@ -1,0 +1,150 @@
+[
+  {
+    "title": "fuergaosi233/wechat-chatgpt",
+    "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "desc": "Use ChatGPT On Wechat via wechaty",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "869413421/wechatbot",
+    "url": "https://github.com/869413421/wechatbot",
+    "desc": "为个人微信接入ChatGPT",
+    "lang": "Go"
+  },
+  {
+    "title": "exaloop/codon",
+    "url": "https://github.com/exaloop/codon",
+    "desc": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
+    "lang": "C++"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "desc": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "lang": "Java"
+  },
+  {
+    "title": "teaxyz/cli",
+    "url": "https://github.com/teaxyz/cli",
+    "desc": "the unified package manager (brew2)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tencent/Hippy",
+    "url": "https://github.com/Tencent/Hippy",
+    "desc": "Hippy is designed to easily build cross-platform dynamic apps. 👏",
+    "lang": "C++"
+  },
+  {
+    "title": "cloneofsimo/lora",
+    "url": "https://github.com/cloneofsimo/lora",
+    "desc": "Using Low-rank adaptation to quickly fine-tune diffusion models.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "AutumnWhj/ChatGPT-wechat-bot",
+    "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "desc": "ChatGPT for wechat",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "desc": "Offline build planner for Path of Exile.",
+    "lang": "Lua"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "lang": "Rust"
+  },
+  {
+    "title": "gragland/chatgpt-chrome-extension",
+    "url": "https://github.com/gragland/chatgpt-chrome-extension",
+    "desc": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wangrongding/wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "desc": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 可以用来帮助你自动回复微信消息，或者管理微信群/好友.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mohammadpz/pytorch_forward_forward",
+    "url": "https://github.com/mohammadpz/pytorch_forward_forward",
+    "desc": "Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation",
+    "lang": "Python"
+  },
+  {
+    "title": "holbertonschool/Betty",
+    "url": "https://github.com/holbertonschool/Betty",
+    "desc": "Holberton-style C code checker written in Perl",
+    "lang": "Perl"
+  },
+  {
+    "title": "humanloop/awesome-chatgpt",
+    "url": "https://github.com/humanloop/awesome-chatgpt",
+    "desc": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+  },
+  {
+    "title": "rawandahmad698/PyChatGPT",
+    "url": "https://github.com/rawandahmad698/PyChatGPT",
+    "desc": "⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "pulsar-edit/pulsar",
+    "url": "https://github.com/pulsar-edit/pulsar",
+    "desc": "A Community-led Hyper-Hackable Text Editor",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bupticybee/ChineseAiDungeonChatGPT",
+    "url": "https://github.com/bupticybee/ChineseAiDungeonChatGPT",
+    "desc": "中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT promt curation to use ChatGPT better."
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pichenettes/eurorack",
+    "url": "https://github.com/pichenettes/eurorack",
+    "desc": "Eurorack modules",
+    "lang": "C++"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
+    "lang": "Python"
+  },
+  {
+    "title": "paradigmxyz/reth",
+    "url": "https://github.com/paradigmxyz/reth",
+    "desc": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "lang": "C"
+  },
+  {
+    "title": "bytedance/sonic-cpp",
+    "url": "https://github.com/bytedance/sonic-cpp",
+    "desc": "A fast JSON serializing & deserializing library, accelerated by SIMD.",
+    "lang": "C++"
+  },
+  {
+    "title": "AmazingAng/WTF-Solidity",
+    "url": "https://github.com/AmazingAng/WTF-Solidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy",
+    "lang": "Solidity"
+  }
+]
