@@ -1,0 +1,148 @@
+[
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT promt curation to use ChatGPT better."
+  },
+  {
+    "title": "fuergaosi233/wechat-chatgpt",
+    "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "desc": "Use ChatGPT On Wechat via wechaty",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "desc": "🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
+    "lang": "Rust"
+  },
+  {
+    "title": "Stability-AI/stablediffusion",
+    "url": "https://github.com/Stability-AI/stablediffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/dramatron",
+    "url": "https://github.com/deepmind/dramatron",
+    "desc": "Dramatron uses large language models to generate coherent scripts and screenplays.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "desc": "Port of OpenAI's Whisper model in C/C++",
+    "lang": "C"
+  },
+  {
+    "title": "AutumnWhj/ChatGPT-wechat-bot",
+    "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "desc": "ChatGPT for wechat",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "exaloop/codon",
+    "url": "https://github.com/exaloop/codon",
+    "desc": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
+    "lang": "C++"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "calistus-igwilo/nitda-blockchain-scholarship",
+    "url": "https://github.com/calistus-igwilo/nitda-blockchain-scholarship",
+    "desc": "Course materials for the NITDA Blockchain Scholarship"
+  },
+  {
+    "title": "skydoves/chatgpt-android",
+    "url": "https://github.com/skydoves/chatgpt-android",
+    "desc": "📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "lang": "C"
+  },
+  {
+    "title": "wangrongding/wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "desc": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "gtoxlili/wechat-chatGPT",
+    "url": "https://github.com/gtoxlili/wechat-chatGPT",
+    "desc": "实现微信公众号被动返回接口的ChatGPT",
+    "lang": "Go"
+  },
+  {
+    "title": "humanloop/awesome-chatgpt",
+    "url": "https://github.com/humanloop/awesome-chatgpt",
+    "desc": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+  },
+  {
+    "title": "kubeshark/kubeshark",
+    "url": "https://github.com/kubeshark/kubeshark",
+    "desc": "The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "shinework/photoshot",
+    "url": "https://github.com/shinework/photoshot",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "expressjs/express",
+    "url": "https://github.com/expressjs/express",
+    "desc": "Fast, unopinionated, minimalist web framework for node.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2023",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2023",
+    "desc": "Statistical Rethinking Course for Jan-Mar 2023"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "desc": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
+    "lang": "Python"
+  },
+  {
+    "title": "revanced/revanced-manager",
+    "url": "https://github.com/revanced/revanced-manager",
+    "desc": "💊 Android application to use ReVanced",
+    "lang": "Dart"
+  }
+]

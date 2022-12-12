@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Stability-AI/stablediffusion",
+    "url": "https://github.com/Stability-AI/stablediffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "desc": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "dgtlmoon/changedetection.io",
+    "url": "https://github.com/dgtlmoon/changedetection.io",
+    "desc": "The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
+    "lang": "Python"
+  },
+  {
+    "title": "mohammadpz/pytorch_forward_forward",
+    "url": "https://github.com/mohammadpz/pytorch_forward_forward",
+    "desc": "Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "scrapy/scrapy",
+    "url": "https://github.com/scrapy/scrapy",
+    "desc": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "A-kirami/nonebot-plugin-chatgpt",
+    "url": "https://github.com/A-kirami/nonebot-plugin-chatgpt",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Turing-Project/AntiFraudChatBot",
+    "url": "https://github.com/Turing-Project/AntiFraudChatBot",
+    "desc": "A simple prompt-chatting AI based on wechaty and fintuned NLP model",
+    "lang": "Python"
+  },
+  {
+    "title": "jonathanpaulson/AdventOfCode",
+    "url": "https://github.com/jonathanpaulson/AdventOfCode",
+    "desc": "My Advent of Code solutions. I also upload videos of my solves: https://www.youtube.com/channel/UCuWLIm0l4sDpEe28t41WITA",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "terry3041/pyChatGPT",
+    "url": "https://github.com/terry3041/pyChatGPT",
+    "desc": "An unofficial Python wrapper for OpenAI's ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "fr0gger/IATelligence",
+    "url": "https://github.com/fr0gger/IATelligence",
+    "desc": "IATelligence is a Python script that will extract the IAT of a PE file and request GPT to get more information about the API and the ATT&CK matrix related",
+    "lang": "Python"
+  },
+  {
+    "title": "davidbombal/ssh_bruteforcing",
+    "url": "https://github.com/davidbombal/ssh_bruteforcing",
+    "desc": "Simple Python SSH Brute Forcing (Credential Stuffing)",
+    "lang": "Python"
+  },
+  {
+    "title": "Shawn-Inspur/Yuan-1.0",
+    "url": "https://github.com/Shawn-Inspur/Yuan-1.0",
+    "desc": "Yuan 1.0 Large pretrained LM",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "OpenAI ChatGPT for Mirai QQ Bot，QQ 聊天机器人！ 每个群组/好友单独一个 Conversation，文字转图片发送， Docker 快速部署，正/反向代理加速 (部分代码由 ChatGPT 生成）",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  }
+]
