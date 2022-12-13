@@ -1,0 +1,142 @@
+[
+  {
+    "title": "shinework/photoshot",
+    "url": "https://github.com/shinework/photoshot",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "wangrongding/wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "desc": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ange-yaghi/engine-sim",
+    "url": "https://github.com/ange-yaghi/engine-sim",
+    "desc": "Combustion engine simulator that generates realistic audio.",
+    "lang": "C++"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT promt curation to use ChatGPT better."
+  },
+  {
+    "title": "eatmoreapple/openwechat",
+    "url": "https://github.com/eatmoreapple/openwechat",
+    "desc": "golang版微信SDK",
+    "lang": "Go"
+  },
+  {
+    "title": "skydoves/chatgpt-android",
+    "url": "https://github.com/skydoves/chatgpt-android",
+    "desc": "📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mohammadpz/pytorch_forward_forward",
+    "url": "https://github.com/mohammadpz/pytorch_forward_forward",
+    "desc": "Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation",
+    "lang": "Python"
+  },
+  {
+    "title": "calistus-igwilo/nitda-blockchain-scholarship",
+    "url": "https://github.com/calistus-igwilo/nitda-blockchain-scholarship",
+    "desc": "Course materials for the NITDA Blockchain Scholarship"
+  },
+  {
+    "title": "fuergaosi233/wechat-chatgpt",
+    "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "desc": "Use ChatGPT On Wechat via wechaty",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "humanloop/awesome-chatgpt",
+    "url": "https://github.com/humanloop/awesome-chatgpt",
+    "desc": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub."
+  },
+  {
+    "title": "lensterxyz/lenster",
+    "url": "https://github.com/lensterxyz/lenster",
+    "desc": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "desc": "🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
+    "lang": "Rust"
+  },
+  {
+    "title": "Stability-AI/stablediffusion",
+    "url": "https://github.com/Stability-AI/stablediffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "lang": "Python"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "exaloop/codon",
+    "url": "https://github.com/exaloop/codon",
+    "desc": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
+    "lang": "C++"
+  },
+  {
+    "title": "deepmind/dramatron",
+    "url": "https://github.com/deepmind/dramatron",
+    "desc": "Dramatron uses large language models to generate coherent scripts and screenplays.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "colinhacks/zod",
+    "url": "https://github.com/colinhacks/zod",
+    "desc": "TypeScript-first schema validation with static type inference",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PlexPt/chatgpt-java",
+    "url": "https://github.com/PlexPt/chatgpt-java",
+    "desc": "ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.",
+    "lang": "Java"
+  },
+  {
+    "title": "kingoflolz/mesh-transformer-jax",
+    "url": "https://github.com/kingoflolz/mesh-transformer-jax",
+    "desc": "Model parallel transformers in JAX and Haiku",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "AutumnWhj/ChatGPT-wechat-bot",
+    "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "desc": "ChatGPT for wechat",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "awslabs/eks-node-viewer",
+    "url": "https://github.com/awslabs/eks-node-viewer",
+    "desc": "EKS Node Viewer",
+    "lang": "Go"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "mohammadpz/pytorch_forward_forward",
+    "url": "https://github.com/mohammadpz/pytorch_forward_forward",
+    "desc": "Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation",
+    "lang": "Python"
+  },
+  {
+    "title": "Stability-AI/stablediffusion",
+    "url": "https://github.com/Stability-AI/stablediffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "lang": "Python"
+  },
+  {
+    "title": "kingoflolz/mesh-transformer-jax",
+    "url": "https://github.com/kingoflolz/mesh-transformer-jax",
+    "desc": "Model parallel transformers in JAX and Haiku",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "shobrook/stackexplain",
+    "url": "https://github.com/shobrook/stackexplain",
+    "desc": "Explain your error message with ChatGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "Turing-Project/AntiFraudChatBot",
+    "url": "https://github.com/Turing-Project/AntiFraudChatBot",
+    "desc": "A simple prompt-chatting AI based on wechaty and fintuned NLP model",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book3_Elements-of-Mathematics",
+    "url": "https://github.com/Visualize-ML/Book3_Elements-of-Mathematics",
+    "desc": "Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；本册有，583幅图，136个代码文件，其中24个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  },
+  {
+    "title": "Shawn-Inspur/Yuan-1.0",
+    "url": "https://github.com/Shawn-Inspur/Yuan-1.0",
+    "desc": "Yuan 1.0 Large pretrained LM",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "lang": "Python"
+  },
+  {
+    "title": "vaexio/vaex",
+    "url": "https://github.com/vaexio/vaex",
+    "desc": "Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "terry3041/pyChatGPT",
+    "url": "https://github.com/terry3041/pyChatGPT",
+    "desc": "An unofficial Python wrapper for OpenAI's ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/alphafold",
+    "url": "https://github.com/deepmind/alphafold",
+    "desc": "Open source code for AlphaFold.",
+    "lang": "Python"
+  },
+  {
+    "title": "fr0gger/IATelligence",
+    "url": "https://github.com/fr0gger/IATelligence",
+    "desc": "IATelligence is a Python script that will extract the IAT of a PE file and request GPT to get more information about the API and the ATT&CK matrix related",
+    "lang": "Python"
+  },
+  {
+    "title": "PyCQA/isort",
+    "url": "https://github.com/PyCQA/isort",
+    "desc": "A Python utility / library to sort imports.",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "tychxn/jd-assistant",
+    "url": "https://github.com/tychxn/jd-assistant",
+    "desc": "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能",
+    "lang": "Python"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "mne-tools/mne-python",
+    "url": "https://github.com/mne-tools/mne-python",
+    "desc": "MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "desc": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
+    "lang": "Python"
+  }
+]
