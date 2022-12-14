@@ -1,0 +1,152 @@
+[
+  {
+    "title": "facebookresearch/fairseq",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "mohammadpz/pytorch_forward_forward",
+    "url": "https://github.com/mohammadpz/pytorch_forward_forward",
+    "desc": "Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation",
+    "lang": "Python"
+  },
+  {
+    "title": "netbox-community/netbox",
+    "url": "https://github.com/netbox-community/netbox",
+    "desc": "The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "lang": "Python"
+  },
+  {
+    "title": "allenai/RL4LMs",
+    "url": "https://github.com/allenai/RL4LMs",
+    "desc": "A modular RL library to fine-tune language models to human preferences",
+    "lang": "Python"
+  },
+  {
+    "title": "getsentry/sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "desc": "Developer-first error tracking and performance monitoring",
+    "lang": "Python"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "In-Database Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "ActiveState/OpenKomodoIDE",
+    "url": "https://github.com/ActiveState/OpenKomodoIDE",
+    "desc": "Open Komodo IDE is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.",
+    "lang": "Python"
+  },
+  {
+    "title": "PyCQA/isort",
+    "url": "https://github.com/PyCQA/isort",
+    "desc": "A Python utility / library to sort imports.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/glide-text2im",
+    "url": "https://github.com/openai/glide-text2im",
+    "desc": "GLIDE: a diffusion-based text-conditional image synthesis model",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "De3vil/KLogger",
+    "url": "https://github.com/De3vil/KLogger",
+    "desc": "Remote persistent 🔑Logger for Windows and Linux",
+    "lang": "Python"
+  },
+  {
+    "title": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "desc": "Optional static typing for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.",
+    "lang": "Python"
+  },
+  {
+    "title": "Methexis-Inc/terminal-copilot",
+    "url": "https://github.com/Methexis-Inc/terminal-copilot",
+    "desc": "A smart terminal assistant that helps you find the right command.",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "desc": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book3_Elements-of-Mathematics",
+    "url": "https://github.com/Visualize-ML/Book3_Elements-of-Mathematics",
+    "desc": "Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；本册有，583幅图，136个代码文件，其中24个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "Rongjiehuang/GenerSpeech",
+    "url": "https://github.com/Rongjiehuang/GenerSpeech",
+    "desc": "PyTorch Implementation of GenerSpeech (NeurIPS'22): a text-to-speech model towards zero-shot style transfer of OOD custom voice.",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",
+    "lang": "Python"
+  },
+  {
+    "title": "RockChinQ/QChatGPT",
+    "url": "https://github.com/RockChinQ/QChatGPT",
+    "desc": "基于OpenAI ChatGPT 开发的 QQ 机器人 bot，mirai+ChatGPT QQ实现，多平台一键部署，高稳定性",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Generic Signature Format for SIEM Systems",
+    "lang": "Python"
+  }
+]

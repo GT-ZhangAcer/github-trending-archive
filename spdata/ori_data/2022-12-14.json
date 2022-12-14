@@ -1,0 +1,149 @@
+[
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT promt curation to use ChatGPT better."
+  },
+  {
+    "title": "cloneofsimo/lora",
+    "url": "https://github.com/cloneofsimo/lora",
+    "desc": "Using Low-rank adaptation to quickly fine-tune diffusion models.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "desc": "计算机自学指南",
+    "lang": "HTML"
+  },
+  {
+    "title": "pola-rs/polars",
+    "url": "https://github.com/pola-rs/polars",
+    "desc": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
+    "lang": "Rust"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "desc": "iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak",
+    "lang": "Shell"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "desc": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebookresearch/fairseq",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "nalgeon/sqlean",
+    "url": "https://github.com/nalgeon/sqlean",
+    "desc": "The ultimate set of SQLite extensions",
+    "lang": "C"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "norvig/pytudes",
+    "url": "https://github.com/norvig/pytudes",
+    "desc": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "humanloop/awesome-chatgpt",
+    "url": "https://github.com/humanloop/awesome-chatgpt",
+    "desc": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "desc": "JSON for Modern C++",
+    "lang": "C++"
+  },
+  {
+    "title": "lencx/ChatGPT",
+    "url": "https://github.com/lencx/ChatGPT",
+    "desc": "🤖 ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "lang": "Rust"
+  },
+  {
+    "title": "aler9/rtsp-simple-server",
+    "url": "https://github.com/aler9/rtsp-simple-server",
+    "desc": "ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams",
+    "lang": "Go"
+  },
+  {
+    "title": "dolthub/dolt",
+    "url": "https://github.com/dolthub/dolt",
+    "desc": "Dolt – Git for Data",
+    "lang": "Go"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "desc": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mohammadpz/pytorch_forward_forward",
+    "url": "https://github.com/mohammadpz/pytorch_forward_forward",
+    "desc": "Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "desc": "Azure Quickstart Templates",
+    "lang": "Bicep"
+  },
+  {
+    "title": "home-assistant/frontend",
+    "url": "https://github.com/home-assistant/frontend",
+    "desc": "🍭 Frontend for Home Assistant",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/havenask",
+    "url": "https://github.com/alibaba/havenask",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "wesbos/pommade",
+    "url": "https://github.com/wesbos/pommade",
+    "desc": "A menu bar app to check your hair",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vuejs/core",
+    "url": "https://github.com/vuejs/core",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "calistus-igwilo/nitda-blockchain-scholarship",
+    "url": "https://github.com/calistus-igwilo/nitda-blockchain-scholarship",
+    "desc": "Course materials for the NITDA Blockchain Scholarship"
+  }
+]

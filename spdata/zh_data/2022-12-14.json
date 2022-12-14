@@ -1,0 +1,149 @@
+[
+  {
+    "title": "alibaba/havenask",
+    "url": "https://github.com/alibaba/havenask",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "wangrongding/wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "desc": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gtoxlili/wechat-chatGPT",
+    "url": "https://github.com/gtoxlili/wechat-chatGPT",
+    "desc": "实现微信公众号被动返回接口的ChatGPT",
+    "lang": "Go"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "desc": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
+    "lang": "Java"
+  },
+  {
+    "title": "memochou1993/gpt-ai-assistant",
+    "url": "https://github.com/memochou1993/gpt-ai-assistant",
+    "desc": "OpenAI + LINE = GPT AI Assistant",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "Visualize-ML/Book3_Elements-of-Mathematics",
+    "url": "https://github.com/Visualize-ML/Book3_Elements-of-Mathematics",
+    "desc": "Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；本册有，583幅图，136个代码文件，其中24个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "pt-plugins/PT-Plugin-Plus",
+    "url": "https://github.com/pt-plugins/PT-Plugin-Plus",
+    "desc": "PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RockChinQ/QChatGPT",
+    "url": "https://github.com/RockChinQ/QChatGPT",
+    "desc": "基于OpenAI ChatGPT 开发的 QQ 机器人 bot，mirai+ChatGPT QQ实现，多平台一键部署，高稳定性",
+    "lang": "Python"
+  },
+  {
+    "title": "houko/wechatgpt",
+    "url": "https://github.com/houko/wechatgpt",
+    "desc": "wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）",
+    "lang": "Go"
+  },
+  {
+    "title": "binary-husky/unreal-hmp",
+    "url": "https://github.com/binary-husky/unreal-hmp",
+    "desc": "Multiagent research environment toolbox based on Unreal Engine",
+    "lang": "C++"
+  },
+  {
+    "title": "Turing-Project/AntiFraudChatBot",
+    "url": "https://github.com/Turing-Project/AntiFraudChatBot",
+    "desc": "A simple prompt-chatting AI based on wechaty and fintuned NLP model",
+    "lang": "Python"
+  },
+  {
+    "title": "PlexPt/chatgpt-java",
+    "url": "https://github.com/PlexPt/chatgpt-java",
+    "desc": "ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.",
+    "lang": "Java"
+  },
+  {
+    "title": "chrisyy2003/lingyin-bot",
+    "url": "https://github.com/chrisyy2003/lingyin-bot",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "OpenAI ChatGPT for Mirai QQ Bot，QQ 聊天机器人！ 每个群组/好友单独一个 Conversation，文字转图片发送， Docker 快速部署，正/反向代理加速 (部分代码由 ChatGPT 生成）",
+    "lang": "Python"
+  },
+  {
+    "title": "yi-ge/chatgpt-web",
+    "url": "https://github.com/yi-ge/chatgpt-web",
+    "desc": "Multi-user h5 version, 3rd party ChatGPT web page. Uses OpenAPI official web API.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "del-xiong/awesome-chatgpt",
+    "url": "https://github.com/del-xiong/awesome-chatgpt",
+    "desc": "chatgpt中文提问魔法指令"
+  },
+  {
+    "title": "Tencent/puerts",
+    "url": "https://github.com/Tencent/puerts",
+    "desc": "普洱TS！Write your game with TypeScript in UE or Unity. PuerTS can be pronounced as pu-erh TS",
+    "lang": "C++"
+  },
+  {
+    "title": "forthespada/CS-Books",
+    "url": "https://github.com/forthespada/CS-Books",
+    "desc": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "desc": "🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
+    "lang": "Rust"
+  },
+  {
+    "title": "Visualize-ML/Book5_Essentials-of-Probability-and-Statistics",
+    "url": "https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics",
+    "desc": "Book_5_《统计至简》 | 鸢尾花书：从加减乘除到机器学习；陆续上传25章草稿。草稿还会经过至少两轮修改，大家注意下载最新版本。请多提意见，谢谢",
+    "lang": "Python"
+  },
+  {
+    "title": "xushengfeng/eSearch",
+    "url": "https://github.com/xushengfeng/eSearch",
+    "desc": "截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 滚动截屏 Screenshot OCR search translate search for picture paste the picture on the screen screen recorder",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "we0091234/Chinese_license_plate_detection_recognition",
+    "url": "https://github.com/we0091234/Chinese_license_plate_detection_recognition",
+    "desc": "yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌",
+    "lang": "Python"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  }
+]
