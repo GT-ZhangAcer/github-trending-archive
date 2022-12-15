@@ -1,0 +1,147 @@
+[
+  {
+    "title": "wangrongding/wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "desc": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "desc": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
+    "lang": "Java"
+  },
+  {
+    "title": "houko/wechatgpt",
+    "url": "https://github.com/houko/wechatgpt",
+    "desc": "wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/havenask",
+    "url": "https://github.com/alibaba/havenask",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。怎么让它听你的话。"
+  },
+  {
+    "title": "forthespada/CS-Books",
+    "url": "https://github.com/forthespada/CS-Books",
+    "desc": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~"
+  },
+  {
+    "title": "xushengfeng/eSearch",
+    "url": "https://github.com/xushengfeng/eSearch",
+    "desc": "截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 滚动截屏 Screenshot OCR search translate search for picture paste the picture on the screen screen recorder",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jaywcjlove/reference",
+    "url": "https://github.com/jaywcjlove/reference",
+    "desc": "为开发人员分享快速参考备忘清单(速查表)",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "golfzert/chatgpt-chinese-prompt-hack",
+    "url": "https://github.com/golfzert/chatgpt-chinese-prompt-hack",
+    "desc": "利用prompt hack绕开OpenAI的内容政策限制"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "RockChinQ/QChatGPT",
+    "url": "https://github.com/RockChinQ/QChatGPT",
+    "desc": "基于OpenAI ChatGPT 开发的 QQ 机器人 bot，mirai+ChatGPT QQ实现，多平台一键部署，高稳定性",
+    "lang": "Python"
+  },
+  {
+    "title": "Tencent/APIJSON",
+    "url": "https://github.com/Tencent/APIJSON",
+    "desc": "🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀 provides APIs and Docs without writing any code.",
+    "lang": "Java"
+  },
+  {
+    "title": "dream7180/foobox-cn",
+    "url": "https://github.com/dream7180/foobox-cn",
+    "desc": "CUI 整合 for foobar2000",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OI-wiki/OI-wiki",
+    "url": "https://github.com/OI-wiki/OI-wiki",
+    "desc": "🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chinashiyu/gfw.press",
+    "url": "https://github.com/chinashiyu/gfw.press",
+    "desc": "GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件",
+    "lang": "Java"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "xiaoyaocz/flutter_cnblogs",
+    "url": "https://github.com/xiaoyaocz/flutter_cnblogs",
+    "desc": "博客园Flutter客户端",
+    "lang": "Dart"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "easydu2002/chat_gpt_oicq",
+    "url": "https://github.com/easydu2002/chat_gpt_oicq",
+    "desc": "ChatGPT qq机器人 谁不想拥有一只可爱的猫娘呢~",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pt-plugins/PT-Plugin-Plus",
+    "url": "https://github.com/pt-plugins/PT-Plugin-Plus",
+    "desc": "PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lxgw/LxgwWenKai",
+    "url": "https://github.com/lxgw/LxgwWenKai",
+    "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "yangzongzhuan/RuoYi-Vue3",
+    "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+    "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "yangjianxin1/GPT2-chitchat",
+    "url": "https://github.com/yangjianxin1/GPT2-chitchat",
+    "desc": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)",
+    "lang": "Python"
+  },
+  {
+    "title": "mao888/golang-guide",
+    "url": "https://github.com/mao888/golang-guide",
+    "desc": "「Golang学习+面试指南」一份涵盖大部分 Golang程序员所需要掌握的核心知识。准备 Golang面试，首选 GolangGuide！",
+    "lang": "Go"
+  }
+]
