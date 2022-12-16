@@ -1,0 +1,144 @@
+[
+  {
+    "title": "google/osv-scanner",
+    "url": "https://github.com/google/osv-scanner",
+    "desc": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "lang": "Go"
+  },
+  {
+    "title": "dudykr/stc",
+    "url": "https://github.com/dudykr/stc",
+    "desc": "Speedy TypeScript type checker",
+    "lang": "Rust"
+  },
+  {
+    "title": "Jxck-S/plane-notify",
+    "url": "https://github.com/Jxck-S/plane-notify",
+    "desc": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
+    "lang": "Python"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "desc": "web development, streamlined",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "desc": "A curated list of software and architecture related design patterns."
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "Samsar4/Ethical-Hacking-Labs",
+    "url": "https://github.com/Samsar4/Ethical-Hacking-Labs",
+    "desc": "Practical Ethical Hacking Labs 🗡🛡"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "desc": "A collection of (mostly) technical things every software developer should know about"
+  },
+  {
+    "title": "alibaba/havenask",
+    "url": "https://github.com/alibaba/havenask",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "skypilot-org/skypilot",
+    "url": "https://github.com/skypilot-org/skypilot",
+    "desc": "SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.",
+    "lang": "Python"
+  },
+  {
+    "title": "coinspect/learn-evm-attacks",
+    "url": "https://github.com/coinspect/learn-evm-attacks",
+    "desc": "Learn & Contribute on previously exploited vulnerabilities across several EVM projects.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "ossu/bioinformatics",
+    "url": "https://github.com/ossu/bioinformatics",
+    "desc": "🔬 Path to a free self-taught education in Bioinformatics!"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "nostr-protocol/nostr",
+    "url": "https://github.com/nostr-protocol/nostr",
+    "desc": "a truly censorship-resistant alternative to Twitter that has a chance of working"
+  },
+  {
+    "title": "rocketseat-education/ignite-lab-nodejs",
+    "url": "https://github.com/rocketseat-education/ignite-lab-nodejs",
+    "desc": "Microsserviço de notificações desenvolvido no Ignite Lab 04 de Node.js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "forthespada/CS-Books",
+    "url": "https://github.com/forthespada/CS-Books",
+    "desc": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "pola-rs/polars",
+    "url": "https://github.com/pola-rs/polars",
+    "desc": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
+    "lang": "Rust"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "desc": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SoftwareBrothers/adminjs",
+    "url": "https://github.com/SoftwareBrothers/adminjs",
+    "desc": "AdminJS is an admin panel for apps written in node.js",
+    "lang": "TypeScript"
+  }
+]
