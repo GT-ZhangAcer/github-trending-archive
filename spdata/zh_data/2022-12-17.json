@@ -1,0 +1,149 @@
+[
+  {
+    "title": "eryajf/chatgpt-dingtalk",
+    "url": "https://github.com/eryajf/chatgpt-dingtalk",
+    "desc": "ChatGPT机器人在钉钉群聊中交互",
+    "lang": "Go"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "desc": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
+    "lang": "Java"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "chinesehuazhou/python-whydo",
+    "url": "https://github.com/chinesehuazhou/python-whydo",
+    "desc": "Explore Python's charms by asking WHY questions"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。怎么让它听你的话。"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "CarGuo/GSYVideoPlayer",
+    "url": "https://github.com/CarGuo/GSYVideoPlayer",
+    "desc": "视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。",
+    "lang": "Java"
+  },
+  {
+    "title": "youshandefeiyang/IPTV",
+    "url": "https://github.com/youshandefeiyang/IPTV",
+    "desc": "肥羊的4K/8K超高清IPTV直播源&&直播代码仓库",
+    "lang": "PHP"
+  },
+  {
+    "title": "vastsa/FileCodeBox",
+    "url": "https://github.com/vastsa/FileCodeBox",
+    "desc": "文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）",
+    "lang": "Python"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliToolPro",
+    "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+    "desc": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。",
+    "lang": "C#"
+  },
+  {
+    "title": "RockChinQ/QChatGPT",
+    "url": "https://github.com/RockChinQ/QChatGPT",
+    "desc": "基于OpenAI ChatGPT 开发的 QQ 机器人 bot，mirai+ChatGPT QQ实现，多平台一键部署，高稳定性，支持多api-key自动切换",
+    "lang": "Python"
+  },
+  {
+    "title": "BruceQiu1996/NChatGPTRev",
+    "url": "https://github.com/BruceQiu1996/NChatGPTRev",
+    "desc": "ChatGPT C# SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 .net 版. 开箱即用.",
+    "lang": "C#"
+  },
+  {
+    "title": "max32002/tixcraft_bot",
+    "url": "https://github.com/max32002/tixcraft_bot",
+    "desc": "Max搶票機器人(maxbot) help you quickly buy your tickets",
+    "lang": "Python"
+  },
+  {
+    "title": "howarder3/GPT-Linebot-python-flask-on-vercel",
+    "url": "https://github.com/howarder3/GPT-Linebot-python-flask-on-vercel",
+    "desc": "GPT-Linebot using python flask for vercel",
+    "lang": "Python"
+  },
+  {
+    "title": "zizifn/edgetunnel",
+    "url": "https://github.com/zizifn/edgetunnel",
+    "desc": "Running V2ray inside edge functions",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "DerekYRC/mini-spring",
+    "url": "https://github.com/DerekYRC/mini-spring",
+    "desc": "mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。",
+    "lang": "Java"
+  },
+  {
+    "title": "Anankke/SSPanel-Uim",
+    "url": "https://github.com/Anankke/SSPanel-Uim",
+    "desc": "SSPanel V3 魔改再次修改版",
+    "lang": "PHP"
+  },
+  {
+    "title": "shilicon/kr260_robotic_arm",
+    "url": "https://github.com/shilicon/kr260_robotic_arm",
+    "desc": "A robotic arm controller design based on AMD/Xilinx KR260 FPGA dev-kit.",
+    "lang": "C++"
+  },
+  {
+    "title": "aaa1115910/bv",
+    "url": "https://github.com/aaa1115910/bv",
+    "desc": "哔哩哔哩 的第三方 Android TV 应用",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "geeeeeeeek/jd-seckill-2022",
+    "url": "https://github.com/geeeeeeeek/jd-seckill-2022",
+    "desc": "京东App秒杀抢购流程接口分析，京东茅台抢购最新技术分析",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "whyour/qinglong",
+    "url": "https://github.com/whyour/qinglong",
+    "desc": "支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rev1si0n/lamda",
+    "url": "https://github.com/rev1si0n/lamda",
+    "desc": "⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/自动化辅助框架，你的工作从未如此简单快捷。",
+    "lang": "Python"
+  }
+]

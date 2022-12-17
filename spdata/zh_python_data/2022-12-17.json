@@ -1,0 +1,152 @@
+[
+  {
+    "title": "vastsa/FileCodeBox",
+    "url": "https://github.com/vastsa/FileCodeBox",
+    "desc": "文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）",
+    "lang": "Python"
+  },
+  {
+    "title": "RockChinQ/QChatGPT",
+    "url": "https://github.com/RockChinQ/QChatGPT",
+    "desc": "基于OpenAI ChatGPT 开发的 QQ 机器人 bot，mirai+ChatGPT QQ实现，多平台一键部署，高稳定性，支持多api-key自动切换",
+    "lang": "Python"
+  },
+  {
+    "title": "max32002/tixcraft_bot",
+    "url": "https://github.com/max32002/tixcraft_bot",
+    "desc": "Max搶票機器人(maxbot) help you quickly buy your tickets",
+    "lang": "Python"
+  },
+  {
+    "title": "howarder3/GPT-Linebot-python-flask-on-vercel",
+    "url": "https://github.com/howarder3/GPT-Linebot-python-flask-on-vercel",
+    "desc": "GPT-Linebot using python flask for vercel",
+    "lang": "Python"
+  },
+  {
+    "title": "geeeeeeeek/jd-seckill-2022",
+    "url": "https://github.com/geeeeeeeek/jd-seckill-2022",
+    "desc": "京东App秒杀抢购流程接口分析，京东茅台抢购最新技术分析",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "rev1si0n/lamda",
+    "url": "https://github.com/rev1si0n/lamda",
+    "desc": "⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/自动化辅助框架，你的工作从未如此简单快捷。",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEA-CCNL/Fengshenbang-LM",
+    "url": "https://github.com/IDEA-CCNL/Fengshenbang-LM",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "0-8-4/miui-auto-tasks",
+    "url": "https://github.com/0-8-4/miui-auto-tasks",
+    "desc": "一个自动化完成小米社区任务的脚本",
+    "lang": "Python"
+  },
+  {
+    "title": "opendilab/PPOxFamily",
+    "url": "https://github.com/opendilab/PPOxFamily",
+    "desc": "PPO x Family DRL Tutorial Course（决策智能入门级公开课：8节课帮你盘清算法理论，理顺代码逻辑，玩转决策AI应用实践 ）",
+    "lang": "Python"
+  },
+  {
+    "title": "Bywalks/DarkAngel",
+    "url": "https://github.com/Bywalks/DarkAngel",
+    "desc": "DarkAngel 是一款全自动白帽漏洞扫描器，从hackerone、bugcrowd资产监听到漏洞报告生成、企业微信通知。",
+    "lang": "Python"
+  },
+  {
+    "title": "yangjianxin1/GPT2-chitchat",
+    "url": "https://github.com/yangjianxin1/GPT2-chitchat",
+    "desc": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)",
+    "lang": "Python"
+  },
+  {
+    "title": "zhaoolee/ins",
+    "url": "https://github.com/zhaoolee/ins",
+    "desc": "🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度",
+    "lang": "Python"
+  },
+  {
+    "title": "PantsuDango/Dango-Translator",
+    "url": "https://github.com/PantsuDango/Dango-Translator",
+    "desc": "团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器",
+    "lang": "Python"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, PPYOLO, PPYOLOv2, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "begood0513/goodnews",
+    "url": "https://github.com/begood0513/goodnews",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "sngyai/Sequoia",
+    "url": "https://github.com/sngyai/Sequoia",
+    "desc": "A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态",
+    "lang": "Python"
+  },
+  {
+    "title": "PyQt5/PyQt",
+    "url": "https://github.com/PyQt5/PyQt",
+    "desc": "PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5",
+    "lang": "Python"
+  },
+  {
+    "title": "HIllya51/LunaTranslator",
+    "url": "https://github.com/HIllya51/LunaTranslator",
+    "desc": "Galgame翻译工具，支持剪贴板、OCR、HOOK，支持30余种翻译工具。Galgame translate tool , support clipboard / OCR/ HOOK, support 30+ translate engines.",
+    "lang": "Python"
+  },
+  {
+    "title": "XuanRanDev/Auto-ShiXiBeiAn",
+    "url": "https://github.com/XuanRanDev/Auto-ShiXiBeiAn",
+    "desc": "🎨实习备案（职校家园）自动打卡，支持多用户、自定义位置与时间、微信消息推送。",
+    "lang": "Python"
+  },
+  {
+    "title": "gfw-breaker/banned-news3",
+    "url": "https://github.com/gfw-breaker/banned-news3",
+    "desc": "禁闻聚合",
+    "lang": "Python"
+  },
+  {
+    "title": "AIGCT/EASYChatGPT",
+    "url": "https://github.com/AIGCT/EASYChatGPT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  }
+]

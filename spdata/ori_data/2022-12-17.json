@@ -1,0 +1,151 @@
+[
+  {
+    "title": "jackMort/ChatGPT.nvim",
+    "url": "https://github.com/jackMort/ChatGPT.nvim",
+    "desc": "Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.",
+    "lang": "Lua"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "eryajf/chatgpt-dingtalk",
+    "url": "https://github.com/eryajf/chatgpt-dingtalk",
+    "desc": "ChatGPT机器人在钉钉群聊中交互",
+    "lang": "Go"
+  },
+  {
+    "title": "google/osv-scanner",
+    "url": "https://github.com/google/osv-scanner",
+    "desc": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "lang": "Go"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "desc": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
+    "lang": "Java"
+  },
+  {
+    "title": "hmartiro/riffusion-app",
+    "url": "https://github.com/hmartiro/riffusion-app",
+    "desc": "Stable diffusion for real-time music generation",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ThePrimeagen/init.lua",
+    "url": "https://github.com/ThePrimeagen/init.lua",
+    "desc": "",
+    "lang": "Lua"
+  },
+  {
+    "title": "hmartiro/riffusion-inference",
+    "url": "https://github.com/hmartiro/riffusion-inference",
+    "desc": "Stable diffusion for real-time music generation",
+    "lang": "Python"
+  },
+  {
+    "title": "carson-katri/dream-textures",
+    "url": "https://github.com/carson-katri/dream-textures",
+    "desc": "Stable Diffusion built-in to the Blender shader editor",
+    "lang": "Python"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "musescore/MuseScore",
+    "url": "https://github.com/musescore/MuseScore",
+    "desc": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+    "lang": "C++"
+  },
+  {
+    "title": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "desc": "The hackable text editor",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "desc": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "m1guelpf/plz-cli",
+    "url": "https://github.com/m1guelpf/plz-cli",
+    "desc": "Copilot for your terminal",
+    "lang": "Rust"
+  },
+  {
+    "title": "Jxck-S/plane-notify",
+    "url": "https://github.com/Jxck-S/plane-notify",
+    "desc": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
+    "lang": "Python"
+  },
+  {
+    "title": "andyzys/jd_seckill",
+    "url": "https://github.com/andyzys/jd_seckill",
+    "desc": "京东秒杀商品抢购",
+    "lang": "Python"
+  },
+  {
+    "title": "jart/blink",
+    "url": "https://github.com/jart/blink",
+    "desc": "tiniest x86-64-linux emulator",
+    "lang": "C"
+  },
+  {
+    "title": "chartjs/Chart.js",
+    "url": "https://github.com/chartjs/Chart.js",
+    "desc": "Simple HTML5 Charts using the <canvas> tag",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Offensive Google framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "nostr-protocol/nostr",
+    "url": "https://github.com/nostr-protocol/nostr",
+    "desc": "a truly censorship-resistant alternative to Twitter that has a chance of working"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "desc": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+    "lang": "JavaScript"
+  }
+]

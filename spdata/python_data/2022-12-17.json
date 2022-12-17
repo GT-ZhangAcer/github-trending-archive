@@ -1,0 +1,152 @@
+[
+  {
+    "title": "hmartiro/riffusion-inference",
+    "url": "https://github.com/hmartiro/riffusion-inference",
+    "desc": "Stable diffusion for real-time music generation",
+    "lang": "Python"
+  },
+  {
+    "title": "carson-katri/dream-textures",
+    "url": "https://github.com/carson-katri/dream-textures",
+    "desc": "Stable Diffusion built-in to the Blender shader editor",
+    "lang": "Python"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "Jxck-S/plane-notify",
+    "url": "https://github.com/Jxck-S/plane-notify",
+    "desc": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
+    "lang": "Python"
+  },
+  {
+    "title": "andyzys/jd_seckill",
+    "url": "https://github.com/andyzys/jd_seckill",
+    "desc": "京东秒杀商品抢购",
+    "lang": "Python"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "desc": "🕵️‍♂️ Offensive Google framework.",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to coordinate your dataflow",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/robotics_transformer",
+    "url": "https://github.com/google-research/robotics_transformer",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "devilismyfriend/StableTuner",
+    "url": "https://github.com/devilismyfriend/StableTuner",
+    "desc": "Finetuning SD in style.",
+    "lang": "Python"
+  },
+  {
+    "title": "nthistle/advent-of-code",
+    "url": "https://github.com/nthistle/advent-of-code",
+    "desc": "My solutions for Advent of Code 2018",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "lang": "Python"
+  },
+  {
+    "title": "google/osv.dev",
+    "url": "https://github.com/google/osv.dev",
+    "desc": "Open source vulnerability DB and triage service.",
+    "lang": "Python"
+  },
+  {
+    "title": "0xJs/RedTeaming_CheatSheet",
+    "url": "https://github.com/0xJs/RedTeaming_CheatSheet",
+    "desc": "Pentesting cheatsheet with all the commands I learned during my learning journey. Will try to to keep it up-to-date.",
+    "lang": "Python"
+  },
+  {
+    "title": "thewhiteh4t/nexfil",
+    "url": "https://github.com/thewhiteh4t/nexfil",
+    "desc": "OSINT tool for finding profiles by username",
+    "lang": "Python"
+  },
+  {
+    "title": "conwnet/wpa-dictionary",
+    "url": "https://github.com/conwnet/wpa-dictionary",
+    "desc": "WPA/WPA2 密码字典，用于 wifi 密码暴力破解",
+    "lang": "Python"
+  },
+  {
+    "title": "CarperAI/trlx",
+    "url": "https://github.com/CarperAI/trlx",
+    "desc": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+    "lang": "Python"
+  },
+  {
+    "title": "amrrs/chatgpt-clone",
+    "url": "https://github.com/amrrs/chatgpt-clone",
+    "desc": "Build Yo'own ChatGPT with OpenAI API & Gradio",
+    "lang": "Python"
+  },
+  {
+    "title": "tychxn/jd-assistant",
+    "url": "https://github.com/tychxn/jd-assistant",
+    "desc": "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能",
+    "lang": "Python"
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "desc": "Recovers passwords from pixelized screenshots",
+    "lang": "Python"
+  },
+  {
+    "title": "MrHacker-X/DevilX",
+    "url": "https://github.com/MrHacker-X/DevilX",
+    "desc": "A very dangerous tool for termux.",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "kubeflow/pipelines",
+    "url": "https://github.com/kubeflow/pipelines",
+    "desc": "Machine Learning Pipelines for Kubeflow",
+    "lang": "Python"
+  }
+]
