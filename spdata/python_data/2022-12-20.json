@@ -1,0 +1,152 @@
+[
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "desc": "Download market data from Yahoo! Finance's API",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "zsyOAOA/DifFace",
+    "url": "https://github.com/zsyOAOA/DifFace",
+    "desc": "DifFace: Blind Face Restoration with Diffused Error Contraction (PyTorch)",
+    "lang": "Python"
+  },
+  {
+    "title": "Anjok07/ultimatevocalremovergui",
+    "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+    "desc": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+    "lang": "Python"
+  },
+  {
+    "title": "blacklanternsecurity/bbot",
+    "url": "https://github.com/blacklanternsecurity/bbot",
+    "desc": "OSINT automation for hackers.",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "m-bain/whisperX",
+    "url": "https://github.com/m-bain/whisperX",
+    "desc": "WhisperX: Timestamp-Accurate Automatic Speech Recognition.",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "desc": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "lang": "Python"
+  },
+  {
+    "title": "andyzys/jd_seckill",
+    "url": "https://github.com/andyzys/jd_seckill",
+    "desc": "京东秒杀商品抢购",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "carson-katri/dream-textures",
+    "url": "https://github.com/carson-katri/dream-textures",
+    "desc": "Stable Diffusion built-in to the Blender shader editor",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "axinc-ai/ailia-models",
+    "url": "https://github.com/axinc-ai/ailia-models",
+    "desc": "The collection of pre-trained, state-of-the-art AI models for ailia SDK",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Main Rule Repository",
+    "lang": "Python"
+  },
+  {
+    "title": "nerfstudio-project/nerfstudio",
+    "url": "https://github.com/nerfstudio-project/nerfstudio",
+    "desc": "A collaboration friendly studio for NeRFs",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "vastsa/FileCodeBox",
+    "url": "https://github.com/vastsa/FileCodeBox",
+    "desc": "文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）",
+    "lang": "Python"
+  },
+  {
+    "title": "mlflow/mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "desc": "Open source platform for the machine learning lifecycle",
+    "lang": "Python"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "desc": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers",
+    "lang": "Python"
+  }
+]

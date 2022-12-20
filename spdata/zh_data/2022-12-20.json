@@ -1,0 +1,149 @@
+[
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "chinesehuazhou/python-whydo",
+    "url": "https://github.com/chinesehuazhou/python-whydo",
+    "desc": "Explore Python's charms by asking WHY questions"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "desc": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
+    "lang": "Java"
+  },
+  {
+    "title": "wy580477/replit-trojan",
+    "url": "https://github.com/wy580477/replit-trojan",
+    "desc": "在 Replit 免费服务上部署 Trojan Websocket 协议",
+    "lang": "Shell"
+  },
+  {
+    "title": "bigemon/ChatGPT-ToolBox",
+    "url": "https://github.com/bigemon/ChatGPT-ToolBox",
+    "desc": "由ChatGPT负责编写的ChatGPT工具箱。当前版本提供以下功能： 1.关闭数据监管 2.存档管理器 3.会话存档导入导出",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vastsa/FileCodeBox",
+    "url": "https://github.com/vastsa/FileCodeBox",
+    "desc": "文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）",
+    "lang": "Python"
+  },
+  {
+    "title": "zhao458114067/Jd-Pruchase-Kill",
+    "url": "https://github.com/zhao458114067/Jd-Pruchase-Kill",
+    "desc": "java版京东抢购茅台秒杀程序",
+    "lang": "Java"
+  },
+  {
+    "title": "chrisyy2003/lingyin-bot",
+    "url": "https://github.com/chrisyy2003/lingyin-bot",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "Shell"
+  },
+  {
+    "title": "easzlab/kubeasz",
+    "url": "https://github.com/easzlab/kubeasz",
+    "desc": "使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响",
+    "lang": "Jinja"
+  },
+  {
+    "title": "turkyden/lizhi",
+    "url": "https://github.com/turkyden/lizhi",
+    "desc": "🎸 李志 (B 仔) 音乐作品跨平台播放器，支持 Web / Mac / Windows / Linux",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliToolPro",
+    "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+    "desc": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。",
+    "lang": "C#"
+  },
+  {
+    "title": "pymumu/smartdns",
+    "url": "https://github.com/pymumu/smartdns",
+    "desc": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。",
+    "lang": "C"
+  },
+  {
+    "title": "MatsuriDayo/nekoray",
+    "url": "https://github.com/MatsuriDayo/nekoray",
+    "desc": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)",
+    "lang": "C++"
+  },
+  {
+    "title": "valarchie/AgileBoot-Back-End",
+    "url": "https://github.com/valarchie/AgileBoot-Back-End",
+    "desc": "🔥 基于Ruoyi做了大量重构优化的全栈基础快速开发脚手架。🔥 采用Springboot + Vue 3 + Mybatis Plus + Redis + 更面向对象的业务建模 + 面向生产的项目（非玩具项目）。你的 ⭐️ Star ⭐️，是作者更新的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "geeeeeeeek/jd-seckill-2022",
+    "url": "https://github.com/geeeeeeeek/jd-seckill-2022",
+    "desc": "京东App秒杀抢购流程接口分析，京东茅台抢购最新技术分析",
+    "lang": "Python"
+  },
+  {
+    "title": "yongjiu8/mengniu-get-milk",
+    "url": "https://github.com/yongjiu8/mengniu-get-milk",
+    "desc": "蒙牛世界杯每天抢牛奶脚本（原创脚本，仅供学习交流使用，每日更新，关注忒星不迷路）",
+    "lang": "Python"
+  },
+  {
+    "title": "forthespada/CampusShame",
+    "url": "https://github.com/forthespada/CampusShame",
+    "desc": "互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！"
+  },
+  {
+    "title": "jynew/jynew",
+    "url": "https://github.com/jynew/jynew",
+    "desc": "开源武侠RPG游戏开发框架",
+    "lang": "C#"
+  },
+  {
+    "title": "wechat-miniprogram/minigame-unity-webgl-transform",
+    "url": "https://github.com/wechat-miniprogram/minigame-unity-webgl-transform",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "deezertidal/shadowrocket-rules",
+    "url": "https://github.com/deezertidal/shadowrocket-rules",
+    "desc": "小火箭 shadowrocket 配置 模块 图文教程"
+  },
+  {
+    "title": "ccfos/nightingale",
+    "url": "https://github.com/ccfos/nightingale",
+    "desc": "An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",
+    "lang": "Go"
+  },
+  {
+    "title": "Bywalks/DarkAngel",
+    "url": "https://github.com/Bywalks/DarkAngel",
+    "desc": "DarkAngel 是一款全自动白帽漏洞扫描器，从hackerone、bugcrowd资产监听到漏洞报告生成、企业微信通知。",
+    "lang": "Python"
+  },
+  {
+    "title": "jeequan/jeepay",
+    "url": "https://github.com/jeequan/jeepay",
+    "desc": "Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。",
+    "lang": "Java"
+  }
+]

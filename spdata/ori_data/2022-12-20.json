@@ -1,0 +1,147 @@
+[
+  {
+    "title": "nvim-lua/kickstart.nvim",
+    "url": "https://github.com/nvim-lua/kickstart.nvim",
+    "desc": "A launch point for your personal nvim configuration",
+    "lang": "Lua"
+  },
+  {
+    "title": "davidfowl/TodoApi",
+    "url": "https://github.com/davidfowl/TodoApi",
+    "desc": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
+    "lang": "C#"
+  },
+  {
+    "title": "sundowndev/phoneinfoga",
+    "url": "https://github.com/sundowndev/phoneinfoga",
+    "desc": "Information gathering framework for phone numbers",
+    "lang": "Go"
+  },
+  {
+    "title": "jassics/security-study-plan",
+    "url": "https://github.com/jassics/security-study-plan",
+    "desc": "Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on..."
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "lang": "Ruby"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "ThePrimeagen/init.lua",
+    "url": "https://github.com/ThePrimeagen/init.lua",
+    "desc": "",
+    "lang": "Lua"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated coding interview preparation materials for busy software engineers",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "desc": "Download market data from Yahoo! Finance's API",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "komodorio/helm-dashboard",
+    "url": "https://github.com/komodorio/helm-dashboard",
+    "desc": "The missing UI for Helm - visualize your releases",
+    "lang": "Go"
+  },
+  {
+    "title": "nostr-protocol/nostr",
+    "url": "https://github.com/nostr-protocol/nostr",
+    "desc": "a truly censorship-resistant alternative to Twitter that has a chance of working"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "desc": "A new bootable USB solution.",
+    "lang": "C"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "zsyOAOA/DifFace",
+    "url": "https://github.com/zsyOAOA/DifFace",
+    "desc": "DifFace: Blind Face Restoration with Diffused Error Contraction (PyTorch)",
+    "lang": "Python"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "desc": "Open Source Web Application Framework for ASP.NET Core",
+    "lang": "C#"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "lang": "Go"
+  },
+  {
+    "title": "musescore/MuseScore",
+    "url": "https://github.com/musescore/MuseScore",
+    "desc": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+    "lang": "C++"
+  }
+]
