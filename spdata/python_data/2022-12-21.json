@@ -1,0 +1,152 @@
+[
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "adobe-research/custom-diffusion",
+    "url": "https://github.com/adobe-research/custom-diffusion",
+    "desc": "Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "desc": "Download market data from Yahoo! Finance's API",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "desc": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "lang": "Python"
+  },
+  {
+    "title": "m-bain/whisperX",
+    "url": "https://github.com/m-bain/whisperX",
+    "desc": "WhisperX: Timestamp-Accurate Automatic Speech Recognition.",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "desc": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "desc": "Cross-platform, fast, feature-rich, GPU based terminal",
+    "lang": "Python"
+  },
+  {
+    "title": "autonomousvision/sdfstudio",
+    "url": "https://github.com/autonomousvision/sdfstudio",
+    "desc": "A Unified Framework for Surface Reconstruction",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "giswqs/aws-open-data-geo",
+    "url": "https://github.com/giswqs/aws-open-data-geo",
+    "desc": "A list of open geospatial datasets on AWS",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/frame-interpolation",
+    "url": "https://github.com/google-research/frame-interpolation",
+    "desc": "FILM: Frame Interpolation for Large Motion, In ECCV 2022.",
+    "lang": "Python"
+  },
+  {
+    "title": "zsyOAOA/DifFace",
+    "url": "https://github.com/zsyOAOA/DifFace",
+    "desc": "DifFace: Blind Face Restoration with Diffused Error Contraction (PyTorch)",
+    "lang": "Python"
+  },
+  {
+    "title": "vwxyzjn/cleanrl",
+    "url": "https://github.com/vwxyzjn/cleanrl",
+    "desc": "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)",
+    "lang": "Python"
+  },
+  {
+    "title": "pre-commit/pre-commit-hooks",
+    "url": "https://github.com/pre-commit/pre-commit-hooks",
+    "desc": "Some out-of-the-box hooks for pre-commit",
+    "lang": "Python"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "desc": "A collection of design patterns/idioms in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "mlflow/mlflow",
+    "url": "https://github.com/mlflow/mlflow",
+    "desc": "Open source platform for the machine learning lifecycle",
+    "lang": "Python"
+  },
+  {
+    "title": "ReFirmLabs/binwalk",
+    "url": "https://github.com/ReFirmLabs/binwalk",
+    "desc": "Firmware Analysis Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "BlackWatch0/JDspyder",
+    "url": "https://github.com/BlackWatch0/JDspyder",
+    "desc": "京东预约&抢购脚本，可以自定义商品链接",
+    "lang": "Python"
+  },
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "desc": "Practical Python Programming (course by @dabeaz)",
+    "lang": "Python"
+  }
+]

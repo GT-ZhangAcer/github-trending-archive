@@ -1,0 +1,149 @@
+[
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "desc": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
+    "lang": "Java"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "H4de5-7/powershell-obfuscation",
+    "url": "https://github.com/H4de5-7/powershell-obfuscation",
+    "desc": "powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "turkyden/lizhi",
+    "url": "https://github.com/turkyden/lizhi",
+    "desc": "🎸 李志 (B 仔) 音乐作品跨平台播放器，支持 Web / Mac / Windows / Linux",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "forthespada/CampusShame",
+    "url": "https://github.com/forthespada/CampusShame",
+    "desc": "互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, PPYOLO, PPYOLOv2, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "MatsuriDayo/nekoray",
+    "url": "https://github.com/MatsuriDayo/nekoray",
+    "desc": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)",
+    "lang": "C++"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "desc": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "lang": "C#"
+  },
+  {
+    "title": "L1Xu4n/-ChatGPT-",
+    "url": "https://github.com/L1Xu4n/-ChatGPT-",
+    "desc": "如何将ChatGPT调教成一只猫娘"
+  },
+  {
+    "title": "valarchie/AgileBoot-Back-End",
+    "url": "https://github.com/valarchie/AgileBoot-Back-End",
+    "desc": "🔥 基于Ruoyi做了大量重构优化的全栈基础快速开发脚手架。🔥 采用Springboot + Vue 3 + Mybatis Plus + Redis + 更面向对象的业务建模 + 面向生产的项目（非玩具项目）。你的 ⭐️ Star ⭐️，是作者更新的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliToolPro",
+    "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+    "desc": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。",
+    "lang": "C#"
+  },
+  {
+    "title": "LG-leige/open_cloud",
+    "url": "https://github.com/LG-leige/open_cloud",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "521xueweihan/git-tips",
+    "url": "https://github.com/521xueweihan/git-tips",
+    "desc": "Git的奇技淫巧"
+  },
+  {
+    "title": "zhao458114067/Jd-Pruchase-Kill",
+    "url": "https://github.com/zhao458114067/Jd-Pruchase-Kill",
+    "desc": "java版京东抢购茅台秒杀程序",
+    "lang": "Java"
+  },
+  {
+    "title": "easzlab/kubeasz",
+    "url": "https://github.com/easzlab/kubeasz",
+    "desc": "使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响",
+    "lang": "Jinja"
+  },
+  {
+    "title": "bigemon/ChatGPT-ToolBox",
+    "url": "https://github.com/bigemon/ChatGPT-ToolBox",
+    "desc": "由ChatGPT负责编写的ChatGPT工具箱。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tongjilibo/bert4torch",
+    "url": "https://github.com/Tongjilibo/bert4torch",
+    "desc": "pytorch implement of transformers refer to bert4keras",
+    "lang": "Python"
+  },
+  {
+    "title": "wechat-miniprogram/minigame-unity-webgl-transform",
+    "url": "https://github.com/wechat-miniprogram/minigame-unity-webgl-transform",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OFA-Sys/Chinese-CLIP",
+    "url": "https://github.com/OFA-Sys/Chinese-CLIP",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "panhuanghe/v2ray-agent",
+    "url": "https://github.com/panhuanghe/v2ray-agent",
+    "desc": "（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装",
+    "lang": "Shell"
+  },
+  {
+    "title": "zizifn/edgetunnel",
+    "url": "https://github.com/zizifn/edgetunnel",
+    "desc": "Running V2ray inside edge functions",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "woniudiancang/bee",
+    "url": "https://github.com/woniudiancang/bee",
+    "desc": "微信小程序-餐饮点餐外卖-开箱即用",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OI-wiki/OI-wiki",
+    "url": "https://github.com/OI-wiki/OI-wiki",
+    "desc": "🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "wy580477/replit-trojan",
+    "url": "https://github.com/wy580477/replit-trojan",
+    "desc": "在 Replit 免费服务上部署 Trojan Websocket 协议",
+    "lang": "Shell"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "desc": "Open Source realtime backend in 1 file",
+    "lang": "Go"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "desc": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
+    "lang": "Java"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "nvim-lua/kickstart.nvim",
+    "url": "https://github.com/nvim-lua/kickstart.nvim",
+    "desc": "A launch point for your personal nvim configuration",
+    "lang": "Lua"
+  },
+  {
+    "title": "score-spec/spec",
+    "url": "https://github.com/score-spec/spec",
+    "desc": "The score specification file"
+  },
+  {
+    "title": "adobe-research/custom-diffusion",
+    "url": "https://github.com/adobe-research/custom-diffusion",
+    "desc": "Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "jassics/security-study-plan",
+    "url": "https://github.com/jassics/security-study-plan",
+    "desc": "Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on..."
+  },
+  {
+    "title": "terrastruct/d2",
+    "url": "https://github.com/terrastruct/d2",
+    "desc": "D2 is a modern diagram scripting language that turns text to diagrams.",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/zstd",
+    "url": "https://github.com/facebook/zstd",
+    "desc": "Zstandard - Fast real-time compression algorithm",
+    "lang": "C"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "bazelbuild/bazel",
+    "url": "https://github.com/bazelbuild/bazel",
+    "desc": "a fast, scalable, multi-language and extensible build system",
+    "lang": "Java"
+  },
+  {
+    "title": "sundowndev/phoneinfoga",
+    "url": "https://github.com/sundowndev/phoneinfoga",
+    "desc": "Information gathering framework for phone numbers",
+    "lang": "Go"
+  },
+  {
+    "title": "project-chip/connectedhomeip",
+    "url": "https://github.com/project-chip/connectedhomeip",
+    "desc": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+    "lang": "C++"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "desc": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "desc": "A curated list of references for MLOps"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "desc": "Download market data from Yahoo! Finance's API",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "desc": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "lang": "Python"
+  },
+  {
+    "title": "H4de5-7/powershell-obfuscation",
+    "url": "https://github.com/H4de5-7/powershell-obfuscation",
+    "desc": "powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "lang": "Go"
+  },
+  {
+    "title": "mrdbourke/pytorch-deep-learning",
+    "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+    "desc": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "desc": "🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
+    "lang": "Jinja"
+  },
+  {
+    "title": "m-bain/whisperX",
+    "url": "https://github.com/m-bain/whisperX",
+    "desc": "WhisperX: Timestamp-Accurate Automatic Speech Recognition.",
+    "lang": "Python"
+  },
+  {
+    "title": "answerdev/answer",
+    "url": "https://github.com/answerdev/answer",
+    "desc": "An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",
+    "lang": "Go"
+  }
+]
