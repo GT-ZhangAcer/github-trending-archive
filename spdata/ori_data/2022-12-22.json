@@ -1,0 +1,148 @@
+[
+  {
+    "title": "openai/point-e",
+    "url": "https://github.com/openai/point-e",
+    "desc": "Point cloud diffusion for 3D model synthesis",
+    "lang": "Python"
+  },
+  {
+    "title": "0xmaximus/Galaxy-Bugbounty-Checklist",
+    "url": "https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist",
+    "desc": "Tips and Tutorials for Bug Bounty and also Penetration Tests."
+  },
+  {
+    "title": "jassics/security-study-plan",
+    "url": "https://github.com/jassics/security-study-plan",
+    "desc": "Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on..."
+  },
+  {
+    "title": "illacloud/illa-builder",
+    "url": "https://github.com/illacloud/illa-builder",
+    "desc": "An open-source low-code Platform for Developers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "score-spec/spec",
+    "url": "https://github.com/score-spec/spec",
+    "desc": "The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments."
+  },
+  {
+    "title": "folke/lazy.nvim",
+    "url": "https://github.com/folke/lazy.nvim",
+    "desc": "💤 A modern plugin manager for Neovim",
+    "lang": "Lua"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "TanStack/router",
+    "url": "https://github.com/TanStack/router",
+    "desc": "🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "desc": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "melonjs/melonJS",
+    "url": "https://github.com/melonjs/melonJS",
+    "desc": "a fresh & lightweight javascript game engine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "BlackWatch0/JDspyder",
+    "url": "https://github.com/BlackWatch0/JDspyder",
+    "desc": "京东预约&抢购脚本，可以自定义商品链接",
+    "lang": "Python"
+  },
+  {
+    "title": "Tikam02/DevOps-Guide",
+    "url": "https://github.com/Tikam02/DevOps-Guide",
+    "desc": "DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.",
+    "lang": "HTML"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "desc": "The Go programming language",
+    "lang": "Go"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "desc": "AWS SDK for the Go programming language.",
+    "lang": "Go"
+  },
+  {
+    "title": "nocobase/nocobase",
+    "url": "https://github.com/nocobase/nocobase",
+    "desc": "NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yaroslav-n/tweetGPT",
+    "url": "https://github.com/yaroslav-n/tweetGPT",
+    "desc": "TweetGPT is a chrome extension that generates tweets and replies using chatGPT",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-telemetry/opentelemetry-js",
+    "url": "https://github.com/open-telemetry/opentelemetry-js",
+    "desc": "OpenTelemetry JavaScript Client",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alpkeskin/mosint",
+    "url": "https://github.com/alpkeskin/mosint",
+    "desc": "An automated e-mail OSINT tool",
+    "lang": "Go"
+  },
+  {
+    "title": "certsocietegenerale/IRM",
+    "url": "https://github.com/certsocietegenerale/IRM",
+    "desc": "Incident Response Methodologies 2022"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "desc": "Reactive Programming in Swift",
+    "lang": "Swift"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "honghuangdc/soybean-admin",
+    "url": "https://github.com/honghuangdc/soybean-admin",
+    "desc": "A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]",
+    "lang": "Vue"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliToolPro",
+    "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+    "desc": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。",
+    "lang": "C#"
+  },
+  {
+    "title": "zhao458114067/Jd-Pruchase-Kill",
+    "url": "https://github.com/zhao458114067/Jd-Pruchase-Kill",
+    "desc": "java版京东抢购茅台秒杀程序",
+    "lang": "Java"
+  },
+  {
+    "title": "songquanpeng/message-pusher",
+    "url": "https://github.com/songquanpeng/message-pusher",
+    "desc": "搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，仅单可执行文件，开箱即用",
+    "lang": "Go"
+  },
+  {
+    "title": "L1Xu4n/-ChatGPT-",
+    "url": "https://github.com/L1Xu4n/-ChatGPT-",
+    "desc": "如何将ChatGPT调教成一只猫娘"
+  },
+  {
+    "title": "forthespada/CampusShame",
+    "url": "https://github.com/forthespada/CampusShame",
+    "desc": "互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！"
+  },
+  {
+    "title": "XuanRanDev/Auto-GongXueYun",
+    "url": "https://github.com/XuanRanDev/Auto-GongXueYun",
+    "desc": "😴 蘑菇丁 & 工学云每日自动打卡、支持多用户、自定义地区与时间、免服务器部署。",
+    "lang": "Python"
+  },
+  {
+    "title": "liuyulet/lana-web",
+    "url": "https://github.com/liuyulet/lana-web",
+    "desc": "",
+    "lang": "Vue"
+  },
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "desc": "🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
+    "lang": "Rust"
+  },
+  {
+    "title": "easzlab/kubeasz",
+    "url": "https://github.com/easzlab/kubeasz",
+    "desc": "使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响",
+    "lang": "Jinja"
+  },
+  {
+    "title": "jynew/jynew",
+    "url": "https://github.com/jynew/jynew",
+    "desc": "开源武侠RPG游戏开发框架",
+    "lang": "C#"
+  },
+  {
+    "title": "H4de5-7/powershell-obfuscation",
+    "url": "https://github.com/H4de5-7/powershell-obfuscation",
+    "desc": "powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "dromara/dynamic-tp",
+    "url": "https://github.com/dromara/dynamic-tp",
+    "desc": "🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).",
+    "lang": "Java"
+  },
+  {
+    "title": "bigemon/ChatGPT-ToolBox",
+    "url": "https://github.com/bigemon/ChatGPT-ToolBox",
+    "desc": "由ChatGPT负责编写的ChatGPT工具箱。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSlim",
+    "url": "https://github.com/PaddlePaddle/PaddleSlim",
+    "desc": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+    "lang": "Python"
+  },
+  {
+    "title": "nmsdss/jsvmp-repository",
+    "url": "https://github.com/nmsdss/jsvmp-repository",
+    "desc": "国内部分网站的jsvmp算法",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "xiaojieonly/Ehviewer_CN_SXJ",
+    "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+    "desc": "ehviewer，用爱发电，快乐前行",
+    "lang": "Java"
+  },
+  {
+    "title": "a406010503/Miui_Camera",
+    "url": "https://github.com/a406010503/Miui_Camera",
+    "desc": "一個基於 MIUI13（Android12）適配的 Magisk 相機模組"
+  },
+  {
+    "title": "jeequan/jeepay",
+    "url": "https://github.com/jeequan/jeepay",
+    "desc": "Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。",
+    "lang": "Java"
+  },
+  {
+    "title": "li-xiaojun/XPopup",
+    "url": "https://github.com/li-xiaojun/XPopup",
+    "desc": "🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup vi…",
+    "lang": "Java"
+  },
+  {
+    "title": "geeeeeeeek/jd-seckill-2022",
+    "url": "https://github.com/geeeeeeeek/jd-seckill-2022",
+    "desc": "京东App秒杀抢购流程接口分析，京东茅台抢购最新技术分析",
+    "lang": "Python"
+  },
+  {
+    "title": "MatsuriDayo/nekoray",
+    "url": "https://github.com/MatsuriDayo/nekoray",
+    "desc": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)",
+    "lang": "C++"
+  },
+  {
+    "title": "turkyden/lizhi",
+    "url": "https://github.com/turkyden/lizhi",
+    "desc": "🎸 李志 (B 仔) 音乐作品跨平台播放器，支持 Web / Mac / Windows / Linux",
+    "lang": "TypeScript"
+  }
+]
