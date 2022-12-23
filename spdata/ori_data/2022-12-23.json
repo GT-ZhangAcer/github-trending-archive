@@ -1,0 +1,150 @@
+[
+  {
+    "title": "openai/point-e",
+    "url": "https://github.com/openai/point-e",
+    "desc": "Point cloud diffusion for 3D model synthesis",
+    "lang": "Python"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "desc": "Open Source realtime backend in 1 file",
+    "lang": "Go"
+  },
+  {
+    "title": "adobe-research/custom-diffusion",
+    "url": "https://github.com/adobe-research/custom-diffusion",
+    "desc": "Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "mprimi/portable-secret",
+    "url": "https://github.com/mprimi/portable-secret",
+    "desc": "Better privacy without special software",
+    "lang": "HTML"
+  },
+  {
+    "title": "CVCUDA/CV-CUDA",
+    "url": "https://github.com/CVCUDA/CV-CUDA",
+    "desc": "CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.",
+    "lang": "C++"
+  },
+  {
+    "title": "YanG-1989/m3u",
+    "url": "https://github.com/YanG-1989/m3u",
+    "desc": ""
+  },
+  {
+    "title": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "desc": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "folke/lazy.nvim",
+    "url": "https://github.com/folke/lazy.nvim",
+    "desc": "💤 A modern plugin manager for Neovim",
+    "lang": "Lua"
+  },
+  {
+    "title": "DataDog/go-profiler-notes",
+    "url": "https://github.com/DataDog/go-profiler-notes",
+    "desc": "felixge's notes on the various go profiling methods that are available.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "BlackWatch0/JDspyder",
+    "url": "https://github.com/BlackWatch0/JDspyder",
+    "desc": "京东预约&抢购脚本，可以自定义商品链接",
+    "lang": "Python"
+  },
+  {
+    "title": "Tikam02/DevOps-Guide",
+    "url": "https://github.com/Tikam02/DevOps-Guide",
+    "desc": "DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.",
+    "lang": "HTML"
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "desc": "🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
+    "lang": "Jinja"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "intel/neural-compressor",
+    "url": "https://github.com/intel/neural-compressor",
+    "desc": "Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance.",
+    "lang": "Python"
+  },
+  {
+    "title": "JhumanJ/OpnForm",
+    "url": "https://github.com/JhumanJ/OpnForm",
+    "desc": "Simple and open-source form builder",
+    "lang": "Vue"
+  },
+  {
+    "title": "m-bain/whisperX",
+    "url": "https://github.com/m-bain/whisperX",
+    "desc": "WhisperX: Automatic Speech Recognition with Word-level Timestamps.",
+    "lang": "Python"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "go-playground/validator",
+    "url": "https://github.com/go-playground/validator",
+    "desc": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "lang": "Go"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "PhilJay/MPAndroidChart",
+    "url": "https://github.com/PhilJay/MPAndroidChart",
+    "desc": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+    "lang": "Java"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure."
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "desc": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  }
+]

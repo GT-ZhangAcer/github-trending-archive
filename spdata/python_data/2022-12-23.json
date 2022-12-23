@@ -1,0 +1,152 @@
+[
+  {
+    "title": "openai/point-e",
+    "url": "https://github.com/openai/point-e",
+    "desc": "Point cloud diffusion for 3D model synthesis",
+    "lang": "Python"
+  },
+  {
+    "title": "adobe-research/custom-diffusion",
+    "url": "https://github.com/adobe-research/custom-diffusion",
+    "desc": "Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "BlackWatch0/JDspyder",
+    "url": "https://github.com/BlackWatch0/JDspyder",
+    "desc": "京东预约&抢购脚本，可以自定义商品链接",
+    "lang": "Python"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "intel/neural-compressor",
+    "url": "https://github.com/intel/neural-compressor",
+    "desc": "Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance.",
+    "lang": "Python"
+  },
+  {
+    "title": "m-bain/whisperX",
+    "url": "https://github.com/m-bain/whisperX",
+    "desc": "WhisperX: Automatic Speech Recognition with Word-level Timestamps.",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "desc": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/DiT",
+    "url": "https://github.com/facebookresearch/DiT",
+    "desc": "Official PyTorch Implementation of Scalable Diffusion Models with Transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/intents",
+    "url": "https://github.com/home-assistant/intents",
+    "desc": "Intents to be used with Home Assistant",
+    "lang": "Python"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "desc": "Download market data from Yahoo! Finance's API",
+    "lang": "Python"
+  },
+  {
+    "title": "kakaobrain/karlo",
+    "url": "https://github.com/kakaobrain/karlo",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "ThioJoe/Auto-Synced-Translated-Dubs",
+    "url": "https://github.com/ThioJoe/Auto-Synced-Translated-Dubs",
+    "desc": "Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings",
+    "lang": "Python"
+  },
+  {
+    "title": "mrh0wl/Cloudmare",
+    "url": "https://github.com/mrh0wl/Cloudmare",
+    "desc": "Cloudflare, Sucuri, Incapsula real IP tracker.",
+    "lang": "Python"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "desc": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/LMOps",
+    "url": "https://github.com/microsoft/LMOps",
+    "desc": "General technology for enabling AI capabilities w/ LLMs and Generative AI models",
+    "lang": "Python"
+  },
+  {
+    "title": "m1guelpf/yt-whisper",
+    "url": "https://github.com/m1guelpf/yt-whisper",
+    "desc": "Using OpenAI's Whisper to automatically generate YouTube subtitles",
+    "lang": "Python"
+  },
+  {
+    "title": "bzsome/idcard_generator",
+    "url": "https://github.com/bzsome/idcard_generator",
+    "desc": "身份证图片生成工具-仅供学习交流。已打包Maocs app和Windows exe，可直接下载使用",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/rich",
+    "url": "https://github.com/Textualize/rich",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "desc": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "lang": "Python"
+  },
+  {
+    "title": "twopirllc/pandas-ta",
+    "url": "https://github.com/twopirllc/pandas-ta",
+    "desc": "Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators",
+    "lang": "Python"
+  },
+  {
+    "title": "Igang-Fan-Jing/HDIP-YOLO",
+    "url": "https://github.com/Igang-Fan-Jing/HDIP-YOLO",
+    "desc": "",
+    "lang": "Python"
+  }
+]

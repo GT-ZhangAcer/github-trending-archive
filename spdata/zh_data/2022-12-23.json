@@ -1,0 +1,146 @@
+[
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "desc": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
+    "lang": "Java"
+  },
+  {
+    "title": "honghuangdc/soybean-admin",
+    "url": "https://github.com/honghuangdc/soybean-admin",
+    "desc": "A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]",
+    "lang": "Vue"
+  },
+  {
+    "title": "H4de5-7/powershell-obfuscation",
+    "url": "https://github.com/H4de5-7/powershell-obfuscation",
+    "desc": "powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "zhao458114067/Jd-Pruchase-Kill",
+    "url": "https://github.com/zhao458114067/Jd-Pruchase-Kill",
+    "desc": "java版京东抢购茅台秒杀程序",
+    "lang": "Java"
+  },
+  {
+    "title": "easzlab/kubeasz",
+    "url": "https://github.com/easzlab/kubeasz",
+    "desc": "使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响",
+    "lang": "Jinja"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "StarCrossPortal/scalpel",
+    "url": "https://github.com/StarCrossPortal/scalpel",
+    "desc": "scalpel是一款命令行漏洞扫描工具，支持深度参数注入，拥有一个强大的数据解析和变异算法，可以将常见的数据格式（json, xml, form等）解析为树结构，然后根据poc中的规则，对树进行变异，包括对叶子节点和树结构 的变异。变异完成之后，将树结构还原为原始的数据格式。 原理：https://mp.weixin.qq.com/s/U_llBwC05vb84U9wb8NZog"
+  },
+  {
+    "title": "L1Xu4n/-ChatGPT-",
+    "url": "https://github.com/L1Xu4n/-ChatGPT-",
+    "desc": "如何将ChatGPT调教成一只猫娘"
+  },
+  {
+    "title": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "desc": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ShirasawaSama/CefDetector",
+    "url": "https://github.com/ShirasawaSama/CefDetector",
+    "desc": "Check how many CEFs are on your computer. 检测你电脑上有几个CEF.",
+    "lang": "C#"
+  },
+  {
+    "title": "Goqi/Erfrp",
+    "url": "https://github.com/Goqi/Erfrp",
+    "desc": "Erfrp-frp二开-免杀与隐藏",
+    "lang": "Go"
+  },
+  {
+    "title": "hwholiday/learning_tools",
+    "url": "https://github.com/hwholiday/learning_tools",
+    "desc": "Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践",
+    "lang": "Go"
+  },
+  {
+    "title": "ShirasawaSama/CefDetectorX",
+    "url": "https://github.com/ShirasawaSama/CefDetectorX",
+    "desc": "【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/puerts",
+    "url": "https://github.com/Tencent/puerts",
+    "desc": "普洱TS！Write your game with TypeScript in UE or Unity. PuerTS can be pronounced as pu-erh TS",
+    "lang": "C++"
+  },
+  {
+    "title": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。"
+  },
+  {
+    "title": "lanceliao/china-holiday-calender",
+    "url": "https://github.com/lanceliao/china-holiday-calender",
+    "desc": "中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅"
+  },
+  {
+    "title": "maplecool/easytrojan",
+    "url": "https://github.com/maplecool/easytrojan",
+    "desc": "世界上最简单的Trojan部署脚本，仅需一行命令即可搭建一台代理服务器",
+    "lang": "Shell"
+  },
+  {
+    "title": "chuzhixin/vue-admin-better",
+    "url": "https://github.com/chuzhixin/vue-admin-better",
+    "desc": "🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+    "lang": "Vue"
+  },
+  {
+    "title": "a406010503/Miui_Camera",
+    "url": "https://github.com/a406010503/Miui_Camera",
+    "desc": "一個基於 MIUI13（Android12）適配的 Magisk 相機模組"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "Shell"
+  },
+  {
+    "title": "songquanpeng/message-pusher",
+    "url": "https://github.com/songquanpeng/message-pusher",
+    "desc": "搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，仅单可执行文件，开箱即用",
+    "lang": "Go"
+  },
+  {
+    "title": "XIU2/CloudflareSpeedTest",
+    "url": "https://github.com/XIU2/CloudflareSpeedTest",
+    "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~",
+    "lang": "Go"
+  },
+  {
+    "title": "tylearymf/UniHacker",
+    "url": "https://github.com/tylearymf/UniHacker",
+    "desc": "Patch all versions of Unity3D and UnityHub for Windows, MacOS, Linux and Docker.",
+    "lang": "C#"
+  },
+  {
+    "title": "DerekYRC/mini-spring",
+    "url": "https://github.com/DerekYRC/mini-spring",
+    "desc": "mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。",
+    "lang": "Java"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
+    "lang": "Java"
+  }
+]
