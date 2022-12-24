@@ -1,0 +1,152 @@
+[
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "desc": "Cross-platform, fast, feature-rich, GPU based terminal",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "desc": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/X-Decoder",
+    "url": "https://github.com/microsoft/X-Decoder",
+    "desc": "Official Implementation of X-Decoder for generalized decoding for pixel, image and language",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/point-e",
+    "url": "https://github.com/openai/point-e",
+    "desc": "Point cloud diffusion for 3D model synthesis",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "adobe-research/custom-diffusion",
+    "url": "https://github.com/adobe-research/custom-diffusion",
+    "desc": "Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "intel/neural-compressor",
+    "url": "https://github.com/intel/neural-compressor",
+    "desc": "Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance.",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "desc": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-discord-bot",
+    "url": "https://github.com/openai/gpt-discord-bot",
+    "desc": "Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.",
+    "lang": "Python"
+  },
+  {
+    "title": "BlackWatch0/JDspyder",
+    "url": "https://github.com/BlackWatch0/JDspyder",
+    "desc": "京东预约&抢购脚本，可以自定义商品链接",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/DiT",
+    "url": "https://github.com/facebookresearch/DiT",
+    "desc": "Official PyTorch Implementation of Scalable Diffusion Models with Transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "desc": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "lang": "Python"
+  },
+  {
+    "title": "dievus/lnkbomb",
+    "url": "https://github.com/dievus/lnkbomb",
+    "desc": "Malicious shortcut generator for collecting NTLM hashes from insecure file shares.",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/calibre",
+    "url": "https://github.com/kovidgoyal/calibre",
+    "desc": "The official source code repository for the calibre ebook manager",
+    "lang": "Python"
+  },
+  {
+    "title": "m-bain/whisperX",
+    "url": "https://github.com/m-bain/whisperX",
+    "desc": "WhisperX: Automatic Speech Recognition with Accurate Word-level Timestamps.",
+    "lang": "Python"
+  },
+  {
+    "title": "ThioJoe/Auto-Synced-Translated-Dubs",
+    "url": "https://github.com/ThioJoe/Auto-Synced-Translated-Dubs",
+    "desc": "Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "nerfstudio-project/nerfstudio",
+    "url": "https://github.com/nerfstudio-project/nerfstudio",
+    "desc": "A collaboration friendly studio for NeRFs",
+    "lang": "Python"
+  },
+  {
+    "title": "s0md3v/Photon",
+    "url": "https://github.com/s0md3v/Photon",
+    "desc": "Incredibly fast crawler designed for OSINT.",
+    "lang": "Python"
+  },
+  {
+    "title": "espnet/espnet",
+    "url": "https://github.com/espnet/espnet",
+    "desc": "End-to-End Speech Processing Toolkit",
+    "lang": "Python"
+  }
+]

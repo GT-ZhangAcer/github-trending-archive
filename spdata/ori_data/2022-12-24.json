@@ -1,0 +1,149 @@
+[
+  {
+    "title": "google/comprehensive-rust",
+    "url": "https://github.com/google/comprehensive-rust",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "folke/lazy.nvim",
+    "url": "https://github.com/folke/lazy.nvim",
+    "desc": "💤 A modern plugin manager for Neovim",
+    "lang": "Lua"
+  },
+  {
+    "title": "rails/docked",
+    "url": "https://github.com/rails/docked",
+    "desc": "Running Rails from Docker for easy start to development",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "illacloud/illa-builder",
+    "url": "https://github.com/illacloud/illa-builder",
+    "desc": "An open-source low-code Platform for Developers.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "TapXWorld/Math",
+    "url": "https://github.com/TapXWorld/Math",
+    "desc": "人教版小学到大学数学"
+  },
+  {
+    "title": "CVCUDA/CV-CUDA",
+    "url": "https://github.com/CVCUDA/CV-CUDA",
+    "desc": "CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "desc": "Cross-platform, fast, feature-rich, GPU based terminal",
+    "lang": "Python"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "desc": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/X-Decoder",
+    "url": "https://github.com/microsoft/X-Decoder",
+    "desc": "Official Implementation of X-Decoder for generalized decoding for pixel, image and language",
+    "lang": "Python"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "certsocietegenerale/IRM",
+    "url": "https://github.com/certsocietegenerale/IRM",
+    "desc": "Incident Response Methodologies 2022"
+  },
+  {
+    "title": "0xmaximus/Galaxy-Bugbounty-Checklist",
+    "url": "https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist",
+    "desc": "Tips and Tutorials for Bug Bounty and also Penetration Tests."
+  },
+  {
+    "title": "huggingface/diffusion-models-class",
+    "url": "https://github.com/huggingface/diffusion-models-class",
+    "desc": "Materials for the Hugging Face Diffusion Models Course",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "kentcdodds/react-fundamentals",
+    "url": "https://github.com/kentcdodds/react-fundamentals",
+    "desc": "Material for my React Fundamentals Workshop",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "desc": "The Go programming language",
+    "lang": "Go"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/point-e",
+    "url": "https://github.com/openai/point-e",
+    "desc": "Point cloud diffusion for 3D model synthesis",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "adobe-research/custom-diffusion",
+    "url": "https://github.com/adobe-research/custom-diffusion",
+    "desc": "Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "recloudstream/cloudstream",
+    "url": "https://github.com/recloudstream/cloudstream",
+    "desc": "Android app for streaming and downloading Movies, TV-Series and Anime.",
+    "lang": "Kotlin"
+  }
+]
