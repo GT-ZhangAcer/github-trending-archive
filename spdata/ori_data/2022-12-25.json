@@ -1,0 +1,150 @@
+[
+  {
+    "title": "pkivolowitz/asm_book",
+    "url": "https://github.com/pkivolowitz/asm_book",
+    "desc": "A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offer which apply directly to higher level languages.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT promt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/comprehensive-rust",
+    "url": "https://github.com/google/comprehensive-rust",
+    "desc": "",
+    "lang": "Rust"
+  },
+  {
+    "title": "obsproject/obs-studio",
+    "url": "https://github.com/obsproject/obs-studio",
+    "desc": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "lang": "C"
+  },
+  {
+    "title": "adrianhajdin/project_openai_codex",
+    "url": "https://github.com/adrianhajdin/project_openai_codex",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "louisfb01/best_AI_papers_2022",
+    "url": "https://github.com/louisfb01/best_AI_papers_2022",
+    "desc": "A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code."
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "dreamncn/ParallelsDesktopCrack",
+    "url": "https://github.com/dreamncn/ParallelsDesktopCrack",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "desc": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "lang": "Shell"
+  },
+  {
+    "title": "recloudstream/cloudstream",
+    "url": "https://github.com/recloudstream/cloudstream",
+    "desc": "Android app for streaming and downloading Movies, TV-Series and Anime.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "desc": "Flipper Zero firmware source code",
+    "lang": "C"
+  },
+  {
+    "title": "rust-lang/book",
+    "url": "https://github.com/rust-lang/book",
+    "desc": "The Rust Programming Language",
+    "lang": "Rust"
+  },
+  {
+    "title": "Immediate-Mode-UI/Nuklear",
+    "url": "https://github.com/Immediate-Mode-UI/Nuklear",
+    "desc": "A single-header ANSI C immediate mode cross-platform GUI library",
+    "lang": "C"
+  },
+  {
+    "title": "judygab/web-dev-projects",
+    "url": "https://github.com/judygab/web-dev-projects",
+    "desc": "Projects repo for tutorials for my YouTube Channel",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "TapXWorld/Math",
+    "url": "https://github.com/TapXWorld/Math",
+    "desc": "人教版小学到大学数学"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "desc": "A server software reimplementation for a certain anime game.",
+    "lang": "Java"
+  },
+  {
+    "title": "towfiqi/serpbear",
+    "url": "https://github.com/towfiqi/serpbear",
+    "desc": "Search Engine Position Rank Tracking App",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bvaughn/react-resizable-panels",
+    "url": "https://github.com/bvaughn/react-resizable-panels",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "openai/gpt-discord-bot",
+    "url": "https://github.com/openai/gpt-discord-bot",
+    "desc": "Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.",
+    "lang": "Python"
+  },
+  {
+    "title": "TanStack/query",
+    "url": "https://github.com/TanStack/query",
+    "desc": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "lang": "Rust"
+  }
+]
