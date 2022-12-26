@@ -1,0 +1,152 @@
+[
+  {
+    "title": "openai/gpt-discord-bot",
+    "url": "https://github.com/openai/gpt-discord-bot",
+    "desc": "Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.",
+    "lang": "Python"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "desc": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Python desde cero",
+    "lang": "Python"
+  },
+  {
+    "title": "AtsushiSakai/PythonRobotics",
+    "url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "desc": "Python sample codes for robotics algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "rawandahmad698/PyChatGPT",
+    "url": "https://github.com/rawandahmad698/PyChatGPT",
+    "desc": "⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "cjyaddone/ChatWaifu",
+    "url": "https://github.com/cjyaddone/ChatWaifu",
+    "desc": "Combined ChatGPT with Moegoe TTS to create a Chatting Waifu",
+    "lang": "Python"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "nerfstudio-project/nerfstudio",
+    "url": "https://github.com/nerfstudio-project/nerfstudio",
+    "desc": "A collaboration friendly studio for NeRFs",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "CjangCjengh/MoeGoe",
+    "url": "https://github.com/CjangCjengh/MoeGoe",
+    "desc": "Executable file for VITS inference",
+    "lang": "Python"
+  },
+  {
+    "title": "mosaicml/composer",
+    "url": "https://github.com/mosaicml/composer",
+    "desc": "Train neural networks up to 7x faster",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "desc": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "alpa-projects/alpa",
+    "url": "https://github.com/alpa-projects/alpa",
+    "desc": "Training and serving large-scale neural networks",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "ManimCommunity/manim",
+    "url": "https://github.com/ManimCommunity/manim",
+    "desc": "A community-maintained Python framework for creating mathematical animations.",
+    "lang": "Python"
+  },
+  {
+    "title": "weebzone/WZML",
+    "url": "https://github.com/weebzone/WZML",
+    "desc": "A Powerful Pyrogram Based Telegram Mirror Leech Bot Modded by Codewithweeb to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirroring & Leeching",
+    "lang": "Python"
+  },
+  {
+    "title": "Ultimaker/Cura",
+    "url": "https://github.com/Ultimaker/Cura",
+    "desc": "3D printer / slicing GUI built on top of the Uranium framework",
+    "lang": "Python"
+  },
+  {
+    "title": "frappe/erpnext",
+    "url": "https://github.com/frappe/erpnext",
+    "desc": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "desc": "Cross-platform, fast, feature-rich, GPU based terminal",
+    "lang": "Python"
+  },
+  {
+    "title": "CarperAI/trlx",
+    "url": "https://github.com/CarperAI/trlx",
+    "desc": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+    "lang": "Python"
+  }
+]
