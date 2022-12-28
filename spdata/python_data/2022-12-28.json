@@ -1,0 +1,152 @@
+[
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "desc": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "lang": "Python"
+  },
+  {
+    "title": "CarperAI/trlx",
+    "url": "https://github.com/CarperAI/trlx",
+    "desc": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+    "lang": "Python"
+  },
+  {
+    "title": "JusticeRage/Gepetto",
+    "url": "https://github.com/JusticeRage/Gepetto",
+    "desc": "IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-discord-bot",
+    "url": "https://github.com/openai/gpt-discord-bot",
+    "desc": "Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "Evil0ctal/Douyin_TikTok_Download_API",
+    "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+    "desc": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音|TikTok数据爬取工具，支持API调用，在线批量解析及下载。",
+    "lang": "Python"
+  },
+  {
+    "title": "Ultimaker/Cura",
+    "url": "https://github.com/Ultimaker/Cura",
+    "desc": "3D printer / slicing GUI built on top of the Uranium framework",
+    "lang": "Python"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmediting",
+    "url": "https://github.com/open-mmlab/mmediting",
+    "desc": "OpenMMLab Image and Video Restoration, Editing and Generation Toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/tvm",
+    "url": "https://github.com/apache/tvm",
+    "desc": "Open deep learning compiler stack for cpu, gpu and specialized accelerators",
+    "lang": "Python"
+  },
+  {
+    "title": "chaiNNer-org/chaiNNer",
+    "url": "https://github.com/chaiNNer-org/chaiNNer",
+    "desc": "A node-based image processing and AI upscaling GUI that makes it easy to chain together complex processing tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/vit-pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "desc": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmpose",
+    "url": "https://github.com/open-mmlab/mmpose",
+    "desc": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "desc": "scikit-learn: machine learning in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "canonical/cloud-init",
+    "url": "https://github.com/canonical/cloud-init",
+    "desc": "Official upstream for the cloud-init: cloud instance initialization",
+    "lang": "Python"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "desc": "An API wrapper for Discord written in Python.",
+    "lang": "Python"
+  }
+]

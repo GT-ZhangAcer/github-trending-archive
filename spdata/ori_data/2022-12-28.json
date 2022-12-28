@@ -1,0 +1,150 @@
+[
+  {
+    "title": "google/comprehensive-rust",
+    "url": "https://github.com/google/comprehensive-rust",
+    "desc": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
+    "lang": "Rust"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "skyzh/mini-lsm",
+    "url": "https://github.com/skyzh/mini-lsm",
+    "desc": "A tutorial of building an LSM-Tree storage engine in a week! (WIP)",
+    "lang": "Rust"
+  },
+  {
+    "title": "SunWeb3Sec/DeFiHackLabs",
+    "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+    "desc": "Reproduce DeFi hacked incidents using Foundry.",
+    "lang": "Solidity"
+  },
+  {
+    "title": "adrianhajdin/project_openai_codex",
+    "url": "https://github.com/adrianhajdin/project_openai_codex",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT promt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "louisfb01/best_AI_papers_2022",
+    "url": "https://github.com/louisfb01/best_AI_papers_2022",
+    "desc": "A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code."
+  },
+  {
+    "title": "iamtrask/Grokking-Deep-Learning",
+    "url": "https://github.com/iamtrask/Grokking-Deep-Learning",
+    "desc": "this repository accompanies the book Grokking Deep Learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "desc": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "lang": "Python"
+  },
+  {
+    "title": "pkivolowitz/asm_book",
+    "url": "https://github.com/pkivolowitz/asm_book",
+    "desc": "A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level languages.",
+    "lang": "Assembly"
+  },
+  {
+    "title": "apitable/apitable",
+    "url": "https://github.com/apitable/apitable",
+    "desc": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CarperAI/trlx",
+    "url": "https://github.com/CarperAI/trlx",
+    "desc": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+    "lang": "Python"
+  },
+  {
+    "title": "below/HelloSilicon",
+    "url": "https://github.com/below/HelloSilicon",
+    "desc": "An introduction to ARM64 assembly on Apple Silicon Macs",
+    "lang": "Assembly"
+  },
+  {
+    "title": "I-Am-Jakoby/Flipper-Zero-BadUSB",
+    "url": "https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB",
+    "desc": "Repository for my flipper zero badUSB payloads",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "desc": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "JusticeRage/Gepetto",
+    "url": "https://github.com/JusticeRage/Gepetto",
+    "desc": "IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
+    "lang": "Python"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "desc": "A Python Interpreter written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "desc": "A fancy self-hosted monitoring tool",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "RT-Thread/rt-thread",
+    "url": "https://github.com/RT-Thread/rt-thread",
+    "desc": "RT-Thread is an open source IoT operating system.",
+    "lang": "C"
+  },
+  {
+    "title": "obsproject/obs-studio",
+    "url": "https://github.com/obsproject/obs-studio",
+    "desc": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "lang": "C"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  }
+]
