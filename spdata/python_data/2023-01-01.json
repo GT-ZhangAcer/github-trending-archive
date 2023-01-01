@@ -1,0 +1,152 @@
+[
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "desc": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "lang": "Python"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "neonbjb/tortoise-tts",
+    "url": "https://github.com/neonbjb/tortoise-tts",
+    "desc": "A multi-voice TTS system trained with an emphasis on quality",
+    "lang": "Python"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "desc": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "An index created by GPT to organize external information and answer queries!",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "desc": "The easiest way to coordinate your dataflow",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "marsupialtail/quokka",
+    "url": "https://github.com/marsupialtail/quokka",
+    "desc": "Open source SQL engine in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "JonasGeiping/cramming",
+    "url": "https://github.com/JonasGeiping/cramming",
+    "desc": "Cramming the training of a (BERT-type) language model into limited compute.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/awesome-aws",
+    "url": "https://github.com/donnemartin/awesome-aws",
+    "desc": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "desc": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+    "lang": "Python"
+  },
+  {
+    "title": "mementum/backtrader",
+    "url": "https://github.com/mementum/backtrader",
+    "desc": "Python Backtesting library for trading strategies",
+    "lang": "Python"
+  },
+  {
+    "title": "mage-ai/mage-ai",
+    "url": "https://github.com/mage-ai/mage-ai",
+    "desc": "🧙 A modern replacement for Airflow.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSpeech",
+    "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "desc": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.",
+    "lang": "Python"
+  },
+  {
+    "title": "MShawon/YouTube-Viewer",
+    "url": "https://github.com/MShawon/YouTube-Viewer",
+    "desc": "A multithreaded view bot for YouTube",
+    "lang": "Python"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "desc": "12306智能刷票，订票",
+    "lang": "Python"
+  },
+  {
+    "title": "Rudrabha/Wav2Lip",
+    "url": "https://github.com/Rudrabha/Wav2Lip",
+    "desc": "This repository contains the codes of A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild, published at ACM Multimedia 2020.",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "tobymao/sqlglot",
+    "url": "https://github.com/tobymao/sqlglot",
+    "desc": "Python SQL Parser and Transpiler",
+    "lang": "Python"
+  },
+  {
+    "title": "GiorgosXou/TUIFIManager",
+    "url": "https://github.com/GiorgosXou/TUIFIManager",
+    "desc": "A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.",
+    "lang": "Python"
+  },
+  {
+    "title": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "desc": "The Python programming language",
+    "lang": "Python"
+  },
+  {
+    "title": "pjialin/py12306",
+    "url": "https://github.com/pjialin/py12306",
+    "desc": "🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/jukebox",
+    "url": "https://github.com/openai/jukebox",
+    "desc": "Code for the paper Jukebox: A Generative Model for Music",
+    "lang": "Python"
+  }
+]
