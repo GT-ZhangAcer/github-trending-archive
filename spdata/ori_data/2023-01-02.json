@@ -1,0 +1,149 @@
+[
+  {
+    "title": "zlib-searcher/zlib-searcher",
+    "url": "https://github.com/zlib-searcher/zlib-searcher",
+    "desc": "search zlib/libgen index to get ipfs_cid.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "2dust/v2rayNG",
+    "url": "https://github.com/2dust/v2rayNG",
+    "desc": "A V2Ray client for Android, support Xray core and v2fly core",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "desc": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "lang": "Python"
+  },
+  {
+    "title": "ashemery/exploitation-course",
+    "url": "https://github.com/ashemery/exploitation-course",
+    "desc": "Offensive Software Exploitation Course",
+    "lang": "Python"
+  },
+  {
+    "title": "mxssl/sre-interview-prep-guide",
+    "url": "https://github.com/mxssl/sre-interview-prep-guide",
+    "desc": "Site Reliability Engineer Interview Preparation Guide"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "zakird/crux-top-lists",
+    "url": "https://github.com/zakird/crux-top-lists",
+    "desc": "Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery.",
+    "lang": "Python"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A build system and primary set of packages for Termux.",
+    "lang": "Shell"
+  },
+  {
+    "title": "priyankavergadia/GCPSketchnote",
+    "url": "https://github.com/priyankavergadia/GCPSketchnote",
+    "desc": "If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format."
+  },
+  {
+    "title": "vercel/hyper",
+    "url": "https://github.com/vercel/hyper",
+    "desc": "A terminal built on web technologies",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alist-org/alist",
+    "url": "https://github.com/alist-org/alist",
+    "desc": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
+    "lang": "Go"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "lang": "C++"
+  },
+  {
+    "title": "calcom/cal.com",
+    "url": "https://github.com/calcom/cal.com",
+    "desc": "Scheduling infrastructure for absolutely everyone.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "pola-rs/polars",
+    "url": "https://github.com/pola-rs/polars",
+    "desc": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
+    "lang": "Rust"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "An index created by GPT to organize external information and answer queries!",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "itzg/docker-minecraft-server",
+    "url": "https://github.com/itzg/docker-minecraft-server",
+    "desc": "Docker image that provides a Minecraft Server that will automatically download selected version at startup",
+    "lang": "Shell"
+  },
+  {
+    "title": "pmndrs/zustand",
+    "url": "https://github.com/pmndrs/zustand",
+    "desc": "🐻 Bear necessities for state management in React",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/osv-scanner",
+    "url": "https://github.com/google/osv-scanner",
+    "desc": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+    "lang": "Go"
+  },
+  {
+    "title": "jellyfin/Swiftfin",
+    "url": "https://github.com/jellyfin/Swiftfin",
+    "desc": "Native Jellyfin Client for iOS and tvOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "desc": "Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+    "lang": "TypeScript"
+  }
+]
