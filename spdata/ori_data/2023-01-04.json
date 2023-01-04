@@ -1,0 +1,148 @@
+[
+  {
+    "title": "easychen/stack-roadmap",
+    "url": "https://github.com/easychen/stack-roadmap",
+    "desc": "方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈",
+    "lang": "PHP"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "desc": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "desc": "Lens - The way the world runs Kubernetes",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2023",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2023",
+    "desc": "Statistical Rethinking Course for Jan-Mar 2023"
+  },
+  {
+    "title": "zlib-searcher/zlib-searcher",
+    "url": "https://github.com/zlib-searcher/zlib-searcher",
+    "desc": "search zlib/libgen index",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "MuhammedKalkan/OpenLens",
+    "url": "https://github.com/MuhammedKalkan/OpenLens",
+    "desc": "OpenLens Binary Build Repository",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/pyright",
+    "url": "https://github.com/microsoft/pyright",
+    "desc": "Static type checker for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "sadanandpai/frontend-learning-kit",
+    "url": "https://github.com/sadanandpai/frontend-learning-kit",
+    "desc": "Frontend tech guide and curated collection of frontend materials"
+  },
+  {
+    "title": "mouredev/retos-programacion-2023",
+    "url": "https://github.com/mouredev/retos-programacion-2023",
+    "desc": "Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.",
+    "lang": "Python"
+  },
+  {
+    "title": "jahidulislamzim/JavaScriptCodingChallenges",
+    "url": "https://github.com/jahidulislamzim/JavaScriptCodingChallenges",
+    "desc": "Hello JavaScript code newbie! In this repository I'm proposing you a series of coding challenges that will help you practice the basic language constructs and algorithms."
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Free Data Engineering course!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "lang": "Shell"
+  },
+  {
+    "title": "ThioJoe/Auto-Synced-Translated-Dubs",
+    "url": "https://github.com/ThioJoe/Auto-Synced-Translated-Dubs",
+    "desc": "Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings",
+    "lang": "Python"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "desc": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gluon-framework/gluon",
+    "url": "https://github.com/gluon-framework/gluon",
+    "desc": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tobymao/sqlglot",
+    "url": "https://github.com/tobymao/sqlglot",
+    "desc": "Python SQL Parser and Transpiler",
+    "lang": "Python"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "lang": "Python"
+  },
+  {
+    "title": "ray-project/ray",
+    "url": "https://github.com/ray-project/ray",
+    "desc": "Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.",
+    "lang": "Python"
+  },
+  {
+    "title": "bigscience-workshop/petals",
+    "url": "https://github.com/bigscience-workshop/petals",
+    "desc": "🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+    "lang": "Python"
+  }
+]
