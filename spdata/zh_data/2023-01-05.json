@@ -1,0 +1,150 @@
+[
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
+    "lang": "Java"
+  },
+  {
+    "title": "Ruzim/NSFC-application-template-latex",
+    "url": "https://github.com/Ruzim/NSFC-application-template-latex",
+    "desc": "国家自然科学基金申请书正文（面上项目）模板（非官方）",
+    "lang": "TeX"
+  },
+  {
+    "title": "chuzhixin/vue-admin-better",
+    "url": "https://github.com/chuzhixin/vue-admin-better",
+    "desc": "🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+    "lang": "Vue"
+  },
+  {
+    "title": "XiaoMiku01/fansMedalHelper",
+    "url": "https://github.com/XiaoMiku01/fansMedalHelper",
+    "desc": "新版B站粉丝牌助手 全自动升级粉丝牌",
+    "lang": "Python"
+  },
+  {
+    "title": "xushengfeng/eSearch",
+    "url": "https://github.com/xushengfeng/eSearch",
+    "desc": "截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 滚动截屏 Screenshot OCR search translate search for picture paste the picture on the screen screen recorder",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "getActivity/XXPermissions",
+    "url": "https://github.com/getActivity/XXPermissions",
+    "desc": "Android 权限请求框架，已适配 Android 13",
+    "lang": "Java"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "Markdown"
+  },
+  {
+    "title": "XiaoMiku01/custom_bilibili_nft",
+    "url": "https://github.com/XiaoMiku01/custom_bilibili_nft",
+    "desc": "自定义 B站 NFT 空间背景和头像",
+    "lang": "Python"
+  },
+  {
+    "title": "awake1t/HackReport",
+    "url": "https://github.com/awake1t/HackReport",
+    "desc": "渗透测试报告/资料文档/渗透经验文档/安全书籍",
+    "lang": "Python"
+  },
+  {
+    "title": "WTFAcademy/WTF-Ethers",
+    "url": "https://github.com/WTFAcademy/WTF-Ethers",
+    "desc": "我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wechat-miniprogram/minigame-unity-webgl-transform",
+    "url": "https://github.com/wechat-miniprogram/minigame-unity-webgl-transform",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "paimonhub/Paimonnode",
+    "url": "https://github.com/paimonhub/Paimonnode",
+    "desc": "Free subcribe for everyone",
+    "lang": "Smarty"
+  },
+  {
+    "title": "jynew/jynew",
+    "url": "https://github.com/jynew/jynew",
+    "desc": "An open source RPG Game Framework with full Modding support, base on Unity",
+    "lang": "C#"
+  },
+  {
+    "title": "xianyuyimu/TVBOX-",
+    "url": "https://github.com/xianyuyimu/TVBOX-",
+    "desc": "一木TVBOX自用",
+    "lang": "Python"
+  },
+  {
+    "title": "mebtte/cicada",
+    "url": "https://github.com/mebtte/cicada",
+    "desc": "知了, 支持多用户的开源音乐服务.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ldqk/Masuit.Tools",
+    "url": "https://github.com/ldqk/Masuit.Tools",
+    "desc": "包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！",
+    "lang": "C#"
+  },
+  {
+    "title": "dundunnp/auto_xuexiqiangguo",
+    "url": "https://github.com/dundunnp/auto_xuexiqiangguo",
+    "desc": "每日拿满61分！免root，四人赛双人对战秒答，安卓端学习强国自动化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sudoskys/Openaibot",
+    "url": "https://github.com/sudoskys/Openaibot",
+    "desc": "🤖 Use Opanai's Api to replica chatGPT's feature|在 Telegram 上使用 openai *API* 复刻 chatGPT 对话/续写 |Async | 👋 支持上下文对话 | 一键部署⚡️sh&docker | 非逆向 | 📦Provide Api Server|🎤 Azure/VITS语音支持",
+    "lang": "Python"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "egametang/ET",
+    "url": "https://github.com/egametang/ET",
+    "desc": "Unity3D Client And C# Server Framework",
+    "lang": "C#"
+  },
+  {
+    "title": "xiaolincoder/CS-Base",
+    "url": "https://github.com/xiaolincoder/CS-Base",
+    "desc": "图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com"
+  },
+  {
+    "title": "XuanRanDev/Auto-GongXueYun",
+    "url": "https://github.com/XuanRanDev/Auto-GongXueYun",
+    "desc": "😴 蘑菇丁 & 工学云每日自动打卡、支持多用户、自定义地区与时间、免服务器部署。",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "desc": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "lang": "C#"
+  }
+]
