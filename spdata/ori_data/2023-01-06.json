@@ -1,0 +1,148 @@
+[
+  {
+    "title": "jart/blink",
+    "url": "https://github.com/jart/blink",
+    "desc": "tiniest x86-64-linux emulator",
+    "lang": "C"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "desc": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "midudev/kings-league-project",
+    "url": "https://github.com/midudev/kings-league-project",
+    "desc": "API y website de la Kings League Infojobs por temas didácticos",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++"
+  },
+  {
+    "title": "recharts/recharts",
+    "url": "https://github.com/recharts/recharts",
+    "desc": "Redefined chart library built with React and D3",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/hello-git",
+    "url": "https://github.com/mouredev/hello-git",
+    "desc": "Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev."
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "desc": "The Laravel Framework.",
+    "lang": "PHP"
+  },
+  {
+    "title": "midudev/preguntas-entrevista-react",
+    "url": "https://github.com/midudev/preguntas-entrevista-react",
+    "desc": "Preguntas típicas sobre React para entrevistas de trabajo ⚛️",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sourcegraph/conc",
+    "url": "https://github.com/sourcegraph/conc",
+    "desc": "Better structured concurrency for go",
+    "lang": "Go"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "renovatebot/renovate",
+    "url": "https://github.com/renovatebot/renovate",
+    "desc": "Universal dependency update tool that fits into your workflows.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net."
+  },
+  {
+    "title": "score-spec/spec",
+    "url": "https://github.com/score-spec/spec",
+    "desc": "The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments."
+  },
+  {
+    "title": "rust-lang/mdBook",
+    "url": "https://github.com/rust-lang/mdBook",
+    "desc": "Create book from markdown files. Like Gitbook but implemented in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "easychen/stack-roadmap",
+    "url": "https://github.com/easychen/stack-roadmap",
+    "desc": "方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈",
+    "lang": "PHP"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "desc": "The source for REST API specifications for Microsoft Azure."
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
+    "lang": "Python"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "squizlabs/PHP_CodeSniffer",
+    "url": "https://github.com/squizlabs/PHP_CodeSniffer",
+    "desc": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.",
+    "lang": "PHP"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "lang": "Shell"
+  },
+  {
+    "title": "ali-bouali/spring-boot-3-jwt-security",
+    "url": "https://github.com/ali-bouali/spring-boot-3-jwt-security",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "lang": "JavaScript"
+  }
+]
