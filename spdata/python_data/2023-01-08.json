@@ -1,0 +1,152 @@
+[
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "blakeblackshear/frigate",
+    "url": "https://github.com/blakeblackshear/frigate",
+    "desc": "NVR with realtime local object detection for IP cameras",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "helblazer811/ManimML",
+    "url": "https://github.com/helblazer811/ManimML",
+    "desc": "ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "nonebot/nonebot2",
+    "url": "https://github.com/nonebot/nonebot2",
+    "desc": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "sezanzeb/input-remapper",
+    "url": "https://github.com/sezanzeb/input-remapper",
+    "desc": "🎮 ⌨ An easy to use tool to change the behaviour of your input devices.",
+    "lang": "Python"
+  },
+  {
+    "title": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "desc": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-python",
+    "url": "https://github.com/openai/openai-python",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "hishizuka/pizero_bikecomputer",
+    "url": "https://github.com/hishizuka/pizero_bikecomputer",
+    "desc": "An open source bike computer based on Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "desc": "PyTorch package for the discrete VAE used for DALL·E.",
+    "lang": "Python"
+  },
+  {
+    "title": "yoshiko2/Movie_Data_Capture",
+    "url": "https://github.com/yoshiko2/Movie_Data_Capture",
+    "desc": "Local Movies Organizer",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "naksyn/PythonMemoryModule",
+    "url": "https://github.com/naksyn/PythonMemoryModule",
+    "desc": "pure-python implementation of MemoryModule technique to load a dll entirely from memory",
+    "lang": "Python"
+  },
+  {
+    "title": "httpie/httpie",
+    "url": "https://github.com/httpie/httpie",
+    "desc": "🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+    "lang": "Python"
+  },
+  {
+    "title": "KasRoudra/PyPhisher",
+    "url": "https://github.com/KasRoudra/PyPhisher",
+    "desc": "Easy to use phishing tool with 77 website templates. Author is not responsible for any misuse.",
+    "lang": "Python"
+  },
+  {
+    "title": "altryne/chatGPT-telegram-bot",
+    "url": "https://github.com/altryne/chatGPT-telegram-bot",
+    "desc": "This is a very early attempt at having chatGPT work within a telegram bot",
+    "lang": "Python"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "desc": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "lang": "Python"
+  },
+  {
+    "title": "KMKfw/kmk_firmware",
+    "url": "https://github.com/KMKfw/kmk_firmware",
+    "desc": "Clackety Keyboards Powered by Python",
+    "lang": "Python"
+  }
+]

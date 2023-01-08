@@ -1,0 +1,152 @@
+[
+  {
+    "title": "cuifengcn/TAICHI-flet",
+    "url": "https://github.com/cuifengcn/TAICHI-flet",
+    "desc": "基于flet的一款windows桌面应用，实现了爬取图片、音乐、小说、磁力链接的功能。",
+    "lang": "Python"
+  },
+  {
+    "title": "max32002/tixcraft_bot",
+    "url": "https://github.com/max32002/tixcraft_bot",
+    "desc": "Max搶票機器人(maxbot) help you quickly buy your tickets",
+    "lang": "Python"
+  },
+  {
+    "title": "HIllya51/LunaTranslator",
+    "url": "https://github.com/HIllya51/LunaTranslator",
+    "desc": "Galgame翻译工具，支持剪贴板、OCR、HOOK，支持30余种翻译工具。Galgame translate tool , support clipboard / OCR/ HOOK, support 30+ translate engines.",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "RockChinQ/QChatGPT",
+    "url": "https://github.com/RockChinQ/QChatGPT",
+    "desc": "基于OpenAI ChatGPT+mirai QQ 的 QQ 机器人，多平台一键部署，支持绘图模型，支持配置热重载",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "gfw-breaker/banned-news3",
+    "url": "https://github.com/gfw-breaker/banned-news3",
+    "desc": "禁闻聚合",
+    "lang": "Python"
+  },
+  {
+    "title": "begood0513/goodnews",
+    "url": "https://github.com/begood0513/goodnews",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Bywalks/DarkAngel",
+    "url": "https://github.com/Bywalks/DarkAngel",
+    "desc": "DarkAngel 是一款全自动白帽漏洞扫描器，从hackerone、bugcrowd资产监听到漏洞报告生成、企业微信通知。",
+    "lang": "Python"
+  },
+  {
+    "title": "LittleBear4/OA-EXPTOOL",
+    "url": "https://github.com/LittleBear4/OA-EXPTOOL",
+    "desc": "OA综合利用工具，集合将近20款OA漏洞批量扫描",
+    "lang": "Python"
+  },
+  {
+    "title": "vveg26/chporn",
+    "url": "https://github.com/vveg26/chporn",
+    "desc": "筛选一下神一样的代码",
+    "lang": "Python"
+  },
+  {
+    "title": "A-kirami/nonebot-plugin-chatgpt",
+    "url": "https://github.com/A-kirami/nonebot-plugin-chatgpt",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "KimigaiiWuyi/GenshinUID",
+    "url": "https://github.com/KimigaiiWuyi/GenshinUID",
+    "desc": "基于HoshinoBot/NoneBot2/QQ官方频道/微信Bot的原神面板查询/原神Wiki/米社签到/树脂提醒插件",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "XuanRanDev/Auto-ShiXiBeiAn",
+    "url": "https://github.com/XuanRanDev/Auto-ShiXiBeiAn",
+    "desc": "🎨实习备案（职校家园）自动打卡，支持多用户、自定义位置与时间、微信消息推送。",
+    "lang": "Python"
+  },
+  {
+    "title": "xiangxingxing/v2free_auto_sign",
+    "url": "https://github.com/xiangxingxing/v2free_auto_sign",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Soulter/QQChannelChatGPT",
+    "url": "https://github.com/Soulter/QQChannelChatGPT",
+    "desc": "基于OpenAI ChatGPT 的QQ频道聊天机器人 | QQ channel chatbot",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "XiaoMiku01/fansMedalHelper",
+    "url": "https://github.com/XiaoMiku01/fansMedalHelper",
+    "desc": "新版B站粉丝牌助手 全自动升级粉丝牌",
+    "lang": "Python"
+  },
+  {
+    "title": "Rockyzsu/stock",
+    "url": "https://github.com/Rockyzsu/stock",
+    "desc": "30天掌握量化交易 (持续更新)",
+    "lang": "Python"
+  }
+]
