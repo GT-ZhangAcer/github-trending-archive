@@ -1,0 +1,144 @@
+[
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gragland/chatgpt-chrome-extension",
+    "url": "https://github.com/gragland/chatgpt-chrome-extension",
+    "desc": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "JuanCrg90/Clean-Code-Notes",
+    "url": "https://github.com/JuanCrg90/Clean-Code-Notes",
+    "desc": "My notes of Clean Code book"
+  },
+  {
+    "title": "sismo-core/sismo-protocol",
+    "url": "https://github.com/sismo-core/sismo-protocol",
+    "desc": "Contracts of the Sismo Attestation Protocol",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/cdc-file-transfer",
+    "url": "https://github.com/google/cdc-file-transfer",
+    "desc": "Tools for synching and streaming files from Windows to Linux",
+    "lang": "C++"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "1c7/chinese-independent-developer",
+    "url": "https://github.com/1c7/chinese-independent-developer",
+    "desc": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/hyperreel",
+    "url": "https://github.com/facebookresearch/hyperreel",
+    "desc": "Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling",
+    "lang": "Python"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "krishnaik06/6-Months-Data-Science-Roadmap-",
+    "url": "https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-",
+    "desc": ""
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos.",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/GLM-130B",
+    "url": "https://github.com/THUDM/GLM-130B",
+    "desc": "GLM-130B: An Open Bilingual Pre-Trained Model",
+    "lang": "Python"
+  },
+  {
+    "title": "trpc/trpc",
+    "url": "https://github.com/trpc/trpc",
+    "desc": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "qax-os/excelize",
+    "url": "https://github.com/qax-os/excelize",
+    "desc": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "lang": "Go"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "lang": "Ruby"
+  },
+  {
+    "title": "wiidev/usbloadergx",
+    "url": "https://github.com/wiidev/usbloadergx",
+    "desc": "This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.",
+    "lang": "C"
+  },
+  {
+    "title": "EddieHubCommunity/LinkFree",
+    "url": "https://github.com/EddieHubCommunity/LinkFree",
+    "desc": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "VoronDesign/Voron-0",
+    "url": "https://github.com/VoronDesign/Voron-0",
+    "desc": "Voron 0 CoreXY 3D Printer design"
+  },
+  {
+    "title": "Snapchat/KeyDB",
+    "url": "https://github.com/Snapchat/KeyDB",
+    "desc": "A Multithreaded Fork of Redis",
+    "lang": "C++"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  }
+]
