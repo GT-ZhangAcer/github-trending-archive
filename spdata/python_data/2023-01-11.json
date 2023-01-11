@@ -1,0 +1,152 @@
+[
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "OpenMMLab Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmclassification",
+    "url": "https://github.com/open-mmlab/mmclassification",
+    "desc": "OpenMMLab Image Classification Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "desc": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "triple-Mu/YOLOv8-TensorRT",
+    "url": "https://github.com/triple-Mu/YOLOv8-TensorRT",
+    "desc": "YOLOv8 using TensorRT accelerate !",
+    "lang": "Python"
+  },
+  {
+    "title": "carson-katri/dream-textures",
+    "url": "https://github.com/carson-katri/dream-textures",
+    "desc": "Stable Diffusion built-in to Blender",
+    "lang": "Python"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "lang": "Python"
+  },
+  {
+    "title": "cosmicpb/FascistFree",
+    "url": "https://github.com/cosmicpb/FascistFree",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "matplotlib/matplotlib",
+    "url": "https://github.com/matplotlib/matplotlib",
+    "desc": "matplotlib: plotting with Python",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "oegedijk/explainerdashboard",
+    "url": "https://github.com/oegedijk/explainerdashboard",
+    "desc": "Quickly build Explainable AI dashboards that show the inner workings of so-called blackbox machine learning models.",
+    "lang": "Python"
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "desc": "An orchestration platform for the development, production, and observation of data assets.",
+    "lang": "Python"
+  },
+  {
+    "title": "coqui-ai/TTS",
+    "url": "https://github.com/coqui-ai/TTS",
+    "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "lang": "Python"
+  },
+  {
+    "title": "django/django",
+    "url": "https://github.com/django/django",
+    "desc": "The Web framework for perfectionists with deadlines.",
+    "lang": "Python"
+  },
+  {
+    "title": "Project-MONAI/MONAI",
+    "url": "https://github.com/Project-MONAI/MONAI",
+    "desc": "AI Toolkit for Healthcare Imaging",
+    "lang": "Python"
+  }
+]

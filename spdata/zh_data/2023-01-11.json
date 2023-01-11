@@ -1,0 +1,147 @@
+[
+  {
+    "title": "1c7/chinese-independent-developer",
+    "url": "https://github.com/1c7/chinese-independent-developer",
+    "desc": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "cuifengcn/TAICHI-flet",
+    "url": "https://github.com/cuifengcn/TAICHI-flet",
+    "desc": "基于flet的一款windows桌面应用，实现了爬取图片、音乐、小说、磁力链接的功能。",
+    "lang": "Python"
+  },
+  {
+    "title": "max32002/tixcraft_bot",
+    "url": "https://github.com/max32002/tixcraft_bot",
+    "desc": "Max搶票機器人(maxbot) help you quickly buy your tickets",
+    "lang": "Python"
+  },
+  {
+    "title": "zhaoolee/ins",
+    "url": "https://github.com/zhaoolee/ins",
+    "desc": "🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度",
+    "lang": "Python"
+  },
+  {
+    "title": "HIllya51/LunaTranslator",
+    "url": "https://github.com/HIllya51/LunaTranslator",
+    "desc": "Galgame翻译工具，支持剪贴板、OCR、HOOK，支持30余种翻译工具。Galgame translate tool , support clipboard / OCR/ HOOK, support 30+ translate engines.",
+    "lang": "Python"
+  },
+  {
+    "title": "aaa1115910/bv",
+    "url": "https://github.com/aaa1115910/bv",
+    "desc": "哔哩哔哩 的第三方 Android TV 应用",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "HelloworldDk/dkmaiproj",
+    "url": "https://github.com/HelloworldDk/dkmaiproj",
+    "desc": "cheap maimai dx touch screen controller",
+    "lang": "C++"
+  },
+  {
+    "title": "egametang/ET",
+    "url": "https://github.com/egametang/ET",
+    "desc": "Unity3D Client And C# Server Framework",
+    "lang": "C#"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "memochou1993/gpt-ai-assistant",
+    "url": "https://github.com/memochou1993/gpt-ai-assistant",
+    "desc": "OpenAI + LINE + Vercel = GPT AI Assistant",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "XIU2/CloudflareSpeedTest",
+    "url": "https://github.com/XIU2/CloudflareSpeedTest",
+    "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~",
+    "lang": "Go"
+  },
+  {
+    "title": "zjhellofss/KuiperInfer",
+    "url": "https://github.com/zjhellofss/KuiperInfer",
+    "desc": "一个推理库的实现, A DIY deep learning inference framework.",
+    "lang": "C++"
+  },
+  {
+    "title": "Sunny-117/js-challenges",
+    "url": "https://github.com/Sunny-117/js-challenges",
+    "desc": "集锦前端JavaScript编程题，Not just for interviews",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "4ra1n/super-xray",
+    "url": "https://github.com/4ra1n/super-xray",
+    "desc": "Web Vulnerability Scanner XRAY GUI Starter (Web漏洞扫描工具XRAY的GUI启动器，仅是简单的命令行包装)",
+    "lang": "Java"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。怎么让它听你的话。"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "jeequan/jeepay",
+    "url": "https://github.com/jeequan/jeepay",
+    "desc": "Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。",
+    "lang": "Java"
+  },
+  {
+    "title": "nshen/learn-neovim-lua",
+    "url": "https://github.com/nshen/learn-neovim-lua",
+    "desc": "Neovim 配置实战：从 0 到 1 打造自己的 IDE",
+    "lang": "Lua"
+  },
+  {
+    "title": "ccfos/nightingale",
+    "url": "https://github.com/ccfos/nightingale",
+    "desc": "An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",
+    "lang": "Go"
+  },
+  {
+    "title": "Cyril0563/lanjing_live",
+    "url": "https://github.com/Cyril0563/lanjing_live",
+    "desc": "🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看"
+  },
+  {
+    "title": "FloatTech/ZeroBot-Plugin",
+    "url": "https://github.com/FloatTech/ZeroBot-Plugin",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  },
+  {
+    "title": "Pawdroid/Free-servers",
+    "url": "https://github.com/Pawdroid/Free-servers",
+    "desc": "🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。"
+  },
+  {
+    "title": "labring/laf",
+    "url": "https://github.com/labring/laf",
+    "desc": "laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！",
+    "lang": "TypeScript"
+  }
+]
