@@ -1,0 +1,150 @@
+[
+  {
+    "title": "ultralytics/ultralytics",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "desc": "YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "desc": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "desc": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "lang": "C++"
+  },
+  {
+    "title": "shobrook/adrenaline",
+    "url": "https://github.com/shobrook/adrenaline",
+    "desc": "An AI-powered debugger",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pointfreeco/swift-dependencies",
+    "url": "https://github.com/pointfreeco/swift-dependencies",
+    "desc": "A dependency management library inspired by SwiftUI's environment.",
+    "lang": "Swift"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "An index created by GPT to organize external information and answer queries!",
+    "lang": "Python"
+  },
+  {
+    "title": "sismo-core/sismo-protocol",
+    "url": "https://github.com/sismo-core/sismo-protocol",
+    "desc": "Contracts of the Sismo Attestation Protocol",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "lang": "Python"
+  },
+  {
+    "title": "amitshekhariitbhu/go-backend-clean-architecture",
+    "url": "https://github.com/amitshekhariitbhu/go-backend-clean-architecture",
+    "desc": "A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/core",
+    "url": "https://github.com/dotnet/core",
+    "desc": "Home repository for .NET Core",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "danielgross/whatsapp-gpt",
+    "url": "https://github.com/danielgross/whatsapp-gpt",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "desc": "Odoo. Open Source Apps To Grow Your Business.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tallyhowallet/extension",
+    "url": "https://github.com/tallyhowallet/extension",
+    "desc": "Tally Ho, the community owned and operated Web3 wallet.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "JuanCrg90/Clean-Code-Notes",
+    "url": "https://github.com/JuanCrg90/Clean-Code-Notes",
+    "desc": "My notes of Clean Code book"
+  },
+  {
+    "title": "gragland/chatgpt-chrome-extension",
+    "url": "https://github.com/gragland/chatgpt-chrome-extension",
+    "desc": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "tweedegolf/101-rs",
+    "url": "https://github.com/tweedegolf/101-rs",
+    "desc": "A Rust university course",
+    "lang": "Rust"
+  },
+  {
+    "title": "Bssn520/AnimationAutoUpdate",
+    "url": "https://github.com/Bssn520/AnimationAutoUpdate",
+    "desc": "🤪动漫、电视剧的自动更新及在线观看。🫡"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "desc": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kubernetes/enhancements",
+    "url": "https://github.com/kubernetes/enhancements",
+    "desc": "Enhancements tracking repo for Kubernetes",
+    "lang": "Go"
+  },
+  {
+    "title": "vectordotdev/vector",
+    "url": "https://github.com/vectordotdev/vector",
+    "desc": "A high-performance observability data pipeline.",
+    "lang": "Rust"
+  }
+]
