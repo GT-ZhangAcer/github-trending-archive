@@ -1,0 +1,151 @@
+[
+  {
+    "title": "open-duelyst/duelyst",
+    "url": "https://github.com/open-duelyst/duelyst",
+    "desc": "Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ultralytics/ultralytics",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "desc": "YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "desc": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "desc": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "lang": "C++"
+  },
+  {
+    "title": "shobrook/adrenaline",
+    "url": "https://github.com/shobrook/adrenaline",
+    "desc": "An AI-powered debugger",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pointfreeco/swift-dependencies",
+    "url": "https://github.com/pointfreeco/swift-dependencies",
+    "desc": "A dependency management library inspired by SwiftUI's environment.",
+    "lang": "Swift"
+  },
+  {
+    "title": "amitshekhariitbhu/go-backend-clean-architecture",
+    "url": "https://github.com/amitshekhariitbhu/go-backend-clean-architecture",
+    "desc": "A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",
+    "lang": "Go"
+  },
+  {
+    "title": "Slackadays/Clipboard",
+    "url": "https://github.com/Slackadays/Clipboard",
+    "desc": "📋 Cut, copy, and paste anything, anywhere, all from the terminal.",
+    "lang": "C++"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "desc": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "tallyhowallet/extension",
+    "url": "https://github.com/tallyhowallet/extension",
+    "desc": "Tally Ho, the community owned and operated Web3 wallet.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "komeilmehranfar/visa-sponsers-companies-for-iranians",
+    "url": "https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians",
+    "desc": ""
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "desc": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "desc": "Linux kernel source tree",
+    "lang": "C"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "desc": "🔥 🔥 🔥 Open Source Airtable Alternative",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "desc": "⚡ Dynamically generated stats for your github readmes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sismo-core/sismo-protocol",
+    "url": "https://github.com/sismo-core/sismo-protocol",
+    "desc": "Contracts of the Sismo Attestation Protocol",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "好用又强大的开源建站工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "desc": "🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "cloudflare/wildebeest",
+    "url": "https://github.com/cloudflare/wildebeest",
+    "desc": "Wildebeest is an ActivityPub and Mastodon-compatible server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "Azure/Azure-Sentinel",
+    "url": "https://github.com/Azure/Azure-Sentinel",
+    "desc": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+    "lang": "JupyterNotebook"
+  }
+]

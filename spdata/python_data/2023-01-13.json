@@ -1,0 +1,152 @@
+[
+  {
+    "title": "ultralytics/ultralytics",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "desc": "YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmyolo",
+    "url": "https://github.com/open-mmlab/mmyolo",
+    "desc": "OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, YOLOv5, YOLOv6, YOLOv7, YOLOX, PPYOLOE, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "crytic/slither",
+    "url": "https://github.com/crytic/slither",
+    "desc": "Static Analyzer for Solidity",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "uselotus/lotus",
+    "url": "https://github.com/uselotus/lotus",
+    "desc": "Open Source Pricing & Packaging Infrastructure for SaaS",
+    "lang": "Python"
+  },
+  {
+    "title": "deepset-ai/haystack",
+    "url": "https://github.com/deepset-ai/haystack",
+    "desc": "🔍 Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmclassification",
+    "url": "https://github.com/open-mmlab/mmclassification",
+    "desc": "OpenMMLab Image Classification Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "desc": "A Django content management system focused on flexibility and user experience",
+    "lang": "Python"
+  },
+  {
+    "title": "RizwanMunawar/yolov8-object-tracking",
+    "url": "https://github.com/RizwanMunawar/yolov8-object-tracking",
+    "desc": "YOLOv8 Object Tracking Using PyTorch, OpenCV and Ultralytics",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "zhaoolee/ins",
+    "url": "https://github.com/zhaoolee/ins",
+    "desc": "🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "An index created by GPT to organize external information and answer queries!",
+    "lang": "Python"
+  },
+  {
+    "title": "max32002/tixcraft_bot",
+    "url": "https://github.com/max32002/tixcraft_bot",
+    "desc": "Max搶票機器人(maxbot) help you quickly buy your tickets",
+    "lang": "Python"
+  },
+  {
+    "title": "robusta-dev/kubernetes-chatgpt-bot",
+    "url": "https://github.com/robusta-dev/kubernetes-chatgpt-bot",
+    "desc": "A ChatGPT bot for Kubernetes issues.",
+    "lang": "Python"
+  },
+  {
+    "title": "PRBonn/kiss-icp",
+    "url": "https://github.com/PRBonn/kiss-icp",
+    "desc": "KISS-ICP: In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done in the Right Way https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/vizzo2023ral.pdf",
+    "lang": "Python"
+  },
+  {
+    "title": "mohammadpz/pytorch_forward_forward",
+    "url": "https://github.com/mohammadpz/pytorch_forward_forward",
+    "desc": "Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation",
+    "lang": "Python"
+  },
+  {
+    "title": "nebuly-ai/nebullvm",
+    "url": "https://github.com/nebuly-ai/nebullvm",
+    "desc": "Plug and play modules to boost the performances of your AI systems 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "desc": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "scipy/scipy",
+    "url": "https://github.com/scipy/scipy",
+    "desc": "SciPy library main repository",
+    "lang": "Python"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "dbt-labs/dbt-core",
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  }
+]

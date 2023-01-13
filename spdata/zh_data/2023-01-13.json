@@ -1,0 +1,149 @@
+[
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "好用又强大的开源建站工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "1c7/chinese-independent-developer",
+    "url": "https://github.com/1c7/chinese-independent-developer",
+    "desc": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+  },
+  {
+    "title": "zhaoolee/ins",
+    "url": "https://github.com/zhaoolee/ins",
+    "desc": "🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度",
+    "lang": "Python"
+  },
+  {
+    "title": "max32002/tixcraft_bot",
+    "url": "https://github.com/max32002/tixcraft_bot",
+    "desc": "Max搶票機器人(maxbot) help you quickly buy your tickets",
+    "lang": "Python"
+  },
+  {
+    "title": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "desc": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "cuifengcn/TAICHI-flet",
+    "url": "https://github.com/cuifengcn/TAICHI-flet",
+    "desc": "基于flet的一款windows桌面应用，实现了爬取图片、音乐、小说、磁力链接的功能。",
+    "lang": "Python"
+  },
+  {
+    "title": "Sunny-117/js-challenges",
+    "url": "https://github.com/Sunny-117/js-challenges",
+    "desc": "集锦前端JavaScript编程题，Not just for interviews",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tencent/puerts",
+    "url": "https://github.com/Tencent/puerts",
+    "desc": "普洱TS！Write your game with TypeScript in UE or Unity. PuerTS can be pronounced as pu-erh TS",
+    "lang": "C++"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "XuanRanDev/Auto-ShiXiBeiAn",
+    "url": "https://github.com/XuanRanDev/Auto-ShiXiBeiAn",
+    "desc": "🎨实习备案（职校家园）自动打卡，支持多用户、自定义位置与时间、微信消息推送。",
+    "lang": "Python"
+  },
+  {
+    "title": "FloatTech/ZeroBot-Plugin",
+    "url": "https://github.com/FloatTech/ZeroBot-Plugin",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。怎么让它听你的话。"
+  },
+  {
+    "title": "alibaba/higress",
+    "url": "https://github.com/alibaba/higress",
+    "desc": "Next-generation Cloud Native Gateway",
+    "lang": "C++"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "li-xiaojun/XPopup",
+    "url": "https://github.com/li-xiaojun/XPopup",
+    "desc": "🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup vi…",
+    "lang": "Java"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "dromara/dynamic-tp",
+    "url": "https://github.com/dromara/dynamic-tp",
+    "desc": "🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).",
+    "lang": "Java"
+  },
+  {
+    "title": "4ra1n/super-xray",
+    "url": "https://github.com/4ra1n/super-xray",
+    "desc": "Web Vulnerability Scanner XRAY GUI Starter (Web漏洞扫描工具XRAY的GUI启动器，仅是简单的命令行包装)",
+    "lang": "Java"
+  },
+  {
+    "title": "gaotianliuyun/gao",
+    "url": "https://github.com/gaotianliuyun/gao",
+    "desc": "tvbox & diyp 配置文件，如果喜欢，请复刻自用，切勿传播。谢谢！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "getActivity/XXPermissions",
+    "url": "https://github.com/getActivity/XXPermissions",
+    "desc": "Android 权限请求框架，已适配 Android 13",
+    "lang": "Java"
+  },
+  {
+    "title": "yangkang2021/nerf-learn",
+    "url": "https://github.com/yangkang2021/nerf-learn",
+    "desc": "记录nerf各种应用的学习过程"
+  },
+  {
+    "title": "xugaoyi/vuepress-theme-vdoing",
+    "url": "https://github.com/xugaoyi/vuepress-theme-vdoing",
+    "desc": "🚀一款简洁高效的VuePress知识管理&博客(blog)主题",
+    "lang": "Vue"
+  }
+]
