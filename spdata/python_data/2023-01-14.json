@@ -1,0 +1,152 @@
+[
+  {
+    "title": "ultralytics/ultralytics",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "desc": "YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "An index created by GPT to organize external information and answer queries!",
+    "lang": "Python"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmpose",
+    "url": "https://github.com/open-mmlab/mmpose",
+    "desc": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "crytic/slither",
+    "url": "https://github.com/crytic/slither",
+    "desc": "Static Analyzer for Solidity",
+    "lang": "Python"
+  },
+  {
+    "title": "vpei/Free-TVUrl-Merge",
+    "url": "https://github.com/vpei/Free-TVUrl-Merge",
+    "desc": "免费TvBox影视站聚合，测试不能用链接。TVBox、Pluto Player、猫影视TV等影视播放软件通用接口都可使用。Pluto兼容性最强。",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmediting",
+    "url": "https://github.com/open-mmlab/mmediting",
+    "desc": "OpenMMLab Image and Video Restoration, Editing and Generation Toolbox",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/encodec",
+    "url": "https://github.com/facebookresearch/encodec",
+    "desc": "State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.",
+    "lang": "Python"
+  },
+  {
+    "title": "scipy/scipy",
+    "url": "https://github.com/scipy/scipy",
+    "desc": "SciPy library main repository",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "In-Database Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "githubharald/SimpleHTR",
+    "url": "https://github.com/githubharald/SimpleHTR",
+    "desc": "Handwritten Text Recognition (HTR) system implemented with TensorFlow.",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "oegedijk/explainerdashboard",
+    "url": "https://github.com/oegedijk/explainerdashboard",
+    "desc": "Quickly build Explainable AI dashboards that show the inner workings of so-called blackbox machine learning models.",
+    "lang": "Python"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "desc": "We have made you a wrapper you can't refuse",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/setfit",
+    "url": "https://github.com/huggingface/setfit",
+    "desc": "Efficient few-shot learning with Sentence Transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdeploy",
+    "url": "https://github.com/open-mmlab/mmdeploy",
+    "desc": "OpenMMLab Model Deployment Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "desc": "Download market data from Yahoo! Finance's API",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmsegmentation",
+    "url": "https://github.com/open-mmlab/mmsegmentation",
+    "desc": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "Netflix/metaflow",
+    "url": "https://github.com/Netflix/metaflow",
+    "desc": "🚀 Build and manage real-life data science projects with ease!",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.",
+    "lang": "Python"
+  },
+  {
+    "title": "cupy/cupy",
+    "url": "https://github.com/cupy/cupy",
+    "desc": "NumPy & SciPy for GPU",
+    "lang": "Python"
+  }
+]

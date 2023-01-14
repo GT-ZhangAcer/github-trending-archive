@@ -1,0 +1,152 @@
+[
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "Evil0ctal/Douyin_TikTok_Download_API",
+    "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+    "desc": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音|TikTok数据爬取工具，支持API调用，在线批量解析及下载。",
+    "lang": "Python"
+  },
+  {
+    "title": "OFA-Sys/Chinese-CLIP",
+    "url": "https://github.com/OFA-Sys/Chinese-CLIP",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "HarderThenHarder/transformers_tasks",
+    "url": "https://github.com/HarderThenHarder/transformers_tasks",
+    "desc": "NLP Algorithms with transformers lib. Supporting Text-Classification, Text-Generation, Information-Extraction, Text-Matching, RLHF etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "dqzg12300/fridaUiTools",
+    "url": "https://github.com/dqzg12300/fridaUiTools",
+    "desc": "frida工具的缝合怪",
+    "lang": "Python"
+  },
+  {
+    "title": "zhaoolee/ins",
+    "url": "https://github.com/zhaoolee/ins",
+    "desc": "🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "begood0513/goodnews",
+    "url": "https://github.com/begood0513/goodnews",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "gfw-breaker/banned-news3",
+    "url": "https://github.com/gfw-breaker/banned-news3",
+    "desc": "禁闻聚合",
+    "lang": "Python"
+  },
+  {
+    "title": "we0091234/Chinese_license_plate_detection_recognition",
+    "url": "https://github.com/we0091234/Chinese_license_plate_detection_recognition",
+    "desc": "yolov5 车牌检测 车牌识别 中文车牌识别 检测 支持12种中文车牌 支持双层车牌",
+    "lang": "Python"
+  },
+  {
+    "title": "jwcesign/kubespider",
+    "url": "https://github.com/jwcesign/kubespider",
+    "desc": "A unified downloading orchestration system, build your home downloading center.",
+    "lang": "Python"
+  },
+  {
+    "title": "XiaoMiku01/fansMedalHelper",
+    "url": "https://github.com/XiaoMiku01/fansMedalHelper",
+    "desc": "新版B站粉丝牌助手 全自动升级粉丝牌",
+    "lang": "Python"
+  },
+  {
+    "title": "Dod-o/Statistical-Learning-Method_Code",
+    "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+    "desc": "手写实现李航《统计学习方法》书中全部算法",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book3_Elements-of-Mathematics",
+    "url": "https://github.com/Visualize-ML/Book3_Elements-of-Mathematics",
+    "desc": "Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；本册有，583幅图，136个代码文件，其中24个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "yangjianxin1/GPT2-chitchat",
+    "url": "https://github.com/yangjianxin1/GPT2-chitchat",
+    "desc": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)",
+    "lang": "Python"
+  },
+  {
+    "title": "Nriver/Episode-ReName",
+    "url": "https://github.com/Nriver/Episode-ReName",
+    "desc": "电视剧/番剧自动化重命名工具, 一键批量改名. QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSlim",
+    "url": "https://github.com/PaddlePaddle/PaddleSlim",
+    "desc": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+    "lang": "Python"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "wzpan/wukong-robot",
+    "url": "https://github.com/wzpan/wukong-robot",
+    "desc": "🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，还可能是首个支持脑机交互的开源智能音箱项目。",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "NewFuture/DDNS",
+    "url": "https://github.com/NewFuture/DDNS",
+    "desc": "🚩 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)",
+    "lang": "Python"
+  }
+]

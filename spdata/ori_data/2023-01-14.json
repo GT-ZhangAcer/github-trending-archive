@@ -1,0 +1,149 @@
+[
+  {
+    "title": "ultralytics/ultralytics",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "desc": "YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "Slackadays/Clipboard",
+    "url": "https://github.com/Slackadays/Clipboard",
+    "desc": "📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and unified.",
+    "lang": "C++"
+  },
+  {
+    "title": "open-duelyst/duelyst",
+    "url": "https://github.com/open-duelyst/duelyst",
+    "desc": "Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "elk-zone/elk",
+    "url": "https://github.com/elk-zone/elk",
+    "desc": "A nimble Mastodon web client",
+    "lang": "Vue"
+  },
+  {
+    "title": "tweedegolf/101-rs",
+    "url": "https://github.com/tweedegolf/101-rs",
+    "desc": "A Rust university course",
+    "lang": "Rust"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "cloudflare/wildebeest",
+    "url": "https://github.com/cloudflare/wildebeest",
+    "desc": "Wildebeest is an ActivityPub and Mastodon-compatible server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "shobrook/adrenaline",
+    "url": "https://github.com/shobrook/adrenaline",
+    "desc": "An AI-powered debugger",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "An index created by GPT to organize external information and answer queries!",
+    "lang": "Python"
+  },
+  {
+    "title": "Bssn520/AnimationAutoUpdate",
+    "url": "https://github.com/Bssn520/AnimationAutoUpdate",
+    "desc": "🤪动漫、电视剧的自动更新及在线观看。🫡"
+  },
+  {
+    "title": "danielgross/whatsapp-gpt",
+    "url": "https://github.com/danielgross/whatsapp-gpt",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "desc": "A framework for building native applications using React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "desc": "⚡ Dynamically generated stats for your github readmes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mack-a/v2ray-agent",
+    "url": "https://github.com/mack-a/v2ray-agent",
+    "desc": "（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装",
+    "lang": "Shell"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "desc": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "desc": "The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "desc": "All Algorithms implemented in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "open-mmlab/mmpose",
+    "url": "https://github.com/open-mmlab/mmpose",
+    "desc": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "o0HalfLife0o/TVBoxOSC",
+    "url": "https://github.com/o0HalfLife0o/TVBoxOSC",
+    "desc": ""
+  },
+  {
+    "title": "DesktopECHO/T95-H616-Malware",
+    "url": "https://github.com/DesktopECHO/T95-H616-Malware",
+    "desc": "Pre-Owned malware in ROM on T95 Android TV Box (AllWinner H616)",
+    "lang": "Java"
+  }
+]
