@@ -1,0 +1,146 @@
+[
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Free Data Engineering course!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "desc": "⚡ Dynamically generated stats for your github readmes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "desc": "web development, streamlined",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Moonlight-Zhao/go-project-example",
+    "url": "https://github.com/Moonlight-Zhao/go-project-example",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/MDE-PowerBI-Templates",
+    "url": "https://github.com/microsoft/MDE-PowerBI-Templates",
+    "desc": "A respository for MDATP PowerBI Templates",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "microsoft/AI-For-Beginners",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "desc": "12 Weeks, 24 Lessons, AI for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "midudev/kings-league-project",
+    "url": "https://github.com/midudev/kings-league-project",
+    "desc": "API y website de la Kings League Infojobs por temas didácticos",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dair-ai/ML-Papers-Explained",
+    "url": "https://github.com/dair-ai/ML-Papers-Explained",
+    "desc": "Explanation to key concepts in ML"
+  },
+  {
+    "title": "ai-collection/ai-collection",
+    "url": "https://github.com/ai-collection/ai-collection",
+    "desc": "A collection of generative AI applications"
+  },
+  {
+    "title": "annfelix/DEVOPS-WORLD",
+    "url": "https://github.com/annfelix/DEVOPS-WORLD",
+    "desc": ""
+  },
+  {
+    "title": "ReagentX/imessage-exporter",
+    "url": "https://github.com/ReagentX/imessage-exporter",
+    "desc": "Export MacOS iMessage data + run iMessage Diagnostics",
+    "lang": "Rust"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "enhuiz/vall-e",
+    "url": "https://github.com/enhuiz/vall-e",
+    "desc": "An unofficial PyTorch implementation of the audio LM VALL-E, WIP",
+    "lang": "Python"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "evcc-io/evcc",
+    "url": "https://github.com/evcc-io/evcc",
+    "desc": "Sonne tanken ☀️🚘",
+    "lang": "Go"
+  },
+  {
+    "title": "lefayjey/linWinPwn",
+    "url": "https://github.com/lefayjey/linWinPwn",
+    "desc": "linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks",
+    "lang": "Shell"
+  },
+  {
+    "title": "xiaye13579/BBLL",
+    "url": "https://github.com/xiaye13579/BBLL",
+    "desc": "一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "orestbida/cookieconsent",
+    "url": "https://github.com/orestbida/cookieconsent",
+    "desc": "🍪 Simple cross-browser cookie-consent plugin written in vanilla js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "desc": "The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "juspay/hyperswitch",
+    "url": "https://github.com/juspay/hyperswitch",
+    "desc": "An Open Source Financial Switch to make Payments fast, reliable and affordable",
+    "lang": "Rust"
+  },
+  {
+    "title": "marcel-dempers/docker-development-youtube-series",
+    "url": "https://github.com/marcel-dempers/docker-development-youtube-series",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "desc": "Open Source realtime backend in 1 file",
+    "lang": "Go"
+  },
+  {
+    "title": "helium/denylist",
+    "url": "https://github.com/helium/denylist",
+    "desc": ""
+  },
+  {
+    "title": "open-mmlab/mmyolo",
+    "url": "https://github.com/open-mmlab/mmyolo",
+    "desc": "OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.",
+    "lang": "Python"
+  }
+]
