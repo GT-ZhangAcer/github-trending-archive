@@ -1,0 +1,152 @@
+[
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "enhuiz/vall-e",
+    "url": "https://github.com/enhuiz/vall-e",
+    "desc": "An unofficial PyTorch implementation of the audio LM VALL-E, WIP",
+    "lang": "Python"
+  },
+  {
+    "title": "mikel-brostrom/yolov8_tracking",
+    "url": "https://github.com/mikel-brostrom/yolov8_tracking",
+    "desc": "Real-time multi-object tracking and segmentation using YOLOv8",
+    "lang": "Python"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "approximatelabs/sketch",
+    "url": "https://github.com/approximatelabs/sketch",
+    "desc": "AI code-writing assistant that understands data content",
+    "lang": "Python"
+  },
+  {
+    "title": "cleanlab/cleanlab",
+    "url": "https://github.com/cleanlab/cleanlab",
+    "desc": "The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.",
+    "lang": "Python"
+  },
+  {
+    "title": "thewhiteh4t/nexfil",
+    "url": "https://github.com/thewhiteh4t/nexfil",
+    "desc": "OSINT tool for finding profiles by username",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmyolo",
+    "url": "https://github.com/open-mmlab/mmyolo",
+    "desc": "OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "amundsen-io/amundsen",
+    "url": "https://github.com/amundsen-io/amundsen",
+    "desc": "Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.",
+    "lang": "Python"
+  },
+  {
+    "title": "pynecone-io/pynecone",
+    "url": "https://github.com/pynecone-io/pynecone",
+    "desc": "Web apps in pure Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "FaceMe-SDK/FaceLivenessDetection-ServerSDK",
+    "url": "https://github.com/FaceMe-SDK/FaceLivenessDetection-ServerSDK",
+    "desc": "iBeta (Level 2) Certified, Single-Image Based Face Liveness Detection (Face Anti Spoofing) Server SDK",
+    "lang": "Python"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "zauberzeug/nicegui",
+    "url": "https://github.com/zauberzeug/nicegui",
+    "desc": "Create UI. For the web. With Python. The nice way.",
+    "lang": "Python"
+  },
+  {
+    "title": "haha-lisa/RDM-Region-Aware-Diffusion-Model",
+    "url": "https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "desc": "Comprehensive Python Cheatsheet",
+    "lang": "Python"
+  },
+  {
+    "title": "pydantic/pydantic",
+    "url": "https://github.com/pydantic/pydantic",
+    "desc": "Data parsing and validation using Python type hints",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/tutorials",
+    "url": "https://github.com/pytorch/tutorials",
+    "desc": "PyTorch tutorials.",
+    "lang": "Python"
+  },
+  {
+    "title": "HazyResearch/flash-attention",
+    "url": "https://github.com/HazyResearch/flash-attention",
+    "desc": "Fast and memory-efficient exact attention",
+    "lang": "Python"
+  },
+  {
+    "title": "rawandahmad698/PyChatGPT",
+    "url": "https://github.com/rawandahmad698/PyChatGPT",
+    "desc": "⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "tony9402/baekjoon",
+    "url": "https://github.com/tony9402/baekjoon",
+    "desc": "코딩테스트 대비 문제집(Baekjoon Online Judge)",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/pytorch3d",
+    "url": "https://github.com/facebookresearch/pytorch3d",
+    "desc": "PyTorch3D is FAIR's library of reusable components for deep learning with 3D data",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "lang": "Python"
+  }
+]
