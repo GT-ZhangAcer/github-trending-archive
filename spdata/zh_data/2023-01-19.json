@@ -1,0 +1,148 @@
+[
+  {
+    "title": "dromara/dynamic-tp",
+    "url": "https://github.com/dromara/dynamic-tp",
+    "desc": "🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).",
+    "lang": "Java"
+  },
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "desc": "Next immersive translator, only for release new version",
+    "lang": "Makefile"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "paimonhub/Paimonnode",
+    "url": "https://github.com/paimonhub/Paimonnode",
+    "desc": "Free subcribe for everyone",
+    "lang": "Smarty"
+  },
+  {
+    "title": "DGP-Studio/Snap.Hutao",
+    "url": "https://github.com/DGP-Studio/Snap.Hutao",
+    "desc": "唷，找本堂主有何贵干呀？",
+    "lang": "C#"
+  },
+  {
+    "title": "xy-sea/web-see",
+    "url": "https://github.com/xy-sea/web-see",
+    "desc": "一款自研的前端监控SDK，可用来收集并上报：代码报错、性能数据、用户行为、加载资源、个性化指标等数据",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "biuuu/genshin-wish-export",
+    "url": "https://github.com/biuuu/genshin-wish-export",
+    "desc": "Easily export the Genshin Impact wish record.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tylearymf/UniHacker",
+    "url": "https://github.com/tylearymf/UniHacker",
+    "desc": "Patch all versions of Unity3D and UnityHub for Windows, MacOS, Linux and Docker.",
+    "lang": "C#"
+  },
+  {
+    "title": "XIU2/CloudflareSpeedTest",
+    "url": "https://github.com/XIU2/CloudflareSpeedTest",
+    "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~",
+    "lang": "Go"
+  },
+  {
+    "title": "xunkong/xunkong",
+    "url": "https://github.com/xunkong/xunkong",
+    "desc": "记录旅途中发生的事",
+    "lang": "C#"
+  },
+  {
+    "title": "Icalingua-plus-plus/Icalingua-plus-plus",
+    "url": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus",
+    "desc": "A client for QQ and more.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。"
+  },
+  {
+    "title": "SocialSisterYi/bilibili-API-collect",
+    "url": "https://github.com/SocialSisterYi/bilibili-API-collect",
+    "desc": "哔哩哔哩-API收集整理【不断更新中....】"
+  },
+  {
+    "title": "fanmingming/live",
+    "url": "https://github.com/fanmingming/live",
+    "desc": "✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕",
+    "lang": "HTML"
+  },
+  {
+    "title": "chenzomi12/DeepLearningSystem",
+    "url": "https://github.com/chenzomi12/DeepLearningSystem",
+    "desc": "Deep Learning System core principles introduction.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "lcvvvv/kscan",
+    "url": "https://github.com/lcvvvv/kscan",
+    "desc": "Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹20000+，暴力破解协议10余种。",
+    "lang": "Go"
+  },
+  {
+    "title": "Rovniced/bilibili-skin",
+    "url": "https://github.com/Rovniced/bilibili-skin",
+    "desc": "哔哩哔哩个性装扮主题"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "iDvel/rime-ice",
+    "url": "https://github.com/iDvel/rime-ice",
+    "desc": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "lang": "Go"
+  },
+  {
+    "title": "rev1si0n/lamda",
+    "url": "https://github.com/rev1si0n/lamda",
+    "desc": "⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。",
+    "lang": "Python"
+  },
+  {
+    "title": "8838/btpanel-v7.7.0",
+    "url": "https://github.com/8838/btpanel-v7.7.0",
+    "desc": "宝塔v7.7.0官方原版备份",
+    "lang": "Shell"
+  },
+  {
+    "title": "nilaoda/N_m3u8DL-RE",
+    "url": "https://github.com/nilaoda/N_m3u8DL-RE",
+    "desc": "Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.",
+    "lang": "C#"
+  },
+  {
+    "title": "RockChinQ/QChatGPT",
+    "url": "https://github.com/RockChinQ/QChatGPT",
+    "desc": "基于OpenAI ChatGPT+mirai QQ 的 QQ 机器人，多平台一键部署，支持绘图模型，支持自定义插件",
+    "lang": "Python"
+  }
+]

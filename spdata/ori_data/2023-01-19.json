@@ -1,0 +1,150 @@
+[
+  {
+    "title": "MinBZK/woo-besluit-broncode-digid-app",
+    "url": "https://github.com/MinBZK/woo-besluit-broncode-digid-app",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "rocketseat-education/nlw-setup-ignite",
+    "url": "https://github.com/rocketseat-education/nlw-setup-ignite",
+    "desc": "Aplicação desenvolvida durante o NLW Setup - Ignite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "desc": "Free Data Engineering course!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "annfelix/DEVOPS-WORLD",
+    "url": "https://github.com/annfelix/DEVOPS-WORLD",
+    "desc": ""
+  },
+  {
+    "title": "midudev/aprendiendo-react",
+    "url": "https://github.com/midudev/aprendiendo-react",
+    "desc": "Curso para aprender React desde cero",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "enhuiz/vall-e",
+    "url": "https://github.com/enhuiz/vall-e",
+    "desc": "An unofficial PyTorch implementation of the audio LM VALL-E, WIP",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/AI-For-Beginners",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "desc": "12 Weeks, 24 Lessons, AI for All!",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "CatVodTVOfficial/TVBoxOSC",
+    "url": "https://github.com/CatVodTVOfficial/TVBoxOSC",
+    "desc": "真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。",
+    "lang": "Java"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/docusaurus",
+    "url": "https://github.com/facebook/docusaurus",
+    "desc": "Easy to maintain open source documentation websites.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "lang": "Go"
+  },
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "desc": "⚡ Dynamically generated stats for your github readmes",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pynecone-io/pynecone",
+    "url": "https://github.com/pynecone-io/pynecone",
+    "desc": "Web apps in pure Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "QuestPDF/QuestPDF",
+    "url": "https://github.com/QuestPDF/QuestPDF",
+    "desc": "QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.",
+    "lang": "C#"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "desc": "Optional static typing for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "rawandahmad698/PyChatGPT",
+    "url": "https://github.com/rawandahmad698/PyChatGPT",
+    "desc": "⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "VictoriaMetrics/VictoriaMetrics",
+    "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "desc": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+    "lang": "Go"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  }
+]
