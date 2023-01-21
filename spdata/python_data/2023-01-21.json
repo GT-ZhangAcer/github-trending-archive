@@ -1,0 +1,152 @@
+[
+  {
+    "title": "timothybrooks/instruct-pix2pix",
+    "url": "https://github.com/timothybrooks/instruct-pix2pix",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/ng-video-lecture",
+    "url": "https://github.com/karpathy/ng-video-lecture",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "desc": "ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.",
+    "lang": "Python"
+  },
+  {
+    "title": "pre-commit/pre-commit-hooks",
+    "url": "https://github.com/pre-commit/pre-commit-hooks",
+    "desc": "Some out-of-the-box hooks for pre-commit",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "desc": "Optional static typing for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "mage-ai/mage-ai",
+    "url": "https://github.com/mage-ai/mage-ai",
+    "desc": "🧙 The modern replacement for Airflow.",
+    "lang": "Python"
+  },
+  {
+    "title": "pynecone-io/pynecone",
+    "url": "https://github.com/pynecone-io/pynecone",
+    "desc": "🕸 Web apps in pure Python 🐍",
+    "lang": "Python"
+  },
+  {
+    "title": "biopython/biopython",
+    "url": "https://github.com/biopython/biopython",
+    "desc": "Official git repository for Biopython (originally converted from CVS)",
+    "lang": "Python"
+  },
+  {
+    "title": "horizon3ai/CVE-2022-47966",
+    "url": "https://github.com/horizon3ai/CVE-2022-47966",
+    "desc": "POC for CVE-2022-47966 affecting multiple ManageEngine products",
+    "lang": "Python"
+  },
+  {
+    "title": "inventree/InvenTree",
+    "url": "https://github.com/inventree/InvenTree",
+    "desc": "Open Source Inventory Management System",
+    "lang": "Python"
+  },
+  {
+    "title": "rougier/scientific-visualization-book",
+    "url": "https://github.com/rougier/scientific-visualization-book",
+    "desc": "An open access book on scientific visualization using python and matplotlib",
+    "lang": "Python"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "desc": "scikit-learn: machine learning in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "devanshbatham/Awesome-Bugbounty-Writeups",
+    "url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups",
+    "desc": "A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference",
+    "lang": "Python"
+  },
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "desc": "A free, online learning platform to make quality education accessible for all.",
+    "lang": "Python"
+  },
+  {
+    "title": "zauberzeug/nicegui",
+    "url": "https://github.com/zauberzeug/nicegui",
+    "desc": "Create UI. For the web. With Python. The nice way.",
+    "lang": "Python"
+  },
+  {
+    "title": "databricks-academy/data-engineer-learning-path",
+    "url": "https://github.com/databricks-academy/data-engineer-learning-path",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "espnet/espnet",
+    "url": "https://github.com/espnet/espnet",
+    "desc": "End-to-End Speech Processing Toolkit",
+    "lang": "Python"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "jantic/DeOldify",
+    "url": "https://github.com/jantic/DeOldify",
+    "desc": "A Deep Learning based project for colorizing and restoring old images (and video!)",
+    "lang": "Python"
+  },
+  {
+    "title": "robusta-dev/robusta",
+    "url": "https://github.com/robusta-dev/robusta",
+    "desc": "Kubernetes observability and automation, with an awesome Prometheus integration",
+    "lang": "Python"
+  }
+]
