@@ -1,0 +1,149 @@
+[
+  {
+    "title": "timothybrooks/instruct-pix2pix",
+    "url": "https://github.com/timothybrooks/instruct-pix2pix",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "AcademySoftwareFoundation/xstudio",
+    "url": "https://github.com/AcademySoftwareFoundation/xstudio",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "karpathy/ng-video-lecture",
+    "url": "https://github.com/karpathy/ng-video-lecture",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "massalabs/massa",
+    "url": "https://github.com/massalabs/massa",
+    "desc": "The Decentralized and Scaled Blockchain",
+    "lang": "Rust"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "desc": "An open-source C++ library developed and used at Facebook.",
+    "lang": "C++"
+  },
+  {
+    "title": "google-research/tuning_playbook",
+    "url": "https://github.com/google-research/tuning_playbook",
+    "desc": "A playbook for systematically maximizing the performance of deep learning models."
+  },
+  {
+    "title": "TheMozg/awk-raycaster",
+    "url": "https://github.com/TheMozg/awk-raycaster",
+    "desc": "Pseudo-3D shooter written completely in gawk using raycasting technique",
+    "lang": "Awk"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "desc": "A curated list of software and architecture related design patterns."
+  },
+  {
+    "title": "Dimillian/IceCubesApp",
+    "url": "https://github.com/Dimillian/IceCubesApp",
+    "desc": "A SwiftUI Mastodon client",
+    "lang": "Swift"
+  },
+  {
+    "title": "BlinkDL/ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "desc": "ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.",
+    "lang": "Python"
+  },
+  {
+    "title": "easychen/CookieCloud",
+    "url": "https://github.com/easychen/CookieCloud",
+    "desc": "CookieCloud是一个向自架服务器同步Cookie的小工具，可以将浏览器的登录态同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "FrontAnalyticsInc/data-winners",
+    "url": "https://github.com/FrontAnalyticsInc/data-winners",
+    "desc": "A collection of FREE python and R scripts for website development, analysis, and optimization. Includes advanced resources for topical authority and semantic content optimization.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "AcademySoftwareFoundation/OpenRV",
+    "url": "https://github.com/AcademySoftwareFoundation/OpenRV",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "pre-commit/pre-commit-hooks",
+    "url": "https://github.com/pre-commit/pre-commit-hooks",
+    "desc": "Some out-of-the-box hooks for pre-commit",
+    "lang": "Python"
+  },
+  {
+    "title": "nuxt/nuxt",
+    "url": "https://github.com/nuxt/nuxt",
+    "desc": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "HorrorPills/ChatGPT-Gnome-Desktop-Extension",
+    "url": "https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension",
+    "desc": "ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "desc": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "desc": "Optional static typing for Python",
+    "lang": "Python"
+  },
+  {
+    "title": "projectdiscovery/pdtm",
+    "url": "https://github.com/projectdiscovery/pdtm",
+    "desc": "ProjectDiscovery's Open Source Tool Manager",
+    "lang": "Go"
+  },
+  {
+    "title": "mage-ai/mage-ai",
+    "url": "https://github.com/mage-ai/mage-ai",
+    "desc": "🧙 The modern replacement for Airflow.",
+    "lang": "Python"
+  },
+  {
+    "title": "mitesh77/Best-Flutter-UI-Templates",
+    "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
+    "desc": "completely free for everyone. Its build-in Flutter Dart.",
+    "lang": "Dart"
+  }
+]

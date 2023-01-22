@@ -1,0 +1,146 @@
+[
+  {
+    "title": "dromara/dynamic-tp",
+    "url": "https://github.com/dromara/dynamic-tp",
+    "desc": "🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).",
+    "lang": "Java"
+  },
+  {
+    "title": "hehonghui/awesome-english-ebooks",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "lang": "CSS"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "jw-star/91pornBot",
+    "url": "https://github.com/jw-star/91pornBot",
+    "desc": "91、好色、麻豆视频解析下载，机器人发送电报。仅供学习，禁止用于非法用途。",
+    "lang": "Python"
+  },
+  {
+    "title": "XiaoMiku01/fansMedalHelper",
+    "url": "https://github.com/XiaoMiku01/fansMedalHelper",
+    "desc": "新版B站粉丝牌助手 全自动升级粉丝牌",
+    "lang": "Python"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "fanmingming/live",
+    "url": "https://github.com/fanmingming/live",
+    "desc": "✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕",
+    "lang": "HTML"
+  },
+  {
+    "title": "91p2022/91",
+    "url": "https://github.com/91p2022/91",
+    "desc": "91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Rovniced/bilibili-skin",
+    "url": "https://github.com/Rovniced/bilibili-skin",
+    "desc": "哔哩哔哩个性装扮主题"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients",
+    "lang": "C++"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "paimonhub/Paimonnode",
+    "url": "https://github.com/paimonhub/Paimonnode",
+    "desc": "Free subcribe for everyone",
+    "lang": "Smarty"
+  },
+  {
+    "title": "prophesier/diff-svc",
+    "url": "https://github.com/prophesier/diff-svc",
+    "desc": "Singing Voice Conversion via diffusion model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TonyChen56/WeChatRobot",
+    "url": "https://github.com/TonyChen56/WeChatRobot",
+    "desc": "PC版微信机器人 微信Api、WeChatApis.dll、微信聊天机器人 python微信api 微信接口 微信数据库解密",
+    "lang": "C++"
+  },
+  {
+    "title": "zizifn/edgetunnel",
+    "url": "https://github.com/zizifn/edgetunnel",
+    "desc": "Running V2ray inside edge/serverless functions",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "tv-player/apks",
+    "url": "https://github.com/tv-player/apks",
+    "desc": "一影视，TV影视，安卓"
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "desc": "适用于新系统UI的哔哩",
+    "lang": "C#"
+  },
+  {
+    "title": "SocialSisterYi/bilibili-API-collect",
+    "url": "https://github.com/SocialSisterYi/bilibili-API-collect",
+    "desc": "哔哩哔哩-API收集整理【不断更新中....】"
+  },
+  {
+    "title": "iDvel/rime-ice",
+    "url": "https://github.com/iDvel/rime-ice",
+    "desc": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "lang": "Go"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliToolPro",
+    "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+    "desc": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。",
+    "lang": "C#"
+  },
+  {
+    "title": "dream7180/foobox-cn",
+    "url": "https://github.com/dream7180/foobox-cn",
+    "desc": "DUI 配置 for foobar2000",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pt-plugins/PT-Plugin-Plus",
+    "url": "https://github.com/pt-plugins/PT-Plugin-Plus",
+    "desc": "PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xiaoss2022/xssvip",
+    "url": "https://github.com/xiaoss2022/xssvip",
+    "desc": ""
+  },
+  {
+    "title": "JohnChen201502/jinpian",
+    "url": "https://github.com/JohnChen201502/jinpian",
+    "desc": "中国禁片",
+    "lang": "HTML"
+  }
+]
