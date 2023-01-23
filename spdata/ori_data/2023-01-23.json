@@ -1,0 +1,148 @@
+[
+  {
+    "title": "timothybrooks/instruct-pix2pix",
+    "url": "https://github.com/timothybrooks/instruct-pix2pix",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "LazyVim/LazyVim",
+    "url": "https://github.com/LazyVim/LazyVim",
+    "desc": "Neovim config for the lazy",
+    "lang": "Lua"
+  },
+  {
+    "title": "google-research/tuning_playbook",
+    "url": "https://github.com/google-research/tuning_playbook",
+    "desc": "A playbook for systematically maximizing the performance of deep learning models."
+  },
+  {
+    "title": "karpathy/ng-video-lecture",
+    "url": "https://github.com/karpathy/ng-video-lecture",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "bellingcat/octosuite",
+    "url": "https://github.com/bellingcat/octosuite",
+    "desc": "Advanced Github OSINT Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "mage-ai/mage-ai",
+    "url": "https://github.com/mage-ai/mage-ai",
+    "desc": "🧙 The modern replacement for Airflow.",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/nn-zero-to-hero",
+    "url": "https://github.com/karpathy/nn-zero-to-hero",
+    "desc": "Neural Networks: Zero to Hero",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "shadcn/ui",
+    "url": "https://github.com/shadcn/ui",
+    "desc": "UI components that you can copy and paste into your apps. Built using Radix UI and Tailwind CSS."
+  },
+  {
+    "title": "google/comprehensive-rust",
+    "url": "https://github.com/google/comprehensive-rust",
+    "desc": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
+    "lang": "Rust"
+  },
+  {
+    "title": "rocketseat-education/nlw-setup-ignite",
+    "url": "https://github.com/rocketseat-education/nlw-setup-ignite",
+    "desc": "Aplicação desenvolvida durante o NLW Setup - Ignite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "adrianhajdin/project_ai_mern_image_generation",
+    "url": "https://github.com/adrianhajdin/project_ai_mern_image_generation",
+    "desc": "Build and Deploy a Full Stack MERN AI Image Generation App MidJourney & DALL E Clone",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "revanced/revanced-manager",
+    "url": "https://github.com/revanced/revanced-manager",
+    "desc": "💊 Android application to use ReVanced",
+    "lang": "Dart"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "lang": "Java"
+  },
+  {
+    "title": "AcademySoftwareFoundation/xstudio",
+    "url": "https://github.com/AcademySoftwareFoundation/xstudio",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "Dimillian/IceCubesApp",
+    "url": "https://github.com/Dimillian/IceCubesApp",
+    "desc": "A SwiftUI Mastodon client",
+    "lang": "Swift"
+  },
+  {
+    "title": "calcom/cal.com",
+    "url": "https://github.com/calcom/cal.com",
+    "desc": "Scheduling infrastructure for absolutely everyone.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Nutlope/restorePhotos",
+    "url": "https://github.com/Nutlope/restorePhotos",
+    "desc": "Restoring old and blurry face photos with AI.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "desc": "iOS 15.0-16.3 (semi-)tethered checkm8 jailbreak",
+    "lang": "Shell"
+  },
+  {
+    "title": "DFHack/dfhack",
+    "url": "https://github.com/DFHack/dfhack",
+    "desc": "Memory hacking library for Dwarf Fortress and a set of tools that use it",
+    "lang": "C++"
+  },
+  {
+    "title": "nuxt/nuxt",
+    "url": "https://github.com/nuxt/nuxt",
+    "desc": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "annfelix/DEVOPS-WORLD",
+    "url": "https://github.com/annfelix/DEVOPS-WORLD",
+    "desc": ""
+  },
+  {
+    "title": "htr-tech/zphisher",
+    "url": "https://github.com/htr-tech/zphisher",
+    "desc": "An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
+    "lang": "HTML"
+  },
+  {
+    "title": "Klipper3d/klipper",
+    "url": "https://github.com/Klipper3d/klipper",
+    "desc": "Klipper is a 3d-printer firmware",
+    "lang": "C"
+  }
+]
