@@ -1,0 +1,147 @@
+[
+  {
+    "title": "prophesier/diff-svc",
+    "url": "https://github.com/prophesier/diff-svc",
+    "desc": "Singing Voice Conversion via diffusion model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xiaolincoder/CS-Base",
+    "url": "https://github.com/xiaolincoder/CS-Base",
+    "desc": "图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com"
+  },
+  {
+    "title": "DessertHeart/Dive-Into-Blockchain",
+    "url": "https://github.com/DessertHeart/Dive-Into-Blockchain",
+    "desc": "旨在交流学习区块链技术，记录智能合约开发应用与相关安全练习的仓库🚀",
+    "lang": "Solidity"
+  },
+  {
+    "title": "xiaojieonly/Ehviewer_CN_SXJ",
+    "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+    "desc": "ehviewer，用爱发电，快乐前行",
+    "lang": "Java"
+  },
+  {
+    "title": "fanmingming/live",
+    "url": "https://github.com/fanmingming/live",
+    "desc": "✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕",
+    "lang": "HTML"
+  },
+  {
+    "title": "xfangfang/wiliwili",
+    "url": "https://github.com/xfangfang/wiliwili",
+    "desc": "专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上 | Yet another Bilibili client [WIP]",
+    "lang": "C++"
+  },
+  {
+    "title": "emptysuns/Hi_Hysteria",
+    "url": "https://github.com/emptysuns/Hi_Hysteria",
+    "desc": "Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。",
+    "lang": "Shell"
+  },
+  {
+    "title": "gaotianliuyun/gao",
+    "url": "https://github.com/gaotianliuyun/gao",
+    "desc": "tvbox & diyp 配置文件，如果喜欢，请复刻自用，切勿传播。谢谢！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lxgw/LxgwWenKai",
+    "url": "https://github.com/lxgw/LxgwWenKai",
+    "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "Cyril0563/lanjing_live",
+    "url": "https://github.com/Cyril0563/lanjing_live",
+    "desc": "🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看"
+  },
+  {
+    "title": "hehonghui/awesome-english-ebooks",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "lang": "CSS"
+  },
+  {
+    "title": "jynew/jynew",
+    "url": "https://github.com/jynew/jynew",
+    "desc": "JinYongLegend-like RPG Game Framework with full Modding support",
+    "lang": "C#"
+  },
+  {
+    "title": "lxgw/LxgwNeoXiHei",
+    "url": "https://github.com/lxgw/LxgwNeoXiHei",
+    "desc": "A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。",
+    "lang": "Roff"
+  },
+  {
+    "title": "ddy-ddy/cs-408",
+    "url": "https://github.com/ddy-ddy/cs-408",
+    "desc": "2023年计算机考研专业课程408相关的复习经验，资源和OneNote笔记"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "ender-zhao/Clash-for-Windows_Chinese",
+    "url": "https://github.com/ender-zhao/Clash-for-Windows_Chinese",
+    "desc": "clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zdz/ServerStatus-Rust",
+    "url": "https://github.com/zdz/ServerStatus-Rust",
+    "desc": "✨ Rust 版 ServerStatus 探针、威力加强版",
+    "lang": "Rust"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "memochou1993/gpt-ai-assistant",
+    "url": "https://github.com/memochou1993/gpt-ai-assistant",
+    "desc": "OpenAI + LINE + Vercel = GPT AI Assistant",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "1c7/chinese-independent-developer",
+    "url": "https://github.com/1c7/chinese-independent-developer",
+    "desc": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+  },
+  {
+    "title": "maplecool/easytrojan",
+    "url": "https://github.com/maplecool/easytrojan",
+    "desc": "世界上最简单的Trojan部署脚本，仅需一行命令即可搭建一台代理服务器",
+    "lang": "Shell"
+  },
+  {
+    "title": "yuesong-feng/30dayMakeCppServer",
+    "url": "https://github.com/yuesong-feng/30dayMakeCppServer",
+    "desc": "30天自制C++服务器，包含教程和源代码",
+    "lang": "C++"
+  }
+]

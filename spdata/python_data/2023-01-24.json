@@ -1,0 +1,152 @@
+[
+  {
+    "title": "timothybrooks/instruct-pix2pix",
+    "url": "https://github.com/timothybrooks/instruct-pix2pix",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/ng-video-lecture",
+    "url": "https://github.com/karpathy/ng-video-lecture",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "bellingcat/octosuite",
+    "url": "https://github.com/bellingcat/octosuite",
+    "desc": "Advanced Github OSINT Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "mage-ai/mage-ai",
+    "url": "https://github.com/mage-ai/mage-ai",
+    "desc": "🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "An index created by GPT to organize external information and answer queries!",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "dgtlmoon/changedetection.io",
+    "url": "https://github.com/dgtlmoon/changedetection.io",
+    "desc": "The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative",
+    "lang": "Python"
+  },
+  {
+    "title": "pynecone-io/pynecone",
+    "url": "https://github.com/pynecone-io/pynecone",
+    "desc": "🕸 Web apps in pure Python 🐍",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "hacs/integration",
+    "url": "https://github.com/hacs/integration",
+    "desc": "HACS gives you a powerful UI to handle downloads of all your custom needs.",
+    "lang": "Python"
+  },
+  {
+    "title": "nod-ai/SHARK",
+    "url": "https://github.com/nod-ai/SHARK",
+    "desc": "SHARK - High Performance Machine Learning for CPUs, GPUs, Accelerators and Heterogeneous Clusters",
+    "lang": "Python"
+  },
+  {
+    "title": "daveshap/LongtermChatExternalSources",
+    "url": "https://github.com/daveshap/LongtermChatExternalSources",
+    "desc": "GPT-3 chatbot with long-term memory and external sources",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/makemore",
+    "url": "https://github.com/karpathy/makemore",
+    "desc": "An autoregressive character-level language model for making more things",
+    "lang": "Python"
+  },
+  {
+    "title": "databricks-academy/data-engineer-learning-path",
+    "url": "https://github.com/databricks-academy/data-engineer-learning-path",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "MoonInTheRiver/DiffSinger",
+    "url": "https://github.com/MoonInTheRiver/DiffSinger",
+    "desc": "DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022; Official code",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/GLM-130B",
+    "url": "https://github.com/THUDM/GLM-130B",
+    "desc": "GLM-130B: An Open Bilingual Pre-Trained Model",
+    "lang": "Python"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "desc": "A free, online learning platform to make quality education accessible for all.",
+    "lang": "Python"
+  },
+  {
+    "title": "fauxpilot/fauxpilot",
+    "url": "https://github.com/fauxpilot/fauxpilot",
+    "desc": "FauxPilot - an open-source GitHub Copilot server",
+    "lang": "Python"
+  }
+]
