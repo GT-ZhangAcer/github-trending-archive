@@ -1,0 +1,152 @@
+[
+  {
+    "title": "JDA-DM/mojxml2geojson",
+    "url": "https://github.com/JDA-DM/mojxml2geojson",
+    "desc": "法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ",
+    "lang": "Python"
+  },
+  {
+    "title": "initialcommit-com/git-sim",
+    "url": "https://github.com/initialcommit-com/git-sim",
+    "desc": "Visually simulate Git operations in your own repos with a single terminal command.",
+    "lang": "Python"
+  },
+  {
+    "title": "brycedrennan/imaginAIry",
+    "url": "https://github.com/brycedrennan/imaginAIry",
+    "desc": "AI imagined images. Pythonic generation of stable diffusion images.",
+    "lang": "Python"
+  },
+  {
+    "title": "timothybrooks/instruct-pix2pix",
+    "url": "https://github.com/timothybrooks/instruct-pix2pix",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "daveshap/LongtermChatExternalSources",
+    "url": "https://github.com/daveshap/LongtermChatExternalSources",
+    "desc": "GPT-3 chatbot with long-term memory and external sources",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "MoonInTheRiver/DiffSinger",
+    "url": "https://github.com/MoonInTheRiver/DiffSinger",
+    "desc": "DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022; Official code",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "bellingcat/octosuite",
+    "url": "https://github.com/bellingcat/octosuite",
+    "desc": "Advanced Github OSINT Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "yihui-he/ActGPT",
+    "url": "https://github.com/yihui-he/ActGPT",
+    "desc": "chatbot does what you ask, like open Google search, post a Tweet, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "mage-ai/mage-ai",
+    "url": "https://github.com/mage-ai/mage-ai",
+    "desc": "🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.",
+    "lang": "Python"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "desc": "Experience macOS just like before",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "desc": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
+    "lang": "Python"
+  },
+  {
+    "title": "nerfstudio-project/nerfstudio",
+    "url": "https://github.com/nerfstudio-project/nerfstudio",
+    "desc": "A collaboration friendly studio for NeRFs",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "aahashemi/YouTubeAutomation-Reddit",
+    "url": "https://github.com/aahashemi/YouTubeAutomation-Reddit",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-python",
+    "url": "https://github.com/openai/openai-python",
+    "desc": "The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/torchgeo",
+    "url": "https://github.com/microsoft/torchgeo",
+    "desc": "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
+    "lang": "Python"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "desc": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+    "lang": "Python"
+  },
+  {
+    "title": "pre-commit/pre-commit",
+    "url": "https://github.com/pre-commit/pre-commit",
+    "desc": "A framework for managing and maintaining multi-language pre-commit hooks.",
+    "lang": "Python"
+  },
+  {
+    "title": "aiogram/aiogram",
+    "url": "https://github.com/aiogram/aiogram",
+    "desc": "Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.",
+    "lang": "Python"
+  },
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "desc": "A free, online learning platform to make quality education accessible for all.",
+    "lang": "Python"
+  },
+  {
+    "title": "paramiko/paramiko",
+    "url": "https://github.com/paramiko/paramiko",
+    "desc": "The leading native Python SSHv2 protocol library.",
+    "lang": "Python"
+  }
+]

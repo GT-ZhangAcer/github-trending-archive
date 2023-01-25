@@ -1,0 +1,147 @@
+[
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LazyVim/LazyVim",
+    "url": "https://github.com/LazyVim/LazyVim",
+    "desc": "Neovim config for the lazy",
+    "lang": "Lua"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "lang": "Rust"
+  },
+  {
+    "title": "google/material-design-icons",
+    "url": "https://github.com/google/material-design-icons",
+    "desc": "Material Design icons by Google"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "TheAppleTucker/backend-GPT",
+    "url": "https://github.com/TheAppleTucker/backend-GPT",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JDA-DM/mojxml2geojson",
+    "url": "https://github.com/JDA-DM/mojxml2geojson",
+    "desc": "法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ",
+    "lang": "Python"
+  },
+  {
+    "title": "shadcn/ui",
+    "url": "https://github.com/shadcn/ui",
+    "desc": "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nuxt/nuxt",
+    "url": "https://github.com/nuxt/nuxt",
+    "desc": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "initialcommit-com/git-sim",
+    "url": "https://github.com/initialcommit-com/git-sim",
+    "desc": "Visually simulate Git operations in your own repos with a single terminal command.",
+    "lang": "Python"
+  },
+  {
+    "title": "brycedrennan/imaginAIry",
+    "url": "https://github.com/brycedrennan/imaginAIry",
+    "desc": "AI imagined images. Pythonic generation of stable diffusion images.",
+    "lang": "Python"
+  },
+  {
+    "title": "lyc8503/EasierConnect",
+    "url": "https://github.com/lyc8503/EasierConnect",
+    "desc": "Sangfor EasyConnect protocol reimplementation in Go",
+    "lang": "Go"
+  },
+  {
+    "title": "bregman-arie/sre-checklist",
+    "url": "https://github.com/bregman-arie/sre-checklist",
+    "desc": "A checklist of anyone practicing Site Reliability Engineering"
+  },
+  {
+    "title": "karpathy/nn-zero-to-hero",
+    "url": "https://github.com/karpathy/nn-zero-to-hero",
+    "desc": "Neural Networks: Zero to Hero",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hyprwm/Hyprland",
+    "url": "https://github.com/hyprwm/Hyprland",
+    "desc": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "lang": "C++"
+  },
+  {
+    "title": "deepmap/oapi-codegen",
+    "url": "https://github.com/deepmap/oapi-codegen",
+    "desc": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+    "lang": "Go"
+  },
+  {
+    "title": "Blackymas/NSPanel_HA_Blueprint",
+    "url": "https://github.com/Blackymas/NSPanel_HA_Blueprint",
+    "desc": "This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code"
+  },
+  {
+    "title": "dair-ai/AI-Product-Index",
+    "url": "https://github.com/dair-ai/AI-Product-Index",
+    "desc": "A curated index to track AI-powered products."
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "timothybrooks/instruct-pix2pix",
+    "url": "https://github.com/timothybrooks/instruct-pix2pix",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "desc": "🐙 Guide and resources for prompt engineering"
+  },
+  {
+    "title": "DaviMarta/Automatiza-o",
+    "url": "https://github.com/DaviMarta/Automatiza-o",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "daveshap/LongtermChatExternalSources",
+    "url": "https://github.com/daveshap/LongtermChatExternalSources",
+    "desc": "GPT-3 chatbot with long-term memory and external sources",
+    "lang": "Python"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  }
+]
