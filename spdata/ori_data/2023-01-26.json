@@ -1,0 +1,150 @@
+[
+  {
+    "title": "shadcn/ui",
+    "url": "https://github.com/shadcn/ui",
+    "desc": "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "TheAppleTucker/backend-GPT",
+    "url": "https://github.com/TheAppleTucker/backend-GPT",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/material-design-icons",
+    "url": "https://github.com/google/material-design-icons",
+    "desc": "Material Design icons by Google"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "lang": "Rust"
+  },
+  {
+    "title": "DaviMarta/Automatiza-o",
+    "url": "https://github.com/DaviMarta/Automatiza-o",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/comprehensive-rust",
+    "url": "https://github.com/google/comprehensive-rust",
+    "desc": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
+    "lang": "Rust"
+  },
+  {
+    "title": "karpathy/nn-zero-to-hero",
+    "url": "https://github.com/karpathy/nn-zero-to-hero",
+    "desc": "Neural Networks: Zero to Hero",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "initialcommit-com/git-sim",
+    "url": "https://github.com/initialcommit-com/git-sim",
+    "desc": "Visually simulate Git operations in your own repos with a single terminal command.",
+    "lang": "Python"
+  },
+  {
+    "title": "daveshap/LongtermChatExternalSources",
+    "url": "https://github.com/daveshap/LongtermChatExternalSources",
+    "desc": "GPT-3 chatbot with long-term memory and external sources",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "lang": "C++"
+  },
+  {
+    "title": "calcom/cal.com",
+    "url": "https://github.com/calcom/cal.com",
+    "desc": "Scheduling infrastructure for absolutely everyone.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "lang": "CSS"
+  },
+  {
+    "title": "deepmap/oapi-codegen",
+    "url": "https://github.com/deepmap/oapi-codegen",
+    "desc": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+    "lang": "Go"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "desc": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
+    "lang": "Rust"
+  },
+  {
+    "title": "udlbook/udlbook",
+    "url": "https://github.com/udlbook/udlbook",
+    "desc": "Understanding Deep Learning - Simon J.D. Prince",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "n00mkrad/text2image-gui",
+    "url": "https://github.com/n00mkrad/text2image-gui",
+    "desc": "Somewhat modular text2image GUI, initially just for Stable Diffusion",
+    "lang": "C#"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "C++"
+  },
+  {
+    "title": "LazyVim/LazyVim",
+    "url": "https://github.com/LazyVim/LazyVim",
+    "desc": "Neovim config for the lazy",
+    "lang": "Lua"
+  },
+  {
+    "title": "Liuhaixv/Goose_Goose_Duck_Hack",
+    "url": "https://github.com/Liuhaixv/Goose_Goose_Duck_Hack",
+    "desc": "External Hack for Goose Goose Duck. 鹅鸭杀外部辅助",
+    "lang": "C++"
+  },
+  {
+    "title": "nuxt/nuxt",
+    "url": "https://github.com/nuxt/nuxt",
+    "desc": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
+    "lang": "TypeScript"
+  }
+]

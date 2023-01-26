@@ -1,0 +1,142 @@
+[
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "1c7/chinese-independent-developer",
+    "url": "https://github.com/1c7/chinese-independent-developer",
+    "desc": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。怎么让它听你的话。"
+  },
+  {
+    "title": "xianyuyimu/TVBOX-",
+    "url": "https://github.com/xianyuyimu/TVBOX-",
+    "desc": "一木TVBOX自用",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "XayahSuSuSu/Android-DataBackup",
+    "url": "https://github.com/XayahSuSuSu/Android-DataBackup",
+    "desc": "数据备份 DataBackup for Android",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "XIU2/CloudflareSpeedTest",
+    "url": "https://github.com/XIU2/CloudflareSpeedTest",
+    "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~",
+    "lang": "Go"
+  },
+  {
+    "title": "xfangfang/wiliwili",
+    "url": "https://github.com/xfangfang/wiliwili",
+    "desc": "专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上 | Yet another Bilibili client [WIP]",
+    "lang": "C++"
+  },
+  {
+    "title": "ddy-ddy/cs-408",
+    "url": "https://github.com/ddy-ddy/cs-408",
+    "desc": "2023年计算机考研专业课程408相关的复习经验，资源和OneNote笔记"
+  },
+  {
+    "title": "deezertidal/shadowrocket-rules",
+    "url": "https://github.com/deezertidal/shadowrocket-rules",
+    "desc": "小火箭 shadowrocket 配置 模块 图文教程"
+  },
+  {
+    "title": "DessertHeart/Dive-Into-Blockchain",
+    "url": "https://github.com/DessertHeart/Dive-Into-Blockchain",
+    "desc": "旨在交流学习区块链技术，记录智能合约开发应用与相关安全练习的仓库🚀",
+    "lang": "Solidity"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "fscarmen/warp",
+    "url": "https://github.com/fscarmen/warp",
+    "desc": "WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "Cyril0563/lanjing_live",
+    "url": "https://github.com/Cyril0563/lanjing_live",
+    "desc": "🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看"
+  },
+  {
+    "title": "gonglei007/GameDevMind",
+    "url": "https://github.com/gonglei007/GameDevMind",
+    "desc": "最全面的游戏开发技术图谱。希望帮助游戏开发者们在已知的事情上节省时间，省出更多的精力，投入到更有创造性的工作中去。 | The most comprehensive game development technical map. Hope to help game developers save time on known things, and set aside more energy for more creative work.",
+    "lang": "Shell"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "yhArcadia/Yunzai-Bot-plugins-index",
+    "url": "https://github.com/yhArcadia/Yunzai-Bot-plugins-index",
+    "desc": "Yunzai-Bot云崽QQ机器人插件索引"
+  },
+  {
+    "title": "maotoumao/MusicFree",
+    "url": "https://github.com/maotoumao/MusicFree",
+    "desc": "插件化、定制化、无广告的免费音乐播放器",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chenzomi12/DeepLearningSystem",
+    "url": "https://github.com/chenzomi12/DeepLearningSystem",
+    "desc": "Deep Learning System core principles introduction.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sudoskys/Openaibot",
+    "url": "https://github.com/sudoskys/Openaibot",
+    "desc": "🤖 ChatBot/Assistant|🧀 通用事件层/IM/Muti Platform |Async | 👋 Supports continuous conversations | ⚡sh&docker ️deploy| 📦Provide Api Server|🎤 Azure/Vits Voice Chat | 📡Network Support| 🌻Voice Wake Assistants | (Waiting ChatGPT)",
+    "lang": "Python"
+  },
+  {
+    "title": "tv-player/apks",
+    "url": "https://github.com/tv-player/apks",
+    "desc": "一影视，TV影视，安卓"
+  },
+  {
+    "title": "xiaojieonly/Ehviewer_CN_SXJ",
+    "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+    "desc": "ehviewer，用爱发电，快乐前行",
+    "lang": "Java"
+  },
+  {
+    "title": "LittleBear4/OA-EXPTOOL",
+    "url": "https://github.com/LittleBear4/OA-EXPTOOL",
+    "desc": "OA综合利用工具，集合将近20款OA漏洞批量扫描",
+    "lang": "Python"
+  },
+  {
+    "title": "L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN",
+    "url": "https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN",
+    "desc": "如何将ChatGPT调教成一只猫娘"
+  },
+  {
+    "title": "ZJUZBW/Wotr-BD-LR",
+    "url": "https://github.com/ZJUZBW/Wotr-BD-LR",
+    "desc": "正义之怒Wotr主角BD搜集"
+  }
+]

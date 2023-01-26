@@ -1,0 +1,152 @@
+[
+  {
+    "title": "initialcommit-com/git-sim",
+    "url": "https://github.com/initialcommit-com/git-sim",
+    "desc": "Visually simulate Git operations in your own repos with a single terminal command.",
+    "lang": "Python"
+  },
+  {
+    "title": "daveshap/LongtermChatExternalSources",
+    "url": "https://github.com/daveshap/LongtermChatExternalSources",
+    "desc": "GPT-3 chatbot with long-term memory and external sources",
+    "lang": "Python"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "readthedocs/readthedocs.org",
+    "url": "https://github.com/readthedocs/readthedocs.org",
+    "desc": "The source code that powers readthedocs.org",
+    "lang": "Python"
+  },
+  {
+    "title": "CarperAI/trlx",
+    "url": "https://github.com/CarperAI/trlx",
+    "desc": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+    "lang": "Python"
+  },
+  {
+    "title": "kserve/kserve",
+    "url": "https://github.com/kserve/kserve",
+    "desc": "Standardized Serverless ML Inference Platform on Kubernetes",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "desc": "Experience macOS just like before",
+    "lang": "Python"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "desc": "Download market data from Yahoo! Finance's API",
+    "lang": "Python"
+  },
+  {
+    "title": "PRBonn/kiss-icp",
+    "url": "https://github.com/PRBonn/kiss-icp",
+    "desc": "KISS-ICP: In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done in the Right Way https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/vizzo2023ral.pdf",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/AI-Writer",
+    "url": "https://github.com/BlinkDL/AI-Writer",
+    "desc": "AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "brycedrennan/imaginAIry",
+    "url": "https://github.com/brycedrennan/imaginAIry",
+    "desc": "AI imagined images. Pythonic generation of stable diffusion images.",
+    "lang": "Python"
+  },
+  {
+    "title": "PanolasVal/Valorant-cheat-aimbot-and-esp-undetected-by-Panolas",
+    "url": "https://github.com/PanolasVal/Valorant-cheat-aimbot-and-esp-undetected-by-Panolas",
+    "desc": "Best Undetected Valorant Cheeto, strictly for educational purposes only!!!",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/torchgeo",
+    "url": "https://github.com/microsoft/torchgeo",
+    "desc": "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-python",
+    "url": "https://github.com/openai/openai-python",
+    "desc": "The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.",
+    "lang": "Python"
+  },
+  {
+    "title": "AzeemIdrisi/PhoneSploit-Pro",
+    "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
+    "desc": "An All-In-One hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "desc": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
+    "lang": "Python"
+  },
+  {
+    "title": "GoogleCloudPlatform/microservices-demo",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "desc": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "frappe/frappe",
+    "url": "https://github.com/frappe/frappe",
+    "desc": "Low code web framework for real world applications, in Python and Javascript",
+    "lang": "Python"
+  },
+  {
+    "title": "lvwerra/trl",
+    "url": "https://github.com/lvwerra/trl",
+    "desc": "Train transformer language models with reinforcement learning.",
+    "lang": "Python"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "desc": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "lang": "Python"
+  },
+  {
+    "title": "eternnoir/pyTelegramBotAPI",
+    "url": "https://github.com/eternnoir/pyTelegramBotAPI",
+    "desc": "Python Telegram bot api.",
+    "lang": "Python"
+  }
+]
