@@ -1,0 +1,150 @@
+[
+  {
+    "title": "shadcn/ui",
+    "url": "https://github.com/shadcn/ui",
+    "desc": "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAppleTucker/backend-GPT",
+    "url": "https://github.com/TheAppleTucker/backend-GPT",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AzeemIdrisi/PhoneSploit-Pro",
+    "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
+    "desc": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/news_toolkit",
+    "url": "https://github.com/flutter/news_toolkit",
+    "desc": "A news template application built in Flutter, by Google and Very Good Ventures. Learn more at: https://flutter.github.io/news_toolkit",
+    "lang": "Dart"
+  },
+  {
+    "title": "HexRaysSA/goomba",
+    "url": "https://github.com/HexRaysSA/goomba",
+    "desc": "gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/nn-zero-to-hero",
+    "url": "https://github.com/karpathy/nn-zero-to-hero",
+    "desc": "Neural Networks: Zero to Hero",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "localsend/localsend",
+    "url": "https://github.com/localsend/localsend",
+    "desc": "An open source cross-platform alternative to AirDrop",
+    "lang": "Dart"
+  },
+  {
+    "title": "google/material-design-icons",
+    "url": "https://github.com/google/material-design-icons",
+    "desc": "Material Design icons by Google"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "desc": "Experience macOS just like before",
+    "lang": "Python"
+  },
+  {
+    "title": "evrone/go-clean-template",
+    "url": "https://github.com/evrone/go-clean-template",
+    "desc": "Clean Architecture template for Golang services",
+    "lang": "Go"
+  },
+  {
+    "title": "daveshap/LongtermChatExternalSources",
+    "url": "https://github.com/daveshap/LongtermChatExternalSources",
+    "desc": "GPT-3 chatbot with long-term memory and external sources",
+    "lang": "Python"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "lang": "C++"
+  },
+  {
+    "title": "dotnet/efcore",
+    "url": "https://github.com/dotnet/efcore",
+    "desc": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+    "lang": "C#"
+  },
+  {
+    "title": "trufflesecurity/trufflehog",
+    "url": "https://github.com/trufflesecurity/trufflehog",
+    "desc": "Find credentials all over the place",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/jest",
+    "url": "https://github.com/facebook/jest",
+    "desc": "Delightful JavaScript Testing.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "t3-oss/create-t3-turbo",
+    "url": "https://github.com/t3-oss/create-t3-turbo",
+    "desc": "Clean and simple starter repo using the T3 Stack along with Expo React Native",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Mokshit06/typewind",
+    "url": "https://github.com/Mokshit06/typewind",
+    "desc": "The safety of Typescript with the magic of Tailwind.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bridgecrewio/checkov",
+    "url": "https://github.com/bridgecrewio/checkov",
+    "desc": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+    "lang": "Python"
+  }
+]
