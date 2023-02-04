@@ -1,0 +1,152 @@
+[
+  {
+    "title": "BlinkDL/ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "desc": "ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.",
+    "lang": "Python"
+  },
+  {
+    "title": "daveshap/raven",
+    "url": "https://github.com/daveshap/raven",
+    "desc": "RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Reverse engineered ChatGPT API. Uses official model same as the website.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/BioGPT",
+    "url": "https://github.com/microsoft/BioGPT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-python",
+    "url": "https://github.com/openai/openai-python",
+    "desc": "The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmpose",
+    "url": "https://github.com/open-mmlab/mmpose",
+    "desc": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmclassification",
+    "url": "https://github.com/open-mmlab/mmclassification",
+    "desc": "OpenMMLab Image Classification Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "heatz123/naturalspeech",
+    "url": "https://github.com/heatz123/naturalspeech",
+    "desc": "A fully working pytorch implementation of NaturalSpeech (Tan et al., 2022)",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "desc": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "lang": "Python"
+  },
+  {
+    "title": "bmaltais/kohya_ss",
+    "url": "https://github.com/bmaltais/kohya_ss",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "cleanlab/cleanlab",
+    "url": "https://github.com/cleanlab/cleanlab",
+    "desc": "The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.",
+    "lang": "Python"
+  },
+  {
+    "title": "Anjok07/ultimatevocalremovergui",
+    "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+    "desc": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "desc": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "PyCQA/pylint",
+    "url": "https://github.com/PyCQA/pylint",
+    "desc": "It's not just a linter that annoys you!",
+    "lang": "Python"
+  },
+  {
+    "title": "alexey-goloburdin/botanim-bot",
+    "url": "https://github.com/alexey-goloburdin/botanim-bot",
+    "desc": "Telegram bot for botanim.to.digital",
+    "lang": "Python"
+  },
+  {
+    "title": "StackStorm/st2",
+    "url": "https://github.com/StackStorm/st2",
+    "desc": "StackStorm (aka IFTTT for Ops) is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookincubator/AITemplate",
+    "url": "https://github.com/facebookincubator/AITemplate",
+    "desc": "AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.",
+    "lang": "Python"
+  },
+  {
+    "title": "JustAnotherArchivist/snscrape",
+    "url": "https://github.com/JustAnotherArchivist/snscrape",
+    "desc": "A social networking service scraper in Python",
+    "lang": "Python"
+  }
+]
