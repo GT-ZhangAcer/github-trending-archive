@@ -1,0 +1,149 @@
+[
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Reverse engineered ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "nostr-protocol/nostr",
+    "url": "https://github.com/nostr-protocol/nostr",
+    "desc": "a truly censorship-resistant alternative to Twitter that has a chance of working"
+  },
+  {
+    "title": "damus-io/damus",
+    "url": "https://github.com/damus-io/damus",
+    "desc": "iOS nostr client",
+    "lang": "Swift"
+  },
+  {
+    "title": "microsoft/BioGPT",
+    "url": "https://github.com/microsoft/BioGPT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "waylaidwanderer/node-chatgpt-api",
+    "url": "https://github.com/waylaidwanderer/node-chatgpt-api",
+    "desc": "A ChatGPT implementation using the official ChatGPT model via OpenAI's API.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "transitive-bullshit/chatgpt-api",
+    "url": "https://github.com/transitive-bullshit/chatgpt-api",
+    "desc": "Node.js client for the unofficial ChatGPT API. 🔥",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "desc": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "AutumnWhj/ChatGPT-wechat-bot",
+    "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "desc": "ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "Cameri/nostream",
+    "url": "https://github.com/Cameri/nostream",
+    "desc": "A Nostr Relay written in TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hikari-no-yume/touchHLE",
+    "url": "https://github.com/hikari-no-yume/touchHLE",
+    "desc": "High-level emulator for iPhone OS apps",
+    "lang": "Rust"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "desc": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Zero6992/chatGPT-discord-bot",
+    "url": "https://github.com/Zero6992/chatGPT-discord-bot",
+    "desc": "Integrate ChatGPT into your own discord bot",
+    "lang": "Python"
+  },
+  {
+    "title": "adrianhajdin/project_hoobank",
+    "url": "https://github.com/adrianhajdin/project_hoobank",
+    "desc": "Modern UI/UX website using React.js & Tailwind CSS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dudykr/stc",
+    "url": "https://github.com/dudykr/stc",
+    "desc": "Speedy TypeScript type checker",
+    "lang": "Rust"
+  },
+  {
+    "title": "misskey-dev/misskey",
+    "url": "https://github.com/misskey-dev/misskey",
+    "desc": "🌎 An interplanetary microblogging platform 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "servo/servo",
+    "url": "https://github.com/servo/servo",
+    "desc": "The Servo Browser Engine"
+  },
+  {
+    "title": "daveshap/raven",
+    "url": "https://github.com/daveshap/raven",
+    "desc": "RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "LeagueOfPoro/CapsuleFarmerEvolved",
+    "url": "https://github.com/LeagueOfPoro/CapsuleFarmerEvolved",
+    "desc": "Automatically drops from lolesports.com and farm Esports Capsules",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "A-poc/RedTeam-Tools",
+    "url": "https://github.com/A-poc/RedTeam-Tools",
+    "desc": "Tools and Techniques for Red Team / Penetration Testing"
+  }
+]
