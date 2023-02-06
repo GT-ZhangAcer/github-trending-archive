@@ -1,0 +1,148 @@
+[
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "lang": "Python"
+  },
+  {
+    "title": "motion-canvas/motion-canvas",
+    "url": "https://github.com/motion-canvas/motion-canvas",
+    "desc": "Web-based tool for creating animations programmatically",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "arc53/docsgpt",
+    "url": "https://github.com/arc53/docsgpt",
+    "desc": "Use documentation and ask questions directly with DocsGPT",
+    "lang": "HTML"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Reverse engineered ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A modern runtime for JavaScript and TypeScript.",
+    "lang": "Rust"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "hikari-no-yume/touchHLE",
+    "url": "https://github.com/hikari-no-yume/touchHLE",
+    "desc": "High-level emulator for iPhone OS apps",
+    "lang": "Rust"
+  },
+  {
+    "title": "Zero6992/chatGPT-discord-bot",
+    "url": "https://github.com/Zero6992/chatGPT-discord-bot",
+    "desc": "Integrate ChatGPT into your own discord bot",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "desc": "💯 Curated coding interview preparation materials for busy software engineers",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "LeagueOfPoro/CapsuleFarmerEvolved",
+    "url": "https://github.com/LeagueOfPoro/CapsuleFarmerEvolved",
+    "desc": "Automatically drops from lolesports.com and farm Esports Capsules",
+    "lang": "Python"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "desc": "Bitcoin Core integration/staging tree",
+    "lang": "C++"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hyprwm/Hyprland",
+    "url": "https://github.com/hyprwm/Hyprland",
+    "desc": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "lang": "C++"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "title": "TheAlgorithms/JavaScript",
+    "url": "https://github.com/TheAlgorithms/JavaScript",
+    "desc": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "techiescamp/kubernetes-learning-path",
+    "url": "https://github.com/techiescamp/kubernetes-learning-path",
+    "desc": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)"
+  },
+  {
+    "title": "vasanthk/how-web-works",
+    "url": "https://github.com/vasanthk/how-web-works",
+    "desc": "What happens behind the scenes when we type www.google.com in a browser?"
+  },
+  {
+    "title": "orlp/glidesort",
+    "url": "https://github.com/orlp/glidesort",
+    "desc": "A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/BioGPT",
+    "url": "https://github.com/microsoft/BioGPT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Reverse engineered ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "Zero6992/chatGPT-discord-bot",
+    "url": "https://github.com/Zero6992/chatGPT-discord-bot",
+    "desc": "Integrate ChatGPT into your own discord bot",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "desc": "Investment Research for Everyone, Anywhere.",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "LeagueOfPoro/CapsuleFarmerEvolved",
+    "url": "https://github.com/LeagueOfPoro/CapsuleFarmerEvolved",
+    "desc": "Automatically drops from lolesports.com and farm Esports Capsules",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/BioGPT",
+    "url": "https://github.com/microsoft/BioGPT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "daveshap/raven",
+    "url": "https://github.com/daveshap/raven",
+    "desc": "RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "mmz-001/knowledge_gpt",
+    "url": "https://github.com/mmz-001/knowledge_gpt",
+    "desc": "Accurate answers and instant citations for your documents.",
+    "lang": "Python"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmclassification",
+    "url": "https://github.com/open-mmlab/mmclassification",
+    "desc": "OpenMMLab Image Classification Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "desc": "Free, open source crypto trading bot",
+    "lang": "Python"
+  },
+  {
+    "title": "mikf/gallery-dl",
+    "url": "https://github.com/mikf/gallery-dl",
+    "desc": "Command-line program to download image galleries and collections from several image hosting sites",
+    "lang": "Python"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "desc": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "blakeblackshear/frigate",
+    "url": "https://github.com/blakeblackshear/frigate",
+    "desc": "NVR with realtime local object detection for IP cameras",
+    "lang": "Python"
+  },
+  {
+    "title": "amazon-science/mm-cot",
+    "url": "https://github.com/amazon-science/mm-cot",
+    "desc": "Official implementation for Multimodal Chain-of-Thought Reasoning in Language Models (stay tuned and more will be updated)",
+    "lang": "Python"
+  },
+  {
+    "title": "bmaltais/kohya_ss",
+    "url": "https://github.com/bmaltais/kohya_ss",
+    "desc": "",
+    "lang": "Python"
+  }
+]
