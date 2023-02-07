@@ -1,0 +1,147 @@
+[
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Reverse engineered ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "motion-canvas/motion-canvas",
+    "url": "https://github.com/motion-canvas/motion-canvas",
+    "desc": "Visualize Complex Ideas Programmatically",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Zero6992/chatGPT-discord-bot",
+    "url": "https://github.com/Zero6992/chatGPT-discord-bot",
+    "desc": "Integrate ChatGPT into your own discord bot",
+    "lang": "Python"
+  },
+  {
+    "title": "techiescamp/kubernetes-learning-path",
+    "url": "https://github.com/techiescamp/kubernetes-learning-path",
+    "desc": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "arc53/DocsGPT",
+    "url": "https://github.com/arc53/DocsGPT",
+    "desc": "GPT-powered chat for documentation search & assistance.",
+    "lang": "Python"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。怎么让它听你的话。"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "lang": "Python"
+  },
+  {
+    "title": "ddPn08/Lsmith",
+    "url": "https://github.com/ddPn08/Lsmith",
+    "desc": "StableDiffusionWebUI accelerated using TensorRT",
+    "lang": "Python"
+  },
+  {
+    "title": "AutumnWhj/ChatGPT-wechat-bot",
+    "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "desc": "ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/review-checklists",
+    "url": "https://github.com/Azure/review-checklists",
+    "desc": "This repo contains code and examples to operationalize spreadsheet-based checklists that can be used for Azure design reviews on multiple technologies.",
+    "lang": "VBA"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "youshandefeiyang/IPTV",
+    "url": "https://github.com/youshandefeiyang/IPTV",
+    "desc": "肥羊的4K/8K超高清IPTV直播源&&直播代码仓库",
+    "lang": "Go"
+  },
+  {
+    "title": "hikari-no-yume/touchHLE",
+    "url": "https://github.com/hikari-no-yume/touchHLE",
+    "desc": "High-level emulator for iPhone OS apps",
+    "lang": "Rust"
+  },
+  {
+    "title": "LeagueOfPoro/CapsuleFarmerEvolved",
+    "url": "https://github.com/LeagueOfPoro/CapsuleFarmerEvolved",
+    "desc": "Automatically drops from lolesports.com and farm Esports Capsules",
+    "lang": "Python"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "desc": "Free and open source manga reader for Android.",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "stefan-jansen/machine-learning-for-trading",
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "TheD1rkMtr/NTDLLReflection",
+    "url": "https://github.com/TheD1rkMtr/NTDLLReflection",
+    "desc": "Bypass Userland EDR hooks by Loading Reflective Ntdll in memory from a remote server based on Windows ReleaseID to avoid opening a handle to ntdll , and trigger exported APIs from the export table",
+    "lang": "C++"
+  },
+  {
+    "title": "eliaszon/Programmers-Overseas-Job-Interview-Handbook",
+    "url": "https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook",
+    "desc": "🏂🏻 程序员海外工作/英文面试手册"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "desc": "A modern runtime for JavaScript and TypeScript.",
+    "lang": "Rust"
+  },
+  {
+    "title": "lencx/ChatGPT",
+    "url": "https://github.com/lencx/ChatGPT",
+    "desc": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "lang": "Rust"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  }
+]
