@@ -1,0 +1,152 @@
+[
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Reverse engineered ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "Zero6992/chatGPT-discord-bot",
+    "url": "https://github.com/Zero6992/chatGPT-discord-bot",
+    "desc": "Integrate ChatGPT into your own discord bot",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "lang": "Python"
+  },
+  {
+    "title": "ddPn08/Lsmith",
+    "url": "https://github.com/ddPn08/Lsmith",
+    "desc": "StableDiffusionWebUI accelerated using TensorRT",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "LeagueOfPoro/CapsuleFarmerEvolved",
+    "url": "https://github.com/LeagueOfPoro/CapsuleFarmerEvolved",
+    "desc": "Automatically drops from lolesports.com and farm Esports Capsules",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/BioGPT",
+    "url": "https://github.com/microsoft/BioGPT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "desc": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+    "lang": "Python"
+  },
+  {
+    "title": "AIGCT/EASYChatGPT",
+    "url": "https://github.com/AIGCT/EASYChatGPT",
+    "desc": "This is an application project of 'chatgpt',only applicable to desktop environment.",
+    "lang": "Python"
+  },
+  {
+    "title": "mmz-001/knowledge_gpt",
+    "url": "https://github.com/mmz-001/knowledge_gpt",
+    "desc": "Accurate answers and instant citations for your documents.",
+    "lang": "Python"
+  },
+  {
+    "title": "jxxghp/nas-tools",
+    "url": "https://github.com/jxxghp/nas-tools",
+    "desc": "NAS媒体库资源归集、整理自动化工具",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "Rudrabha/Wav2Lip",
+    "url": "https://github.com/Rudrabha/Wav2Lip",
+    "desc": "This repository contains the codes of A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild, published at ACM Multimedia 2020.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "desc": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "lang": "Python"
+  },
+  {
+    "title": "chidiwilliams/buzz",
+    "url": "https://github.com/chidiwilliams/buzz",
+    "desc": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+    "lang": "Python"
+  },
+  {
+    "title": "bellingcat/octosuite",
+    "url": "https://github.com/bellingcat/octosuite",
+    "desc": "Advanced Github OSINT Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "approximatelabs/sketch",
+    "url": "https://github.com/approximatelabs/sketch",
+    "desc": "AI code-writing assistant that understands data content",
+    "lang": "Python"
+  },
+  {
+    "title": "yerfor/GeneFace",
+    "url": "https://github.com/yerfor/GeneFace",
+    "desc": "GeneFace: Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code",
+    "lang": "Python"
+  },
+  {
+    "title": "uptrain-ai/uptrain",
+    "url": "https://github.com/uptrain-ai/uptrain",
+    "desc": "Your open-source ML monitoring and refinement toolkit.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "desc": "Repo for external large-scale work",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "OpenAI ChatGPT for Mirai QQ Bot，QQ 聊天机器人！ 每个群组/好友单独一个 Conversation，文字转图片发送， Docker 快速部署，反向代理加速 (部分代码由 ChatGPT 生成）",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "lang": "Python"
+  }
+]
