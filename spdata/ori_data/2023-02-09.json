@@ -1,0 +1,148 @@
+[
+  {
+    "title": "acikkaynak/deprem-yardim-frontend",
+    "url": "https://github.com/acikkaynak/deprem-yardim-frontend",
+    "desc": "afetharita.com frontend projesi. https://rc.afetharita.com/",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "acikkaynak/deprem-yardim-backend",
+    "url": "https://github.com/acikkaynak/deprem-yardim-backend",
+    "desc": "afetharita.com backend projesi",
+    "lang": "Python"
+  },
+  {
+    "title": "AutumnWhj/ChatGPT-wechat-bot",
+    "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "desc": "ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fuergaosi233/wechat-chatgpt",
+    "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "desc": "Use ChatGPT On Wechat via wechaty",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dabit3/gpt-travel-advisor",
+    "url": "https://github.com/dabit3/gpt-travel-advisor",
+    "desc": "Create a travel itinerary for any city in the world in just a few seconds",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "motion-canvas/motion-canvas",
+    "url": "https://github.com/motion-canvas/motion-canvas",
+    "desc": "Visualize Complex Ideas Programmatically",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "waylaidwanderer/node-chatgpt-api",
+    "url": "https://github.com/waylaidwanderer/node-chatgpt-api",
+    "desc": "A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT, plus the official ChatGPT model via OpenAI's API. Available as a Node.js module, REST API server, and CLI app.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PowerJob/PowerJob",
+    "url": "https://github.com/PowerJob/PowerJob",
+    "desc": "Enterprise job scheduling middleware with distributed computing ability.",
+    "lang": "Java"
+  },
+  {
+    "title": "Zero6992/chatGPT-discord-bot",
+    "url": "https://github.com/Zero6992/chatGPT-discord-bot",
+    "desc": "Integrate ChatGPT into your own discord bot",
+    "lang": "Python"
+  },
+  {
+    "title": "acikkaynak/deprem-yardim-projesi",
+    "url": "https://github.com/acikkaynak/deprem-yardim-projesi",
+    "desc": ""
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "TEXTurePaper/TEXTurePaper",
+    "url": "https://github.com/TEXTurePaper/TEXTurePaper",
+    "desc": "Official Implementation for TEXTure: Semantic Texture Transfer using Text Tokens",
+    "lang": "Python"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+  },
+  {
+    "title": "djun/wechatbot",
+    "url": "https://github.com/djun/wechatbot",
+    "desc": "为个人微信接入ChatGPT",
+    "lang": "Go"
+  },
+  {
+    "title": "A-poc/BlueTeam-Tools",
+    "url": "https://github.com/A-poc/BlueTeam-Tools",
+    "desc": "Tools and Techniques for Blue Team / Incident Response"
+  },
+  {
+    "title": "devfullcycle/imersao12",
+    "url": "https://github.com/devfullcycle/imersao12",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Reverse engineered ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "desc": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "lang": "Python"
+  },
+  {
+    "title": "lencx/ChatGPT",
+    "url": "https://github.com/lencx/ChatGPT",
+    "desc": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "lang": "Rust"
+  },
+  {
+    "title": "eatmoreapple/openwechat",
+    "url": "https://github.com/eatmoreapple/openwechat",
+    "desc": "golang微信SDK",
+    "lang": "Go"
+  },
+  {
+    "title": "AIGCT/EASYChatGPT",
+    "url": "https://github.com/AIGCT/EASYChatGPT",
+    "desc": "This is an application project of 'chatgpt',only applicable to desktop environment.",
+    "lang": "Python"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "desc": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵"
+  },
+  {
+    "title": "wangrongding/wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "desc": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+    "lang": "JavaScript"
+  }
+]
