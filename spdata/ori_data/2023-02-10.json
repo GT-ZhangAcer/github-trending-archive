@@ -1,0 +1,148 @@
+[
+  {
+    "title": "fuergaosi233/wechat-chatgpt",
+    "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "desc": "Use ChatGPT On Wechat via wechaty",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AutumnWhj/ChatGPT-wechat-bot",
+    "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "desc": "ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "motion-canvas/motion-canvas",
+    "url": "https://github.com/motion-canvas/motion-canvas",
+    "desc": "Visualize Complex Ideas Programmatically",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "djun/wechatbot",
+    "url": "https://github.com/djun/wechatbot",
+    "desc": "为个人微信接入ChatGPT",
+    "lang": "Go"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "Zero6992/chatGPT-discord-bot",
+    "url": "https://github.com/Zero6992/chatGPT-discord-bot",
+    "desc": "Integrate ChatGPT into your own discord bot",
+    "lang": "Python"
+  },
+  {
+    "title": "acikkaynak/deprem-yardim-backend",
+    "url": "https://github.com/acikkaynak/deprem-yardim-backend",
+    "desc": "afetharita.com backend projesi",
+    "lang": "Python"
+  },
+  {
+    "title": "samim23/polymath",
+    "url": "https://github.com/samim23/polymath",
+    "desc": "Convert any music library into a music production sample-library with ML",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "BaRRaKudaRain/PCem-ROMs",
+    "url": "https://github.com/BaRRaKudaRain/PCem-ROMs",
+    "desc": "This is a collection of requiered ROMs files for PCem emulator. RIP PCem 2021"
+  },
+  {
+    "title": "eliaszon/Programmers-Overseas-Job-Interview-Handbook",
+    "url": "https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook",
+    "desc": "🏂🏻 程序员海外工作/英文面试手册"
+  },
+  {
+    "title": "AIGCT/EASYChatGPT",
+    "url": "https://github.com/AIGCT/EASYChatGPT",
+    "desc": "This is an application project of 'chatgpt',only applicable to desktop environment.",
+    "lang": "Python"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+  },
+  {
+    "title": "houko/wechatgpt",
+    "url": "https://github.com/houko/wechatgpt",
+    "desc": "wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）",
+    "lang": "Go"
+  },
+  {
+    "title": "lencx/ChatGPT",
+    "url": "https://github.com/lencx/ChatGPT",
+    "desc": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "lang": "Rust"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Reverse engineered ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "eatmoreapple/openwechat",
+    "url": "https://github.com/eatmoreapple/openwechat",
+    "desc": "golang微信SDK",
+    "lang": "Go"
+  },
+  {
+    "title": "cezaraugusto/You-Dont-Know-JS",
+    "url": "https://github.com/cezaraugusto/You-Dont-Know-JS",
+    "desc": "📗📒 (PT-Br translation) JS Book Series.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "acikkaynak/deprem-yardim-frontend",
+    "url": "https://github.com/acikkaynak/deprem-yardim-frontend",
+    "desc": "afetharita.com frontend projesi. https://rc.afetharita.com/",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "shajen/rtl-sdr-scanner-cpp",
+    "url": "https://github.com/shajen/rtl-sdr-scanner-cpp",
+    "desc": "",
+    "lang": "C++"
+  },
+  {
+    "title": "Fndroid/clash_for_windows_pkg",
+    "url": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "desc": "A Windows/macOS GUI based on Clash"
+  },
+  {
+    "title": "kyujin-cho/pixel-volte-patch",
+    "url": "https://github.com/kyujin-cho/pixel-volte-patch",
+    "desc": "Rootless replacement for persist.dbg.volte_avail_ovr patch",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "acikkaynak/yardim-agi-flutter",
+    "url": "https://github.com/acikkaynak/yardim-agi-flutter",
+    "desc": "Bu uygulama, ihtiyaç sahibi depremzedelerin hangi adreste, nelere ihtiyaçları olduğu ve iletişim alma yöntemi bilgilerini ekleyebildiği; aynı zamanda girilen ihtiyaç taleplerinin listelenerek yardımseverlerin bu ihtiyaçları karşılayabilmesi amacıyla tasarlandı.",
+    "lang": "Dart"
+  }
+]
