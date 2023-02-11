@@ -1,0 +1,149 @@
+[
+  {
+    "title": "acikkaynak/deprem-yardim-backend-go",
+    "url": "https://github.com/acikkaynak/deprem-yardim-backend-go",
+    "desc": "",
+    "lang": "Go"
+  },
+  {
+    "title": "cloudflare/wildebeest",
+    "url": "https://github.com/cloudflare/wildebeest",
+    "desc": "Wildebeest is an ActivityPub and Mastodon-compatible server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jaymody/picoGPT",
+    "url": "https://github.com/jaymody/picoGPT",
+    "desc": "An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.",
+    "lang": "Python"
+  },
+  {
+    "title": "eliaszon/Programmers-Overseas-Job-Interview-Handbook",
+    "url": "https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook",
+    "desc": "🏂🏻 程序员海外工作/英文面试手册"
+  },
+  {
+    "title": "uutils/coreutils",
+    "url": "https://github.com/uutils/coreutils",
+    "desc": "Cross-platform Rust rewrite of the GNU coreutils",
+    "lang": "Rust"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
+    "lang": "Rust"
+  },
+  {
+    "title": "MichalGeyer/plug-and-play",
+    "url": "https://github.com/MichalGeyer/plug-and-play",
+    "desc": "Official Pytorch Implementation for “Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation”",
+    "lang": "Python"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "djun/wechatbot",
+    "url": "https://github.com/djun/wechatbot",
+    "desc": "为个人微信接入ChatGPT",
+    "lang": "Go"
+  },
+  {
+    "title": "fuergaosi233/wechat-chatgpt",
+    "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "desc": "Use ChatGPT On Wechat via wechaty",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheD1rkMtr/FilelessPELoader",
+    "url": "https://github.com/TheD1rkMtr/FilelessPELoader",
+    "desc": "Loading Remote AES Encrypted PE in memory , Decrypted it and run it",
+    "lang": "C++"
+  },
+  {
+    "title": "eryajf/chatgpt-dingtalk",
+    "url": "https://github.com/eryajf/chatgpt-dingtalk",
+    "desc": "ChatGPT机器人在钉钉群聊中交互",
+    "lang": "Go"
+  },
+  {
+    "title": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "lang": "Go"
+  },
+  {
+    "title": "ethereum-optimism/op-analytics",
+    "url": "https://github.com/ethereum-optimism/op-analytics",
+    "desc": "On-Chain Data, Utilities, References, and other Analytics on Optimism"
+  },
+  {
+    "title": "nerfstudio-project/nerfstudio",
+    "url": "https://github.com/nerfstudio-project/nerfstudio",
+    "desc": "A collaboration friendly studio for NeRFs",
+    "lang": "Python"
+  },
+  {
+    "title": "AIGCT/EASYChatGPT",
+    "url": "https://github.com/AIGCT/EASYChatGPT",
+    "desc": "This is an application project of 'chatgpt',only applicable to desktop environment.",
+    "lang": "Python"
+  },
+  {
+    "title": "leminlimez/Cowabunga",
+    "url": "https://github.com/leminlimez/Cowabunga",
+    "desc": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox",
+    "lang": "Swift"
+  },
+  {
+    "title": "PlexPt/chatgpt-java",
+    "url": "https://github.com/PlexPt/chatgpt-java",
+    "desc": "ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.",
+    "lang": "Java"
+  },
+  {
+    "title": "Shopify/hydrogen",
+    "url": "https://github.com/Shopify/hydrogen",
+    "desc": "Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed to dovetail with Remix, Shopify’s full stack web framework, but it also provides a React library portable to other supporting frameworks.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Fndroid/clash_for_windows_pkg",
+    "url": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "desc": "A Windows/macOS GUI based on Clash"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "enhuiz/vall-e",
+    "url": "https://github.com/enhuiz/vall-e",
+    "desc": "An unofficial PyTorch implementation of the audio LM VALL-E",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "Leizhenpeng/feishu-chatGpt",
+    "url": "https://github.com/Leizhenpeng/feishu-chatGpt",
+    "desc": "Feishu ChatGpt 在飞书上与ChatGPT随时对话~",
+    "lang": "Go"
+  },
+  {
+    "title": "activepieces/activepieces",
+    "url": "https://github.com/activepieces/activepieces",
+    "desc": "No-code Business Automation Tool. An open source alternative to Zapier.",
+    "lang": "TypeScript"
+  }
+]

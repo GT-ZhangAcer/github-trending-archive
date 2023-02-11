@@ -1,0 +1,152 @@
+[
+  {
+    "title": "jaymody/picoGPT",
+    "url": "https://github.com/jaymody/picoGPT",
+    "desc": "An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.",
+    "lang": "Python"
+  },
+  {
+    "title": "MichalGeyer/plug-and-play",
+    "url": "https://github.com/MichalGeyer/plug-and-play",
+    "desc": "Official Pytorch Implementation for “Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation”",
+    "lang": "Python"
+  },
+  {
+    "title": "nerfstudio-project/nerfstudio",
+    "url": "https://github.com/nerfstudio-project/nerfstudio",
+    "desc": "A collaboration friendly studio for NeRFs",
+    "lang": "Python"
+  },
+  {
+    "title": "AIGCT/EASYChatGPT",
+    "url": "https://github.com/AIGCT/EASYChatGPT",
+    "desc": "This is an application project of 'chatgpt',only applicable to desktop environment.",
+    "lang": "Python"
+  },
+  {
+    "title": "enhuiz/vall-e",
+    "url": "https://github.com/enhuiz/vall-e",
+    "desc": "An unofficial PyTorch implementation of the audio LM VALL-E",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "desc": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "lang": "Python"
+  },
+  {
+    "title": "alexbieber/Bug_Bounty_writeups",
+    "url": "https://github.com/alexbieber/Bug_Bounty_writeups",
+    "desc": "BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴🔴✔",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "samim23/polymath",
+    "url": "https://github.com/samim23/polymath",
+    "desc": "Convert any music library into a music production sample-library with ML",
+    "lang": "Python"
+  },
+  {
+    "title": "YuxinWenRick/hard-prompts-made-easy",
+    "url": "https://github.com/YuxinWenRick/hard-prompts-made-easy",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmyolo",
+    "url": "https://github.com/open-mmlab/mmyolo",
+    "desc": "OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/EdgeGPT",
+    "url": "https://github.com/acheong08/EdgeGPT",
+    "desc": "Reverse engineered API of Microsoft's Bing Chat",
+    "lang": "Python"
+  },
+  {
+    "title": "josh0xA/darkdump",
+    "url": "https://github.com/josh0xA/darkdump",
+    "desc": "Search The Deep Web Straight From Your Terminal",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/yolov3",
+    "url": "https://github.com/ultralytics/yolov3",
+    "desc": "YOLOv3 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/ng-video-lecture",
+    "url": "https://github.com/karpathy/ng-video-lecture",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Netflix/dispatch",
+    "url": "https://github.com/Netflix/dispatch",
+    "desc": "All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!",
+    "lang": "Python"
+  },
+  {
+    "title": "Morizeyao/GPT2-Chinese",
+    "url": "https://github.com/Morizeyao/GPT2-Chinese",
+    "desc": "Chinese version of GPT2 training code, using BERT tokenizer.",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/x-transformers",
+    "url": "https://github.com/lucidrains/x-transformers",
+    "desc": "A simple but complete full-attention transformer with a set of promising experimental features from various papers",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "desc": "Code for the paper Language Models are Unsupervised Multitask Learners",
+    "lang": "Python"
+  },
+  {
+    "title": "HazyResearch/flash-attention",
+    "url": "https://github.com/HazyResearch/flash-attention",
+    "desc": "Fast and memory-efficient exact attention",
+    "lang": "Python"
+  },
+  {
+    "title": "OFA-Sys/OFA",
+    "url": "https://github.com/OFA-Sys/OFA",
+    "desc": "Official repository of OFA (ICML 2022). Paper: OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework",
+    "lang": "Python"
+  }
+]
