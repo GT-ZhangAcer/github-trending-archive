@@ -1,0 +1,149 @@
+[
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "desc": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alexbatalov/fallout1-ce",
+    "url": "https://github.com/alexbatalov/fallout1-ce",
+    "desc": "Fallout for modern operating systems",
+    "lang": "C++"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "annfelix/DEVOPS-WORLD",
+    "url": "https://github.com/annfelix/DEVOPS-WORLD",
+    "desc": ""
+  },
+  {
+    "title": "TheR1D/shell_gpt",
+    "url": "https://github.com/TheR1D/shell_gpt",
+    "desc": "A command-line interface (CLI) productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "google/styleguide",
+    "url": "https://github.com/google/styleguide",
+    "desc": "Style guides for Google-originated open-source projects",
+    "lang": "HTML"
+  },
+  {
+    "title": "acheong08/EdgeGPT",
+    "url": "https://github.com/acheong08/EdgeGPT",
+    "desc": "Reverse engineered API of Microsoft's Bing Chat",
+    "lang": "Python"
+  },
+  {
+    "title": "alexbatalov/fallout2-ce",
+    "url": "https://github.com/alexbatalov/fallout2-ce",
+    "desc": "Fallout 2 for modern operating systems",
+    "lang": "C++"
+  },
+  {
+    "title": "palera1n/palera1n-c",
+    "url": "https://github.com/palera1n/palera1n-c",
+    "desc": "palera1n written in C",
+    "lang": "C"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "bytemate/chatapi-single",
+    "url": "https://github.com/bytemate/chatapi-single",
+    "desc": "Simple and powerful ChatGPT-API-Server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "desc": "The modern web developer’s platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net."
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "desc": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "desc": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+    "lang": "Python"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "haoheliu/AudioLDM",
+    "url": "https://github.com/haoheliu/AudioLDM",
+    "desc": "AudioLDM: Generate speech, sound effects, music and beyond, with text.",
+    "lang": "Python"
+  },
+  {
+    "title": "tektoncd/pipeline",
+    "url": "https://github.com/tektoncd/pipeline",
+    "desc": "A cloud-native Pipeline resource.",
+    "lang": "Go"
+  },
+  {
+    "title": "btcpayserver/btcpayserver",
+    "url": "https://github.com/btcpayserver/btcpayserver",
+    "desc": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
+    "lang": "C#"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "desc": "Elegant HTTP Networking in Swift",
+    "lang": "Swift"
+  }
+]

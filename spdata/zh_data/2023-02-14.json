@@ -1,0 +1,150 @@
+[
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "eryajf/chatgpt-dingtalk",
+    "url": "https://github.com/eryajf/chatgpt-dingtalk",
+    "desc": "ChatGPT机器人在钉钉群聊中交互",
+    "lang": "Go"
+  },
+  {
+    "title": "xfangfang/wiliwili",
+    "url": "https://github.com/xfangfang/wiliwili",
+    "desc": "专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上 | Yet another Bilibili client",
+    "lang": "C++"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "HTML"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT Plus，对话上下文，文字转图片发送，代理加速 (部分代码由 ChatGPT 生成）",
+    "lang": "Python"
+  },
+  {
+    "title": "messense/aliyundrive-webdav",
+    "url": "https://github.com/messense/aliyundrive-webdav",
+    "desc": "阿里云盘 WebDAV 服务",
+    "lang": "Rust"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "37iOS/iChatGPT",
+    "url": "https://github.com/37iOS/iChatGPT",
+    "desc": "OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "cxasm/notepad--",
+    "url": "https://github.com/cxasm/notepad--",
+    "desc": "一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。",
+    "lang": "C++"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "memochou1993/gpt-ai-assistant",
+    "url": "https://github.com/memochou1993/gpt-ai-assistant",
+    "desc": "OpenAI + LINE + Vercel = GPT AI Assistant",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "XIU2/CloudflareSpeedTest",
+    "url": "https://github.com/XIU2/CloudflareSpeedTest",
+    "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~",
+    "lang": "Go"
+  },
+  {
+    "title": "chuzhixin/vue-admin-better",
+    "url": "https://github.com/chuzhixin/vue-admin-better",
+    "desc": "🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+    "lang": "Vue"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "layui/layui",
+    "url": "https://github.com/layui/layui",
+    "desc": "一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ikechan8370/chatgpt-plugin",
+    "url": "https://github.com/ikechan8370/chatgpt-plugin",
+    "desc": "云崽qq机器人的chatgpt插件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具",
+    "lang": "Python"
+  },
+  {
+    "title": "yangjianxin1/GPT2-chitchat",
+    "url": "https://github.com/yangjianxin1/GPT2-chitchat",
+    "desc": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)",
+    "lang": "Python"
+  },
+  {
+    "title": "easydu2002/chat_gpt_oicq",
+    "url": "https://github.com/easydu2002/chat_gpt_oicq",
+    "desc": "ChatGPT qq机器人 谁不想拥有一只可爱的猫娘呢~",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tickstep/aliyunpan",
+    "url": "https://github.com/tickstep/aliyunpan",
+    "desc": "阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件，支持同步备份功能。",
+    "lang": "Go"
+  },
+  {
+    "title": "xianyuyimu/TVBOX-",
+    "url": "https://github.com/xianyuyimu/TVBOX-",
+    "desc": "一木TVBOX自用",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PlexPt/chatgpt-java",
+    "url": "https://github.com/PlexPt/chatgpt-java",
+    "desc": "ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.",
+    "lang": "Java"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "wechat-miniprogram/minigame-unity-webgl-transform",
+    "url": "https://github.com/wechat-miniprogram/minigame-unity-webgl-transform",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, YOLOv8, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+    "lang": "Python"
+  }
+]

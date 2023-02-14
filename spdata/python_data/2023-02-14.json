@@ -1,0 +1,152 @@
+[
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "TheR1D/shell_gpt",
+    "url": "https://github.com/TheR1D/shell_gpt",
+    "desc": "A command-line interface (CLI) productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/EdgeGPT",
+    "url": "https://github.com/acheong08/EdgeGPT",
+    "desc": "Reverse engineered API of Microsoft's Bing Chat",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "desc": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+    "lang": "Python"
+  },
+  {
+    "title": "haoheliu/AudioLDM",
+    "url": "https://github.com/haoheliu/AudioLDM",
+    "desc": "AudioLDM: Generate speech, sound effects, music and beyond, with text.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Main Rule Repository",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/peft",
+    "url": "https://github.com/huggingface/peft",
+    "desc": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "desc": "Code for the paper Language Models are Unsupervised Multitask Learners",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/ChatGPT-Proxy",
+    "url": "https://github.com/acheong08/ChatGPT-Proxy",
+    "desc": "Forward requests and inject cloudflare cookies",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "jaymody/picoGPT",
+    "url": "https://github.com/jaymody/picoGPT",
+    "desc": "An unnecessarily tiny implementation of GPT-2 in NumPy.",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "Deep learning framework to train, deploy, and ship AI products Lightning fast.",
+    "lang": "Python"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "desc": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "lang": "Python"
+  },
+  {
+    "title": "karfly/chatgpt_telegram_bot",
+    "url": "https://github.com/karfly/chatgpt_telegram_bot",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT Plus，对话上下文，文字转图片发送，代理加速 (部分代码由 ChatGPT 生成）",
+    "lang": "Python"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "desc": "deep learning for image processing including classification and object-detection etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "t3l3machus/Villain",
+    "url": "https://github.com/t3l3machus/Villain",
+    "desc": "Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.",
+    "lang": "Python"
+  },
+  {
+    "title": "cloud-custodian/cloud-custodian",
+    "url": "https://github.com/cloud-custodian/cloud-custodian",
+    "desc": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+    "lang": "Python"
+  }
+]
