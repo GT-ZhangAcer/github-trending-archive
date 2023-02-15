@@ -1,0 +1,152 @@
+[
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/EdgeGPT",
+    "url": "https://github.com/acheong08/EdgeGPT",
+    "desc": "Reverse engineered API of Microsoft's Bing Chat",
+    "lang": "Python"
+  },
+  {
+    "title": "TheR1D/shell_gpt",
+    "url": "https://github.com/TheR1D/shell_gpt",
+    "desc": "A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.",
+    "lang": "Python"
+  },
+  {
+    "title": "amazon-science/mm-cot",
+    "url": "https://github.com/amazon-science/mm-cot",
+    "desc": "Official implementation for Multimodal Chain-of-Thought Reasoning in Language Models (stay tuned and more will be updated)",
+    "lang": "Python"
+  },
+  {
+    "title": "haoheliu/AudioLDM",
+    "url": "https://github.com/haoheliu/AudioLDM",
+    "desc": "AudioLDM: Generate speech, sound effects, music and beyond, with text.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/ChatGPT-Proxy",
+    "url": "https://github.com/acheong08/ChatGPT-Proxy",
+    "desc": "Forward requests and inject cloudflare cookies",
+    "lang": "Python"
+  },
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "desc": "WebUI extension for ControlNet",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/toolformer-pytorch",
+    "url": "https://github.com/lucidrains/toolformer-pytorch",
+    "desc": "Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT Plus，对话上下文，文字转图片发送，代理加速 (部分代码由 ChatGPT 生成）",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "desc": "Experience macOS just like before",
+    "lang": "Python"
+  },
+  {
+    "title": "pix2pixzero/pix2pix-zero",
+    "url": "https://github.com/pix2pixzero/pix2pix-zero",
+    "desc": "Zero-shot Image-to-Image Translation",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/OpenAIAuth",
+    "url": "https://github.com/acheong08/OpenAIAuth",
+    "desc": "OpenAI Authentication Library for ChatGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "t3l3machus/Villain",
+    "url": "https://github.com/t3l3machus/Villain",
+    "desc": "Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.",
+    "lang": "Python"
+  },
+  {
+    "title": "scikit-optimize/scikit-optimize",
+    "url": "https://github.com/scikit-optimize/scikit-optimize",
+    "desc": "Sequential model-based optimization with a `scipy.optimize` interface",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection3d",
+    "url": "https://github.com/open-mmlab/mmdetection3d",
+    "desc": "OpenMMLab's next-generation platform for general 3D object detection.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "lang": "Python"
+  }
+]

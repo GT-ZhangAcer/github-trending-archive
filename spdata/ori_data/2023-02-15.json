@@ -1,0 +1,147 @@
+[
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "hyperfiddle/electric",
+    "url": "https://github.com/hyperfiddle/electric",
+    "desc": "a reactive signals DSL for fullstack web UI, with compiler-managed network sync",
+    "lang": "Clojure"
+  },
+  {
+    "title": "zloirock/core-js",
+    "url": "https://github.com/zloirock/core-js",
+    "desc": "Standard Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "schibsted/WAAS",
+    "url": "https://github.com/schibsted/WAAS",
+    "desc": "Whisper as a Service (GUI and API for OpenAI Whisper)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gayolGate/gayolGate",
+    "url": "https://github.com/gayolGate/gayolGate",
+    "desc": "Information about my GitHub profile"
+  },
+  {
+    "title": "alist-org/alist",
+    "url": "https://github.com/alist-org/alist",
+    "desc": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "desc": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "guaguaguaxia/weekly_report",
+    "url": "https://github.com/guaguaguaxia/weekly_report",
+    "desc": "",
+    "lang": "CSS"
+  },
+  {
+    "title": "acheong08/EdgeGPT",
+    "url": "https://github.com/acheong08/EdgeGPT",
+    "desc": "Reverse engineered API of Microsoft's Bing Chat",
+    "lang": "Python"
+  },
+  {
+    "title": "Daiyimo/Access-chatGPT-in-Siri",
+    "url": "https://github.com/Daiyimo/Access-chatGPT-in-Siri",
+    "desc": "chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android"
+  },
+  {
+    "title": "annfelix/DEVOPS-WORLD",
+    "url": "https://github.com/annfelix/DEVOPS-WORLD",
+    "desc": ""
+  },
+  {
+    "title": "getlago/lago",
+    "url": "https://github.com/getlago/lago",
+    "desc": "Open Source Metering and Usage Based Billing",
+    "lang": "Shell"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "desc": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "lang": "Swift"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "desc": "Headless Chrome Node.js API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "desc": "使用 express 和 vue3 搭建的 ChartGPT 演示网页",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheR1D/shell_gpt",
+    "url": "https://github.com/TheR1D/shell_gpt",
+    "desc": "A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.",
+    "lang": "Python"
+  },
+  {
+    "title": "amazon-science/mm-cot",
+    "url": "https://github.com/amazon-science/mm-cot",
+    "desc": "Official implementation for Multimodal Chain-of-Thought Reasoning in Language Models (stay tuned and more will be updated)",
+    "lang": "Python"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "desc": "Open source documentation of Microsoft Azure",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "haoheliu/AudioLDM",
+    "url": "https://github.com/haoheliu/AudioLDM",
+    "desc": "AudioLDM: Generate speech, sound effects, music and beyond, with text.",
+    "lang": "Python"
+  },
+  {
+    "title": "alexbatalov/fallout1-ce",
+    "url": "https://github.com/alexbatalov/fallout1-ce",
+    "desc": "Fallout for modern operating systems",
+    "lang": "C++"
+  },
+  {
+    "title": "Vita3K/Vita3K-Android",
+    "url": "https://github.com/Vita3K/Vita3K-Android",
+    "desc": "Public releases and CI for the Vita3K Android app"
+  },
+  {
+    "title": "gvergnaud/HOTScript",
+    "url": "https://github.com/gvergnaud/HOTScript",
+    "desc": "Type-level madness",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "KKKyrie/giftie",
+    "url": "https://github.com/KKKyrie/giftie",
+    "desc": "一个用来搞定「送礼问题」的「纯前端」解决方案",
+    "lang": "Vue"
+  }
+]

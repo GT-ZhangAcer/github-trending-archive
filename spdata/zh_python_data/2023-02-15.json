@@ -1,0 +1,152 @@
+[
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT Plus，对话上下文，文字转图片发送，代理加速 (部分代码由 ChatGPT 生成）",
+    "lang": "Python"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具",
+    "lang": "Python"
+  },
+  {
+    "title": "howarder3/GPT-Linebot-python-flask-on-vercel",
+    "url": "https://github.com/howarder3/GPT-Linebot-python-flask-on-vercel",
+    "desc": "GPT-Linebot using python flask for vercel",
+    "lang": "Python"
+  },
+  {
+    "title": "PyQt5/PyQt",
+    "url": "https://github.com/PyQt5/PyQt",
+    "desc": "PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5",
+    "lang": "Python"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, YOLOv8, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "HarderThenHarder/transformers_tasks",
+    "url": "https://github.com/HarderThenHarder/transformers_tasks",
+    "desc": "⭐️ NLP Algorithms with transformers lib. Supporting Text-Classification, Text-Generation, Information-Extraction, Text-Matching, RLHF etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "yangjianxin1/GPT2-chitchat",
+    "url": "https://github.com/yangjianxin1/GPT2-chitchat",
+    "desc": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "Rockyzsu/stock",
+    "url": "https://github.com/Rockyzsu/stock",
+    "desc": "30天掌握量化交易 (持续更新)",
+    "lang": "Python"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "gfw-breaker/banned-news3",
+    "url": "https://github.com/gfw-breaker/banned-news3",
+    "desc": "禁闻聚合",
+    "lang": "Python"
+  },
+  {
+    "title": "foyoux/aligo",
+    "url": "https://github.com/foyoux/aligo",
+    "desc": "🔥简单、易用、可扩展的阿里云盘 API 接口库🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "jwcesign/kubespider",
+    "url": "https://github.com/jwcesign/kubespider",
+    "desc": "A unified download orchestration system, build your home download center.",
+    "lang": "Python"
+  },
+  {
+    "title": "Soulter/QQChannelChatGPT",
+    "url": "https://github.com/Soulter/QQChannelChatGPT",
+    "desc": "基于OpenAI ChatGPT 的QQ频道聊天机器人 | QQ channel chatbot",
+    "lang": "Python"
+  },
+  {
+    "title": "JionghaoSong/DailyMorning_Star",
+    "url": "https://github.com/JionghaoSong/DailyMorning_Star",
+    "desc": "每日早安，天气，天数，中英文短句 -- （至23年2月稳定运行 求Star 谢谢)",
+    "lang": "Python"
+  },
+  {
+    "title": "pofey/movie_robot",
+    "url": "https://github.com/pofey/movie_robot",
+    "desc": "轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。",
+    "lang": "Python"
+  },
+  {
+    "title": "RockChinQ/QChatGPT",
+    "url": "https://github.com/RockChinQ/QChatGPT",
+    "desc": "在 QQ 上与 ChatGPT 等语言模型进行对话，OpenAI + Mirai 实现，支持插件、多apikey管理，多平台一键部署",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEA-CCNL/Fengshenbang-LM",
+    "url": "https://github.com/IDEA-CCNL/Fengshenbang-LM",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "FlagOpen/FlagPerf",
+    "url": "https://github.com/FlagOpen/FlagPerf",
+    "desc": "FlagPerf is an open-source software platform for benchmarking AI chips.",
+    "lang": "Python"
+  },
+  {
+    "title": "OFA-Sys/Chinese-CLIP",
+    "url": "https://github.com/OFA-Sys/Chinese-CLIP",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "SAGIRI-kawaii/sagiri-bot",
+    "url": "https://github.com/SAGIRI-kawaii/sagiri-bot",
+    "desc": "基于Graia Ariadne和Mirai的QQ机器人 SAGIRI-BOT",
+    "lang": "Python"
+  },
+  {
+    "title": "Boris-code/feapder",
+    "url": "https://github.com/Boris-code/feapder",
+    "desc": "🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便的部署及调度",
+    "lang": "Python"
+  },
+  {
+    "title": "InsaneLife/ChineseNLPCorpus",
+    "url": "https://github.com/InsaneLife/ChineseNLPCorpus",
+    "desc": "中文自然语言处理数据集，平时做做实验的材料。欢迎补充提交合并。",
+    "lang": "Python"
+  }
+]
