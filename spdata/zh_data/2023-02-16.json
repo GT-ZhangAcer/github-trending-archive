@@ -1,0 +1,148 @@
+[
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xiaolincoder/CS-Base",
+    "url": "https://github.com/xiaolincoder/CS-Base",
+    "desc": "图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "1c7/chinese-independent-developer",
+    "url": "https://github.com/1c7/chinese-independent-developer",
+    "desc": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+  },
+  {
+    "title": "messense/aliyundrive-webdav",
+    "url": "https://github.com/messense/aliyundrive-webdav",
+    "desc": "阿里云盘 WebDAV 服务",
+    "lang": "Rust"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具",
+    "lang": "Python"
+  },
+  {
+    "title": "memochou1993/gpt-ai-assistant",
+    "url": "https://github.com/memochou1993/gpt-ai-assistant",
+    "desc": "OpenAI + LINE + Vercel = GPT AI Assistant",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "IDEA-CCNL/Fengshenbang-LM",
+    "url": "https://github.com/IDEA-CCNL/Fengshenbang-LM",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "prophesier/diff-svc",
+    "url": "https://github.com/prophesier/diff-svc",
+    "desc": "Singing Voice Conversion via diffusion model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Ponderfly/GoogleTranslateIpCheck",
+    "url": "https://github.com/Ponderfly/GoogleTranslateIpCheck",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "easzlab/kubeasz",
+    "url": "https://github.com/easzlab/kubeasz",
+    "desc": "使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响",
+    "lang": "Jinja"
+  },
+  {
+    "title": "yichengchen/ATV-Bilibili-demo",
+    "url": "https://github.com/yichengchen/ATV-Bilibili-demo",
+    "desc": "BiliBili Live Client Demo for Apple TV (tvOS)",
+    "lang": "Swift"
+  },
+  {
+    "title": "honghuangdc/soybean-admin",
+    "url": "https://github.com/honghuangdc/soybean-admin",
+    "desc": "A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]",
+    "lang": "Vue"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "shadow1ng/fscan",
+    "url": "https://github.com/shadow1ng/fscan",
+    "desc": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。",
+    "lang": "Go"
+  },
+  {
+    "title": "skywind3000/kcp",
+    "url": "https://github.com/skywind3000/kcp",
+    "desc": "⚡ KCP - A Fast and Reliable ARQ Protocol",
+    "lang": "C"
+  },
+  {
+    "title": "pure-admin/vue-pure-admin",
+    "url": "https://github.com/pure-admin/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "yangzongzhuan/RuoYi-Vue3",
+    "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+    "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "alibaba/taobao-iphone-device",
+    "url": "https://github.com/alibaba/taobao-iphone-device",
+    "desc": "tidevice can be used to communicate with iPhone device",
+    "lang": "Python"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "HTML"
+  },
+  {
+    "title": "wechat-miniprogram/minigame-unity-webgl-transform",
+    "url": "https://github.com/wechat-miniprogram/minigame-unity-webgl-transform",
+    "desc": "",
+    "lang": "C"
+  },
+  {
+    "title": "MatsuriDayo/nekoray",
+    "url": "https://github.com/MatsuriDayo/nekoray",
+    "desc": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)",
+    "lang": "C++"
+  }
+]
