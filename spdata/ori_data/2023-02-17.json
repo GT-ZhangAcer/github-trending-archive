@@ -1,0 +1,146 @@
+[
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Making big AI models cheaper, easier, and more scalable",
+    "lang": "Python"
+  },
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "desc": "WebUI extension for ControlNet",
+    "lang": "Python"
+  },
+  {
+    "title": "rerun-io/rerun",
+    "url": "https://github.com/rerun-io/rerun",
+    "desc": "Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui",
+    "lang": "Rust"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "Nutlope/aicommits",
+    "url": "https://github.com/Nutlope/aicommits",
+    "desc": "A CLI that writes your git commit messages for you with AI",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "shyamsn97/mario-gpt",
+    "url": "https://github.com/shyamsn97/mario-gpt",
+    "desc": "Generating Mario Levels with GPT2. Code for the paper MarioGPT: Open-Ended Text2Level Generation through Large Language Models https://arxiv.org/abs/2302.05981",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/mctx",
+    "url": "https://github.com/deepmind/mctx",
+    "desc": "Monte Carlo tree search in JAX",
+    "lang": "Python"
+  },
+  {
+    "title": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "desc": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "desc": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net."
+  },
+  {
+    "title": "zloirock/core-js",
+    "url": "https://github.com/zloirock/core-js",
+    "desc": "Standard Library",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "desc": "An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",
+    "lang": "Lua"
+  },
+  {
+    "title": "opera-gaming/gxmods",
+    "url": "https://github.com/opera-gaming/gxmods",
+    "desc": "Documentation for GX mods"
+  },
+  {
+    "title": "Daiyimo/Access-chatGPT-in-Siri",
+    "url": "https://github.com/Daiyimo/Access-chatGPT-in-Siri",
+    "desc": "chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android"
+  },
+  {
+    "title": "hpcaitech/EnergonAI",
+    "url": "https://github.com/hpcaitech/EnergonAI",
+    "desc": "Large-scale model inference.",
+    "lang": "Python"
+  },
+  {
+    "title": "cfortuner/promptable",
+    "url": "https://github.com/cfortuner/promptable",
+    "desc": "Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lensterxyz/lenster",
+    "url": "https://github.com/lensterxyz/lenster",
+    "desc": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mfaisalkhatri/awesome-learning",
+    "url": "https://github.com/mfaisalkhatri/awesome-learning",
+    "desc": "Curated lists of awesome learning resources for a Software Test Automation Engineer"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hwchase17/chat-langchain",
+    "url": "https://github.com/hwchase17/chat-langchain",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "navopw/whatsapp-chatgpt",
+    "url": "https://github.com/navopw/whatsapp-chatgpt",
+    "desc": "ChatGPT + Whatsapp = AI Assistant 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "desc": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "amazon-science/mm-cot",
+    "url": "https://github.com/amazon-science/mm-cot",
+    "desc": "Official implementation for Multimodal Chain-of-Thought Reasoning in Language Models (stay tuned and more will be updated)",
+    "lang": "Python"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "desc": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "lang": "Swift"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  }
+]

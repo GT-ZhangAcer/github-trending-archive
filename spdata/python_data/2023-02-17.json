@@ -1,0 +1,152 @@
+[
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Making big AI models cheaper, easier, and more scalable",
+    "lang": "Python"
+  },
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "desc": "WebUI extension for ControlNet",
+    "lang": "Python"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "shyamsn97/mario-gpt",
+    "url": "https://github.com/shyamsn97/mario-gpt",
+    "desc": "Generating Mario Levels with GPT2. Code for the paper MarioGPT: Open-Ended Text2Level Generation through Large Language Models https://arxiv.org/abs/2302.05981",
+    "lang": "Python"
+  },
+  {
+    "title": "deepmind/mctx",
+    "url": "https://github.com/deepmind/mctx",
+    "desc": "Monte Carlo tree search in JAX",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/EnergonAI",
+    "url": "https://github.com/hpcaitech/EnergonAI",
+    "desc": "Large-scale model inference.",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/chat-langchain",
+    "url": "https://github.com/hwchase17/chat-langchain",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "amazon-science/mm-cot",
+    "url": "https://github.com/amazon-science/mm-cot",
+    "desc": "Official implementation for Multimodal Chain-of-Thought Reasoning in Language Models (stay tuned and more will be updated)",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "pydantic/pydantic",
+    "url": "https://github.com/pydantic/pydantic",
+    "desc": "Data parsing and validation using Python type hints",
+    "lang": "Python"
+  },
+  {
+    "title": "encode/django-rest-framework",
+    "url": "https://github.com/encode/django-rest-framework",
+    "desc": "Web APIs for Django. 🎸",
+    "lang": "Python"
+  },
+  {
+    "title": "civitai/sd_civitai_extension",
+    "url": "https://github.com/civitai/sd_civitai_extension",
+    "desc": "All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/lion-pytorch",
+    "url": "https://github.com/lucidrains/lion-pytorch",
+    "desc": "🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "desc": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "lang": "Python"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/RWKV-LM",
+    "url": "https://github.com/BlinkDL/RWKV-LM",
+    "desc": "RWKV is a RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, infinite ctx_len, and free sentence embedding.",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT Plus，多账号负载均衡，人设调教，对话上下文，文字转图片发送，代理加速 (部分代码由 ChatGPT 生成）",
+    "lang": "Python"
+  },
+  {
+    "title": "cleanlab/cleanlab",
+    "url": "https://github.com/cleanlab/cleanlab",
+    "desc": "The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "Deep learning framework to train, deploy, and ship AI products Lightning fast.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "desc": "Azure Command-Line Interface",
+    "lang": "Python"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "desc": "A modern and customizable python UI-library based on Tkinter",
+    "lang": "Python"
+  },
+  {
+    "title": "cuifengcn/TAICHI-flet",
+    "url": "https://github.com/cuifengcn/TAICHI-flet",
+    "desc": "基于flet的一款windows桌面应用，实现了爬取图片、音乐、小说、磁力链接的功能。",
+    "lang": "Python"
+  }
+]
