@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "desc": "WebUI extension for ControlNet",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "navopw/whatsapp-chatgpt",
+    "url": "https://github.com/navopw/whatsapp-chatgpt",
+    "desc": "ChatGPT + Whatsapp = AI Assistant 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具"
+  },
+  {
+    "title": "lllyasviel/style2paints",
+    "url": "https://github.com/lllyasviel/style2paints",
+    "desc": "sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Making big AI models cheaper, easier, and more scalable",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "nvim-lua/kickstart.nvim",
+    "url": "https://github.com/nvim-lua/kickstart.nvim",
+    "desc": "A launch point for your personal nvim configuration",
+    "lang": "Lua"
+  },
+  {
+    "title": "slawlor/ractor",
+    "url": "https://github.com/slawlor/ractor",
+    "desc": "Rust actor framework",
+    "lang": "Rust"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "desc": "Telegram for Android source",
+    "lang": "Java"
+  },
+  {
+    "title": "Free-TV/IPTV",
+    "url": "https://github.com/Free-TV/IPTV",
+    "desc": "M3U Playlist for free TV channels",
+    "lang": "Python"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "desc": "iOS 15.0-16.3 (semi-)tethered checkm8 jailbreak",
+    "lang": "Shell"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "desc": "An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",
+    "lang": "Lua"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "desc": "使用 express 和 vue3 搭建的 GPT-3 模型演示网页",
+    "lang": "Vue"
+  },
+  {
+    "title": "skywind3000/kcp",
+    "url": "https://github.com/skywind3000/kcp",
+    "desc": "⚡ KCP - A Fast and Reliable ARQ Protocol",
+    "lang": "C"
+  },
+  {
+    "title": "cfortuner/promptable",
+    "url": "https://github.com/cfortuner/promptable",
+    "desc": "Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "realm/SwiftLint",
+    "url": "https://github.com/realm/SwiftLint",
+    "desc": "A tool to enforce Swift style and conventions.",
+    "lang": "Swift"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "desc": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
+    "lang": "PHP"
+  },
+  {
+    "title": "rerun-io/rerun",
+    "url": "https://github.com/rerun-io/rerun",
+    "desc": "Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui",
+    "lang": "Rust"
+  },
+  {
+    "title": "antlr/grammars-v4",
+    "url": "https://github.com/antlr/grammars-v4",
+    "desc": "Grammars written for ANTLR v4; expectation that the grammars are free of actions.",
+    "lang": "ANTLR"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "HTML"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  }
+]

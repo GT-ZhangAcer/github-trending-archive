@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "desc": "WebUI extension for ControlNet",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Making big AI models cheaper, easier, and more scalable",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "Free-TV/IPTV",
+    "url": "https://github.com/Free-TV/IPTV",
+    "desc": "M3U Playlist for free TV channels",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "shyamsn97/mario-gpt",
+    "url": "https://github.com/shyamsn97/mario-gpt",
+    "desc": "Generating Mario Levels with GPT2. Code for the paper MarioGPT: Open-Ended Text2Level Generation through Large Language Models https://arxiv.org/abs/2302.05981",
+    "lang": "Python"
+  },
+  {
+    "title": "kohya-ss/sd-webui-additional-networks",
+    "url": "https://github.com/kohya-ss/sd-webui-additional-networks",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "3b1b/videos",
+    "url": "https://github.com/3b1b/videos",
+    "desc": "Code for the manim-generated scenes used in 3blue1brown videos",
+    "lang": "Python"
+  },
+  {
+    "title": "yihong0618/xiaogpt",
+    "url": "https://github.com/yihong0618/xiaogpt",
+    "desc": "play chatgpt with xiaomi ai speaker",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/EnergonAI",
+    "url": "https://github.com/hpcaitech/EnergonAI",
+    "desc": "Large-scale model inference.",
+    "lang": "Python"
+  },
+  {
+    "title": "Guiflayrom/yolnp",
+    "url": "https://github.com/Guiflayrom/yolnp",
+    "desc": "Yolnp is a project based in YOLO to detect plates",
+    "lang": "Python"
+  },
+  {
+    "title": "YaoFANGUK/video-subtitle-extractor",
+    "url": "https://github.com/YaoFANGUK/video-subtitle-extractor",
+    "desc": "视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "dwyl/english-words",
+    "url": "https://github.com/dwyl/english-words",
+    "desc": "📝 A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion",
+    "lang": "Python"
+  },
+  {
+    "title": "AtsushiSakai/PythonRobotics",
+    "url": "https://github.com/AtsushiSakai/PythonRobotics",
+    "desc": "Python sample codes for robotics algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "mukulpatnaik/researchgpt",
+    "url": "https://github.com/mukulpatnaik/researchgpt",
+    "desc": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
+    "lang": "Python"
+  },
+  {
+    "title": "amazon-science/mm-cot",
+    "url": "https://github.com/amazon-science/mm-cot",
+    "desc": "Official implementation for Multimodal Chain-of-Thought Reasoning in Language Models (stay tuned and more will be updated)",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "13exp/SpringBoot-Scan-GUI",
+    "url": "https://github.com/13exp/SpringBoot-Scan-GUI",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT Plus，多账号负载均衡，人设调教，对话上下文，文字转图片发送，代理加速 (部分代码由 ChatGPT 生成）",
+    "lang": "Python"
+  }
+]

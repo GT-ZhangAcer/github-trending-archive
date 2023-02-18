@@ -1,0 +1,152 @@
+[
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT Plus，多账号负载均衡，人设调教，对话上下文，文字转图片发送，代理加速 (部分代码由 ChatGPT 生成）",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEA-CCNL/Fengshenbang-LM",
+    "url": "https://github.com/IDEA-CCNL/Fengshenbang-LM",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "alibaba/taobao-iphone-device",
+    "url": "https://github.com/alibaba/taobao-iphone-device",
+    "desc": "tidevice can be used to communicate with iPhone device",
+    "lang": "Python"
+  },
+  {
+    "title": "CrazyBoyM/dreambooth-for-diffusion",
+    "url": "https://github.com/CrazyBoyM/dreambooth-for-diffusion",
+    "desc": "首个完整封装、一体化训练stable diffusion dreambooth的autodl镜像环境，可训练定制自己的独特大模型风格、人物，开箱即用，内含详细教程。",
+    "lang": "Python"
+  },
+  {
+    "title": "AIGCT/EASYChatGPT",
+    "url": "https://github.com/AIGCT/EASYChatGPT",
+    "desc": "This is an application project of 'chatgpt',only applicable to desktop environment.",
+    "lang": "Python"
+  },
+  {
+    "title": "Evil0ctal/Douyin_TikTok_Download_API",
+    "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+    "desc": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音|TikTok数据爬取工具，支持API调用，在线批量解析及下载。",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "XuanRanDev/Auto-ShiXiBeiAn",
+    "url": "https://github.com/XuanRanDev/Auto-ShiXiBeiAn",
+    "desc": "🎨实习备案（职校家园）自动打卡，支持多用户、自定义位置与时间、微信消息推送。",
+    "lang": "Python"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, YOLOv8, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "PyQt5/PyQt",
+    "url": "https://github.com/PyQt5/PyQt",
+    "desc": "PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5",
+    "lang": "Python"
+  },
+  {
+    "title": "XuanRanDev/Auto-GongXueYun",
+    "url": "https://github.com/XuanRanDev/Auto-GongXueYun",
+    "desc": "😴 蘑菇丁 & 工学云每日自动打卡、支持多用户、自定义地区与时间、免服务器部署。",
+    "lang": "Python"
+  },
+  {
+    "title": "yangjianxin1/GPT2-chitchat",
+    "url": "https://github.com/yangjianxin1/GPT2-chitchat",
+    "desc": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)",
+    "lang": "Python"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "begood0513/goodnews",
+    "url": "https://github.com/begood0513/goodnews",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "pofey/movie_robot",
+    "url": "https://github.com/pofey/movie_robot",
+    "desc": "轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。",
+    "lang": "Python"
+  },
+  {
+    "title": "dqzg12300/fridaUiTools",
+    "url": "https://github.com/dqzg12300/fridaUiTools",
+    "desc": "frida工具的缝合怪",
+    "lang": "Python"
+  },
+  {
+    "title": "benx1n/HikariBot",
+    "url": "https://github.com/benx1n/HikariBot",
+    "desc": "战舰世界HikariBot，支持战绩查询，基于Nonebot2全平台兼容",
+    "lang": "Python"
+  },
+  {
+    "title": "vastsa/FileCodeBox",
+    "url": "https://github.com/vastsa/FileCodeBox",
+    "desc": "文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）",
+    "lang": "Python"
+  },
+  {
+    "title": "KimigaiiWuyi/GenshinUID",
+    "url": "https://github.com/KimigaiiWuyi/GenshinUID",
+    "desc": "基于HoshinoBot/NoneBot2/QQ官方频道/微信Bot的原神面板查询/原神Wiki/米社签到/树脂提醒插件",
+    "lang": "Python"
+  },
+  {
+    "title": "we0091234/yolov7_plate",
+    "url": "https://github.com/we0091234/yolov7_plate",
+    "desc": "yolov7 车牌检测 车牌识别 中文车牌识别 检测 支持双层车牌 支持13种中文车牌",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "limoruirui/misaka",
+    "url": "https://github.com/limoruirui/misaka",
+    "desc": "开源的一些乱七八糟的东西",
+    "lang": "Python"
+  },
+  {
+    "title": "max32002/tixcraft_bot",
+    "url": "https://github.com/max32002/tixcraft_bot",
+    "desc": "Max搶票機器人(maxbot) help you quickly buy your tickets",
+    "lang": "Python"
+  }
+]

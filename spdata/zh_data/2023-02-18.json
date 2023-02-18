@@ -1,0 +1,147 @@
+[
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具"
+  },
+  {
+    "title": "skywind3000/kcp",
+    "url": "https://github.com/skywind3000/kcp",
+    "desc": "⚡ KCP - A Fast and Reliable ARQ Protocol",
+    "lang": "C"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xiaolincoder/CS-Base",
+    "url": "https://github.com/xiaolincoder/CS-Base",
+    "desc": "图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com"
+  },
+  {
+    "title": "honghuangdc/soybean-admin",
+    "url": "https://github.com/honghuangdc/soybean-admin",
+    "desc": "A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]",
+    "lang": "Vue"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "Markdown"
+  },
+  {
+    "title": "hua1995116/awesome-ai-painting",
+    "url": "https://github.com/hua1995116/awesome-ai-painting",
+    "desc": "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform"
+  },
+  {
+    "title": "messense/aliyundrive-webdav",
+    "url": "https://github.com/messense/aliyundrive-webdav",
+    "desc": "阿里云盘 WebDAV 服务",
+    "lang": "Rust"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持 ChatGPT Plus，多账号负载均衡，人设调教，对话上下文，文字转图片发送，代理加速 (部分代码由 ChatGPT 生成）",
+    "lang": "Python"
+  },
+  {
+    "title": "midoks/mdserver-web",
+    "url": "https://github.com/midoks/mdserver-web",
+    "desc": "Simple Linux Panel",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "memochou1993/gpt-ai-assistant",
+    "url": "https://github.com/memochou1993/gpt-ai-assistant",
+    "desc": "OpenAI + LINE + Vercel = GPT AI Assistant",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pure-admin/vue-pure-admin",
+    "url": "https://github.com/pure-admin/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "hehonghui/awesome-english-ebooks",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "lang": "CSS"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliToolPro",
+    "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+    "desc": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。",
+    "lang": "C#"
+  },
+  {
+    "title": "tickstep/aliyunpan",
+    "url": "https://github.com/tickstep/aliyunpan",
+    "desc": "阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件，支持同步备份功能。",
+    "lang": "Go"
+  },
+  {
+    "title": "ikechan8370/chatgpt-plugin",
+    "url": "https://github.com/ikechan8370/chatgpt-plugin",
+    "desc": "云崽qq机器人的chatgpt插件",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "强大易用的开源建站工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "IDEA-CCNL/Fengshenbang-LM",
+    "url": "https://github.com/IDEA-CCNL/Fengshenbang-LM",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "desc": "适用于新系统UI的哔哩",
+    "lang": "C#"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "easzlab/kubeasz",
+    "url": "https://github.com/easzlab/kubeasz",
+    "desc": "使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响",
+    "lang": "Jinja"
+  },
+  {
+    "title": "nihaojob/vue-fabric-editor",
+    "url": "https://github.com/nihaojob/vue-fabric-editor",
+    "desc": "基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.",
+    "lang": "Vue"
+  }
+]
