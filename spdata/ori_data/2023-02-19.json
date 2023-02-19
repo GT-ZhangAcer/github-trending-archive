@@ -1,0 +1,151 @@
+[
+  {
+    "title": "askrella/whatsapp-chatgpt",
+    "url": "https://github.com/askrella/whatsapp-chatgpt",
+    "desc": "ChatGPT + DALL-E + Whatsapp = AI Assistant 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/EnergonAI",
+    "url": "https://github.com/hpcaitech/EnergonAI",
+    "desc": "Large-scale model inference.",
+    "lang": "Python"
+  },
+  {
+    "title": "nvim-lua/kickstart.nvim",
+    "url": "https://github.com/nvim-lua/kickstart.nvim",
+    "desc": "A launch point for your personal nvim configuration",
+    "lang": "Lua"
+  },
+  {
+    "title": "hwchase17/langchainjs",
+    "url": "https://github.com/hwchase17/langchainjs",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "desc": "Telegram for Android source",
+    "lang": "Java"
+  },
+  {
+    "title": "chvancooten/NimPlant",
+    "url": "https://github.com/chvancooten/NimPlant",
+    "desc": "A light-weight first-stage C2 implant written in Nim.",
+    "lang": "HTML"
+  },
+  {
+    "title": "omenking/aws-bootcamp-cruddur-2023",
+    "url": "https://github.com/omenking/aws-bootcamp-cruddur-2023",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "brave-people/Dev-Event",
+    "url": "https://github.com/brave-people/Dev-Event",
+    "desc": "🎉🎈 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 알려드립니다. [with 남송리 삼번지]"
+  },
+  {
+    "title": "kettle11/tangle",
+    "url": "https://github.com/kettle11/tangle",
+    "desc": "Radically simple multiplayer / networked WebAssembly",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "desc": "WebUI extension for ControlNet",
+    "lang": "Python"
+  },
+  {
+    "title": "kohya-ss/sd-scripts",
+    "url": "https://github.com/kohya-ss/sd-scripts",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "XTLS/REALITY",
+    "url": "https://github.com/XTLS/REALITY",
+    "desc": "THE NEXT FUTURE",
+    "lang": "Go"
+  },
+  {
+    "title": "TencentARC/T2I-Adapter",
+    "url": "https://github.com/TencentARC/T2I-Adapter",
+    "desc": "T2I-Adapter",
+    "lang": "Python"
+  },
+  {
+    "title": "invoke-ai/InvokeAI",
+    "url": "https://github.com/invoke-ai/InvokeAI",
+    "desc": "InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "leptos-rs/leptos",
+    "url": "https://github.com/leptos-rs/leptos",
+    "desc": "Build fast web applications with Rust.",
+    "lang": "Rust"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "desc": "A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "desc": "Create UIs for your machine learning model in Python in 3 minutes",
+    "lang": "HTML"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "VimScript"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "A latent text-to-image diffusion model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "shyamsn97/mario-gpt",
+    "url": "https://github.com/shyamsn97/mario-gpt",
+    "desc": "Generating Mario Levels with GPT2. Code for the paper MarioGPT: Open-Ended Text2Level Generation through Large Language Models https://arxiv.org/abs/2302.05981",
+    "lang": "Python"
+  }
+]
