@@ -1,0 +1,149 @@
+[
+  {
+    "title": "askrella/whatsapp-chatgpt",
+    "url": "https://github.com/askrella/whatsapp-chatgpt",
+    "desc": "ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "jaymody/picoGPT",
+    "url": "https://github.com/jaymody/picoGPT",
+    "desc": "An unnecessarily tiny implementation of GPT-2 in NumPy.",
+    "lang": "Python"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "desc": "WebUI extension for ControlNet",
+    "lang": "Python"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "A latent text-to-image diffusion model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trpc/trpc",
+    "url": "https://github.com/trpc/trpc",
+    "desc": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "lang": "Astro"
+  },
+  {
+    "title": "hwchase17/langchainjs",
+    "url": "https://github.com/hwchase17/langchainjs",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LazyVim/LazyVim",
+    "url": "https://github.com/LazyVim/LazyVim",
+    "desc": "Neovim config for the lazy",
+    "lang": "Lua"
+  },
+  {
+    "title": "replicate/scribble-diffusion",
+    "url": "https://github.com/replicate/scribble-diffusion",
+    "desc": "Turn your rough sketch into a refined image using AI",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Free-TV/IPTV",
+    "url": "https://github.com/Free-TV/IPTV",
+    "desc": "M3U Playlist for free TV channels",
+    "lang": "Python"
+  },
+  {
+    "title": "nvim-lua/kickstart.nvim",
+    "url": "https://github.com/nvim-lua/kickstart.nvim",
+    "desc": "A launch point for your personal nvim configuration",
+    "lang": "Lua"
+  },
+  {
+    "title": "microsoft/hack-together",
+    "url": "https://github.com/microsoft/hack-together",
+    "desc": "Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.",
+    "lang": "C#"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "Learn-with-Sumit/think-in-a-redux-way",
+    "url": "https://github.com/Learn-with-Sumit/think-in-a-redux-way",
+    "desc": "Think in a Redux way - React-Redux basic to advanced Bangla course by Learn with Sumit"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "civitai/sd_civitai_extension",
+    "url": "https://github.com/civitai/sd_civitai_extension",
+    "desc": "All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "XTLS/REALITY",
+    "url": "https://github.com/XTLS/REALITY",
+    "desc": "THE NEXT FUTURE",
+    "lang": "Go"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "leptos-rs/leptos",
+    "url": "https://github.com/leptos-rs/leptos",
+    "desc": "Build fast web applications with Rust.",
+    "lang": "Rust"
+  }
+]
