@@ -1,0 +1,152 @@
+[
+  {
+    "title": "fkunn1326/openpose-editor",
+    "url": "https://github.com/fkunn1326/openpose-editor",
+    "desc": "Openpose Editor for AUTOMATIC1111's stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "dunbar12138/pix2pix3D",
+    "url": "https://github.com/dunbar12138/pix2pix3D",
+    "desc": "pix2pix3D: Generating 3D Objects from 2D User Inputs",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "danijar/dreamerv3",
+    "url": "https://github.com/danijar/dreamerv3",
+    "desc": "Mastering Diverse Domains through World Models",
+    "lang": "Python"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "thuml/Time-Series-Library",
+    "url": "https://github.com/thuml/Time-Series-Library",
+    "desc": "A Library for Advanced Deep Time Series Models.",
+    "lang": "Python"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "desc": "OpenMMLab Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmdeploy",
+    "url": "https://github.com/open-mmlab/mmdeploy",
+    "desc": "OpenMMLab Model Deployment Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "jaymody/picoGPT",
+    "url": "https://github.com/jaymody/picoGPT",
+    "desc": "An unnecessarily tiny implementation of GPT-2 in NumPy.",
+    "lang": "Python"
+  },
+  {
+    "title": "JagadeeshBoyidi/AlgoOriginals-TimeBasedStraddles",
+    "url": "https://github.com/JagadeeshBoyidi/AlgoOriginals-TimeBasedStraddles",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "civitai/sd_civitai_extension",
+    "url": "https://github.com/civitai/sd_civitai_extension",
+    "desc": "All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "LSH9832/edgeyolo",
+    "url": "https://github.com/LSH9832/edgeyolo",
+    "desc": "an edge-real-time anchor-free object detector with decent performance",
+    "lang": "Python"
+  },
+  {
+    "title": "receyuki/nas-tools",
+    "url": "https://github.com/receyuki/nas-tools",
+    "desc": "A fork of NAStool/nas-tools:2.9.1",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Main Rule Repository",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/ultralytics",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "desc": "NEW - YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "vwxyzjn/cleanrl",
+    "url": "https://github.com/vwxyzjn/cleanrl",
+    "desc": "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmyolo",
+    "url": "https://github.com/open-mmlab/mmyolo",
+    "desc": "OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "ashawkey/stable-dreamfusion",
+    "url": "https://github.com/ashawkey/stable-dreamfusion",
+    "desc": "A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "lang": "Python"
+  }
+]

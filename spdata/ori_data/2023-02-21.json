@@ -1,0 +1,148 @@
+[
+  {
+    "title": "DvorakDwarf/Infinite-Storage-Glitch",
+    "url": "https://github.com/DvorakDwarf/Infinite-Storage-Glitch",
+    "desc": "ISG lets you use YouTube as cloud storage for ANY files, not just video",
+    "lang": "Rust"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "desc": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
+    "lang": "Makefile"
+  },
+  {
+    "title": "Klocman/Bulk-Crap-Uninstaller",
+    "url": "https://github.com/Klocman/Bulk-Crap-Uninstaller",
+    "desc": "Remove large amounts of unwanted applications quickly.",
+    "lang": "C#"
+  },
+  {
+    "title": "liupan1890/aliyunpan",
+    "url": "https://github.com/liupan1890/aliyunpan",
+    "desc": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "askrella/whatsapp-chatgpt",
+    "url": "https://github.com/askrella/whatsapp-chatgpt",
+    "desc": "ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fkunn1326/openpose-editor",
+    "url": "https://github.com/fkunn1326/openpose-editor",
+    "desc": "Openpose Editor for AUTOMATIC1111's stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "dunbar12138/pix2pix3D",
+    "url": "https://github.com/dunbar12138/pix2pix3D",
+    "desc": "pix2pix3D: Generating 3D Objects from 2D User Inputs",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zinclabs/zincsearch",
+    "url": "https://github.com/zinclabs/zincsearch",
+    "desc": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "desc": "A latent text-to-image diffusion model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "desc": "🐙 Guides, papers, and resources for prompt engineering",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "danijar/dreamerv3",
+    "url": "https://github.com/danijar/dreamerv3",
+    "desc": "Mastering Diverse Domains through World Models",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "desc": "GPT-3: Language Models are Few-Shot Learners"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "coollabsio/coolify",
+    "url": "https://github.com/coollabsio/coolify",
+    "desc": "An open-source & self-hostable Heroku / Netlify alternative.",
+    "lang": "Svelte"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free",
+    "desc": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子"
+  },
+  {
+    "title": "AbdBarho/stable-diffusion-webui-docker",
+    "url": "https://github.com/AbdBarho/stable-diffusion-webui-docker",
+    "desc": "Easy Docker setup for Stable Diffusion with user-friendly UI",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "lang": "TypeScript"
+  }
+]
