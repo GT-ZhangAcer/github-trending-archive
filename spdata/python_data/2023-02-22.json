@@ -1,0 +1,152 @@
+[
+  {
+    "title": "amazon-science/mm-cot",
+    "url": "https://github.com/amazon-science/mm-cot",
+    "desc": "Official implementation for Multimodal Chain-of-Thought Reasoning in Language Models (stay tuned and more will be updated)",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "FMInference/FlexGen",
+    "url": "https://github.com/FMInference/FlexGen",
+    "desc": "Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput large-batch generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "jaymody/picoGPT",
+    "url": "https://github.com/jaymody/picoGPT",
+    "desc": "An unnecessarily tiny implementation of GPT-2 in NumPy.",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "dunbar12138/pix2pix3D",
+    "url": "https://github.com/dunbar12138/pix2pix3D",
+    "desc": "pix2pix3D: Generating 3D Objects from 2D User Inputs",
+    "lang": "Python"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmpose",
+    "url": "https://github.com/open-mmlab/mmpose",
+    "desc": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "Stability-AI/stablediffusion",
+    "url": "https://github.com/Stability-AI/stablediffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "desc": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/BioGPT",
+    "url": "https://github.com/microsoft/BioGPT",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/ultralytics",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "desc": "NEW - YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "fkunn1326/openpose-editor",
+    "url": "https://github.com/fkunn1326/openpose-editor",
+    "desc": "Openpose Editor for AUTOMATIC1111's stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "shankarpandala/lazypredict",
+    "url": "https://github.com/shankarpandala/lazypredict",
+    "desc": "Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning",
+    "lang": "Python"
+  },
+  {
+    "title": "locustio/locust",
+    "url": "https://github.com/locustio/locust",
+    "desc": "Scalable load testing tool written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "miguelgrinberg/microdot",
+    "url": "https://github.com/miguelgrinberg/microdot",
+    "desc": "The impossibly small web framework for Python and MicroPython.",
+    "lang": "Python"
+  },
+  {
+    "title": "coqui-ai/TTS",
+    "url": "https://github.com/coqui-ai/TTS",
+    "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "lang": "Python"
+  },
+  {
+    "title": "DLR-RM/stable-baselines3",
+    "url": "https://github.com/DLR-RM/stable-baselines3",
+    "desc": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.",
+    "lang": "Python"
+  },
+  {
+    "title": "LSH9832/edgeyolo",
+    "url": "https://github.com/LSH9832/edgeyolo",
+    "desc": "an edge-real-time anchor-free object detector with decent performance",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "mobarski/ask-my-pdf",
+    "url": "https://github.com/mobarski/ask-my-pdf",
+    "desc": "Question answering system for PDF files",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "desc": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
+    "lang": "Makefile"
+  },
+  {
+    "title": "hua1995116/awesome-ai-painting",
+    "url": "https://github.com/hua1995116/awesome-ai-painting",
+    "desc": "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform"
+  },
+  {
+    "title": "Tencent/APIJSON",
+    "url": "https://github.com/Tencent/APIJSON",
+    "desc": "🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀 provides APIs and Docs without writing any code.",
+    "lang": "Java"
+  },
+  {
+    "title": "dtlnor/stable-diffusion-webui-localization-zh_CN",
+    "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
+    "desc": "Simplified Chinese translation extension for AUTOMATIC1111's stable diffusion webui"
+  },
+  {
+    "title": "Pawdroid/Free-servers",
+    "url": "https://github.com/Pawdroid/Free-servers",
+    "desc": "🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。"
+  },
+  {
+    "title": "mebtte/cicada",
+    "url": "https://github.com/mebtte/cicada",
+    "desc": "知了, 支持多用户的开源音乐服务.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
+    "lang": "Java"
+  },
+  {
+    "title": "alibaba/fastjson2",
+    "url": "https://github.com/alibaba/fastjson2",
+    "desc": "FASTJSON2 is a Java JSON library with excellent performance.",
+    "lang": "Java"
+  },
+  {
+    "title": "gonglei007/GameDevMind",
+    "url": "https://github.com/gonglei007/GameDevMind",
+    "desc": "最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。 | The most comprehensive technical map of game development. Help game developers save time on known problems and save more energy for more creative work.",
+    "lang": "Shell"
+  },
+  {
+    "title": "alibaba/higress",
+    "url": "https://github.com/alibaba/higress",
+    "desc": "Next-generation Cloud Native Gateway | 下一代云原生网关",
+    "lang": "C++"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lxgw/LxgwWenKai",
+    "url": "https://github.com/lxgw/LxgwWenKai",
+    "desc": "An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "chuzhixin/vue-admin-better",
+    "url": "https://github.com/chuzhixin/vue-admin-better",
+    "desc": "🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+    "lang": "Vue"
+  },
+  {
+    "title": "honghuangdc/soybean-admin",
+    "url": "https://github.com/honghuangdc/soybean-admin",
+    "desc": "A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]",
+    "lang": "Vue"
+  },
+  {
+    "title": "pure-admin/vue-pure-admin",
+    "url": "https://github.com/pure-admin/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "强大易用的开源建站工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "Bywalks/DarkAngel",
+    "url": "https://github.com/Bywalks/DarkAngel",
+    "desc": "DarkAngel 是一款全自动白帽漏洞扫描器，从hackerone、bugcrowd资产监听到漏洞报告生成、漏洞URL截屏、企业微信通知。",
+    "lang": "Ruby"
+  },
+  {
+    "title": "AmazingAng/WTF-Solidity",
+    "url": "https://github.com/AmazingAng/WTF-Solidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy",
+    "lang": "Solidity"
+  },
+  {
+    "title": "ccfos/nightingale",
+    "url": "https://github.com/ccfos/nightingale",
+    "desc": "An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",
+    "lang": "Go"
+  },
+  {
+    "title": "skywind3000/kcp",
+    "url": "https://github.com/skywind3000/kcp",
+    "desc": "⚡ KCP - A Fast and Reliable ARQ Protocol",
+    "lang": "C"
+  },
+  {
+    "title": "xifangczy/cat-catch",
+    "url": "https://github.com/xifangczy/cat-catch",
+    "desc": "猫抓 chrome资源嗅探扩展",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "desc": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
+    "lang": "Rust"
+  },
+  {
+    "title": "suyuan32/simple-admin-core",
+    "url": "https://github.com/suyuan32/simple-admin-core",
+    "desc": "Simple Admin是一个基于go zero开发的的分布式微服务后端管理系统脚手架，提供后台管理系统的所有基本功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for basic management. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.",
+    "lang": "Go"
+  }
+]

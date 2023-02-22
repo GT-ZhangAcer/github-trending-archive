@@ -1,0 +1,145 @@
+[
+  {
+    "title": "DvorakDwarf/Infinite-Storage-Glitch",
+    "url": "https://github.com/DvorakDwarf/Infinite-Storage-Glitch",
+    "desc": "ISG lets you use YouTube as cloud storage for ANY files, not just video",
+    "lang": "Rust"
+  },
+  {
+    "title": "amazon-science/mm-cot",
+    "url": "https://github.com/amazon-science/mm-cot",
+    "desc": "Official implementation for Multimodal Chain-of-Thought Reasoning in Language Models (stay tuned and more will be updated)",
+    "lang": "Python"
+  },
+  {
+    "title": "askrella/whatsapp-chatgpt",
+    "url": "https://github.com/askrella/whatsapp-chatgpt",
+    "desc": "ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "FMInference/FlexGen",
+    "url": "https://github.com/FMInference/FlexGen",
+    "desc": "Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput large-batch generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "Kanaries/pygwalker",
+    "url": "https://github.com/Kanaries/pygwalker",
+    "desc": "PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "lang": "Astro"
+  },
+  {
+    "title": "jaymody/picoGPT",
+    "url": "https://github.com/jaymody/picoGPT",
+    "desc": "An unnecessarily tiny implementation of GPT-2 in NumPy.",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "desc": "A curated list of software and architecture related design patterns."
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "liupan1890/aliyunpan",
+    "url": "https://github.com/liupan1890/aliyunpan",
+    "desc": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "replicate/scribble-diffusion",
+    "url": "https://github.com/replicate/scribble-diffusion",
+    "desc": "Turn your rough sketch into a refined image using AI",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "total-typescript/ts-reset",
+    "url": "https://github.com/total-typescript/ts-reset",
+    "desc": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "desc": "🐙 Guides, papers, lecture, and resources for prompt engineering",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "howl-anderson/unlocking-the-power-of-llms",
+    "url": "https://github.com/howl-anderson/unlocking-the-power-of-llms",
+    "desc": "使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～"
+  },
+  {
+    "title": "dunbar12138/pix2pix3D",
+    "url": "https://github.com/dunbar12138/pix2pix3D",
+    "desc": "pix2pix3D: Generating 3D Objects from 2D User Inputs",
+    "lang": "Python"
+  },
+  {
+    "title": "camenduru/stable-diffusion-webui-colab",
+    "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
+    "desc": "stable diffusion webui colab",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "desc": "A terminal for a more modern age",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Bkebi-Group/Bkebi-GC-Release",
+    "url": "https://github.com/Bkebi-Group/Bkebi-GC-Release",
+    "desc": "Download Bkebi-GC Here"
+  }
+]
