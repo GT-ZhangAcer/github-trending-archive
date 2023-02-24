@@ -1,0 +1,149 @@
+[
+  {
+    "title": "DvorakDwarf/Infinite-Storage-Glitch",
+    "url": "https://github.com/DvorakDwarf/Infinite-Storage-Glitch",
+    "desc": "ISG lets you use YouTube as cloud storage for ANY files, not just video",
+    "lang": "Rust"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "desc": "🐙 Guides, papers, lecture, and resources for prompt engineering",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "FMInference/FlexGen",
+    "url": "https://github.com/FMInference/FlexGen",
+    "desc": "Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "Kanaries/pygwalker",
+    "url": "https://github.com/Kanaries/pygwalker",
+    "desc": "PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "amazon-science/mm-cot",
+    "url": "https://github.com/amazon-science/mm-cot",
+    "desc": "Official implementation for Multimodal Chain-of-Thought Reasoning in Language Models (stay tuned and more will be updated)",
+    "lang": "Python"
+  },
+  {
+    "title": "civitai/civitai",
+    "url": "https://github.com/civitai/civitai",
+    "desc": "A repository of models, textual inversions, and more",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MysticFoxDE/WINDOWS-OPTIMIZATIONS",
+    "url": "https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS",
+    "desc": "SKRIPTS FOR WINDOWS DESUBOPTIMIZATION",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "desc": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "lang": "C++"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer."
+  },
+  {
+    "title": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "desc": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "lang": "Dart"
+  },
+  {
+    "title": "LeagueOfPoro/CapsuleFarmerEvolved",
+    "url": "https://github.com/LeagueOfPoro/CapsuleFarmerEvolved",
+    "desc": "Automatically drops from lolesports.com and farm Esports Capsules",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "epicmaxco/vuestic-ui",
+    "url": "https://github.com/epicmaxco/vuestic-ui",
+    "desc": "Free and Open Source UI Library for Vue 3 🤘",
+    "lang": "Vue"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
+    "lang": "Java"
+  },
+  {
+    "title": "liupan1890/aliyunpan",
+    "url": "https://github.com/liupan1890/aliyunpan",
+    "desc": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "total-typescript/ts-reset",
+    "url": "https://github.com/total-typescript/ts-reset",
+    "desc": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "phodal/ai-research",
+    "url": "https://github.com/phodal/ai-research",
+    "desc": "【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "fkunn1326/openpose-editor",
+    "url": "https://github.com/fkunn1326/openpose-editor",
+    "desc": "Openpose Editor for AUTOMATIC1111's stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "Ignitetechnologies/Mindmap",
+    "url": "https://github.com/Ignitetechnologies/Mindmap",
+    "desc": "This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them"
+  },
+  {
+    "title": "localsend/localsend",
+    "url": "https://github.com/localsend/localsend",
+    "desc": "An open source cross-platform alternative to AirDrop",
+    "lang": "Dart"
+  },
+  {
+    "title": "coollabsio/coolify",
+    "url": "https://github.com/coollabsio/coolify",
+    "desc": "An open-source & self-hostable Heroku / Netlify alternative.",
+    "lang": "Svelte"
+  },
+  {
+    "title": "horizon3ai/CVE-2022-39952",
+    "url": "https://github.com/horizon3ai/CVE-2022-39952",
+    "desc": "POC for CVE-2022-39952",
+    "lang": "Python"
+  },
+  {
+    "title": "CryoByte33/steam-deck-utilities",
+    "url": "https://github.com/CryoByte33/steam-deck-utilities",
+    "desc": "A utility to improve performance and help manage storage on Steam Deck.",
+    "lang": "Go"
+  }
+]
