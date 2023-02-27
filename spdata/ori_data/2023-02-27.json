@@ -1,0 +1,148 @@
+[
+  {
+    "title": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "desc": "An open-source, self-hosted memo hub with knowledge management and social networking.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AmbientRun/Ambient",
+    "url": "https://github.com/AmbientRun/Ambient",
+    "desc": "The multiplayer game engine",
+    "lang": "Rust"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "Makefile"
+  },
+  {
+    "title": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "desc": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "lang": "Dart"
+  },
+  {
+    "title": "facebookresearch/llama",
+    "url": "https://github.com/facebookresearch/llama",
+    "desc": "Inference code for LLaMA models",
+    "lang": "Python"
+  },
+  {
+    "title": "memochou1993/gpt-ai-assistant",
+    "url": "https://github.com/memochou1993/gpt-ai-assistant",
+    "desc": "OpenAI + LINE + Vercel = GPT AI Assistant",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OwO-Network/DeepLX",
+    "url": "https://github.com/OwO-Network/DeepLX",
+    "desc": "DeepL Free API (No TOKEN required)",
+    "lang": "Go"
+  },
+  {
+    "title": "trigaten/Learn_Prompting",
+    "url": "https://github.com/trigaten/Learn_Prompting",
+    "desc": "",
+    "lang": "TeX"
+  },
+  {
+    "title": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "desc": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.",
+    "lang": "Zig"
+  },
+  {
+    "title": "KKGo1999/Stable-diffusion-person",
+    "url": "https://github.com/KKGo1999/Stable-diffusion-person",
+    "desc": "由基于Stable-diffusion的Chilloutmix模型生成高清真实的人像"
+  },
+  {
+    "title": "ethereum-optimism/optimism",
+    "url": "https://github.com/ethereum-optimism/optimism",
+    "desc": "Optimism is Ethereum, scaled.",
+    "lang": "Go"
+  },
+  {
+    "title": "camenduru/stable-diffusion-webui-colab",
+    "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
+    "desc": "stable diffusion webui colab",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "VimScript"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "desc": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!"
+  },
+  {
+    "title": "GoAdminGroup/go-admin",
+    "url": "https://github.com/GoAdminGroup/go-admin",
+    "desc": "A golang framework helps gopher to build a data visualization and admin panel in ten minutes",
+    "lang": "Go"
+  },
+  {
+    "title": "cloudquery/cloudquery",
+    "url": "https://github.com/cloudquery/cloudquery",
+    "desc": "The open source high performance data integration platform built for developers. 数据整合",
+    "lang": "Go"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "desc": "A new type of shell",
+    "lang": "Rust"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "desc": "用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页",
+    "lang": "Vue"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具"
+  },
+  {
+    "title": "henryhu712/technote",
+    "url": "https://github.com/henryhu712/technote",
+    "desc": "编程笔记",
+    "lang": "HTML"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "desc": "🐙 Guides, papers, lecture, and resources for prompt engineering",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MortezaBashsiz/CFScanner",
+    "url": "https://github.com/MortezaBashsiz/CFScanner",
+    "desc": "Cloud Flare scanner",
+    "lang": "C#"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "facebookresearch/llama",
+    "url": "https://github.com/facebookresearch/llama",
+    "desc": "Inference code for LLaMA models",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
+    "lang": "Python"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "In-Database Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "yihong0618/xiaogpt",
+    "url": "https://github.com/yihong0618/xiaogpt",
+    "desc": "play chatgpt with xiaomi ai speaker",
+    "lang": "Python"
+  },
+  {
+    "title": "sympy/sympy",
+    "url": "https://github.com/sympy/sympy",
+    "desc": "A computer algebra system written in pure Python",
+    "lang": "Python"
+  },
+  {
+    "title": "derrian-distro/LoRA_Easy_Training_Scripts",
+    "url": "https://github.com/derrian-distro/LoRA_Easy_Training_Scripts",
+    "desc": "A set of two training scripts written in python for use in Kohya's SD-Scripts repository.",
+    "lang": "Python"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "sAjibuu/upload_bypass",
+    "url": "https://github.com/sAjibuu/upload_bypass",
+    "desc": "File upload restrictions bypass, by using different bug bounty techniques!",
+    "lang": "Python"
+  },
+  {
+    "title": "twitter/communitynotes",
+    "url": "https://github.com/twitter/communitynotes",
+    "desc": "Documentation and source code powering Twitter's Community Notes",
+    "lang": "Python"
+  },
+  {
+    "title": "coolzilj/Blender-ControlNet",
+    "url": "https://github.com/coolzilj/Blender-ControlNet",
+    "desc": "Using ControlNet right in Blender.",
+    "lang": "Python"
+  },
+  {
+    "title": "FlareSolverr/FlareSolverr",
+    "url": "https://github.com/FlareSolverr/FlareSolverr",
+    "desc": "Proxy server to bypass Cloudflare protection",
+    "lang": "Python"
+  },
+  {
+    "title": "LmeSzinc/AzurLaneAutoScript",
+    "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+    "desc": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界",
+    "lang": "Python"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "desc": "Full reference of LinkedIn answers 2023 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers",
+    "lang": "Python"
+  },
+  {
+    "title": "MatrixTM/MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "desc": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+    "lang": "Python"
+  },
+  {
+    "title": "Christbowel/CVE-2023-25136",
+    "url": "https://github.com/Christbowel/CVE-2023-25136",
+    "desc": "OpenSSH 9.1 vulnerability mass scan and exploit",
+    "lang": "Python"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "desc": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
+    "lang": "Python"
+  },
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "desc": "A free, online learning platform to make quality education accessible for all.",
+    "lang": "Python"
+  },
+  {
+    "title": "ordinals-wallet/ordinals-collections",
+    "url": "https://github.com/ordinals-wallet/ordinals-collections",
+    "desc": "A place for creators & builders to organize ordinal collections!",
+    "lang": "Python"
+  },
+  {
+    "title": "unit8co/darts",
+    "url": "https://github.com/unit8co/darts",
+    "desc": "A python library for user-friendly forecasting and anomaly detection on time series.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/xformers",
+    "url": "https://github.com/facebookresearch/xformers",
+    "desc": "Hackable and optimized Transformers building blocks, supporting a composable construction.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/fairscale",
+    "url": "https://github.com/facebookresearch/fairscale",
+    "desc": "PyTorch extensions for high performance and large scale training.",
+    "lang": "Python"
+  },
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "desc": "WebUI extension for ControlNet",
+    "lang": "Python"
+  }
+]
