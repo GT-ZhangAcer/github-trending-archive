@@ -1,0 +1,147 @@
+[
+  {
+    "title": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "desc": "An open-source, self-hosted memo hub with knowledge management and social networking.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebookresearch/llama",
+    "url": "https://github.com/facebookresearch/llama",
+    "desc": "Inference code for LLaMA models",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "desc": "用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页",
+    "lang": "Vue"
+  },
+  {
+    "title": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "desc": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "lang": "Dart"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "iggredible/Learn-Vim",
+    "url": "https://github.com/iggredible/Learn-Vim",
+    "desc": "Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖"
+  },
+  {
+    "title": "Haxxnet/Compose-Examples",
+    "url": "https://github.com/Haxxnet/Compose-Examples",
+    "desc": "Various Docker Compose examples of selfhosted FOSS and proprietary projects."
+  },
+  {
+    "title": "LeagueOfPoro/CapsuleFarmerEvolved",
+    "url": "https://github.com/LeagueOfPoro/CapsuleFarmerEvolved",
+    "desc": "Automatically drops from lolesports.com and farm Esports Capsules",
+    "lang": "Python"
+  },
+  {
+    "title": "Universidade-Livre/ciencia-da-computacao",
+    "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
+    "desc": "🎓 Um caminho para a educação autodidata em Ciência da Computação!"
+  },
+  {
+    "title": "whitead/paper-qa",
+    "url": "https://github.com/whitead/paper-qa",
+    "desc": "LLM Chain for answering questions from documents with citations",
+    "lang": "Python"
+  },
+  {
+    "title": "damo-vilab/composer",
+    "url": "https://github.com/damo-vilab/composer",
+    "desc": "Official implementation of Composer: Creative and Controllable Image Synthesis with Composable Conditions"
+  },
+  {
+    "title": "abacaj/awesome-transformers",
+    "url": "https://github.com/abacaj/awesome-transformers",
+    "desc": "A curated list of awesome transformer models."
+  },
+  {
+    "title": "OwO-Network/DeepLX",
+    "url": "https://github.com/OwO-Network/DeepLX",
+    "desc": "DeepL Free API (No TOKEN required)",
+    "lang": "Go"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A build system and primary set of packages for Termux.",
+    "lang": "Shell"
+  },
+  {
+    "title": "jdxcode/rtx",
+    "url": "https://github.com/jdxcode/rtx",
+    "desc": "Runtime Executor (asdf rust clone)",
+    "lang": "Rust"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "Makefile"
+  },
+  {
+    "title": "sympy/sympy",
+    "url": "https://github.com/sympy/sympy",
+    "desc": "A computer algebra system written in pure Python",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/swift-coreml-diffusers",
+    "url": "https://github.com/huggingface/swift-coreml-diffusers",
+    "desc": "Swift app demonstrating Core ML Stable Diffusion",
+    "lang": "Swift"
+  },
+  {
+    "title": "echasnovski/mini.nvim",
+    "url": "https://github.com/echasnovski/mini.nvim",
+    "desc": "Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort",
+    "lang": "Lua"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "desc": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.",
+    "lang": "Zig"
+  },
+  {
+    "title": "trigaten/Learn_Prompting",
+    "url": "https://github.com/trigaten/Learn_Prompting",
+    "desc": "",
+    "lang": "TeX"
+  }
+]
