@@ -1,0 +1,152 @@
+[
+  {
+    "title": "nebuly-ai/nebullvm",
+    "url": "https://github.com/nebuly-ai/nebullvm",
+    "desc": "Plug and play modules to optimize the performances of your AI systems 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "AnTi-anti/damai_ticket",
+    "url": "https://github.com/AnTi-anti/damai_ticket",
+    "desc": "大麦网抢票脚本",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python packaging and dependency management made easy",
+    "lang": "Python"
+  },
+  {
+    "title": "sympy/sympy",
+    "url": "https://github.com/sympy/sympy",
+    "desc": "A computer algebra system written in pure Python",
+    "lang": "Python"
+  },
+  {
+    "title": "greshake/llm-security",
+    "url": "https://github.com/greshake/llm-security",
+    "desc": "New ways of breaking app-integrated LLMs",
+    "lang": "Python"
+  },
+  {
+    "title": "mukulpatnaik/researchgpt",
+    "url": "https://github.com/mukulpatnaik/researchgpt",
+    "desc": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
+    "lang": "Python"
+  },
+  {
+    "title": "bmaltais/kohya_ss",
+    "url": "https://github.com/bmaltais/kohya_ss",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/RWKV-LM",
+    "url": "https://github.com/BlinkDL/RWKV-LM",
+    "desc": "RWKV is a RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, infinite ctx_len, and free sentence embedding.",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "mmabrouk/chatgpt-wrapper",
+    "url": "https://github.com/mmabrouk/chatgpt-wrapper",
+    "desc": "API for interacting with ChatGPT using Python and from Shell.",
+    "lang": "Python"
+  },
+  {
+    "title": "whitead/paper-qa",
+    "url": "https://github.com/whitead/paper-qa",
+    "desc": "LLM Chain for answering questions from documents with citations",
+    "lang": "Python"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "itcharge/LeetCode-Py",
+    "url": "https://github.com/itcharge/LeetCode-Py",
+    "desc": "⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，700+ 道「LeetCode 题目」详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。",
+    "lang": "Python"
+  },
+  {
+    "title": "MakiNaruto/Automatic_ticket_purchase",
+    "url": "https://github.com/MakiNaruto/Automatic_ticket_purchase",
+    "desc": "大麦网抢票脚本",
+    "lang": "Python"
+  },
+  {
+    "title": "KohakuBlueleaf/LoCon",
+    "url": "https://github.com/KohakuBlueleaf/LoCon",
+    "desc": "LoRA for convolution network",
+    "lang": "Python"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "desc": "Open standard for machine learning interoperability",
+    "lang": "Python"
+  },
+  {
+    "title": "tinyvision/DAMO-YOLO",
+    "url": "https://github.com/tinyvision/DAMO-YOLO",
+    "desc": "DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement.",
+    "lang": "Python"
+  },
+  {
+    "title": "nermeenwageh10/Leetcode-Solutions",
+    "url": "https://github.com/nermeenwageh10/Leetcode-Solutions",
+    "desc": "This collection of beginner-friendly LeetCode problems. This repository features easy-to-understand solutions that are constantly updated for improved performance. Whether you're a coding novice or looking to refresh your skills, this repository is a great resource to help you develop your abilities and become a better programmer.",
+    "lang": "Python"
+  },
+  {
+    "title": "haoheliu/AudioLDM",
+    "url": "https://github.com/haoheliu/AudioLDM",
+    "desc": "AudioLDM: Generate speech, sound effects, music and beyond, with text.",
+    "lang": "Python"
+  },
+  {
+    "title": "adap/flower",
+    "url": "https://github.com/adap/flower",
+    "desc": "Flower: A Friendly Federated Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  }
+]
