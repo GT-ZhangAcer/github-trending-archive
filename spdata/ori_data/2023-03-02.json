@@ -1,0 +1,152 @@
+[
+  {
+    "title": "ErickWendel/semana-javascript-expert07",
+    "url": "https://github.com/ErickWendel/semana-javascript-expert07",
+    "desc": "JS Expert Week 7.0 - 🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection 👁🖐",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nebuly-ai/nebullvm",
+    "url": "https://github.com/nebuly-ai/nebullvm",
+    "desc": "Plug and play modules to optimize the performances of your AI systems 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "desc": "An open-source, self-hosted memo hub with knowledge management and social networking.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "lang": "Makefile"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "desc": "用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页",
+    "lang": "Vue"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "lang": "C#"
+  },
+  {
+    "title": "mrsked/mrsk",
+    "url": "https://github.com/mrsked/mrsk",
+    "desc": "Deploy web apps anywhere.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "AnTi-anti/damai_ticket",
+    "url": "https://github.com/AnTi-anti/damai_ticket",
+    "desc": "大麦网抢票脚本",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/doris",
+    "url": "https://github.com/apache/doris",
+    "desc": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+    "lang": "Java"
+  },
+  {
+    "title": "ZeroMemoryEx/Amsi-Killer",
+    "url": "https://github.com/ZeroMemoryEx/Amsi-Killer",
+    "desc": "Lifetime AMSI bypass",
+    "lang": "C++"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+    "lang": "V"
+  },
+  {
+    "title": "odomu/aliyunpan",
+    "url": "https://github.com/odomu/aliyunpan",
+    "desc": "阿里云盘小白羊v3",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "honghuangdc/soybean-admin",
+    "url": "https://github.com/honghuangdc/soybean-admin",
+    "desc": "A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]",
+    "lang": "Vue"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "tsl0922/ttyd",
+    "url": "https://github.com/tsl0922/ttyd",
+    "desc": "Share your terminal over the web",
+    "lang": "C"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python packaging and dependency management made easy",
+    "lang": "Python"
+  },
+  {
+    "title": "sympy/sympy",
+    "url": "https://github.com/sympy/sympy",
+    "desc": "A computer algebra system written in pure Python",
+    "lang": "Python"
+  },
+  {
+    "title": "open-telemetry/opentelemetry-go",
+    "url": "https://github.com/open-telemetry/opentelemetry-go",
+    "desc": "OpenTelemetry Go API and SDK",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "desc": "Windows Package Manager CLI (aka winget)",
+    "lang": "C++"
+  },
+  {
+    "title": "greshake/llm-security",
+    "url": "https://github.com/greshake/llm-security",
+    "desc": "New ways of breaking app-integrated LLMs",
+    "lang": "Python"
+  },
+  {
+    "title": "mukulpatnaik/researchgpt",
+    "url": "https://github.com/mukulpatnaik/researchgpt",
+    "desc": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
+    "lang": "Python"
+  },
+  {
+    "title": "bmaltais/kohya_ss",
+    "url": "https://github.com/bmaltais/kohya_ss",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "henryhu712/technote",
+    "url": "https://github.com/henryhu712/technote",
+    "desc": "编程笔记",
+    "lang": "HTML"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart"
+  },
+  {
+    "title": "stretchr/testify",
+    "url": "https://github.com/stretchr/testify",
+    "desc": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "lang": "Go"
+  }
+]
