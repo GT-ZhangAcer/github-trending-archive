@@ -1,0 +1,152 @@
+[
+  {
+    "title": "AnTi-anti/damai_ticket",
+    "url": "https://github.com/AnTi-anti/damai_ticket",
+    "desc": "大麦网抢票脚本",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-python",
+    "url": "https://github.com/openai/openai-python",
+    "desc": "The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "nebuly-ai/nebullvm",
+    "url": "https://github.com/nebuly-ai/nebullvm",
+    "desc": "Plug and play modules to optimize the performances of your AI systems 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "desc": "An orchestration platform for the development, production, and observation of data assets.",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "ridgerchu/SpikeGPT",
+    "url": "https://github.com/ridgerchu/SpikeGPT",
+    "desc": "Implementation of SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks",
+    "lang": "Python"
+  },
+  {
+    "title": "mukulpatnaik/researchgpt",
+    "url": "https://github.com/mukulpatnaik/researchgpt",
+    "desc": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
+    "lang": "Python"
+  },
+  {
+    "title": "pre-commit/pre-commit",
+    "url": "https://github.com/pre-commit/pre-commit",
+    "desc": "A framework for managing and maintaining multi-language pre-commit hooks.",
+    "lang": "Python"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "whitead/paper-qa",
+    "url": "https://github.com/whitead/paper-qa",
+    "desc": "LLM Chain for answering questions from documents with citations",
+    "lang": "Python"
+  },
+  {
+    "title": "pengzhile/pandora",
+    "url": "https://github.com/pengzhile/pandora",
+    "desc": "潘多拉，一个命令行的ChatGPT。",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具",
+    "lang": "Python"
+  },
+  {
+    "title": "MakiNaruto/Automatic_ticket_purchase",
+    "url": "https://github.com/MakiNaruto/Automatic_ticket_purchase",
+    "desc": "大麦网抢票脚本",
+    "lang": "Python"
+  },
+  {
+    "title": "haoheliu/AudioLDM",
+    "url": "https://github.com/haoheliu/AudioLDM",
+    "desc": "AudioLDM: Generate speech, sound effects, music and beyond, with text.",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "desc": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "👑 Easy-to-use and powerful NLP library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification, 🔍 Neural Search, ❓ Question Answering, ℹ️ Information Extraction, 📄 Document Intelligence, 💌 Sentiment Analysis and 🖼 Diffusion AIGC system etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Main Rule Repository",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "dbt-labs/dbt-core",
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "lang": "Python"
+  }
+]
