@@ -1,0 +1,151 @@
+[
+  {
+    "title": "openai/openai-python",
+    "url": "https://github.com/openai/openai-python",
+    "desc": "The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "desc": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "mrsked/mrsk",
+    "url": "https://github.com/mrsked/mrsk",
+    "desc": "Deploy web apps anywhere.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "openai/openai-quickstart-python",
+    "url": "https://github.com/openai/openai-quickstart-python",
+    "desc": "Python example app from the OpenAI API quickstart tutorial",
+    "lang": "CSS"
+  },
+  {
+    "title": "transitive-bullshit/chatgpt-api",
+    "url": "https://github.com/transitive-bullshit/chatgpt-api",
+    "desc": "Node.js client for the official ChatGPT API. 🔥",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheoKanning/openai-java",
+    "url": "https://github.com/TheoKanning/openai-java",
+    "desc": "OpenAI GPT-3 Api Client in Java",
+    "lang": "Java"
+  },
+  {
+    "title": "mukulpatnaik/researchgpt",
+    "url": "https://github.com/mukulpatnaik/researchgpt",
+    "desc": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
+    "lang": "Python"
+  },
+  {
+    "title": "yihong0618/xiaogpt",
+    "url": "https://github.com/yihong0618/xiaogpt",
+    "desc": "play chatgpt with xiaomi ai speaker",
+    "lang": "Python"
+  },
+  {
+    "title": "ServiceWeaver/weaver",
+    "url": "https://github.com/ServiceWeaver/weaver",
+    "desc": "Programming framework for writing and deploying cloud applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "sashabaranov/go-openai",
+    "url": "https://github.com/sashabaranov/go-openai",
+    "desc": "OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "openai/openai-node",
+    "url": "https://github.com/openai/openai-node",
+    "desc": "Node.js library for the OpenAI API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "karfly/chatgpt_telegram_bot",
+    "url": "https://github.com/karfly/chatgpt_telegram_bot",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "betalgo/openai",
+    "url": "https://github.com/betalgo/openai",
+    "desc": "Open AI ChatGPT, GPT-3 and DALL-E dotnet SDK",
+    "lang": "C#"
+  },
+  {
+    "title": "hiifeng/V2ray-for-Doprax",
+    "url": "https://github.com/hiifeng/V2ray-for-Doprax",
+    "desc": "The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "lang": "C#"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "desc": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "desc": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "lang": "Java"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "CleverRaven/Cataclysm-DDA",
+    "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+    "desc": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+    "lang": "C++"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  }
+]
