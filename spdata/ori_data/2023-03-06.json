@@ -1,0 +1,151 @@
+[
+  {
+    "title": "Nutlope/roomGPT",
+    "url": "https://github.com/Nutlope/roomGPT",
+    "desc": "Upload a photo of your room to generate your dream room with AI.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ddiu8081/chatgpt-demo",
+    "url": "https://github.com/ddiu8081/chatgpt-demo",
+    "desc": "A demo repo based on OpenAI API (gpt-3.5-turbo)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "RUB-SysSec/DroneSecurity",
+    "url": "https://github.com/RUB-SysSec/DroneSecurity",
+    "desc": "DroneSecurity (NDSS 2023)",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "mckaywrigley/paul-graham-gpt",
+    "url": "https://github.com/mckaywrigley/paul-graham-gpt",
+    "desc": "AI search & chat for all of Paul Graham’s essays.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ServiceWeaver/weaver",
+    "url": "https://github.com/ServiceWeaver/weaver",
+    "desc": "Programming framework for writing and deploying cloud applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "desc": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yihong0618/bilingual_book_maker",
+    "url": "https://github.com/yihong0618/bilingual_book_maker",
+    "desc": "Make bilingual epub books Using AI translate",
+    "lang": "Python"
+  },
+  {
+    "title": "sashabaranov/go-openai",
+    "url": "https://github.com/sashabaranov/go-openai",
+    "desc": "OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go",
+    "lang": "Go"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "desc": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
+    "lang": "Vue"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-quickstart-python",
+    "url": "https://github.com/openai/openai-quickstart-python",
+    "desc": "Python example app from the OpenAI API quickstart tutorial",
+    "lang": "CSS"
+  },
+  {
+    "title": "mukulpatnaik/researchgpt",
+    "url": "https://github.com/mukulpatnaik/researchgpt",
+    "desc": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
+    "lang": "Python"
+  },
+  {
+    "title": "godotengine/godot-docs",
+    "url": "https://github.com/godotengine/godot-docs",
+    "desc": "Godot Engine official documentation",
+    "lang": "reStructuredText"
+  },
+  {
+    "title": "zhayujie/bot-on-anything",
+    "url": "https://github.com/zhayujie/bot-on-anything",
+    "desc": "Connect AI models (like ChatGPT-3.5, GPT-3.0) to apps (like Wechat, public account, DingTalk, Telegram, QQ). 将 ChatGPT 等算法模型应用于各类平台，目前已完成命令行、个人微信、公众号、QQ、Telegram、Gmail邮箱、Slack，计划接入Web、企业微信、钉钉等。",
+    "lang": "Python"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "desc": "Nintendo Switch Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "yu-takagi/StableDiffusionReconstruction",
+    "url": "https://github.com/yu-takagi/StableDiffusionReconstruction",
+    "desc": "Takagi and Nishimoto, CVPR 2023"
+  },
+  {
+    "title": "Uniswap/wallet",
+    "url": "https://github.com/Uniswap/wallet",
+    "desc": "Uniswap Wallet is the simplest, safest, and most powerful self-custodial crypto wallet. It is developed by the Uniswap Labs team, inventors of the Uniswap Protocol.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "adrianhajdin/project_3D_developer_portfolio",
+    "url": "https://github.com/adrianhajdin/project_3D_developer_portfolio",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "JimmyLv/BiliGPT",
+    "url": "https://github.com/JimmyLv/BiliGPT",
+    "desc": "BiliGPT 哔哩哔哩 · 视频内容一键总结",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "misskey-dev/misskey",
+    "url": "https://github.com/misskey-dev/misskey",
+    "desc": "🌎 An interplanetary microblogging platform 🚀",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "869413421/chatgpt-web",
+    "url": "https://github.com/869413421/chatgpt-web",
+    "desc": "基于ChatGPT3.5 API实现的私有化web程序",
+    "lang": "Go"
+  }
+]
