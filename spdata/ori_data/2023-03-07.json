@@ -1,0 +1,147 @@
+[
+  {
+    "title": "shawwn/llama-dl",
+    "url": "https://github.com/shawwn/llama-dl",
+    "desc": "High-speed download of LLaMA, Facebook's 65B parameter GPT model",
+    "lang": "Shell"
+  },
+  {
+    "title": "yetone/openai-translator",
+    "url": "https://github.com/yetone/openai-translator",
+    "desc": "基于 ChatGPT API 的划词翻译 Chrome 插件",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yetone/bob-plugin-openai-translator",
+    "url": "https://github.com/yetone/bob-plugin-openai-translator",
+    "desc": "基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yihong0618/bilingual_book_maker",
+    "url": "https://github.com/yihong0618/bilingual_book_maker",
+    "desc": "Make bilingual epub books Using AI translate",
+    "lang": "Python"
+  },
+  {
+    "title": "Nutlope/roomGPT",
+    "url": "https://github.com/Nutlope/roomGPT",
+    "desc": "Upload a photo of your room to generate your dream room with AI.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
+    "url": "https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
+    "desc": "Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation."
+  },
+  {
+    "title": "ddiu8081/chatgpt-demo",
+    "url": "https://github.com/ddiu8081/chatgpt-demo",
+    "desc": "A demo repo based on OpenAI API (gpt-3.5-turbo)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "desc": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "reorx/awesome-chatgpt-api",
+    "url": "https://github.com/reorx/awesome-chatgpt-api",
+    "desc": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota."
+  },
+  {
+    "title": "zinclabs/zincsearch",
+    "url": "https://github.com/zinclabs/zincsearch",
+    "desc": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "0beqz/realism-effects",
+    "url": "https://github.com/0beqz/realism-effects",
+    "desc": "SSGI, Motion Blur, TRAA - effects to enhance your three.js scene's realism",
+    "lang": "Roff"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
+    "lang": "Python"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "desc": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
+    "lang": "Python"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+  },
+  {
+    "title": "WPeace-HcH/WPeChatGPT",
+    "url": "https://github.com/WPeace-HcH/WPeChatGPT",
+    "desc": "A plugin for IDA that can help to analyze binary file and it uses OpenAI's ChatGPT training API.",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持ChatGPT API、 ChatGPT Plus、新版 Bing，多账号负载均衡，人设调教，敏感词检测，虚拟女仆、对话上下文，图片渲染，代理加速 (内有视频教程）",
+    "lang": "Python"
+  },
+  {
+    "title": "Grt1228/chatgpt-java",
+    "url": "https://github.com/Grt1228/chatgpt-java",
+    "desc": "ChatGPT的Java客户端，ChatGPT Java SDK。OpenAI官方Api的Java 版SDK。OpenAI GPT-3.5-Turb Api Client for Java",
+    "lang": "Java"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "lang": "Go"
+  },
+  {
+    "title": "A-poc/BlueTeam-Tools",
+    "url": "https://github.com/A-poc/BlueTeam-Tools",
+    "desc": "Tools and Techniques for Blue Team / Incident Response"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "ServiceWeaver/weaver",
+    "url": "https://github.com/ServiceWeaver/weaver",
+    "desc": "Programming framework for writing and deploying cloud applications.",
+    "lang": "Go"
+  },
+  {
+    "title": "jexom/sd-webui-depth-lib",
+    "url": "https://github.com/jexom/sd-webui-depth-lib",
+    "desc": "Depth map library for use with the Control Net extension for Automatic1111/stable-diffusion-webui",
+    "lang": "JavaScript"
+  }
+]
