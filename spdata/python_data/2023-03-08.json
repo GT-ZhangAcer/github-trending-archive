@@ -1,0 +1,152 @@
+[
+  {
+    "title": "yihong0618/bilingual_book_maker",
+    "url": "https://github.com/yihong0618/bilingual_book_maker",
+    "desc": "Make bilingual epub books Using AI translate",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
+    "lang": "Python"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "desc": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
+    "lang": "Python"
+  },
+  {
+    "title": "WPeace-HcH/WPeChatGPT",
+    "url": "https://github.com/WPeace-HcH/WPeChatGPT",
+    "desc": "A plugin for IDA that can help to analyze binary file and it uses OpenAI's ChatGPT training API.",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持ChatGPT API、 ChatGPT Plus、新版 Bing，多账号负载均衡，人设调教，敏感词检测，虚拟女仆、对话上下文，图片渲染，代理加速 (内有视频教程）",
+    "lang": "Python"
+  },
+  {
+    "title": "hackingthemarkets/chatgpt-api-whisper-api-voice-assistant",
+    "url": "https://github.com/hackingthemarkets/chatgpt-api-whisper-api-voice-assistant",
+    "desc": "chatgpt api and whisper api tutorial - voice conversation with therapist",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/dropout",
+    "url": "https://github.com/facebookresearch/dropout",
+    "desc": "Code release for Dropout Reduces Underfitting",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/ultralytics",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "desc": "NEW - YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "piglei/ai-vocabulary-builder",
+    "url": "https://github.com/piglei/ai-vocabulary-builder",
+    "desc": "一个使用了 AI 技术的智能生词本制作工具。",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/bot-on-anything",
+    "url": "https://github.com/zhayujie/bot-on-anything",
+    "desc": "Connect AI models (like ChatGPT-3.5, GPT-3.0) to apps (like Wechat, public account, DingTalk, Telegram, QQ). 将 ChatGPT 等算法模型应用于各类平台，目前已完成命令行、个人微信、公众号、QQ、Telegram、Gmail邮箱、Slack，计划接入Web、企业微信、钉钉等。",
+    "lang": "Python"
+  },
+  {
+    "title": "zauberzeug/nicegui",
+    "url": "https://github.com/zauberzeug/nicegui",
+    "desc": "Create web-based UI with Python. The nice way.",
+    "lang": "Python"
+  },
+  {
+    "title": "open-mmlab/mmrotate",
+    "url": "https://github.com/open-mmlab/mmrotate",
+    "desc": "OpenMMLab Rotated Object Detection Toolbox and Benchmark",
+    "lang": "Python"
+  },
+  {
+    "title": "innnky/so-vits-svc",
+    "url": "https://github.com/innnky/so-vits-svc",
+    "desc": "基于vits与softvc的歌声音色转换模型",
+    "lang": "Python"
+  },
+  {
+    "title": "gligen/GLIGEN",
+    "url": "https://github.com/gligen/GLIGEN",
+    "desc": "Open-Set Grounded Text-to-Image Generation",
+    "lang": "Python"
+  },
+  {
+    "title": "GaiZhenbiao/ChuanhuChatGPT",
+    "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+    "desc": "GUI for ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/llama",
+    "url": "https://github.com/facebookresearch/llama",
+    "desc": "Inference code for LLaMA models",
+    "lang": "Python"
+  },
+  {
+    "title": "LlmKira/Openaibot",
+    "url": "https://github.com/LlmKira/Openaibot",
+    "desc": "Gpt-3.5-turbo ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌 API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Searching| 📷 Multi-modal/Image Understanding | 💐 Self-maintained LLM Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "n3d1117/chatgpt-telegram-bot",
+    "url": "https://github.com/n3d1117/chatgpt-telegram-bot",
+    "desc": "🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "QiuChenly/QQFlacMusicDownloader",
+    "url": "https://github.com/QiuChenly/QQFlacMusicDownloader",
+    "desc": "[秋城落叶] QQ 音乐源无损歌曲下载",
+    "lang": "Python"
+  },
+  {
+    "title": "wutong16/Voxurf",
+    "url": "https://github.com/wutong16/Voxurf",
+    "desc": "[ ICLR 2023 Spotlight ] Pytorch implementation for Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction",
+    "lang": "Python"
+  },
+  {
+    "title": "littlecodersh/ItChat",
+    "url": "https://github.com/littlecodersh/ItChat",
+    "desc": "A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/pifuhd",
+    "url": "https://github.com/facebookresearch/pifuhd",
+    "desc": "High-Resolution 3D Human Digitization from A Single Image.",
+    "lang": "Python"
+  },
+  {
+    "title": "nemesida-waf/waf-bypass",
+    "url": "https://github.com/nemesida-waf/waf-bypass",
+    "desc": "Check your WAF before an attacker does this one",
+    "lang": "Python"
+  }
+]
