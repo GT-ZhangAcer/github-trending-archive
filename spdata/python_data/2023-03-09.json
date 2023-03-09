@@ -1,0 +1,152 @@
+[
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "desc": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "ashawkey/nerf2mesh",
+    "url": "https://github.com/ashawkey/nerf2mesh",
+    "desc": "Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement",
+    "lang": "Python"
+  },
+  {
+    "title": "GaiZhenbiao/ChuanhuChatGPT",
+    "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+    "desc": "GUI for ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "n3d1117/chatgpt-telegram-bot",
+    "url": "https://github.com/n3d1117/chatgpt-telegram-bot",
+    "desc": "🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lightning",
+    "url": "https://github.com/Lightning-AI/lightning",
+    "desc": "Deep learning framework to train, deploy, and ship AI products Lightning fast.",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "KSCHdsc/BlackCap-Grabber",
+    "url": "https://github.com/KSCHdsc/BlackCap-Grabber",
+    "desc": "A Powerfull Fully Undetect Token Stealer / Token Grabber, allow to steal discord new password / a2f codes / email / credit card / anti delete, steal browsers chromium based Passwords / Cookies / History, Can also steal steam / metamask / exodus / minecraft login / roblox cookies, with anti debug",
+    "lang": "Python"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "lang": "Python"
+  },
+  {
+    "title": "piglei/ai-vocabulary-builder",
+    "url": "https://github.com/piglei/ai-vocabulary-builder",
+    "desc": "一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/T2I-Adapter",
+    "url": "https://github.com/TencentARC/T2I-Adapter",
+    "desc": "T2I-Adapter",
+    "lang": "Python"
+  },
+  {
+    "title": "nemesida-waf/waf-bypass",
+    "url": "https://github.com/nemesida-waf/waf-bypass",
+    "desc": "Check your WAF before an attacker does this one",
+    "lang": "Python"
+  },
+  {
+    "title": "gligen/GLIGEN",
+    "url": "https://github.com/gligen/GLIGEN",
+    "desc": "Open-Set Grounded Text-to-Image Generation",
+    "lang": "Python"
+  },
+  {
+    "title": "CTFd/CTFd",
+    "url": "https://github.com/CTFd/CTFd",
+    "desc": "CTFs as you need them",
+    "lang": "Python"
+  },
+  {
+    "title": "juncongmoo/chatllama",
+    "url": "https://github.com/juncongmoo/chatllama",
+    "desc": "ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "krishnaik06/mlproject",
+    "url": "https://github.com/krishnaik06/mlproject",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "WPeace-HcH/WPeChatGPT",
+    "url": "https://github.com/WPeace-HcH/WPeChatGPT",
+    "desc": "A plugin for IDA that can help to analyze binary file and it uses OpenAI's ChatGPT training API.",
+    "lang": "Python"
+  },
+  {
+    "title": "QiuChenly/QQFlacMusicDownloader",
+    "url": "https://github.com/QiuChenly/QQFlacMusicDownloader",
+    "desc": "[秋城落叶] QQ 音乐源无损歌曲下载",
+    "lang": "Python"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "desc": "Main Rule Repository",
+    "lang": "Python"
+  },
+  {
+    "title": "TimDettmers/bitsandbytes",
+    "url": "https://github.com/TimDettmers/bitsandbytes",
+    "desc": "8-bit CUDA functions for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "airbytehq/airbyte",
+    "url": "https://github.com/airbytehq/airbyte",
+    "desc": "Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "yihong0618/bilingual_book_maker",
+    "url": "https://github.com/yihong0618/bilingual_book_maker",
+    "desc": "Make bilingual epub books Using AI translate",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持ChatGPT API、 ChatGPT Plus、新版 Bing，多账号负载均衡，人设调教，敏感词检测，虚拟女仆、对话上下文，图片渲染，代理加速 (内有视频教程）",
+    "lang": "Python"
+  }
+]

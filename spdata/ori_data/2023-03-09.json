@@ -1,0 +1,147 @@
+[
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "desc": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
+    "lang": "Python"
+  },
+  {
+    "title": "keijiro/AIShader",
+    "url": "https://github.com/keijiro/AIShader",
+    "desc": "ChatGPT-powered shader generator for Unity",
+    "lang": "C#"
+  },
+  {
+    "title": "yetone/openai-translator",
+    "url": "https://github.com/yetone/openai-translator",
+    "desc": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TBXark/ChatGPT-Telegram-Workers",
+    "url": "https://github.com/TBXark/ChatGPT-Telegram-Workers",
+    "desc": "Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures."
+  },
+  {
+    "title": "WordAsImage/Word-As-Image",
+    "url": "https://github.com/WordAsImage/Word-As-Image",
+    "desc": ""
+  },
+  {
+    "title": "shawwn/llama-dl",
+    "url": "https://github.com/shawwn/llama-dl",
+    "desc": "High-speed download of LLaMA, Facebook's 65B parameter GPT model",
+    "lang": "Shell"
+  },
+  {
+    "title": "Ice-Hazymoon/openai-scf-proxy",
+    "url": "https://github.com/Ice-Hazymoon/openai-scf-proxy",
+    "desc": "使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "lang": "Rust"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "desc": "深度学习经典、新论文逐段精读"
+  },
+  {
+    "title": "reorx/awesome-chatgpt-api",
+    "url": "https://github.com/reorx/awesome-chatgpt-api",
+    "desc": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota."
+  },
+  {
+    "title": "prompt-engineering/click-prompt",
+    "url": "https://github.com/prompt-engineering/click-prompt",
+    "desc": "ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click. ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "desc": "Port of OpenAI's Whisper model in C/C++",
+    "lang": "C"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "desc": "A Python Interpreter written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "desc": "Polkadot Node Implementation",
+    "lang": "Rust"
+  },
+  {
+    "title": "Grt1228/chatgpt-java",
+    "url": "https://github.com/Grt1228/chatgpt-java",
+    "desc": "ChatGPT的Java客户端，ChatGPT Java SDK。OpenAI官方Api的Java 版SDK。OpenAI GPT-3.5-Turb Api Client for Java",
+    "lang": "Java"
+  },
+  {
+    "title": "Shopify/sarama",
+    "url": "https://github.com/Shopify/sarama",
+    "desc": "Sarama is a Go library for Apache Kafka.",
+    "lang": "Go"
+  },
+  {
+    "title": "dirk1983/chatgpt",
+    "url": "https://github.com/dirk1983/chatgpt",
+    "desc": "PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，采用Stream流模式通信，一边生成一边输出，响应速度超过官网。前端采用JS的EventSource，支持Markdown格式解析，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有两三个文件，没用任何框架，支持所有PHP版本。只需要修改stream.php中的API_KEY即可使用，也可让浏览者使用自定义API_KEY。",
+    "lang": "CSS"
+  },
+  {
+    "title": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "desc": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "desc": "An enterprise-class UI design language and React UI library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "desc": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "lang": "Python"
+  }
+]
