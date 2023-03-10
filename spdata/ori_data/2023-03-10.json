@@ -1,0 +1,147 @@
+[
+  {
+    "title": "davinci1010/pinduoduo_backdoor",
+    "url": "https://github.com/davinci1010/pinduoduo_backdoor",
+    "desc": "拼多多apk内嵌提权代码，及动态下发dex分析"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "desc": "fast-stable-diffusion + DreamBooth",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "anc95/writely",
+    "url": "https://github.com/anc95/writely",
+    "desc": "❤️‍🔥 A GPT powered chrome extension improving your writing and reading. ｜ 基于 GPT 的浏览器插件，用于协助编辑和阅读",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Postcatlab/postcat",
+    "url": "https://github.com/Postcatlab/postcat",
+    "desc": "Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "desc": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.",
+    "lang": "Python"
+  },
+  {
+    "title": "RadekVyM/MarvelousMAUI",
+    "url": "https://github.com/RadekVyM/MarvelousMAUI",
+    "desc": ".NET MAUI clone of the Wonderous app - a visual showcase of eight wonders of the world.",
+    "lang": "C#"
+  },
+  {
+    "title": "shawwn/llama-dl",
+    "url": "https://github.com/shawwn/llama-dl",
+    "desc": "High-speed download of LLaMA, Facebook's 65B parameter GPT model",
+    "lang": "Shell"
+  },
+  {
+    "title": "yetone/openai-translator",
+    "url": "https://github.com/yetone/openai-translator",
+    "desc": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nodejs/nodejs.org",
+    "url": "https://github.com/nodejs/nodejs.org",
+    "desc": "The Node.js website.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "desc": "深度学习经典、新论文逐段精读"
+  },
+  {
+    "title": "dpayne/CodeGPT.nvim",
+    "url": "https://github.com/dpayne/CodeGPT.nvim",
+    "desc": "",
+    "lang": "Lua"
+  },
+  {
+    "title": "openxla/xla",
+    "url": "https://github.com/openxla/xla",
+    "desc": "A machine learning compiler for GPUs, CPUs, and ML accelerators",
+    "lang": "C++"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "qwopqwop200/GPTQ-for-LLaMa",
+    "url": "https://github.com/qwopqwop200/GPTQ-for-LLaMa",
+    "desc": "4 bits quantization of LLaMa using GPTQ",
+    "lang": "Python"
+  },
+  {
+    "title": "pydantic/pydantic",
+    "url": "https://github.com/pydantic/pydantic",
+    "desc": "Data validation using Python type hints",
+    "lang": "Python"
+  },
+  {
+    "title": "OWASP/API-Security",
+    "url": "https://github.com/OWASP/API-Security",
+    "desc": "OWASP API Security Project"
+  },
+  {
+    "title": "yuezk/chatgpt-mirror",
+    "url": "https://github.com/yuezk/chatgpt-mirror",
+    "desc": "A mirror of ChatGPT based on the gpt-3.5-turbo model.",
+    "lang": "HTML"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "desc": "Clean Architecture Solution Template for .NET 7",
+    "lang": "C#"
+  },
+  {
+    "title": "keijiro/AIShader",
+    "url": "https://github.com/keijiro/AIShader",
+    "desc": "ChatGPT-powered shader generator for Unity",
+    "lang": "C#"
+  },
+  {
+    "title": "webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
+    "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through loaders, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production."
+  },
+  {
+    "title": "chibat/chrome-extension-typescript-starter",
+    "url": "https://github.com/chibat/chrome-extension-typescript-starter",
+    "desc": "Chrome Extension TypeScript Starter",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "guillaumekln/faster-whisper",
+    "url": "https://github.com/guillaumekln/faster-whisper",
+    "desc": "Faster Whisper transcription with CTranslate2",
+    "lang": "Python"
+  },
+  {
+    "title": "yuvalsuede/ai-component-generator",
+    "url": "https://github.com/yuvalsuede/ai-component-generator",
+    "desc": "",
+    "lang": "TypeScript"
+  }
+]
