@@ -1,0 +1,152 @@
+[
+  {
+    "title": "microsoft/visual-chatgpt",
+    "url": "https://github.com/microsoft/visual-chatgpt",
+    "desc": "VisualChatGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure-Samples/azure-search-openai-demo",
+    "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+    "desc": "Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "lang": "Python"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "lang": "Python"
+  },
+  {
+    "title": "guillaumekln/faster-whisper",
+    "url": "https://github.com/guillaumekln/faster-whisper",
+    "desc": "Faster Whisper transcription with CTranslate2",
+    "lang": "Python"
+  },
+  {
+    "title": "arc53/DocsGPT",
+    "url": "https://github.com/arc53/DocsGPT",
+    "desc": "GPT-powered chat for documentation search & assistance.",
+    "lang": "Python"
+  },
+  {
+    "title": "butaixianran/Stable-Diffusion-Webui-Civitai-Helper",
+    "url": "https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper",
+    "desc": "Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.",
+    "lang": "Python"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "desc": "fast-stable-diffusion + DreamBooth",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "desc": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
+    "lang": "Python"
+  },
+  {
+    "title": "randaller/llama-chat",
+    "url": "https://github.com/randaller/llama-chat",
+    "desc": "Chat with Meta's LLaMA models at home made easy",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/DeepSpeed",
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "wangshub/Douyin-Bot",
+    "url": "https://github.com/wangshub/Douyin-Bot",
+    "desc": "😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？",
+    "lang": "Python"
+  },
+  {
+    "title": "juncongmoo/pyllama",
+    "url": "https://github.com/juncongmoo/pyllama",
+    "desc": "LLaMA: Open and Efficient Foundation Language Models",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "ultralytics/ultralytics",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "desc": "NEW - YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "FuroBath/ArtifacterImageGen",
+    "url": "https://github.com/FuroBath/ArtifacterImageGen",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "qwopqwop200/GPTQ-for-LLaMa",
+    "url": "https://github.com/qwopqwop200/GPTQ-for-LLaMa",
+    "desc": "4 bits quantization of LLaMa using GPTQ",
+    "lang": "Python"
+  },
+  {
+    "title": "edtechre/pybroker",
+    "url": "https://github.com/edtechre/pybroker",
+    "desc": "Algorithmic Trading in Python with Machine Learning",
+    "lang": "Python"
+  },
+  {
+    "title": "netbox-community/netbox",
+    "url": "https://github.com/netbox-community/netbox",
+    "desc": "The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "lang": "Python"
+  },
+  {
+    "title": "mne-tools/mne-python",
+    "url": "https://github.com/mne-tools/mne-python",
+    "desc": "MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "tp7309/TTDeDroid",
+    "url": "https://github.com/tp7309/TTDeDroid",
+    "desc": "一键反编译工具(不需要手动安装Python) One key for quickly decompile apk/aar/dex/jar, support by jadx/dex2jar/enjarify.",
+    "lang": "Python"
+  }
+]
