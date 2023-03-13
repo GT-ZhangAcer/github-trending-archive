@@ -1,0 +1,152 @@
+[
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "wzpan/wukong-robot",
+    "url": "https://github.com/wzpan/wukong-robot",
+    "desc": "🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT对话能力，还可能是首个支持脑机交互的开源智能音箱项目。",
+    "lang": "Python"
+  },
+  {
+    "title": "cuifengcn/TAICHI-flet",
+    "url": "https://github.com/cuifengcn/TAICHI-flet",
+    "desc": "基于flet的一款windows桌面应用，实现了爬取图片、音乐、小说、磁力链接的功能。",
+    "lang": "Python"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具",
+    "lang": "Python"
+  },
+  {
+    "title": "shibing624/text2vec",
+    "url": "https://github.com/shibing624/text2vec",
+    "desc": "text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "HIllya51/LunaTranslator",
+    "url": "https://github.com/HIllya51/LunaTranslator",
+    "desc": "Galgame翻译工具，支持剪贴板、OCR、HOOK，支持30余种翻译工具。Galgame translate tool , support clipboard / OCR/ HOOK, support 30+ translate engines.",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持ChatGPT API、 ChatGPT Plus、新版 Bing，多账号负载均衡，人设调教，敏感词检测，虚拟女仆、对话上下文，图片渲染，代理加速 (内有视频教程）",
+    "lang": "Python"
+  },
+  {
+    "title": "RockChinQ/QChatGPT",
+    "url": "https://github.com/RockChinQ/QChatGPT",
+    "desc": "高稳定性、低耦合、支持插件、适配多种模型的 ChatGPT QQ 机器人",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "gfw-breaker/banned-news3",
+    "url": "https://github.com/gfw-breaker/banned-news3",
+    "desc": "禁闻聚合",
+    "lang": "Python"
+  },
+  {
+    "title": "benlisquare/stable-diffusion-webui-localization-zh_TW",
+    "url": "https://github.com/benlisquare/stable-diffusion-webui-localization-zh_TW",
+    "desc": "Traditional Chinese translation extension for Stable Diffusion web UI by AUTOMATIC1111",
+    "lang": "Python"
+  },
+  {
+    "title": "max32002/tixcraft_bot",
+    "url": "https://github.com/max32002/tixcraft_bot",
+    "desc": "Max搶票機器人(maxbot) help you quickly buy your tickets",
+    "lang": "Python"
+  },
+  {
+    "title": "yangjianxin1/GPT2-chitchat",
+    "url": "https://github.com/yangjianxin1/GPT2-chitchat",
+    "desc": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)",
+    "lang": "Python"
+  },
+  {
+    "title": "KimigaiiWuyi/GenshinUID",
+    "url": "https://github.com/KimigaiiWuyi/GenshinUID",
+    "desc": "支持OneBot(QQ)、QQ频道、微信、KOOK（开黑啦）、Telegram（电报）的全功能HoshinoBot/NoneBot2原神插件",
+    "lang": "Python"
+  },
+  {
+    "title": "eysp/AutoApiSecret",
+    "url": "https://github.com/eysp/AutoApiSecret",
+    "desc": "office E5自动续订",
+    "lang": "Python"
+  },
+  {
+    "title": "xushier/HD-Icons",
+    "url": "https://github.com/xushier/HD-Icons",
+    "desc": "高清仪表盘图标（1024x1024 分辨率）",
+    "lang": "Python"
+  },
+  {
+    "title": "infstellar/genshin_impact_assistant",
+    "url": "https://github.com/infstellar/genshin_impact_assistant",
+    "desc": "基于图像识别和模拟按键的多功能原神自动辅助操作,包括自动战斗,自动刷秘境,自动刷大世界材料。",
+    "lang": "Python"
+  },
+  {
+    "title": "XuanRanDev/Auto-ShiXiBeiAn",
+    "url": "https://github.com/XuanRanDev/Auto-ShiXiBeiAn",
+    "desc": "🎨实习备案（职校家园）自动打卡，支持多用户、自定义位置与时间、微信消息推送。",
+    "lang": "Python"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "A-kirami/nonebot-plugin-chatgpt",
+    "url": "https://github.com/A-kirami/nonebot-plugin-chatgpt",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "bupticybee/ChineseAiDungeonChatGPT",
+    "url": "https://github.com/bupticybee/ChineseAiDungeonChatGPT",
+    "desc": "中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "CoderWanFeng/PyOfficeRobot",
+    "url": "https://github.com/CoderWanFeng/PyOfficeRobot",
+    "desc": "pip install PyOfficeRobot，微信机器人",
+    "lang": "Python"
+  },
+  {
+    "title": "Turing-Project/AntiFraudChatBot",
+    "url": "https://github.com/Turing-Project/AntiFraudChatBot",
+    "desc": "A simple prompt-chatting AI based on wechaty and fintuned NLP model",
+    "lang": "Python"
+  }
+]

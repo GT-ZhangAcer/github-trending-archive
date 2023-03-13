@@ -1,0 +1,150 @@
+[
+  {
+    "title": "togethercomputer/OpenChatKit",
+    "url": "https://github.com/togethercomputer/OpenChatKit",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/visual-chatgpt",
+    "url": "https://github.com/microsoft/visual-chatgpt",
+    "desc": "Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/llama.cpp",
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "desc": "Port of Facebook's LLaMA model in C/C++",
+    "lang": "C"
+  },
+  {
+    "title": "GanymedeNil/document.ai",
+    "url": "https://github.com/GanymedeNil/document.ai",
+    "desc": "基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)",
+    "lang": "Python"
+  },
+  {
+    "title": "kaixindelele/ChatPaper",
+    "url": "https://github.com/kaixindelele/ChatPaper",
+    "desc": "Use ChatGPT to summarize the arXiv papers.",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "desc": "Port of OpenAI's Whisper model in C/C++",
+    "lang": "C"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "camenduru/stable-diffusion-webui-colab",
+    "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
+    "desc": "stable diffusion webui colab",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "davinci1012/pinduoduo_backdoor_unpacker",
+    "url": "https://github.com/davinci1012/pinduoduo_backdoor_unpacker",
+    "desc": "Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo",
+    "lang": "Java"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "desc": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.",
+    "lang": "Python"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "desc": "A package build system for Termux.",
+    "lang": "Shell"
+  },
+  {
+    "title": "tangly1024/NotionNext",
+    "url": "https://github.com/tangly1024/NotionNext",
+    "desc": "一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "lang": "VimScript"
+  },
+  {
+    "title": "bmaltais/kohya_ss",
+    "url": "https://github.com/bmaltais/kohya_ss",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "mckaywrigley/chatbot-ui",
+    "url": "https://github.com/mckaywrigley/chatbot-ui",
+    "desc": "A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "desc": "This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CS-BAOYAN/CSSummerCamp2023",
+    "url": "https://github.com/CS-BAOYAN/CSSummerCamp2023",
+    "desc": ""
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "desc": "Display and control your Android device",
+    "lang": "C"
+  },
+  {
+    "title": "hiifeng/V2ray-for-Doprax",
+    "url": "https://github.com/hiifeng/V2ray-for-Doprax",
+    "desc": "The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "futantan/OpenGpt",
+    "url": "https://github.com/futantan/OpenGpt",
+    "desc": "Create your own ChatGPT App in seconds.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zauberzeug/nicegui",
+    "url": "https://github.com/zauberzeug/nicegui",
+    "desc": "Create web-based UI with Python. The nice way.",
+    "lang": "Python"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yuvalsuede/ai-component-generator",
+    "url": "https://github.com/yuvalsuede/ai-component-generator",
+    "desc": "",
+    "lang": "TypeScript"
+  }
+]

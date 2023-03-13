@@ -1,0 +1,152 @@
+[
+  {
+    "title": "togethercomputer/OpenChatKit",
+    "url": "https://github.com/togethercomputer/OpenChatKit",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/visual-chatgpt",
+    "url": "https://github.com/microsoft/visual-chatgpt",
+    "desc": "Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
+    "lang": "Python"
+  },
+  {
+    "title": "GanymedeNil/document.ai",
+    "url": "https://github.com/GanymedeNil/document.ai",
+    "desc": "基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)",
+    "lang": "Python"
+  },
+  {
+    "title": "kaixindelele/ChatPaper",
+    "url": "https://github.com/kaixindelele/ChatPaper",
+    "desc": "Use ChatGPT to summarize the arXiv papers.",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "desc": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.",
+    "lang": "Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "lang": "Python"
+  },
+  {
+    "title": "bmaltais/kohya_ss",
+    "url": "https://github.com/bmaltais/kohya_ss",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "zauberzeug/nicegui",
+    "url": "https://github.com/zauberzeug/nicegui",
+    "desc": "Create web-based UI with Python. The nice way.",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "jankais3r/LLaMA_MPS",
+    "url": "https://github.com/jankais3r/LLaMA_MPS",
+    "desc": "Run LLaMA inference on Apple Silicon GPUs.",
+    "lang": "Python"
+  },
+  {
+    "title": "randaller/llama-chat",
+    "url": "https://github.com/randaller/llama-chat",
+    "desc": "Chat with Meta's LLaMA models at home made easy",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models!",
+    "lang": "Python"
+  },
+  {
+    "title": "kivy/kivy",
+    "url": "https://github.com/kivy/kivy",
+    "desc": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "arc53/DocsGPT",
+    "url": "https://github.com/arc53/DocsGPT",
+    "desc": "GPT-powered chat for documentation search & assistance.",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure-Samples/azure-search-openai-demo",
+    "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+    "desc": "Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content",
+    "lang": "Python"
+  },
+  {
+    "title": "lutris/lutris",
+    "url": "https://github.com/lutris/lutris",
+    "desc": "Lutris desktop client in Python / PyGObject",
+    "lang": "Python"
+  },
+  {
+    "title": "butaixianran/Stable-Diffusion-Webui-Civitai-Helper",
+    "url": "https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper",
+    "desc": "Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.",
+    "lang": "Python"
+  },
+  {
+    "title": "hyperonym/basaran",
+    "url": "https://github.com/hyperonym/basaran",
+    "desc": "Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/gigagan-pytorch",
+    "url": "https://github.com/lucidrains/gigagan-pytorch",
+    "desc": "Implementation of GigaGAN, new SOTA GAN out of Adobe",
+    "lang": "Python"
+  },
+  {
+    "title": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
+    "url": "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
+    "desc": "MultiDiffusion implementation with VAE VRAM optimize",
+    "lang": "Python"
+  },
+  {
+    "title": "chidiwilliams/buzz",
+    "url": "https://github.com/chidiwilliams/buzz",
+    "desc": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+    "lang": "Python"
+  }
+]
