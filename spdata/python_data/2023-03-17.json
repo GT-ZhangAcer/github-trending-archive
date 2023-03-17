@@ -1,0 +1,152 @@
+[
+  {
+    "title": "comfyanonymous/ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "desc": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/EdgeGPT",
+    "url": "https://github.com/acheong08/EdgeGPT",
+    "desc": "Reverse engineered API of Microsoft's Bing Chat",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/ChatGLM-6B",
+    "url": "https://github.com/THUDM/ChatGLM-6B",
+    "desc": "ChatGLM-6B：开源双语对话语言模型 | An open bilingual dialogue language model",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "desc": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/evals",
+    "url": "https://github.com/openai/evals",
+    "desc": "Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.",
+    "lang": "Python"
+  },
+  {
+    "title": "WassimTenachi/PhySO",
+    "url": "https://github.com/WassimTenachi/PhySO",
+    "desc": "Physical Symbolic Optimization",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "tatsu-lab/stanford_alpaca",
+    "url": "https://github.com/tatsu-lab/stanford_alpaca",
+    "desc": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenGVLab/InternImage",
+    "url": "https://github.com/OpenGVLab/InternImage",
+    "desc": "[CVPR 2023] InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions",
+    "lang": "Python"
+  },
+  {
+    "title": "lzzcd001/MeshDiffusion",
+    "url": "https://github.com/lzzcd001/MeshDiffusion",
+    "desc": "Official implementation of MeshDiffusion: Score-based Generative 3D Mesh Modeling (ICLR 2023 Spotlight)",
+    "lang": "Python"
+  },
+  {
+    "title": "karfly/chatgpt_telegram_bot",
+    "url": "https://github.com/karfly/chatgpt_telegram_bot",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "👑 Easy-to-use and powerful NLP library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification, 🔍 Neural Search, ❓ Question Answering, ℹ️ Information Extraction, 📄 Document Intelligence, 💌 Sentiment Analysis and 🖼 Diffusion AIGC system etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/baselines",
+    "url": "https://github.com/openai/baselines",
+    "desc": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
+    "lang": "Python"
+  },
+  {
+    "title": "jina-ai/agentchain",
+    "url": "https://github.com/jina-ai/agentchain",
+    "desc": "Chain together LLMs for reasoning & orchestrate multiple large models for accomplishing complex tasks",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "desc": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-2",
+    "url": "https://github.com/openai/gpt-2",
+    "desc": "Code for the paper Language Models are Unsupervised Multitask Learners",
+    "lang": "Python"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "desc": "Always know what to expect from your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/vision",
+    "url": "https://github.com/pytorch/vision",
+    "desc": "Datasets, Transforms and Models specific to Computer Vision",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryjliu/llama_index",
+    "url": "https://github.com/jerryjliu/llama_index",
+    "desc": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
+    "lang": "Python"
+  },
+  {
+    "title": "ssbuild/chatglm_finetuning",
+    "url": "https://github.com/ssbuild/chatglm_finetuning",
+    "desc": "chatglm 6b 大模型微调",
+    "lang": "Python"
+  },
+  {
+    "title": "ShreyaR/guardrails",
+    "url": "https://github.com/ShreyaR/guardrails",
+    "desc": "Adding guardrails to large language models.",
+    "lang": "Python"
+  },
+  {
+    "title": "mmabrouk/chatgpt-wrapper",
+    "url": "https://github.com/mmabrouk/chatgpt-wrapper",
+    "desc": "API for interacting with ChatGPT and GPT4 using Python and from Shell.",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/GLM-130B",
+    "url": "https://github.com/THUDM/GLM-130B",
+    "desc": "GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  }
+]
