@@ -1,0 +1,149 @@
+[
+  {
+    "title": "tloen/alpaca-lora",
+    "url": "https://github.com/tloen/alpaca-lora",
+    "desc": "Instruct-tuning LLaMA on consumer hardware",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/semantic-kernel",
+    "url": "https://github.com/microsoft/semantic-kernel",
+    "desc": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+    "lang": "C#"
+  },
+  {
+    "title": "acheong08/EdgeGPT",
+    "url": "https://github.com/acheong08/EdgeGPT",
+    "desc": "Reverse engineered API of Microsoft's Bing Chat",
+    "lang": "Python"
+  },
+  {
+    "title": "comfyanonymous/ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "desc": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
+    "lang": "Python"
+  },
+  {
+    "title": "Akegarasu/ChatGLM-webui",
+    "url": "https://github.com/Akegarasu/ChatGLM-webui",
+    "desc": "A WebUI for ChatGLM-6B",
+    "lang": "Python"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "desc": "Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "202252197/ChatGPT_JCM",
+    "url": "https://github.com/202252197/ChatGPT_JCM",
+    "desc": "GPT多模型聊天项目，GPT-4已发布，接口开放后本项目将第一时间适配。后期会一点一点的将OpenAI接口进行接入大家支持一下呗，微信群号在下方，右上角点个Star，我会一直更新下去。",
+    "lang": "Vue"
+  },
+  {
+    "title": "mlc-ai/web-stable-diffusion",
+    "url": "https://github.com/mlc-ai/web-stable-diffusion",
+    "desc": "Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "brunosimon/folio-2019",
+    "url": "https://github.com/brunosimon/folio-2019",
+    "desc": "",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jtmuller5/The-HustleGPT-Challenge",
+    "url": "https://github.com/jtmuller5/The-HustleGPT-Challenge",
+    "desc": "Empowering Your Programming Journey with AI-Powered Conversations"
+  },
+  {
+    "title": "xx025/carrot",
+    "url": "https://github.com/xx025/carrot",
+    "desc": "这儿收集了一些免费好用的ChatGPT镜像站和其他AI站点，当前：76个站点"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "desc": "A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "THUDM/ChatGLM-6B",
+    "url": "https://github.com/THUDM/ChatGLM-6B",
+    "desc": "ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model",
+    "lang": "Python"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "desc": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub."
+  },
+  {
+    "title": "mckaywrigley/chatbot-ui-pro",
+    "url": "https://github.com/mckaywrigley/chatbot-ui-pro",
+    "desc": "A ChatGPT clone for running locally in your browser.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tatsu-lab/stanford_alpaca",
+    "url": "https://github.com/tatsu-lab/stanford_alpaca",
+    "desc": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "lang": "Python"
+  },
+  {
+    "title": "reactjs/reactjs.org",
+    "url": "https://github.com/reactjs/reactjs.org",
+    "desc": "The React documentation website",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dreamworksanimation/openmoonray",
+    "url": "https://github.com/dreamworksanimation/openmoonray",
+    "desc": "",
+    "lang": "CMake"
+  },
+  {
+    "title": "setzer22/llama-rs",
+    "url": "https://github.com/setzer22/llama-rs",
+    "desc": "Run LLaMA inference on CPU, with Rust 🦀🚀🦙",
+    "lang": "Rust"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "THUDM/GLM",
+    "url": "https://github.com/THUDM/GLM",
+    "desc": "GLM (General Language Model)",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "desc": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",
+    "lang": "Python"
+  }
+]
