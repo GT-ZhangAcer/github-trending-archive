@@ -1,0 +1,152 @@
+[
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "Stability-AI/stablediffusion",
+    "url": "https://github.com/Stability-AI/stablediffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "lang": "Python"
+  },
+  {
+    "title": "GaiZhenbiao/ChuanhuChatGPT",
+    "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+    "desc": "GUI for ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "modelscope/modelscope",
+    "url": "https://github.com/modelscope/modelscope",
+    "desc": "ModelScope: bring the notion of Model-as-a-Service to life.",
+    "lang": "Python"
+  },
+  {
+    "title": "34j/so-vits-svc-fork",
+    "url": "https://github.com/34j/so-vits-svc-fork",
+    "desc": "so-vits-svc fork with REALTIME support (voice changer) and greatly improved interface.",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/EdgeGPT",
+    "url": "https://github.com/acheong08/EdgeGPT",
+    "desc": "Reverse engineered API of Microsoft's Bing Chat",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "lang": "Python"
+  },
+  {
+    "title": "mymusise/ChatGLM-Tuning",
+    "url": "https://github.com/mymusise/ChatGLM-Tuning",
+    "desc": "一种平价的chatgpt实现方案, 基于ChatGLM-6B",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "desc": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "lang": "Python"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "lang": "Python"
+  },
+  {
+    "title": "comfyanonymous/ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "desc": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/chat-langchain",
+    "url": "https://github.com/hwchase17/chat-langchain",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "desc": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "lang": "Python"
+  },
+  {
+    "title": "Akegarasu/ChatGLM-webui",
+    "url": "https://github.com/Akegarasu/ChatGLM-webui",
+    "desc": "A WebUI for ChatGLM-6B",
+    "lang": "Python"
+  },
+  {
+    "title": "uber/causalml",
+    "url": "https://github.com/uber/causalml",
+    "desc": "Uplift modeling and causal inference with machine learning algorithms",
+    "lang": "Python"
+  },
+  {
+    "title": "neonbjb/tortoise-tts",
+    "url": "https://github.com/neonbjb/tortoise-tts",
+    "desc": "A multi-voice TTS system trained with an emphasis on quality",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "desc": "Reverse engineered ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "pytube/pytube",
+    "url": "https://github.com/pytube/pytube",
+    "desc": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+    "lang": "Python"
+  },
+  {
+    "title": "pointnetwork/point-alpaca",
+    "url": "https://github.com/pointnetwork/point-alpaca",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "desc": "Download market data from Yahoo! Finance's API",
+    "lang": "Python"
+  },
+  {
+    "title": "crowsonkb/k-diffusion",
+    "url": "https://github.com/crowsonkb/k-diffusion",
+    "desc": "Karras et al. (2022) diffusion models for PyTorch",
+    "lang": "Python"
+  }
+]

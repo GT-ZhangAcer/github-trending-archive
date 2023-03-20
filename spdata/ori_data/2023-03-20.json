@@ -1,0 +1,149 @@
+[
+  {
+    "title": "microsoft/semantic-kernel",
+    "url": "https://github.com/microsoft/semantic-kernel",
+    "desc": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+    "lang": "C#"
+  },
+  {
+    "title": "tloen/alpaca-lora",
+    "url": "https://github.com/tloen/alpaca-lora",
+    "desc": "Instruct-tune LLaMA on consumer hardware",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "mayooear/gpt4-pdf-chatbot-langchain",
+    "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
+    "desc": "GPT4 & LangChain Chatbot for large PDF docs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mckaywrigley/chatbot-ui",
+    "url": "https://github.com/mckaywrigley/chatbot-ui",
+    "desc": "A ChatGPT clone for running locally in your browser.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "lang": "C"
+  },
+  {
+    "title": "gencay/vscode-chatgpt",
+    "url": "https://github.com/gencay/vscode-chatgpt",
+    "desc": "Your best AI pair programmer - open source only",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "cocktailpeanut/dalai",
+    "url": "https://github.com/cocktailpeanut/dalai",
+    "desc": "The simplest way to run LLaMA on your local machine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "Stability-AI/stablediffusion",
+    "url": "https://github.com/Stability-AI/stablediffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "lang": "Python"
+  },
+  {
+    "title": "logspace-ai/langflow",
+    "url": "https://github.com/logspace-ai/langflow",
+    "desc": "⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GaiZhenbiao/ChuanhuChatGPT",
+    "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+    "desc": "GUI for ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "nichtdax/awesome-totally-open-chatgpt",
+    "url": "https://github.com/nichtdax/awesome-totally-open-chatgpt",
+    "desc": "A list of totally open alternatives to ChatGPT"
+  },
+  {
+    "title": "1Panel-dev/1Panel",
+    "url": "https://github.com/1Panel-dev/1Panel",
+    "desc": "现代化、开源的 Linux 服务器运维管理面板。",
+    "lang": "Go"
+  },
+  {
+    "title": "john-smilga/react-course-v3",
+    "url": "https://github.com/john-smilga/react-course-v3",
+    "desc": "",
+    "lang": "CSS"
+  },
+  {
+    "title": "ruffle-rs/ruffle",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "desc": "A Flash Player emulator written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "modelscope/modelscope",
+    "url": "https://github.com/modelscope/modelscope",
+    "desc": "ModelScope: bring the notion of Model-as-a-Service to life.",
+    "lang": "Python"
+  },
+  {
+    "title": "jtmuller5/The-HustleGPT-Challenge",
+    "url": "https://github.com/jtmuller5/The-HustleGPT-Challenge",
+    "desc": "Building Startups with an AI Co-Founder"
+  },
+  {
+    "title": "lencx/ChatGPT",
+    "url": "https://github.com/lencx/ChatGPT",
+    "desc": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "lang": "Rust"
+  },
+  {
+    "title": "34j/so-vits-svc-fork",
+    "url": "https://github.com/34j/so-vits-svc-fork",
+    "desc": "so-vits-svc fork with REALTIME support (voice changer) and greatly improved interface.",
+    "lang": "Python"
+  },
+  {
+    "title": "PCSX2/pcsx2",
+    "url": "https://github.com/PCSX2/pcsx2",
+    "desc": "PCSX2 - The Playstation 2 Emulator",
+    "lang": "C++"
+  },
+  {
+    "title": "acheong08/EdgeGPT",
+    "url": "https://github.com/acheong08/EdgeGPT",
+    "desc": "Reverse engineered API of Microsoft's Bing Chat",
+    "lang": "Python"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "desc": "浙江大学课程攻略共享计划",
+    "lang": "HTML"
+  }
+]
