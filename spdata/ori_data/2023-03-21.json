@@ -1,0 +1,149 @@
+[
+  {
+    "title": "keijiro/AICommand",
+    "url": "https://github.com/keijiro/AICommand",
+    "desc": "ChatGPT integration with Unity Editor",
+    "lang": "C#"
+  },
+  {
+    "title": "gencay/vscode-chatgpt",
+    "url": "https://github.com/gencay/vscode-chatgpt",
+    "desc": "An unofficial Visual Studio Code - OpenAI ChatGPT integration",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/semantic-kernel",
+    "url": "https://github.com/microsoft/semantic-kernel",
+    "desc": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+    "lang": "C#"
+  },
+  {
+    "title": "josStorer/chatGPTBox",
+    "url": "https://github.com/josStorer/chatGPTBox",
+    "desc": "Integrating ChatGPT into your browser deeply, everything you need is here",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "BloopAI/bloop",
+    "url": "https://github.com/BloopAI/bloop",
+    "desc": "bloop is a fast code search engine written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ourongxing/chatgpt-vercel",
+    "url": "https://github.com/ourongxing/chatgpt-vercel",
+    "desc": "Powered by OpenAI API (gpt-3.5-turbo) and Vercel",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "biobootloader/wolverine",
+    "url": "https://github.com/biobootloader/wolverine",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "gannonh/gpt3.5-turbo-pgvector",
+    "url": "https://github.com/gannonh/gpt3.5-turbo-pgvector",
+    "desc": "ChatGTP (gpt3.5-turbo) starter app",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "retrohacker/template",
+    "url": "https://github.com/retrohacker/template",
+    "desc": "A simple framework for webapps",
+    "lang": "HTML"
+  },
+  {
+    "title": "mayooear/gpt4-pdf-chatbot-langchain",
+    "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
+    "desc": "GPT4 & LangChain Chatbot for large PDF docs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+  },
+  {
+    "title": "yuezk/chatgpt-mirror",
+    "url": "https://github.com/yuezk/chatgpt-mirror",
+    "desc": "A mirror of ChatGPT based on the gpt-3.5-turbo model.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheExplainthis/AI-Products-All-In-One",
+    "url": "https://github.com/TheExplainthis/AI-Products-All-In-One",
+    "desc": "彙整了真正實用的 ChatGPT 與生成式 AI 工具"
+  },
+  {
+    "title": "1Panel-dev/1Panel",
+    "url": "https://github.com/1Panel-dev/1Panel",
+    "desc": "现代化、开源的 Linux 服务器运维管理面板。",
+    "lang": "Go"
+  },
+  {
+    "title": "mckaywrigley/chatbot-ui",
+    "url": "https://github.com/mckaywrigley/chatbot-ui",
+    "desc": "A ChatGPT clone for running locally in your browser.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sigoden/aichat",
+    "url": "https://github.com/sigoden/aichat",
+    "desc": "Using ChatGPT/GPT-3.5/GPT-4 in the terminal.",
+    "lang": "Rust"
+  },
+  {
+    "title": "cocktailpeanut/dalai",
+    "url": "https://github.com/cocktailpeanut/dalai",
+    "desc": "The simplest way to run LLaMA on your local machine",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "D4RK-R4BB1T/Dark-Web-Archives",
+    "url": "https://github.com/D4RK-R4BB1T/Dark-Web-Archives",
+    "desc": "Archives of the criminal side of the internet",
+    "lang": "PHP"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "desc": "🐙 Guides, papers, lecture, and resources for prompt engineering",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "GerevAI/gerev",
+    "url": "https://github.com/GerevAI/gerev",
+    "desc": "Self hosted AI workplace search engine",
+    "lang": "Python"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "TheR1D/shell_gpt",
+    "url": "https://github.com/TheR1D/shell_gpt",
+    "desc": "A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.",
+    "lang": "Python"
+  },
+  {
+    "title": "jtmuller5/The-HustleGPT-Challenge",
+    "url": "https://github.com/jtmuller5/The-HustleGPT-Challenge",
+    "desc": "Building Startups with an AI Co-Founder"
+  },
+  {
+    "title": "enricoros/nextjs-chatgpt-app",
+    "url": "https://github.com/enricoros/nextjs-chatgpt-app",
+    "desc": "💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tloen/alpaca-lora",
+    "url": "https://github.com/tloen/alpaca-lora",
+    "desc": "Instruct-tune LLaMA on consumer hardware",
+    "lang": "JupyterNotebook"
+  }
+]
