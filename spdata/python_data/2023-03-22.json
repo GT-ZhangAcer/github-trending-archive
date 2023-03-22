@@ -1,0 +1,152 @@
+[
+  {
+    "title": "deep-diver/Alpaca-LoRA-Serve",
+    "url": "https://github.com/deep-diver/Alpaca-LoRA-Serve",
+    "desc": "Alpaca-LoRA as Chatbot service",
+    "lang": "Python"
+  },
+  {
+    "title": "GerevAI/gerev",
+    "url": "https://github.com/GerevAI/gerev",
+    "desc": "ChatGPT search engine for workplace knowledge",
+    "lang": "Python"
+  },
+  {
+    "title": "pelennor2170/NAM_models",
+    "url": "https://github.com/pelennor2170/NAM_models",
+    "desc": "A repository collecting model files for Neural Amp Modeler (NAM) all in one place",
+    "lang": "Python"
+  },
+  {
+    "title": "modelscope/modelscope",
+    "url": "https://github.com/modelscope/modelscope",
+    "desc": "ModelScope: bring the notion of Model-as-a-Service to life.",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "mymusise/ChatGLM-Tuning",
+    "url": "https://github.com/mymusise/ChatGLM-Tuning",
+    "desc": "一种平价的chatgpt实现方案, 基于ChatGLM-6B",
+    "lang": "Python"
+  },
+  {
+    "title": "chidiwilliams/buzz",
+    "url": "https://github.com/chidiwilliams/buzz",
+    "desc": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+    "lang": "Python"
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "desc": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "Winfredy/SadTalker",
+    "url": "https://github.com/Winfredy/SadTalker",
+    "desc": "（CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/NeMo",
+    "url": "https://github.com/NVIDIA/NeMo",
+    "desc": "NeMo: a toolkit for conversational AI",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "desc": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+    "lang": "Python"
+  },
+  {
+    "title": "lllyasviel/AdverseCleaner",
+    "url": "https://github.com/lllyasviel/AdverseCleaner",
+    "desc": "Remove adversarial noise from images",
+    "lang": "Python"
+  },
+  {
+    "title": "Stability-AI/stablediffusion",
+    "url": "https://github.com/Stability-AI/stablediffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "lang": "Python"
+  },
+  {
+    "title": "LianjiaTech/BELLE",
+    "url": "https://github.com/LianjiaTech/BELLE",
+    "desc": "BELLE: Bloom-Enhanced Large Language model Engine（开源中文对话大模型-70亿参数）",
+    "lang": "Python"
+  },
+  {
+    "title": "pointnetwork/point-alpaca",
+    "url": "https://github.com/pointnetwork/point-alpaca",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "GaiZhenbiao/ChuanhuChatGPT",
+    "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+    "desc": "GUI for ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain-hub",
+    "url": "https://github.com/hwchase17/langchain-hub",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "deforum-art/sd-webui-modelscope-text2video",
+    "url": "https://github.com/deforum-art/sd-webui-modelscope-text2video",
+    "desc": "Auto1111 extension consisting of implementation of ModelScope text2video using only Auto1111 webui dependencies",
+    "lang": "Python"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "desc": "The Unified Machine Learning Framework",
+    "lang": "Python"
+  },
+  {
+    "title": "bigscience-workshop/petals",
+    "url": "https://github.com/bigscience-workshop/petals",
+    "desc": "🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+    "lang": "Python"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "desc": "Streamlit — The fastest way to build data apps in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "enhuiz/vall-e",
+    "url": "https://github.com/enhuiz/vall-e",
+    "desc": "An unofficial PyTorch implementation of the audio LM VALL-E",
+    "lang": "Python"
+  },
+  {
+    "title": "frappe/frappe",
+    "url": "https://github.com/frappe/frappe",
+    "desc": "Low code web framework for real world applications, in Python and Javascript",
+    "lang": "Python"
+  }
+]
