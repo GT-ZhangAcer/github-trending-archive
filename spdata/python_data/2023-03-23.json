@@ -1,0 +1,152 @@
+[
+  {
+    "title": "GaiZhenbiao/ChuanhuChatGPT",
+    "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+    "desc": "GUI for ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "GerevAI/gerev",
+    "url": "https://github.com/GerevAI/gerev",
+    "desc": "🧠 ChatGPT search engine for your organization. 🔎",
+    "lang": "Python"
+  },
+  {
+    "title": "deep-diver/Alpaca-LoRA-Serve",
+    "url": "https://github.com/deep-diver/Alpaca-LoRA-Serve",
+    "desc": "Alpaca-LoRA as Chatbot service",
+    "lang": "Python"
+  },
+  {
+    "title": "LianjiaTech/BELLE",
+    "url": "https://github.com/LianjiaTech/BELLE",
+    "desc": "BELLE: Bloom-Enhanced Large Language model Engine（开源中文对话大模型-70亿参数）",
+    "lang": "Python"
+  },
+  {
+    "title": "fauxpilot/fauxpilot",
+    "url": "https://github.com/fauxpilot/fauxpilot",
+    "desc": "FauxPilot - an open-source GitHub Copilot server",
+    "lang": "Python"
+  },
+  {
+    "title": "TheR1D/shell_gpt",
+    "url": "https://github.com/TheR1D/shell_gpt",
+    "desc": "A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.",
+    "lang": "Python"
+  },
+  {
+    "title": "madawei2699/myGPTReader",
+    "url": "https://github.com/madawei2699/myGPTReader",
+    "desc": "myGPTReader is a slack bot that can read any webpage, ebook or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "desc": "Collection of Summer 2023 tech internships!",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "cvlab-columbia/zero123",
+    "url": "https://github.com/cvlab-columbia/zero123",
+    "desc": "Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/",
+    "lang": "Python"
+  },
+  {
+    "title": "whitead/paper-qa",
+    "url": "https://github.com/whitead/paper-qa",
+    "desc": "LLM Chain for answering questions from documents with citations",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/NeMo",
+    "url": "https://github.com/NVIDIA/NeMo",
+    "desc": "NeMo: a toolkit for conversational AI",
+    "lang": "Python"
+  },
+  {
+    "title": "blakeblackshear/frigate",
+    "url": "https://github.com/blakeblackshear/frigate",
+    "desc": "NVR with realtime local object detection for IP cameras",
+    "lang": "Python"
+  },
+  {
+    "title": "NVlabs/prismer",
+    "url": "https://github.com/NVlabs/prismer",
+    "desc": "The implementation of Prismer: A Vision-Language Model with An Ensemble of Experts.",
+    "lang": "Python"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "desc": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+    "lang": "Python"
+  },
+  {
+    "title": "sdatkinson/NeuralAmpModelerPlugin",
+    "url": "https://github.com/sdatkinson/NeuralAmpModelerPlugin",
+    "desc": "Plugin for Neural Amp Modeler",
+    "lang": "Python"
+  },
+  {
+    "title": "deforum-art/sd-webui-modelscope-text2video",
+    "url": "https://github.com/deforum-art/sd-webui-modelscope-text2video",
+    "desc": "Auto1111 extension consisting of implementation of ModelScope text2video using only Auto1111 webui dependencies",
+    "lang": "Python"
+  },
+  {
+    "title": "locustio/locust",
+    "url": "https://github.com/locustio/locust",
+    "desc": "Write scalable load tests in plain Python 🚗💨",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "lang": "Python"
+  },
+  {
+    "title": "nsarrazin/serge",
+    "url": "https://github.com/nsarrazin/serge",
+    "desc": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+    "lang": "Python"
+  },
+  {
+    "title": "zphang/minimal-llama",
+    "url": "https://github.com/zphang/minimal-llama",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "django/django",
+    "url": "https://github.com/django/django",
+    "desc": "The Web framework for perfectionists with deadlines.",
+    "lang": "Python"
+  },
+  {
+    "title": "bigscience-workshop/petals",
+    "url": "https://github.com/bigscience-workshop/petals",
+    "desc": "🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+    "lang": "Python"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "desc": "Python packaging and dependency management made easy",
+    "lang": "Python"
+  }
+]
