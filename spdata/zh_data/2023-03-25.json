@@ -1,0 +1,147 @@
+[
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+  },
+  {
+    "title": "PlexPt/chatgpt-java",
+    "url": "https://github.com/PlexPt/chatgpt-java",
+    "desc": "ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。",
+    "lang": "Java"
+  },
+  {
+    "title": "Xu22Web/tech-study-js",
+    "url": "https://github.com/Xu22Web/tech-study-js",
+    "desc": "学习强国油猴插件 40分/天 强国脚本 A flexible and light userscript for xuexiqiangguo based on tampermonkey plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eryajf/chatgpt-dingtalk",
+    "url": "https://github.com/eryajf/chatgpt-dingtalk",
+    "desc": "🔔 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀",
+    "lang": "Go"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliToolPro",
+    "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+    "desc": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。",
+    "lang": "C#"
+  },
+  {
+    "title": "didi/LogicFlow",
+    "url": "https://github.com/didi/LogicFlow",
+    "desc": "A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "DerekYRC/mini-spring",
+    "url": "https://github.com/DerekYRC/mini-spring",
+    "desc": "mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。",
+    "lang": "Java"
+  },
+  {
+    "title": "pure-admin/vue-pure-admin",
+    "url": "https://github.com/pure-admin/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AmazingAng/WTF-Solidity",
+    "url": "https://github.com/AmazingAng/WTF-Solidity",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy",
+    "lang": "Solidity"
+  },
+  {
+    "title": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  },
+  {
+    "title": "fscarmen/warp",
+    "url": "https://github.com/fscarmen/warp",
+    "desc": "WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "DGP-Studio/Snap.Hutao",
+    "url": "https://github.com/DGP-Studio/Snap.Hutao",
+    "desc": "唷，找本堂主有何贵干呀？",
+    "lang": "C#"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 QQ 聊天机器人！支持ChatGPT API、 ChatGPT Plus、新版 Bing、Google Bard，多账号负载均衡，人设调教，敏感词检测，虚拟女仆、对话上下文，图片渲染，代理加速 (内有视频教程）| 还支持 OneBot、Telegram、Discord 等平台",
+    "lang": "Python"
+  },
+  {
+    "title": "hellof2e/quark-design",
+    "url": "https://github.com/hellof2e/quark-design",
+    "desc": "Next-gen frontend component library, it can be used in any framework or no framework.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheRamU/Fay",
+    "url": "https://github.com/TheRamU/Fay",
+    "desc": "这是一个完整的数字人项目，包含Python内核及UE数字人模型，可以用于做数字助理及抖音自动直播，又或者作为你的应用入口也很帅.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "adminpass/aliyundrive-subscribe",
+    "url": "https://github.com/adminpass/aliyundrive-subscribe",
+    "desc": "阿里云盘 【订阅】【转存】 【下载】【命名】"
+  },
+  {
+    "title": "dundunnp/auto_xuexiqiangguo",
+    "url": "https://github.com/dundunnp/auto_xuexiqiangguo",
+    "desc": "学习强国 每日拿满61分！免root 四人赛双人对战秒答 自动化脚本",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "DerekYRC/mini-spring-cloud",
+    "url": "https://github.com/DerekYRC/mini-spring-cloud",
+    "desc": "mini-spring-cloud是简化版的spring-cloud框架，能帮助你快速熟悉spring-cloud源码及掌握其核心原理。在保留spring cloud核心功能的的前提下尽量精简代码，核心功能包括服务注册、服务发现、负载均衡、集成Feign简化调用、流量控制、熔断降级、API网关等。",
+    "lang": "Java"
+  },
+  {
+    "title": "OFA-Sys/Chinese-CLIP",
+    "url": "https://github.com/OFA-Sys/Chinese-CLIP",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "Markdown"
+  },
+  {
+    "title": "wangrongding/wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "desc": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Tencent/APIJSON",
+    "url": "https://github.com/Tencent/APIJSON",
+    "desc": "🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀 provides APIs and Docs without writing any code.",
+    "lang": "Java"
+  }
+]

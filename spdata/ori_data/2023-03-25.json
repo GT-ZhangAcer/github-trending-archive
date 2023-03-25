@@ -1,0 +1,150 @@
+[
+  {
+    "title": "nsarrazin/serge",
+    "url": "https://github.com/nsarrazin/serge",
+    "desc": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+    "lang": "Python"
+  },
+  {
+    "title": "madawei2699/myGPTReader",
+    "url": "https://github.com/madawei2699/myGPTReader",
+    "desc": "myGPTReader is a slack bot that can read any webpage, ebook or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",
+    "lang": "Python"
+  },
+  {
+    "title": "mrsked/mrsk",
+    "url": "https://github.com/mrsked/mrsk",
+    "desc": "Deploy web apps anywhere.",
+    "lang": "Ruby"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "desc": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/RWKV-LM",
+    "url": "https://github.com/BlinkDL/RWKV-LM",
+    "desc": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, infinite ctx_len, and free sentence embedding.",
+    "lang": "Python"
+  },
+  {
+    "title": "mckaywrigley/chatbot-ui",
+    "url": "https://github.com/mckaywrigley/chatbot-ui",
+    "desc": "A ChatGPT clone for running locally in your browser.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LC1332/Chinese-alpaca-lora",
+    "url": "https://github.com/LC1332/Chinese-alpaca-lora",
+    "desc": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "desc": "A modern replacement for Redis and Memcached",
+    "lang": "C++"
+  },
+  {
+    "title": "LianjiaTech/BELLE",
+    "url": "https://github.com/LianjiaTech/BELLE",
+    "desc": "BELLE: BE Large Language model Engine（开源中文对话大模型）",
+    "lang": "Python"
+  },
+  {
+    "title": "codebdy/rxdrag",
+    "url": "https://github.com/codebdy/rxdrag",
+    "desc": "Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Leizhenpeng/feishu-chatgpt",
+    "url": "https://github.com/Leizhenpeng/feishu-chatgpt",
+    "desc": "🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
+    "lang": "Go"
+  },
+  {
+    "title": "fauxpilot/fauxpilot",
+    "url": "https://github.com/fauxpilot/fauxpilot",
+    "desc": "FauxPilot - an open-source GitHub Copilot server",
+    "lang": "Python"
+  },
+  {
+    "title": "deep-diver/Alpaca-LoRA-Serve",
+    "url": "https://github.com/deep-diver/Alpaca-LoRA-Serve",
+    "desc": "Alpaca-LoRA as Chatbot service",
+    "lang": "Python"
+  },
+  {
+    "title": "typst/typst",
+    "url": "https://github.com/typst/typst",
+    "desc": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "lang": "Rust"
+  },
+  {
+    "title": "programthink/books",
+    "url": "https://github.com/programthink/books",
+    "desc": "【编程随想】收藏的电子书清单（多个学科，含下载链接）"
+  },
+  {
+    "title": "GaiZhenbiao/ChuanhuChatGPT",
+    "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+    "desc": "GUI for ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIAGameWorks/Path-Tracing-SDK",
+    "url": "https://github.com/NVIDIAGameWorks/Path-Tracing-SDK",
+    "desc": "Real-time path tracing library and sample",
+    "lang": "C++"
+  },
+  {
+    "title": "evanw/thumbhash",
+    "url": "https://github.com/evanw/thumbhash",
+    "desc": "A very compact representation of an image placeholder",
+    "lang": "Swift"
+  },
+  {
+    "title": "mayooear/gpt4-pdf-chatbot-langchain",
+    "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
+    "desc": "GPT4 & LangChain Chatbot for large PDF docs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ddobokki/chatgpt_stock_report",
+    "url": "https://github.com/ddobokki/chatgpt_stock_report",
+    "desc": "그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포",
+    "lang": "Python"
+  },
+  {
+    "title": "BloopAI/bloop",
+    "url": "https://github.com/BloopAI/bloop",
+    "desc": "bloop is a fast code search engine written in Rust.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "BlinkDL/ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "desc": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+    "lang": "Python"
+  },
+  {
+    "title": "lukasHoel/text2room",
+    "url": "https://github.com/lukasHoel/text2room",
+    "desc": "Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models.",
+    "lang": "Python"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "desc": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "nsarrazin/serge",
+    "url": "https://github.com/nsarrazin/serge",
+    "desc": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+    "lang": "Python"
+  },
+  {
+    "title": "madawei2699/myGPTReader",
+    "url": "https://github.com/madawei2699/myGPTReader",
+    "desc": "myGPTReader is a slack bot that can read any webpage, ebook or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",
+    "lang": "Python"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "desc": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/RWKV-LM",
+    "url": "https://github.com/BlinkDL/RWKV-LM",
+    "desc": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, infinite ctx_len, and free sentence embedding.",
+    "lang": "Python"
+  },
+  {
+    "title": "LianjiaTech/BELLE",
+    "url": "https://github.com/LianjiaTech/BELLE",
+    "desc": "BELLE: BE Large Language model Engine（开源中文对话大模型）",
+    "lang": "Python"
+  },
+  {
+    "title": "fauxpilot/fauxpilot",
+    "url": "https://github.com/fauxpilot/fauxpilot",
+    "desc": "FauxPilot - an open-source GitHub Copilot server",
+    "lang": "Python"
+  },
+  {
+    "title": "deep-diver/Alpaca-LoRA-Serve",
+    "url": "https://github.com/deep-diver/Alpaca-LoRA-Serve",
+    "desc": "Alpaca-LoRA as Chatbot service",
+    "lang": "Python"
+  },
+  {
+    "title": "GaiZhenbiao/ChuanhuChatGPT",
+    "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+    "desc": "GUI for ChatGPT API",
+    "lang": "Python"
+  },
+  {
+    "title": "ddobokki/chatgpt_stock_report",
+    "url": "https://github.com/ddobokki/chatgpt_stock_report",
+    "desc": "그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "desc": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+    "lang": "Python"
+  },
+  {
+    "title": "lukasHoel/text2room",
+    "url": "https://github.com/lukasHoel/text2room",
+    "desc": "Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models.",
+    "lang": "Python"
+  },
+  {
+    "title": "GerevAI/gerev",
+    "url": "https://github.com/GerevAI/gerev",
+    "desc": "🧠 AI-powered search engine for your organization 🔎",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/GLM-130B",
+    "url": "https://github.com/THUDM/GLM-130B",
+    "desc": "GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryjliu/llama_index",
+    "url": "https://github.com/jerryjliu/llama_index",
+    "desc": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "desc": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "lang": "Python"
+  },
+  {
+    "title": "getredash/redash",
+    "url": "https://github.com/getredash/redash",
+    "desc": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+    "lang": "Python"
+  },
+  {
+    "title": "timothybrooks/instruct-pix2pix",
+    "url": "https://github.com/timothybrooks/instruct-pix2pix",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "salesforce/CodeGen",
+    "url": "https://github.com/salesforce/CodeGen",
+    "desc": "CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.",
+    "lang": "Python"
+  },
+  {
+    "title": "gd3kr/BlenderGPT",
+    "url": "https://github.com/gd3kr/BlenderGPT",
+    "desc": "Use commands in English to control Blender with OpenAI's GPT-4",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/MM-REACT",
+    "url": "https://github.com/microsoft/MM-REACT",
+    "desc": "Official repo for MM-REACT",
+    "lang": "Python"
+  },
+  {
+    "title": "taberoajorge/saime-script",
+    "url": "https://github.com/taberoajorge/saime-script",
+    "desc": "This is a python script to validate up time of the saime web, even you can change the URL and you can use to everything that you want",
+    "lang": "Python"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "desc": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
+    "lang": "Python"
+  },
+  {
+    "title": "getsentry/sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "desc": "Developer-first error tracking and performance monitoring",
+    "lang": "Python"
+  },
+  {
+    "title": "salesforce/LAVIS",
+    "url": "https://github.com/salesforce/LAVIS",
+    "desc": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+    "lang": "Python"
+  }
+]
