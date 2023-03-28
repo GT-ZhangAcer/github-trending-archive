@@ -1,0 +1,150 @@
+[
+  {
+    "title": "getcursor/cursor",
+    "url": "https://github.com/getcursor/cursor",
+    "desc": "An editor made for programming with AI 🤖",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "haoel/haoel.github.io",
+    "url": "https://github.com/haoel/haoel.github.io",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "Yidadaa/ChatGPT-Next-Web",
+    "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+    "desc": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "desc": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "lang": "Python"
+  },
+  {
+    "title": "vincanger/coverlettergpt",
+    "url": "https://github.com/vincanger/coverlettergpt",
+    "desc": "Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "openai/chatgpt-retrieval-plugin",
+    "url": "https://github.com/openai/chatgpt-retrieval-plugin",
+    "desc": "The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.",
+    "lang": "Python"
+  },
+  {
+    "title": "motifland/markprompt",
+    "url": "https://github.com/motifland/markprompt",
+    "desc": "Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "BlinkDL/RWKV-LM",
+    "url": "https://github.com/BlinkDL/RWKV-LM",
+    "desc": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, infinite ctx_len, and free sentence embedding.",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "desc": "Port of OpenAI's Whisper model in C/C++",
+    "lang": "C"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "databrickslabs/dolly",
+    "url": "https://github.com/databrickslabs/dolly",
+    "desc": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "lang": "Rust"
+  },
+  {
+    "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "desc": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!"
+  },
+  {
+    "title": "liyupi/yu-auto-reply",
+    "url": "https://github.com/liyupi/yu-auto-reply",
+    "desc": "AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答",
+    "lang": "Java"
+  },
+  {
+    "title": "gd3kr/BlenderGPT",
+    "url": "https://github.com/gd3kr/BlenderGPT",
+    "desc": "Use commands in English to control Blender with OpenAI's GPT-4",
+    "lang": "Python"
+  },
+  {
+    "title": "n3d1117/chatgpt-telegram-bot",
+    "url": "https://github.com/n3d1117/chatgpt-telegram-bot",
+    "desc": "🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "LC1332/Chinese-alpaca-lora",
+    "url": "https://github.com/LC1332/Chinese-alpaca-lora",
+    "desc": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "Building the best file manager experience for Windows",
+    "lang": "C#"
+  },
+  {
+    "title": "sahil280114/codealpaca",
+    "url": "https://github.com/sahil280114/codealpaca",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "dice2o/BingGPT",
+    "url": "https://github.com/dice2o/BingGPT",
+    "desc": "Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Picsart-AI-Research/Text2Video-Zero",
+    "url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
+    "desc": "Text-to-Image Diffusion Models are Zero-Shot Video Generators"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "lang": "HTML"
+  },
+  {
+    "title": "ruffle-rs/ruffle",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "desc": "A Flash Player emulator written in Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "apache/incubator-opendal",
+    "url": "https://github.com/apache/incubator-opendal",
+    "desc": "Apache OpenDAL: Access data freely, painlessly, and efficiently.",
+    "lang": "Rust"
+  }
+]

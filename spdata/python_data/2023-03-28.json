@@ -1,0 +1,152 @@
+[
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "desc": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/chatgpt-retrieval-plugin",
+    "url": "https://github.com/openai/chatgpt-retrieval-plugin",
+    "desc": "The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/RWKV-LM",
+    "url": "https://github.com/BlinkDL/RWKV-LM",
+    "desc": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, infinite ctx_len, and free sentence embedding.",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "lang": "Python"
+  },
+  {
+    "title": "databrickslabs/dolly",
+    "url": "https://github.com/databrickslabs/dolly",
+    "desc": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "gd3kr/BlenderGPT",
+    "url": "https://github.com/gd3kr/BlenderGPT",
+    "desc": "Use commands in English to control Blender with OpenAI's GPT-4",
+    "lang": "Python"
+  },
+  {
+    "title": "n3d1117/chatgpt-telegram-bot",
+    "url": "https://github.com/n3d1117/chatgpt-telegram-bot",
+    "desc": "🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "sahil280114/codealpaca",
+    "url": "https://github.com/sahil280114/codealpaca",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "sdatkinson/NeuralAmpModelerPlugin",
+    "url": "https://github.com/sdatkinson/NeuralAmpModelerPlugin",
+    "desc": "Plugin for Neural Amp Modeler",
+    "lang": "Python"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "desc": "Let us control diffusion models!",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "desc": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "lang": "Python"
+  },
+  {
+    "title": "svc-develop-team/so-vits-svc",
+    "url": "https://github.com/svc-develop-team/so-vits-svc",
+    "desc": "SoftVC VITS Singing Voice Conversion",
+    "lang": "Python"
+  },
+  {
+    "title": "GammaTauAI/reflexion-human-eval",
+    "url": "https://github.com/GammaTauAI/reflexion-human-eval",
+    "desc": "An implementation of a Reflexion agent for SOTA Human-Eval Python results.",
+    "lang": "Python"
+  },
+  {
+    "title": "FMInference/FlexGen",
+    "url": "https://github.com/FMInference/FlexGen",
+    "desc": "Running large language models on a single GPU for throughput-oriented scenarios.",
+    "lang": "Python"
+  },
+  {
+    "title": "bmaltais/kohya_ss",
+    "url": "https://github.com/bmaltais/kohya_ss",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "34j/so-vits-svc-fork",
+    "url": "https://github.com/34j/so-vits-svc-fork",
+    "desc": "so-vits-svc fork with REALTIME support (voice changer) and greatly improved interface.",
+    "lang": "Python"
+  },
+  {
+    "title": "Stability-AI/stablediffusion",
+    "url": "https://github.com/Stability-AI/stablediffusion",
+    "desc": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "lang": "Python"
+  },
+  {
+    "title": "pelennor2170/NAM_models",
+    "url": "https://github.com/pelennor2170/NAM_models",
+    "desc": "A repository collecting model files for Neural Amp Modeler (NAM) all in one place",
+    "lang": "Python"
+  },
+  {
+    "title": "stochasticai/xturing",
+    "url": "https://github.com/stochasticai/xturing",
+    "desc": "Build and control your own LLMs",
+    "lang": "Python"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "A low-code Machine Learning platform to help developers build #AI solutions",
+    "lang": "Python"
+  },
+  {
+    "title": "fkunn1326/openpose-editor",
+    "url": "https://github.com/fkunn1326/openpose-editor",
+    "desc": "Openpose Editor for AUTOMATIC1111's stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "showlab/Tune-A-Video",
+    "url": "https://github.com/showlab/Tune-A-Video",
+    "desc": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+    "lang": "Python"
+  },
+  {
+    "title": "gururise/AlpacaDataCleaned",
+    "url": "https://github.com/gururise/AlpacaDataCleaned",
+    "desc": "Alpaca dataset from Stanford, cleaned and curated",
+    "lang": "Python"
+  },
+  {
+    "title": "sympy/sympy",
+    "url": "https://github.com/sympy/sympy",
+    "desc": "A computer algebra system written in pure Python",
+    "lang": "Python"
+  }
+]
