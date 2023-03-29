@@ -1,0 +1,148 @@
+[
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "desc": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
+    "lang": "Rust"
+  },
+  {
+    "title": "eryajf/chatgpt-dingtalk",
+    "url": "https://github.com/eryajf/chatgpt-dingtalk",
+    "desc": "🔔 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀",
+    "lang": "Go"
+  },
+  {
+    "title": "fscarmen/warp",
+    "url": "https://github.com/fscarmen/warp",
+    "desc": "WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",
+    "lang": "Python"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "HarderThenHarder/transformers_tasks",
+    "url": "https://github.com/HarderThenHarder/transformers_tasks",
+    "desc": "⭐️ NLP Algorithms with transformers lib. Supporting Text-Classification, Text-Generation, Information-Extraction, Text-Matching, RLHF etc.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "WTFAcademy/WTF-Ethers",
+    "url": "https://github.com/WTFAcademy/WTF-Ethers",
+    "desc": "我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "TheRamU/Fay",
+    "url": "https://github.com/TheRamU/Fay",
+    "desc": "这是一个完整的数字人项目，包含Python内核及UE数字人模型，可以用于做数字助理及抖音自动直播，又或者作为你的应用入口也很帅.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "37iOS/iChatGPT",
+    "url": "https://github.com/37iOS/iChatGPT",
+    "desc": "OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS",
+    "lang": "Swift"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄",
+    "lang": "Java"
+  },
+  {
+    "title": "zan8in/afrog",
+    "url": "https://github.com/zan8in/afrog",
+    "desc": "A Vulnerability Scanning Tools For Penetration Testing",
+    "lang": "Go"
+  },
+  {
+    "title": "hepengwei/visualization-collection",
+    "url": "https://github.com/hepengwei/visualization-collection",
+    "desc": "🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "RockChinQ/QChatGPT",
+    "url": "https://github.com/RockChinQ/QChatGPT",
+    "desc": "高稳定性、低耦合、支持插件、适配多种模型的 ChatGPT NewBing QQ 机器人 [已支持 GPT-4、New Bing 🎉]",
+    "lang": "Python"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "desc": "强大易用的开源建站工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "IDEA-CCNL/Fengshenbang-LM",
+    "url": "https://github.com/IDEA-CCNL/Fengshenbang-LM",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "91p2022/91",
+    "url": "https://github.com/91p2022/91",
+    "desc": "91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+  },
+  {
+    "title": "hehonghui/awesome-english-ebooks",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "lang": "CSS"
+  },
+  {
+    "title": "cherish-chat/xxim-server",
+    "url": "https://github.com/cherish-chat/xxim-server",
+    "desc": "惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！",
+    "lang": "Go"
+  },
+  {
+    "title": "Pawdroid/Free-servers",
+    "url": "https://github.com/Pawdroid/Free-servers",
+    "desc": "🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。"
+  },
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "desc": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lxhao61/integrated-examples",
+    "url": "https://github.com/lxhao61/integrated-examples",
+    "desc": "以Xray或V2Ray（v4版）、Trojan-Go或Trojan、NaiveProxy、Hysteria等打造科学上网的优化配置及最优组合示例，且提供集成常用插件的Caddy（v2版）程序，分享给大家食用及自己备份。",
+    "lang": "Roff"
+  }
+]

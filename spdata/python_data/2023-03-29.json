@@ -1,0 +1,152 @@
+[
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "desc": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "lang": "Python"
+  },
+  {
+    "title": "databrickslabs/dolly",
+    "url": "https://github.com/databrickslabs/dolly",
+    "desc": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "gd3kr/BlenderGPT",
+    "url": "https://github.com/gd3kr/BlenderGPT",
+    "desc": "Use commands in English to control Blender with OpenAI's GPT-4",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/chatgpt-retrieval-plugin",
+    "url": "https://github.com/openai/chatgpt-retrieval-plugin",
+    "desc": "The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/peft",
+    "url": "https://github.com/huggingface/peft",
+    "desc": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "showlab/Tune-A-Video",
+    "url": "https://github.com/showlab/Tune-A-Video",
+    "desc": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+    "lang": "Python"
+  },
+  {
+    "title": "gururise/AlpacaDataCleaned",
+    "url": "https://github.com/gururise/AlpacaDataCleaned",
+    "desc": "Alpaca dataset from Stanford, cleaned and curated",
+    "lang": "Python"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "desc": "A low-code Machine Learning platform to help developers build #AI solutions",
+    "lang": "Python"
+  },
+  {
+    "title": "sdatkinson/NeuralAmpModelerPlugin",
+    "url": "https://github.com/sdatkinson/NeuralAmpModelerPlugin",
+    "desc": "Plugin for Neural Amp Modeler",
+    "lang": "Python"
+  },
+  {
+    "title": "sahil280114/codealpaca",
+    "url": "https://github.com/sahil280114/codealpaca",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "jamesturk/scrapeghost",
+    "url": "https://github.com/jamesturk/scrapeghost",
+    "desc": "👻 Experimental library for scraping websites using OpenAI's GPT API.",
+    "lang": "Python"
+  },
+  {
+    "title": "reddelexc/hackerone-reports",
+    "url": "https://github.com/reddelexc/hackerone-reports",
+    "desc": "Top disclosed reports from HackerOne",
+    "lang": "Python"
+  },
+  {
+    "title": "jerryjliu/llama_index",
+    "url": "https://github.com/jerryjliu/llama_index",
+    "desc": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/Megatron-LM",
+    "url": "https://github.com/NVIDIA/Megatron-LM",
+    "desc": "Ongoing research training transformer models at scale",
+    "lang": "Python"
+  },
+  {
+    "title": "TheR1D/shell_gpt",
+    "url": "https://github.com/TheR1D/shell_gpt",
+    "desc": "A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",
+    "lang": "Python"
+  },
+  {
+    "title": "n3d1117/chatgpt-telegram-bot",
+    "url": "https://github.com/n3d1117/chatgpt-telegram-bot",
+    "desc": "🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "Kent0n-Li/ChatDoctor",
+    "url": "https://github.com/Kent0n-Li/ChatDoctor",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "stochasticai/xturing",
+    "url": "https://github.com/stochasticai/xturing",
+    "desc": "Build and control your own LLMs",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/gigagan-pytorch",
+    "url": "https://github.com/lucidrains/gigagan-pytorch",
+    "desc": "Implementation of GigaGAN, new SOTA GAN out of Adobe",
+    "lang": "Python"
+  },
+  {
+    "title": "nemesida-waf/waf-bypass",
+    "url": "https://github.com/nemesida-waf/waf-bypass",
+    "desc": "Check your WAF before an attacker does",
+    "lang": "Python"
+  },
+  {
+    "title": "kaixindelele/ChatPaper",
+    "url": "https://github.com/kaixindelele/ChatPaper",
+    "desc": "Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复",
+    "lang": "Python"
+  },
+  {
+    "title": "continuum-llms/chatgpt-memory",
+    "url": "https://github.com/continuum-llms/chatgpt-memory",
+    "desc": "Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.",
+    "lang": "Python"
+  },
+  {
+    "title": "flet-dev/flet",
+    "url": "https://github.com/flet-dev/flet",
+    "desc": "Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/accelerate",
+    "url": "https://github.com/huggingface/accelerate",
+    "desc": "🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision",
+    "lang": "Python"
+  }
+]

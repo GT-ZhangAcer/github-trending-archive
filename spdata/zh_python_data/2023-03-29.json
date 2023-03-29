@@ -1,0 +1,152 @@
+[
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",
+    "lang": "Python"
+  },
+  {
+    "title": "HarderThenHarder/transformers_tasks",
+    "url": "https://github.com/HarderThenHarder/transformers_tasks",
+    "desc": "⭐️ NLP Algorithms with transformers lib. Supporting Text-Classification, Text-Generation, Information-Extraction, Text-Matching, RLHF etc.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "RockChinQ/QChatGPT",
+    "url": "https://github.com/RockChinQ/QChatGPT",
+    "desc": "高稳定性、低耦合、支持插件、适配多种模型的 ChatGPT NewBing QQ 机器人 [已支持 GPT-4、New Bing 🎉]",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEA-CCNL/Fengshenbang-LM",
+    "url": "https://github.com/IDEA-CCNL/Fengshenbang-LM",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, YOLOv8, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "yangjianxin1/GPT2-chitchat",
+    "url": "https://github.com/yangjianxin1/GPT2-chitchat",
+    "desc": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)",
+    "lang": "Python"
+  },
+  {
+    "title": "OFA-Sys/Chinese-CLIP",
+    "url": "https://github.com/OFA-Sys/Chinese-CLIP",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "Evil0ctal/Douyin_TikTok_Download_API",
+    "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+    "desc": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音|TikTok数据爬取工具，支持API调用，在线批量解析及下载。",
+    "lang": "Python"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "XX-net/XX-Net",
+    "url": "https://github.com/XX-net/XX-Net",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "Rockyzsu/stock",
+    "url": "https://github.com/Rockyzsu/stock",
+    "desc": "30天掌握量化交易 (持续更新)",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord 等平台",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "peasoft/NoMoreWalls",
+    "url": "https://github.com/peasoft/NoMoreWalls",
+    "desc": "自动抓取部分不提供订阅的公开节点。",
+    "lang": "Python"
+  },
+  {
+    "title": "Ricardokevins/Bert-In-Relation-Extraction",
+    "url": "https://github.com/Ricardokevins/Bert-In-Relation-Extraction",
+    "desc": "使用Bert完成实体之间关系抽取",
+    "lang": "Python"
+  },
+  {
+    "title": "PantsuDango/Dango-Translator",
+    "url": "https://github.com/PantsuDango/Dango-Translator",
+    "desc": "团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器",
+    "lang": "Python"
+  },
+  {
+    "title": "shibing624/pycorrector",
+    "url": "https://github.com/shibing624/pycorrector",
+    "desc": "pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer，T5等模型实现，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "infstellar/genshin_impact_assistant",
+    "url": "https://github.com/infstellar/genshin_impact_assistant",
+    "desc": "基于图像识别和模拟按键的多功能原神自动辅助操作,包括自动战斗,自动刷秘境,自动刷大世界材料。",
+    "lang": "Python"
+  },
+  {
+    "title": "jwcesign/kubespider",
+    "url": "https://github.com/jwcesign/kubespider",
+    "desc": "A global resource download orchestration system, build your home download center.",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSlim",
+    "url": "https://github.com/PaddlePaddle/PaddleSlim",
+    "desc": "PaddleSlim is an open-source library for deep model compression and architecture search.",
+    "lang": "Python"
+  },
+  {
+    "title": "NewFuture/DDNS",
+    "url": "https://github.com/NewFuture/DDNS",
+    "desc": "🚩 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)",
+    "lang": "Python"
+  },
+  {
+    "title": "yeyupiaoling/PPASR",
+    "url": "https://github.com/yeyupiaoling/PPASR",
+    "desc": "基于PaddlePaddle实现端到端中文语音识别，从入门到实战，超简单的入门案例，超实用的企业项目。支持当前最流行的DeepSpeech2、Conformer、Squeezeformer模型",
+    "lang": "Python"
+  },
+  {
+    "title": "rev1si0n/lamda",
+    "url": "https://github.com/rev1si0n/lamda",
+    "desc": "⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。",
+    "lang": "Python"
+  },
+  {
+    "title": "PyQt5/PyQt",
+    "url": "https://github.com/PyQt5/PyQt",
+    "desc": "PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5",
+    "lang": "Python"
+  }
+]
