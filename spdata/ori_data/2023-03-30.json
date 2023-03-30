@@ -1,0 +1,150 @@
+[
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "desc": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "lang": "Python"
+  },
+  {
+    "title": "Kent0n-Li/ChatDoctor",
+    "url": "https://github.com/Kent0n-Li/ChatDoctor",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Yidadaa/ChatGPT-Next-Web",
+    "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+    "desc": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "getcursor/cursor",
+    "url": "https://github.com/getcursor/cursor",
+    "desc": "An editor made for programming with AI 🤖",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "davinci1012/pinduoduo_backdoor_unpacker",
+    "url": "https://github.com/davinci1012/pinduoduo_backdoor_unpacker",
+    "desc": "Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo",
+    "lang": "Java"
+  },
+  {
+    "title": "databrickslabs/dolly",
+    "url": "https://github.com/databrickslabs/dolly",
+    "desc": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "haoel/haoel.github.io",
+    "url": "https://github.com/haoel/haoel.github.io",
+    "desc": "",
+    "lang": "Shell"
+  },
+  {
+    "title": "visual-openllm/visual-openllm",
+    "url": "https://github.com/visual-openllm/visual-openllm",
+    "desc": "something like visual-chatgpt, 文心一言的开源版",
+    "lang": "Python"
+  },
+  {
+    "title": "snipe/snipe-it",
+    "url": "https://github.com/snipe/snipe-it",
+    "desc": "A free open source IT asset/license management system",
+    "lang": "PHP"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "lang": "HTML"
+  },
+  {
+    "title": "lxfater/Portal",
+    "url": "https://github.com/lxfater/Portal",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "logspace-ai/langflow",
+    "url": "https://github.com/logspace-ai/langflow",
+    "desc": "⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "davinci1010/pinduoduo_backdoor",
+    "url": "https://github.com/davinci1010/pinduoduo_backdoor",
+    "desc": "拼多多apk内嵌提权代码，及动态下发dex分析"
+  },
+  {
+    "title": "di-sukharev/opencommit",
+    "url": "https://github.com/di-sukharev/opencommit",
+    "desc": "GPT CLI to auto-generate impressive commits in 1 second 🤯🔫",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PhoebusSi/Alpaca-CoT",
+    "url": "https://github.com/PhoebusSi/Alpaca-CoT",
+    "desc": "We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data, and integrating more LLMs together for easy use. （我们将CoT数据扩展到Alpaca以提高其推理能力，同时我们将不断收集更多的instruction-tuning数据集,并在我们框架下集成进更多的LLM。）",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "clue-ai/ChatYuan",
+    "url": "https://github.com/clue-ai/ChatYuan",
+    "desc": "ChatYuan: Large Language Model for Dialogue in Chinese and English",
+    "lang": "Python"
+  },
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "desc": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "desc": "Building the best file manager experience for Windows",
+    "lang": "C#"
+  },
+  {
+    "title": "showlab/Tune-A-Video",
+    "url": "https://github.com/showlab/Tune-A-Video",
+    "desc": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+    "lang": "Python"
+  },
+  {
+    "title": "getsentry/sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "desc": "Developer-first error tracking and performance monitoring",
+    "lang": "Python"
+  },
+  {
+    "title": "mayooear/gpt4-pdf-chatbot-langchain",
+    "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
+    "desc": "GPT4 & LangChain Chatbot for large PDF docs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy",
+    "url": "https://github.com/KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy",
+    "desc": "科学上网🟢🟢科学上网🔴🔴科学上网🟡🟡科学上网",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "desc": "Examples and guides for using the OpenAI API",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "dalinvip/Awesome-ChatGPT",
+    "url": "https://github.com/dalinvip/Awesome-ChatGPT",
+    "desc": "ChatGPT资料汇总学习，持续更新......"
+  }
+]

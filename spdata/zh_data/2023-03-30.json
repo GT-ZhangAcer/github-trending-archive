@@ -1,0 +1,147 @@
+[
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "desc": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",
+    "lang": "Python"
+  },
+  {
+    "title": "hepengwei/visualization-collection",
+    "url": "https://github.com/hepengwei/visualization-collection",
+    "desc": "🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheRamU/Fay",
+    "url": "https://github.com/TheRamU/Fay",
+    "desc": "这是一个完整的数字人项目，包含Python内核及UE数字人模型，可以用于做数字助理及抖音自动直播，又或者作为你的应用入口也很帅.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+  },
+  {
+    "title": "Pawdroid/Free-servers",
+    "url": "https://github.com/Pawdroid/Free-servers",
+    "desc": "🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。"
+  },
+  {
+    "title": "zan8in/afrog",
+    "url": "https://github.com/zan8in/afrog",
+    "desc": "A Vulnerability Scanning Tools For Penetration Testing",
+    "lang": "Go"
+  },
+  {
+    "title": "labring/laf",
+    "url": "https://github.com/labring/laf",
+    "desc": "laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个干净清爽的开发平台，像写博客一样写代码！三分钟上线 chatGPT 应用！",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "lang": "C++"
+  },
+  {
+    "title": "whyour/qinglong",
+    "url": "https://github.com/whyour/qinglong",
+    "desc": "支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "iDvel/rime-ice",
+    "url": "https://github.com/iDvel/rime-ice",
+    "desc": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "lang": "Go"
+  },
+  {
+    "title": "Semporia/TikTok-Unlock",
+    "url": "https://github.com/Semporia/TikTok-Unlock",
+    "desc": "TikTok免拔卡解锁最新支持 iPhone （iOS 16.4） 、TikTok（V28.4.1）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！"
+  },
+  {
+    "title": "yuesong-feng/30dayMakeCppServer",
+    "url": "https://github.com/yuesong-feng/30dayMakeCppServer",
+    "desc": "30天自制C++服务器，包含教程和源代码",
+    "lang": "C++"
+  },
+  {
+    "title": "yangzongzhuan/RuoYi-Vue3",
+    "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+    "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "eryajf/chatgpt-dingtalk",
+    "url": "https://github.com/eryajf/chatgpt-dingtalk",
+    "desc": "🔔 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀",
+    "lang": "Go"
+  },
+  {
+    "title": "chokcoco/iCSS",
+    "url": "https://github.com/chokcoco/iCSS",
+    "desc": "不止于 CSS",
+    "lang": "CSS"
+  },
+  {
+    "title": "redleafnew/Chinese-STD-GB-T-7714-related-csl",
+    "url": "https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl",
+    "desc": "GB/T 7714相关的csl以及Zotero使用技巧及教程。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "gonglei007/GameDevMind",
+    "url": "https://github.com/gonglei007/GameDevMind",
+    "desc": "最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。 | The most comprehensive technical map of game development. Help game developers save time on known problems and save more energy for more creative work.",
+    "lang": "Shell"
+  },
+  {
+    "title": "xrayfree/free-ssr-ss-v2ray-vpn-clash",
+    "url": "https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash",
+    "desc": "长期免费维护数个SSR/SS/V2RAY/VPN/CLASH订阅高速节点链接！电报群：https://t.me/xrayfree"
+  },
+  {
+    "title": "HarderThenHarder/transformers_tasks",
+    "url": "https://github.com/HarderThenHarder/transformers_tasks",
+    "desc": "⭐️ NLP Algorithms with transformers lib. Supporting Text-Classification, Text-Generation, Information-Extraction, Text-Matching, RLHF etc.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具",
+    "lang": "Python"
+  }
+]
