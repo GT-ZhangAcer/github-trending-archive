@@ -1,0 +1,146 @@
+[
+  {
+    "title": "hepengwei/visualization-collection",
+    "url": "https://github.com/hepengwei/visualization-collection",
+    "desc": "🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gonglei007/GameDevMind",
+    "url": "https://github.com/gonglei007/GameDevMind",
+    "desc": "最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。 | The most comprehensive technical map of game development. Help game developers save time on known problems and save more energy for more creative work.",
+    "lang": "Shell"
+  },
+  {
+    "title": "zan8in/afrog",
+    "url": "https://github.com/zan8in/afrog",
+    "desc": "A Vulnerability Scanning Tools For Penetration Testing",
+    "lang": "Go"
+  },
+  {
+    "title": "ZhongFuCheng3y/austin",
+    "url": "https://github.com/ZhongFuCheng3y/austin",
+    "desc": "消息推送平台🔥推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。",
+    "lang": "Java"
+  },
+  {
+    "title": "lonePatient/awesome-pretrained-chinese-nlp-models",
+    "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+    "desc": "Awesome Pretrained Chinese NLP Models，高质量中文预训练模型集合"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",
+    "lang": "Python"
+  },
+  {
+    "title": "labring/laf",
+    "url": "https://github.com/labring/laf",
+    "desc": "🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ccfos/nightingale",
+    "url": "https://github.com/ccfos/nightingale",
+    "desc": "An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",
+    "lang": "Go"
+  },
+  {
+    "title": "antvis/X6",
+    "url": "https://github.com/antvis/X6",
+    "desc": "🚀 JavaScript diagramming library that uses SVG and HTML for rendering.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+  },
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "desc": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "tylearymf/UniHacker",
+    "url": "https://github.com/tylearymf/UniHacker",
+    "desc": "Patch all versions of Unity3D and UnityHub for Windows, MacOS, Linux and Docker.",
+    "lang": "C#"
+  },
+  {
+    "title": "xiaolincoder/CS-Base",
+    "url": "https://github.com/xiaolincoder/CS-Base",
+    "desc": "图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  },
+  {
+    "title": "whyour/qinglong",
+    "url": "https://github.com/whyour/qinglong",
+    "desc": "支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "wanhebin/clash-for-linux",
+    "url": "https://github.com/wanhebin/clash-for-linux",
+    "desc": "Linux 端使用 Clash 作为代理工具",
+    "lang": "Shell"
+  },
+  {
+    "title": "Pawdroid/Free-servers",
+    "url": "https://github.com/Pawdroid/Free-servers",
+    "desc": "🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "rfyiamcool/notes",
+    "url": "https://github.com/rfyiamcool/notes",
+    "desc": "🔥 kubernetes, golang 源码分析"
+  },
+  {
+    "title": "TheRamU/Fay",
+    "url": "https://github.com/TheRamU/Fay",
+    "desc": "这是一个完整的数字人项目，包含Python内核及UE数字人模型，可以用于做数字助理及抖音自动直播，又或者作为你的应用入口也很帅.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "zizifn/edgetunnel",
+    "url": "https://github.com/zizifn/edgetunnel",
+    "desc": "Running V2ray inside edge/serverless functions",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "IDEA-CCNL/Fengshenbang-LM",
+    "url": "https://github.com/IDEA-CCNL/Fengshenbang-LM",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "eunomia-bpf/bpf-developer-tutorial",
+    "url": "https://github.com/eunomia-bpf/bpf-developer-tutorial",
+    "desc": "eBPF 开发者教程与知识库：通过 20 个小工具一步步学习 eBPF（尝试教会 ChatGPT 编写 eBPF 程序）",
+    "lang": "C"
+  },
+  {
+    "title": "Qexo/Qexo",
+    "url": "https://github.com/Qexo/Qexo",
+    "desc": "A Quick, Powerful and Pretty Online Manager for Hexo.",
+    "lang": "HTML"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Making large AI models cheaper, faster and more accessible",
+    "lang": "Python"
+  },
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "desc": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lit-llama",
+    "url": "https://github.com/Lightning-AI/lit-llama",
+    "desc": "Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed.",
+    "lang": "Python"
+  },
+  {
+    "title": "showlab/Tune-A-Video",
+    "url": "https://github.com/showlab/Tune-A-Video",
+    "desc": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+    "lang": "Python"
+  },
+  {
+    "title": "Kent0n-Li/ChatDoctor",
+    "url": "https://github.com/Kent0n-Li/ChatDoctor",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "nomic-ai/gpt4all",
+    "url": "https://github.com/nomic-ai/gpt4all",
+    "desc": "gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",
+    "lang": "Python"
+  },
+  {
+    "title": "ZrrSkywalker/LLaMA-Adapter",
+    "url": "https://github.com/ZrrSkywalker/LLaMA-Adapter",
+    "desc": "Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters",
+    "lang": "Python"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "desc": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
+    "lang": "Python"
+  },
+  {
+    "title": "KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy",
+    "url": "https://github.com/KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy",
+    "desc": "科学上网🟢🟢科学上网🔴🔴科学上网🟡🟡科学上网",
+    "lang": "Python"
+  },
+  {
+    "title": "NafisiAslH/KnowledgeSharing",
+    "url": "https://github.com/NafisiAslH/KnowledgeSharing",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "desc": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...",
+    "lang": "Python"
+  },
+  {
+    "title": "visual-openllm/visual-openllm",
+    "url": "https://github.com/visual-openllm/visual-openllm",
+    "desc": "something like visual-chatgpt, 文心一言的开源版",
+    "lang": "Python"
+  },
+  {
+    "title": "Picsart-AI-Research/Text2Video-Zero",
+    "url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
+    "desc": "Text-to-Image Diffusion Models are Zero-Shot Video Generators",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/peft",
+    "url": "https://github.com/huggingface/peft",
+    "desc": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/gigagan-pytorch",
+    "url": "https://github.com/lucidrains/gigagan-pytorch",
+    "desc": "Implementation of GigaGAN, new SOTA GAN out of Adobe",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/pytorch-image-models",
+    "url": "https://github.com/huggingface/pytorch-image-models",
+    "desc": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "desc": "The uncompromising Python code formatter",
+    "lang": "Python"
+  },
+  {
+    "title": "plasma-umass/ChatDBG",
+    "url": "https://github.com/plasma-umass/ChatDBG",
+    "desc": "ChatDBG - AI-assisted debugging. Uses AI to answer 'why'",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "lang": "Python"
+  },
+  {
+    "title": "clue-ai/ChatYuan",
+    "url": "https://github.com/clue-ai/ChatYuan",
+    "desc": "ChatYuan: Large Language Model for Dialogue in Chinese and English",
+    "lang": "Python"
+  },
+  {
+    "title": "ShuhongChen/panic3d-anime-reconstruction",
+    "url": "https://github.com/ShuhongChen/panic3d-anime-reconstruction",
+    "desc": "CVPR 2023: PAniC-3D Stylized Single-view 3D Reconstruction from Portraits of Anime Characters",
+    "lang": "Python"
+  },
+  {
+    "title": "mlfoundations/open_flamingo",
+    "url": "https://github.com/mlfoundations/open_flamingo",
+    "desc": "An open-source framework for training large multimodal models",
+    "lang": "Python"
+  },
+  {
+    "title": "Cerebras/modelzoo",
+    "url": "https://github.com/Cerebras/modelzoo",
+    "desc": "",
+    "lang": "Python"
+  }
+]

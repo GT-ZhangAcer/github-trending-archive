@@ -1,0 +1,152 @@
+[
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEA-CCNL/Fengshenbang-LM",
+    "url": "https://github.com/IDEA-CCNL/Fengshenbang-LM",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "shibing624/text2vec",
+    "url": "https://github.com/shibing624/text2vec",
+    "desc": "text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord 等平台",
+    "lang": "Python"
+  },
+  {
+    "title": "Rockyzsu/stock",
+    "url": "https://github.com/Rockyzsu/stock",
+    "desc": "30天掌握量化交易 (持续更新)",
+    "lang": "Python"
+  },
+  {
+    "title": "wzpan/wukong-robot",
+    "url": "https://github.com/wzpan/wukong-robot",
+    "desc": "🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。",
+    "lang": "Python"
+  },
+  {
+    "title": "Evil0ctal/Douyin_TikTok_Download_API",
+    "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+    "desc": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音|TikTok数据爬取工具，支持API调用，在线批量解析及下载。",
+    "lang": "Python"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具",
+    "lang": "Python"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "begood0513/goodnews",
+    "url": "https://github.com/begood0513/goodnews",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "wd210010/just_for_happy",
+    "url": "https://github.com/wd210010/just_for_happy",
+    "desc": "阿里云盘签到★GW树洞机场签到★富贵论坛签到★一点万向签到打卡★什么值得买达人和关键词取消关注★STLXZ签到★PT站签到★帆软签到+摇摇乐★千图网签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★逑美在线app签到和抽卡★ddnsto自动续费七天★爱奇艺签到刷时长★烟悦网签到",
+    "lang": "Python"
+  },
+  {
+    "title": "yangjianxin1/GPT2-chitchat",
+    "url": "https://github.com/yangjianxin1/GPT2-chitchat",
+    "desc": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)",
+    "lang": "Python"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "OFA-Sys/Chinese-CLIP",
+    "url": "https://github.com/OFA-Sys/Chinese-CLIP",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "Turing-Project/AntiFraudChatBot",
+    "url": "https://github.com/Turing-Project/AntiFraudChatBot",
+    "desc": "A simple prompt-chatting AI based on wechaty and fintuned NLP model",
+    "lang": "Python"
+  },
+  {
+    "title": "yangjianxin1/CLIP-Chinese",
+    "url": "https://github.com/yangjianxin1/CLIP-Chinese",
+    "desc": "中文CLIP预训练模型",
+    "lang": "Python"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, YOLOv8, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "AIGCT/EASYChatGPT",
+    "url": "https://github.com/AIGCT/EASYChatGPT",
+    "desc": "This is an application project of 'chatgpt',only applicable to desktop environment.",
+    "lang": "Python"
+  },
+  {
+    "title": "LittleBear4/OA-EXPTOOL",
+    "url": "https://github.com/LittleBear4/OA-EXPTOOL",
+    "desc": "OA综合利用工具，集合将近20款OA漏洞批量扫描",
+    "lang": "Python"
+  },
+  {
+    "title": "CrazyBoyM/dreambooth-for-diffusion",
+    "url": "https://github.com/CrazyBoyM/dreambooth-for-diffusion",
+    "desc": "首个完整封装、一体化训练stable diffusion dreambooth的autodl镜像环境，可训练定制自己的独特大模型风格、人物，开箱即用，内含详细教程。",
+    "lang": "Python"
+  },
+  {
+    "title": "PantsuDango/Dango-Translator",
+    "url": "https://github.com/PantsuDango/Dango-Translator",
+    "desc": "团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器",
+    "lang": "Python"
+  },
+  {
+    "title": "HIllya51/LunaTranslator",
+    "url": "https://github.com/HIllya51/LunaTranslator",
+    "desc": "Galgame翻译工具，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。Galgame translate tool , support clipboard / OCR/ HOOK, support 40+ translate engines.",
+    "lang": "Python"
+  },
+  {
+    "title": "EricZhu-42/SteamTradingSiteTracker",
+    "url": "https://github.com/EricZhu-42/SteamTradingSiteTracker",
+    "desc": "Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com and youpin898.com.",
+    "lang": "Python"
+  }
+]
