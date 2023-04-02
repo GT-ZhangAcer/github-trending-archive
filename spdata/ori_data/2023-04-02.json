@@ -1,0 +1,151 @@
+[
+  {
+    "title": "RosettaCommons/RFdiffusion",
+    "url": "https://github.com/RosettaCommons/RFdiffusion",
+    "desc": "Code for running RFdiffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "Synaptrix/ChatGPT-Desktop",
+    "url": "https://github.com/Synaptrix/ChatGPT-Desktop",
+    "desc": "ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！",
+    "lang": "Vue"
+  },
+  {
+    "title": "hahahumble/speechgpt",
+    "url": "https://github.com/hahahumble/speechgpt",
+    "desc": "SpeechGPT is a web application that enables you to converse with ChatGPT.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "desc": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
+    "lang": "Python"
+  },
+  {
+    "title": "ZrrSkywalker/LLaMA-Adapter",
+    "url": "https://github.com/ZrrSkywalker/LLaMA-Adapter",
+    "desc": "Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters",
+    "lang": "Python"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "desc": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "lang": "Python"
+  },
+  {
+    "title": "Bin-Huang/chatbox",
+    "url": "https://github.com/Bin-Huang/chatbox",
+    "desc": "A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "yzfly/awesome-chatgpt-zh",
+    "url": "https://github.com/yzfly/awesome-chatgpt-zh",
+    "desc": "ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!"
+  },
+  {
+    "title": "PrefectHQ/marvin",
+    "url": "https://github.com/PrefectHQ/marvin",
+    "desc": "🤖🪄 A batteries-included library for GPT-powered bots and AI functions",
+    "lang": "Python"
+  },
+  {
+    "title": "yakGPT/yakGPT",
+    "url": "https://github.com/yakGPT/yakGPT",
+    "desc": "Locally running, hands-free ChatGPT",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "new-ai-company/ide",
+    "url": "https://github.com/new-ai-company/ide",
+    "desc": "$NAME is an AI-powered IDE. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.",
+    "lang": "Python"
+  },
+  {
+    "title": "nomic-ai/gpt4all",
+    "url": "https://github.com/nomic-ai/gpt4all",
+    "desc": "gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Making large AI models cheaper, faster and more accessible",
+    "lang": "Python"
+  },
+  {
+    "title": "nomic-ai/nomic",
+    "url": "https://github.com/nomic-ai/nomic",
+    "desc": "Interact with Massive Embedding and Text Datasets in Your Web Browser",
+    "lang": "Python"
+  },
+  {
+    "title": "thinkingjimmy/Learning-Prompt",
+    "url": "https://github.com/thinkingjimmy/Learning-Prompt",
+    "desc": "免费 Prompt Engineering 教程",
+    "lang": "CSS"
+  },
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "desc": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "lang": "Python"
+  },
+  {
+    "title": "mckaywrigley/chatbot-ui",
+    "url": "https://github.com/mckaywrigley/chatbot-ui",
+    "desc": "An open source ChatGPT UI.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sqlchat/sqlchat",
+    "url": "https://github.com/sqlchat/sqlchat",
+    "desc": "Chat-based SQL client for the next decade",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "twitter/twemoji",
+    "url": "https://github.com/twitter/twemoji",
+    "desc": "Emoji for everyone. https://twemoji.twitter.com/",
+    "lang": "HTML"
+  },
+  {
+    "title": "johnlui/PPHC",
+    "url": "https://github.com/johnlui/PPHC",
+    "desc": "📙《高并发的哲学原理》开源图书（CC BY-NC-ND）",
+    "lang": "Rust"
+  },
+  {
+    "title": "Yidadaa/ChatGPT-Next-Web",
+    "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+    "desc": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "desc": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/visual-chatgpt",
+    "url": "https://github.com/microsoft/visual-chatgpt",
+    "desc": "Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
+    "lang": "Python"
+  },
+  {
+    "title": "lencx/nofwl",
+    "url": "https://github.com/lencx/nofwl",
+    "desc": "NoFWL Desktop Application",
+    "lang": "Rust"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "title": "RosettaCommons/RFdiffusion",
+    "url": "https://github.com/RosettaCommons/RFdiffusion",
+    "desc": "Code for running RFdiffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "desc": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
+    "lang": "Python"
+  },
+  {
+    "title": "ZrrSkywalker/LLaMA-Adapter",
+    "url": "https://github.com/ZrrSkywalker/LLaMA-Adapter",
+    "desc": "Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters",
+    "lang": "Python"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "desc": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "lang": "Python"
+  },
+  {
+    "title": "PrefectHQ/marvin",
+    "url": "https://github.com/PrefectHQ/marvin",
+    "desc": "🤖🪄 A batteries-included library for GPT-powered bots and AI functions",
+    "lang": "Python"
+  },
+  {
+    "title": "new-ai-company/ide",
+    "url": "https://github.com/new-ai-company/ide",
+    "desc": "$NAME is an AI-powered IDE. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.",
+    "lang": "Python"
+  },
+  {
+    "title": "nomic-ai/gpt4all",
+    "url": "https://github.com/nomic-ai/gpt4all",
+    "desc": "gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",
+    "lang": "Python"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Making large AI models cheaper, faster and more accessible",
+    "lang": "Python"
+  },
+  {
+    "title": "nomic-ai/nomic",
+    "url": "https://github.com/nomic-ai/nomic",
+    "desc": "Interact with Massive Embedding and Text Datasets in Your Web Browser",
+    "lang": "Python"
+  },
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "desc": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/visual-chatgpt",
+    "url": "https://github.com/microsoft/visual-chatgpt",
+    "desc": "Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
+    "lang": "Python"
+  },
+  {
+    "title": "kaixindelele/ChatPaper",
+    "url": "https://github.com/kaixindelele/ChatPaper",
+    "desc": "Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复",
+    "lang": "Python"
+  },
+  {
+    "title": "visual-openllm/visual-openllm",
+    "url": "https://github.com/visual-openllm/visual-openllm",
+    "desc": "something like visual-chatgpt, 文心一言的开源版",
+    "lang": "Python"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "lang": "Python"
+  },
+  {
+    "title": "Lightning-AI/lit-llama",
+    "url": "https://github.com/Lightning-AI/lit-llama",
+    "desc": "Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed.",
+    "lang": "Python"
+  },
+  {
+    "title": "searxng/searxng",
+    "url": "https://github.com/searxng/searxng",
+    "desc": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "desc": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "desc": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "lang": "Python"
+  },
+  {
+    "title": "djstla/novelai-webui-aki-v3",
+    "url": "https://github.com/djstla/novelai-webui-aki-v3",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "vocodedev/vocode-python",
+    "url": "https://github.com/vocodedev/vocode-python",
+    "desc": "🤖 Build voice-based LLM agents. Modular + open source.",
+    "lang": "Python"
+  },
+  {
+    "title": "LiLittleCat/awesome-free-chatgpt",
+    "url": "https://github.com/LiLittleCat/awesome-free-chatgpt",
+    "desc": "免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/ChatGLM-6B",
+    "url": "https://github.com/THUDM/ChatGLM-6B",
+    "desc": "ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model",
+    "lang": "Python"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure-Samples/azure-search-openai-demo",
+    "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+    "desc": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+    "lang": "Python"
+  }
+]
