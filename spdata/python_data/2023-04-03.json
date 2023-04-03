@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "desc": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "lang": "Python"
+  },
+  {
+    "title": "apple/ml-stable-diffusion",
+    "url": "https://github.com/apple/ml-stable-diffusion",
+    "desc": "Stable Diffusion with Core ML on Apple Silicon",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/JARVIS",
+    "url": "https://github.com/microsoft/JARVIS",
+    "desc": "JARVIS, a system to connect LLMs with ML community",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "lm-sys/FastChat",
+    "url": "https://github.com/lm-sys/FastChat",
+    "desc": "The release repo for Vicuna: An Open Chatbot Impressing GPT-4",
+    "lang": "Python"
+  },
+  {
+    "title": "stochasticai/xturing",
+    "url": "https://github.com/stochasticai/xturing",
+    "desc": "Build and control your own LLMs",
+    "lang": "Python"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "desc": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
+    "lang": "Python"
+  },
+  {
+    "title": "twitter/the-algorithm-ml",
+    "url": "https://github.com/twitter/the-algorithm-ml",
+    "desc": "Source code for Twitter's Recommendation Algorithm",
+    "lang": "Python"
+  },
+  {
+    "title": "yaroslaff/nudecrawler",
+    "url": "https://github.com/yaroslaff/nudecrawler",
+    "desc": "Crawl telegra.ph searching for nudes!",
+    "lang": "Python"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "nomic-ai/nomic",
+    "url": "https://github.com/nomic-ai/nomic",
+    "desc": "Interact with Massive Embedding and Text Datasets in Your Web Browser",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "RosettaCommons/RFdiffusion",
+    "url": "https://github.com/RosettaCommons/RFdiffusion",
+    "desc": "Code for running RFdiffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "svc-develop-team/so-vits-svc",
+    "url": "https://github.com/svc-develop-team/so-vits-svc",
+    "desc": "SoftVC VITS Singing Voice Conversion",
+    "lang": "Python"
+  },
+  {
+    "title": "skypilot-org/skypilot",
+    "url": "https://github.com/skypilot-org/skypilot",
+    "desc": "SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/toolformer-pytorch",
+    "url": "https://github.com/lucidrains/toolformer-pytorch",
+    "desc": "Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "desc": "A youtube-dl fork with additional features and fixes",
+    "lang": "Python"
+  },
+  {
+    "title": "dbolya/tomesd",
+    "url": "https://github.com/dbolya/tomesd",
+    "desc": "Speed up Stable Diffusion with this one simple trick!",
+    "lang": "Python"
+  },
+  {
+    "title": "e2b-dev/e2b",
+    "url": "https://github.com/e2b-dev/e2b",
+    "desc": "e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.",
+    "lang": "Python"
+  },
+  {
+    "title": "zhiyiYo/PyQt-Fluent-Widgets",
+    "url": "https://github.com/zhiyiYo/PyQt-Fluent-Widgets",
+    "desc": "A fluent design widgets library based on PyQt5",
+    "lang": "Python"
+  },
+  {
+    "title": "34j/so-vits-svc-fork",
+    "url": "https://github.com/34j/so-vits-svc-fork",
+    "desc": "so-vits-svc fork with realtime support, improved interface and more features.",
+    "lang": "Python"
+  },
+  {
+    "title": "bmaltais/kohya_ss",
+    "url": "https://github.com/bmaltais/kohya_ss",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "ai-sidekick/sidekick",
+    "url": "https://github.com/ai-sidekick/sidekick",
+    "desc": "Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps",
+    "lang": "Python"
+  }
+]

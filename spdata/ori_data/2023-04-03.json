@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "desc": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "lang": "Python"
+  },
+  {
+    "title": "apple/ml-stable-diffusion",
+    "url": "https://github.com/apple/ml-stable-diffusion",
+    "desc": "Stable Diffusion with Core ML on Apple Silicon",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/JARVIS",
+    "url": "https://github.com/microsoft/JARVIS",
+    "desc": "JARVIS, a system to connect LLMs with ML community",
+    "lang": "Python"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "desc": "Offline build planner for Path of Exile.",
+    "lang": "Lua"
+  },
+  {
+    "title": "mckaywrigley/ai-code-translator",
+    "url": "https://github.com/mckaywrigley/ai-code-translator",
+    "desc": "Use AI to translate code from one language to another.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics"
+  },
+  {
+    "title": "hahahumble/speechgpt",
+    "url": "https://github.com/hahahumble/speechgpt",
+    "desc": "SpeechGPT is a web application that enables you to converse with ChatGPT.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "lm-sys/FastChat",
+    "url": "https://github.com/lm-sys/FastChat",
+    "desc": "The release repo for Vicuna: An Open Chatbot Impressing GPT-4",
+    "lang": "Python"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "desc": "The Magic Mask for Android",
+    "lang": "C++"
+  },
+  {
+    "title": "stochasticai/xturing",
+    "url": "https://github.com/stochasticai/xturing",
+    "desc": "Build and control your own LLMs",
+    "lang": "Python"
+  },
+  {
+    "title": "rustformers/llama-rs",
+    "url": "https://github.com/rustformers/llama-rs",
+    "desc": "Run LLaMA inference on CPU, with Rust 🦀🚀🦙",
+    "lang": "Rust"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "desc": "A post-modern modal text editor.",
+    "lang": "Rust"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "desc": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
+    "lang": "Python"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "desc": "The mother of all demo apps — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "DarkFlippers/unleashed-firmware",
+    "url": "https://github.com/DarkFlippers/unleashed-firmware",
+    "desc": "Flipper Zero Unleashed Firmware",
+    "lang": "C"
+  },
+  {
+    "title": "OptimalScale/LMFlow",
+    "url": "https://github.com/OptimalScale/LMFlow",
+    "desc": "An Extensible Toolkit for Finetuning and Inference of Large Foundation Models",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "twitter/the-algorithm",
+    "url": "https://github.com/twitter/the-algorithm",
+    "desc": "Source code for Twitter's Recommendation Algorithm",
+    "lang": "Scala"
+  },
+  {
+    "title": "DeSinc/SallyBot",
+    "url": "https://github.com/DeSinc/SallyBot",
+    "desc": "AI Chatbot coded in Discord.net C#",
+    "lang": "C#"
+  },
+  {
+    "title": "terrastruct/d2",
+    "url": "https://github.com/terrastruct/d2",
+    "desc": "D2 is a modern diagram scripting language that turns text to diagrams.",
+    "lang": "Go"
+  },
+  {
+    "title": "Synaptrix/ChatGPT-Desktop",
+    "url": "https://github.com/Synaptrix/ChatGPT-Desktop",
+    "desc": "ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "twitter/the-algorithm-ml",
+    "url": "https://github.com/twitter/the-algorithm-ml",
+    "desc": "Source code for Twitter's Recommendation Algorithm",
+    "lang": "Python"
+  },
+  {
+    "title": "Yidadaa/ChatGPT-Next-Web",
+    "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+    "desc": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
+    "lang": "TypeScript"
+  }
+]
