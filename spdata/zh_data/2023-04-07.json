@@ -1,0 +1,146 @@
+[
+  {
+    "title": "iDvel/rime-ice",
+    "url": "https://github.com/iDvel/rime-ice",
+    "desc": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "lang": "Go"
+  },
+  {
+    "title": "fscarmen/warp",
+    "url": "https://github.com/fscarmen/warp",
+    "desc": "WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "forthespada/CS-Books",
+    "url": "https://github.com/forthespada/CS-Books",
+    "desc": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "jynew/jynew",
+    "url": "https://github.com/jynew/jynew",
+    "desc": "JinYongLegend-like RPG Game Framework with full Modding support",
+    "lang": "C#"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "desc": "翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "lang": "C++"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具",
+    "lang": "Python"
+  },
+  {
+    "title": "ddgksf2013/ddgksf2013",
+    "url": "https://github.com/ddgksf2013/ddgksf2013",
+    "desc": ""
+  },
+  {
+    "title": "ShirasawaSama/CefDetectorX",
+    "url": "https://github.com/ShirasawaSama/CefDetectorX",
+    "desc": "【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yhArcadia/Yunzai-Bot-plugins-index",
+    "url": "https://github.com/yhArcadia/Yunzai-Bot-plugins-index",
+    "desc": "Yunzai-Bot云崽QQ机器人插件索引"
+  },
+  {
+    "title": "tangly1024/NotionNext",
+    "url": "https://github.com/tangly1024/NotionNext",
+    "desc": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SocialSisterYi/bilibili-API-collect",
+    "url": "https://github.com/SocialSisterYi/bilibili-API-collect",
+    "desc": "哔哩哔哩-API收集整理【不断更新中....】",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "emptysuns/Hi_Hysteria",
+    "url": "https://github.com/emptysuns/Hi_Hysteria",
+    "desc": "Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。",
+    "lang": "Shell"
+  },
+  {
+    "title": "lizhipay/acg-faka",
+    "url": "https://github.com/lizhipay/acg-faka",
+    "desc": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
+    "lang": "PHP"
+  },
+  {
+    "title": "XIU2/CloudflareSpeedTest",
+    "url": "https://github.com/XIU2/CloudflareSpeedTest",
+    "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~",
+    "lang": "Go"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "desc": "TVbox开源版（空壳-自行配置）"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "gaotianliuyun/gao",
+    "url": "https://github.com/gaotianliuyun/gao",
+    "desc": "tvbox配置文件，如果喜欢，请复刻自用，切勿传播。谢谢！",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MLNLP-World/DeepLearning-MuLi-Notes",
+    "url": "https://github.com/MLNLP-World/DeepLearning-MuLi-Notes",
+    "desc": "Notes about courses Dive into Deep Learning by Mu Li",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "yangzongzhuan/RuoYi-Vue",
+    "url": "https://github.com/yangzongzhuan/RuoYi-Vue",
+    "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本",
+    "lang": "Java"
+  },
+  {
+    "title": "MatsuriDayo/nekoray",
+    "url": "https://github.com/MatsuriDayo/nekoray",
+    "desc": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)",
+    "lang": "C++"
+  },
+  {
+    "title": "52CV/CVPR-2023-Papers",
+    "url": "https://github.com/52CV/CVPR-2023-Papers",
+    "desc": ""
+  },
+  {
+    "title": "dqzg12300/fridaUiTools",
+    "url": "https://github.com/dqzg12300/fridaUiTools",
+    "desc": "frida工具的缝合怪",
+    "lang": "Python"
+  },
+  {
+    "title": "messense/aliyundrive-webdav",
+    "url": "https://github.com/messense/aliyundrive-webdav",
+    "desc": "阿里云盘 WebDAV 服务",
+    "lang": "Rust"
+  }
+]
