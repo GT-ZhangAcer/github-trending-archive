@@ -1,0 +1,147 @@
+[
+  {
+    "title": "iDvel/rime-ice",
+    "url": "https://github.com/iDvel/rime-ice",
+    "desc": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "lang": "Go"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "desc": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。"
+  },
+  {
+    "title": "honghuangdc/soybean-admin",
+    "url": "https://github.com/honghuangdc/soybean-admin",
+    "desc": "A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]",
+    "lang": "Vue"
+  },
+  {
+    "title": "tangly1024/NotionNext",
+    "url": "https://github.com/tangly1024/NotionNext",
+    "desc": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "forthespada/CS-Books",
+    "url": "https://github.com/forthespada/CS-Books",
+    "desc": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ddgksf2013/ddgksf2013",
+    "url": "https://github.com/ddgksf2013/ddgksf2013",
+    "desc": ""
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "HTML"
+  },
+  {
+    "title": "fscarmen/warp",
+    "url": "https://github.com/fscarmen/warp",
+    "desc": "WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord 等平台",
+    "lang": "Python"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "lang": "C++"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "1c7/chinese-independent-developer",
+    "url": "https://github.com/1c7/chinese-independent-developer",
+    "desc": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+  },
+  {
+    "title": "52CV/CVPR-2023-Papers",
+    "url": "https://github.com/52CV/CVPR-2023-Papers",
+    "desc": ""
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具",
+    "lang": "Python"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "shadow1ng/fscan",
+    "url": "https://github.com/shadow1ng/fscan",
+    "desc": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。",
+    "lang": "Go"
+  },
+  {
+    "title": "lionsoul2014/ip2region",
+    "url": "https://github.com/lionsoul2014/ip2region",
+    "desc": "Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",
+    "lang": "C"
+  },
+  {
+    "title": "egametang/ET",
+    "url": "https://github.com/egametang/ET",
+    "desc": "Unity3D Client And C# Server Framework",
+    "lang": "C#"
+  },
+  {
+    "title": "yangjianxin1/GPT2-chitchat",
+    "url": "https://github.com/yangjianxin1/GPT2-chitchat",
+    "desc": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)",
+    "lang": "Python"
+  },
+  {
+    "title": "lizhipay/acg-faka",
+    "url": "https://github.com/lizhipay/acg-faka",
+    "desc": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
+    "lang": "PHP"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "desc": "中文独立博客列表",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pure-admin/vue-pure-admin",
+    "url": "https://github.com/pure-admin/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "bigemon/ChatGPT-ToolBox",
+    "url": "https://github.com/bigemon/ChatGPT-ToolBox",
+    "desc": "由ChatGPT负责编写的ChatGPT工具箱。",
+    "lang": "JavaScript"
+  }
+]

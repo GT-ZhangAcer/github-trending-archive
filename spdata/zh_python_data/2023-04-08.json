@@ -1,0 +1,152 @@
+[
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord 等平台",
+    "lang": "Python"
+  },
+  {
+    "title": "hiroi-sora/Umi-OCR",
+    "url": "https://github.com/hiroi-sora/Umi-OCR",
+    "desc": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
+    "lang": "Python"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具",
+    "lang": "Python"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "yangjianxin1/GPT2-chitchat",
+    "url": "https://github.com/yangjianxin1/GPT2-chitchat",
+    "desc": "GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)",
+    "lang": "Python"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "desc": "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, YOLOv8, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "OFA-Sys/Chinese-CLIP",
+    "url": "https://github.com/OFA-Sys/Chinese-CLIP",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "rev1si0n/lamda",
+    "url": "https://github.com/rev1si0n/lamda",
+    "desc": "⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "trustyboy/xxqg-helper",
+    "url": "https://github.com/trustyboy/xxqg-helper",
+    "desc": "学习强国 学习强国助手，每天稳定35分。适配最新网页版。",
+    "lang": "Python"
+  },
+  {
+    "title": "HIllya51/LunaTranslator",
+    "url": "https://github.com/HIllya51/LunaTranslator",
+    "desc": "Galgame翻译工具，支持剪贴板、OCR、HOOK，支持40余种翻译引擎。Galgame translate tool , support clipboard / OCR/ HOOK, support 40+ translate engines.",
+    "lang": "Python"
+  },
+  {
+    "title": "bupticybee/ChineseAiDungeonChatGPT",
+    "url": "https://github.com/bupticybee/ChineseAiDungeonChatGPT",
+    "desc": "中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。",
+    "lang": "Python"
+  },
+  {
+    "title": "AIGCT/EASYChatGPT",
+    "url": "https://github.com/AIGCT/EASYChatGPT",
+    "desc": "This is an application project of 'chatgpt',only applicable to desktop environment.",
+    "lang": "Python"
+  },
+  {
+    "title": "an-Underpriviliged-ZJUer/Kaleidoscope",
+    "url": "https://github.com/an-Underpriviliged-ZJUer/Kaleidoscope",
+    "desc": "不用找了。这里是全网最优解。免费且由个人开发，并且长期维护 python selenim QQ空间 虎牙 电影 微信 微博 抖音 知乎 B站 bili Bili 百度贴吧 小红书 tiktok youtube twitter 有颜色 爬虫",
+    "lang": "Python"
+  },
+  {
+    "title": "dqzg12300/fridaUiTools",
+    "url": "https://github.com/dqzg12300/fridaUiTools",
+    "desc": "frida工具的缝合怪",
+    "lang": "Python"
+  },
+  {
+    "title": "begood0513/goodnews",
+    "url": "https://github.com/begood0513/goodnews",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEA-CCNL/Fengshenbang-LM",
+    "url": "https://github.com/IDEA-CCNL/Fengshenbang-LM",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "vastsa/FileCodeBox",
+    "url": "https://github.com/vastsa/FileCodeBox",
+    "desc": "文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）",
+    "lang": "Python"
+  },
+  {
+    "title": "opendilab/PPOxFamily",
+    "url": "https://github.com/opendilab/PPOxFamily",
+    "desc": "PPO x Family DRL Tutorial Course（决策智能入门级公开课：8节课帮你盘清算法理论，理顺代码逻辑，玩转决策AI应用实践 ）",
+    "lang": "Python"
+  },
+  {
+    "title": "wd210010/just_for_happy",
+    "url": "https://github.com/wd210010/just_for_happy",
+    "desc": "天翼云盘签到★腾讯视频签到（会员领成长值）★阿里云盘签到★GW树洞机场签到★富贵论坛签到★一点万向签到打卡★什么值得买达人和关键词取消关注★STLXZ签到★PT站签到★帆软签到+摇摇乐★千图网签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★逑美在线app签到和抽卡★ddnsto自动续费七天★爱奇艺签到刷时长★烟悦网签到",
+    "lang": "Python"
+  },
+  {
+    "title": "EricZhu-42/SteamTradingSiteTracker",
+    "url": "https://github.com/EricZhu-42/SteamTradingSiteTracker",
+    "desc": "Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com and youpin898.com.",
+    "lang": "Python"
+  },
+  {
+    "title": "Visualize-ML/Book3_Elements-of-Mathematics",
+    "url": "https://github.com/Visualize-ML/Book3_Elements-of-Mathematics",
+    "desc": "Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；本册有，583幅图，136个代码文件，其中24个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "Rockyzsu/stock",
+    "url": "https://github.com/Rockyzsu/stock",
+    "desc": "30天掌握量化交易 (持续更新)",
+    "lang": "Python"
+  },
+  {
+    "title": "kangvcar/InfoSpider",
+    "url": "https://github.com/kangvcar/InfoSpider",
+    "desc": "INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。",
+    "lang": "Python"
+  },
+  {
+    "title": "mli/autocut",
+    "url": "https://github.com/mli/autocut",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  }
+]
