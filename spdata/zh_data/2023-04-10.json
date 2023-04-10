@@ -1,0 +1,149 @@
+[
+  {
+    "title": "iDvel/rime-ice",
+    "url": "https://github.com/iDvel/rime-ice",
+    "desc": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "lang": "Go"
+  },
+  {
+    "title": "tangly1024/NotionNext",
+    "url": "https://github.com/tangly1024/NotionNext",
+    "desc": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "dtlnor/stable-diffusion-webui-localization-zh_CN",
+    "url": "https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN",
+    "desc": "Simplified Chinese translation extension for AUTOMATIC1111's stable diffusion webui"
+  },
+  {
+    "title": "MaaAssistantArknights/MaaAssistantArknights",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "lang": "C++"
+  },
+  {
+    "title": "prophesier/diff-svc",
+    "url": "https://github.com/prophesier/diff-svc",
+    "desc": "Singing Voice Conversion via diffusion model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "egametang/ET",
+    "url": "https://github.com/egametang/ET",
+    "desc": "Unity3D Client And C# Server Framework",
+    "lang": "C#"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools",
+    "desc": "NAS媒体库管理工具",
+    "lang": "Python"
+  },
+  {
+    "title": "messense/aliyundrive-webdav",
+    "url": "https://github.com/messense/aliyundrive-webdav",
+    "desc": "阿里云盘 WebDAV 服务",
+    "lang": "Rust"
+  },
+  {
+    "title": "rev1si0n/lamda",
+    "url": "https://github.com/rev1si0n/lamda",
+    "desc": "⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。",
+    "lang": "Python"
+  },
+  {
+    "title": "fanmingming/live",
+    "url": "https://github.com/fanmingming/live",
+    "desc": "✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 干净无广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕",
+    "lang": "HTML"
+  },
+  {
+    "title": "fscarmen/warp",
+    "url": "https://github.com/fscarmen/warp",
+    "desc": "WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "HibiKier/zhenxun_bot",
+    "url": "https://github.com/HibiKier/zhenxun_bot",
+    "desc": "基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot",
+    "lang": "Python"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "wanhebin/clash-for-linux",
+    "url": "https://github.com/wanhebin/clash-for-linux",
+    "desc": "Linux 端使用 Clash 作为代理工具",
+    "lang": "Shell"
+  },
+  {
+    "title": "trustyboy/xxqg-helper",
+    "url": "https://github.com/trustyboy/xxqg-helper",
+    "desc": "学习强国 学习强国助手，每天稳定35分。适配最新网页版。",
+    "lang": "Python"
+  },
+  {
+    "title": "XIU2/CloudflareSpeedTest",
+    "url": "https://github.com/XIU2/CloudflareSpeedTest",
+    "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~",
+    "lang": "Go"
+  },
+  {
+    "title": "alibaba/fastjson2",
+    "url": "https://github.com/alibaba/fastjson2",
+    "desc": "FASTJSON2 is a Java JSON library with excellent performance.",
+    "lang": "Java"
+  },
+  {
+    "title": "MatsuriDayo/nekoray",
+    "url": "https://github.com/MatsuriDayo/nekoray",
+    "desc": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)",
+    "lang": "C++"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "desc": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "lang": "Python"
+  },
+  {
+    "title": "tylearymf/UniHacker",
+    "url": "https://github.com/tylearymf/UniHacker",
+    "desc": "Patch all versions of Unity3D and UnityHub for Windows, MacOS, Linux and Docker.",
+    "lang": "C#"
+  },
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "desc": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ddy-ddy/cs-408",
+    "url": "https://github.com/ddy-ddy/cs-408",
+    "desc": "计算机考研专业课程408相关的复习经验，资源和OneNote笔记"
+  },
+  {
+    "title": "Ponderfly/GoogleTranslateIpCheck",
+    "url": "https://github.com/Ponderfly/GoogleTranslateIpCheck",
+    "desc": "",
+    "lang": "C#"
+  },
+  {
+    "title": "iamseancheney/python_for_data_analysis_2nd_chinese_version",
+    "url": "https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version",
+    "desc": "《利用Python进行数据分析·第2版》"
+  }
+]
