@@ -1,0 +1,152 @@
+[
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "sdatkinson/neural-amp-modeler",
+    "url": "https://github.com/sdatkinson/neural-amp-modeler",
+    "desc": "Neural network emulator for guitar amplifiers.",
+    "lang": "Python"
+  },
+  {
+    "title": "baaivision/Painter",
+    "url": "https://github.com/baaivision/Painter",
+    "desc": "Painter & SegGPT Series: Vision Foundation Models from BAAI",
+    "lang": "Python"
+  },
+  {
+    "title": "nomic-ai/gpt4all-ui",
+    "url": "https://github.com/nomic-ai/gpt4all-ui",
+    "desc": "gpt4all chatbot ui",
+    "lang": "Python"
+  },
+  {
+    "title": "Winfredy/SadTalker",
+    "url": "https://github.com/Winfredy/SadTalker",
+    "desc": "（CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+    "lang": "Python"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "desc": "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",
+    "lang": "Python"
+  },
+  {
+    "title": "biobootloader/wolverine",
+    "url": "https://github.com/biobootloader/wolverine",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "chroma-core/chroma",
+    "url": "https://github.com/chroma-core/chroma",
+    "desc": "the AI-native open-source embedding database",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEA-Research/GroundingDINO",
+    "url": "https://github.com/IDEA-Research/GroundingDINO",
+    "desc": "The official implementation of Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/ChatGLM-6B",
+    "url": "https://github.com/THUDM/ChatGLM-6B",
+    "desc": "ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model",
+    "lang": "Python"
+  },
+  {
+    "title": "TabbyML/tabby",
+    "url": "https://github.com/TabbyML/tabby",
+    "desc": "Self-hosted AI coding assistant",
+    "lang": "Python"
+  },
+  {
+    "title": "liujing04/Retrieval-based-Voice-Conversion-WebUI",
+    "url": "https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "rondinellimorais/facial-expression-recognition",
+    "url": "https://github.com/rondinellimorais/facial-expression-recognition",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "desc": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "lang": "Python"
+  },
+  {
+    "title": "sdatkinson/NeuralAmpModelerPlugin",
+    "url": "https://github.com/sdatkinson/NeuralAmpModelerPlugin",
+    "desc": "Plugin for Neural Amp Modeler",
+    "lang": "Python"
+  },
+  {
+    "title": "abetlen/llama-cpp-python",
+    "url": "https://github.com/abetlen/llama-cpp-python",
+    "desc": "Python bindings for llama.cpp",
+    "lang": "Python"
+  },
+  {
+    "title": "rokstrnisa/Robo-GPT",
+    "url": "https://github.com/rokstrnisa/Robo-GPT",
+    "desc": "A simple and extensible program that helps you run GPT-4 model autonomously.",
+    "lang": "Python"
+  },
+  {
+    "title": "erikbern/ann-benchmarks",
+    "url": "https://github.com/erikbern/ann-benchmarks",
+    "desc": "Benchmarks of approximate nearest neighbor libraries in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "desc": "Python - 100天从新手到大师",
+    "lang": "Python"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "desc": "All Algorithms implemented in Python",
+    "lang": "Python"
+  },
+  {
+    "title": "whitead/paper-qa",
+    "url": "https://github.com/whitead/paper-qa",
+    "desc": "LLM Chain for answering questions from documents with citations",
+    "lang": "Python"
+  },
+  {
+    "title": "imClumsyPanda/langchain-ChatGLM",
+    "url": "https://github.com/imClumsyPanda/langchain-ChatGLM",
+    "desc": "langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM",
+    "lang": "Python"
+  },
+  {
+    "title": "fauxpilot/fauxpilot",
+    "url": "https://github.com/fauxpilot/fauxpilot",
+    "desc": "FauxPilot - an open-source alternative to GitHub Copilot server",
+    "lang": "Python"
+  }
+]
