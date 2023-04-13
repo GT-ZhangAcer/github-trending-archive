@@ -1,0 +1,152 @@
+[
+  {
+    "title": "anuragxel/salt",
+    "url": "https://github.com/anuragxel/salt",
+    "desc": "Segment Anything Labelling Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "IDEA-Research/GroundingDINO",
+    "url": "https://github.com/IDEA-Research/GroundingDINO",
+    "desc": "The official implementation of Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection",
+    "lang": "Python"
+  },
+  {
+    "title": "soulteary/docker-prompt-generator",
+    "url": "https://github.com/soulteary/docker-prompt-generator",
+    "desc": "Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。",
+    "lang": "Python"
+  },
+  {
+    "title": "sail-sg/EditAnything",
+    "url": "https://github.com/sail-sg/EditAnything",
+    "desc": "Edit anything in images powered by segment-anything, ControlNet, StableDiffusion, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "ravenscroftj/turbopilot",
+    "url": "https://github.com/ravenscroftj/turbopilot",
+    "desc": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
+    "lang": "Python"
+  },
+  {
+    "title": "biobootloader/wolverine",
+    "url": "https://github.com/biobootloader/wolverine",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/DeepSpeedExamples",
+    "url": "https://github.com/microsoft/DeepSpeedExamples",
+    "desc": "Example models using DeepSpeed",
+    "lang": "Python"
+  },
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "desc": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "lang": "Python"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "desc": "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",
+    "lang": "Python"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "lang": "Python"
+  },
+  {
+    "title": "brannondorsey/PassGAN",
+    "url": "https://github.com/brannondorsey/PassGAN",
+    "desc": "A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)",
+    "lang": "Python"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "desc": "👑 Easy-to-use and powerful NLP library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification, 🔍 Neural Search, ❓ Question Answering, ℹ️ Information Extraction, 📄 Document Intelligence, 💌 Sentiment Analysis and 🖼 Diffusion AIGC system etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "desc": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs)",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure-Samples/azure-search-openai-demo",
+    "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+    "desc": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+    "lang": "Python"
+  },
+  {
+    "title": "netbox-community/netbox",
+    "url": "https://github.com/netbox-community/netbox",
+    "desc": "The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/fairseq",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/esm",
+    "url": "https://github.com/facebookresearch/esm",
+    "desc": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+    "lang": "Python"
+  },
+  {
+    "title": "hasanfirnas/symbiote",
+    "url": "https://github.com/hasanfirnas/symbiote",
+    "desc": "Your target's phone's front and back cameras📸 can be accessed by sending a link🔗.",
+    "lang": "Python"
+  },
+  {
+    "title": "pyg-team/pytorch_geometric",
+    "url": "https://github.com/pyg-team/pytorch_geometric",
+    "desc": "Graph Neural Network Library for PyTorch",
+    "lang": "Python"
+  },
+  {
+    "title": "modelscope/modelscope",
+    "url": "https://github.com/modelscope/modelscope",
+    "desc": "ModelScope: bring the notion of Model-as-a-Service to life.",
+    "lang": "Python"
+  },
+  {
+    "title": "mesonbuild/meson",
+    "url": "https://github.com/mesonbuild/meson",
+    "desc": "The Meson Build System",
+    "lang": "Python"
+  },
+  {
+    "title": "fudan-zvg/Semantic-Segment-Anything",
+    "url": "https://github.com/fudan-zvg/Semantic-Segment-Anything",
+    "desc": "Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).",
+    "lang": "Python"
+  },
+  {
+    "title": "google/BIG-bench",
+    "url": "https://github.com/google/BIG-bench",
+    "desc": "Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models",
+    "lang": "Python"
+  },
+  {
+    "title": "mage-ai/mage-ai",
+    "url": "https://github.com/mage-ai/mage-ai",
+    "desc": "🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.",
+    "lang": "Python"
+  }
+]
