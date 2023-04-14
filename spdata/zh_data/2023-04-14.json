@@ -1,0 +1,147 @@
+[
+  {
+    "title": "tangly1024/NotionNext",
+    "url": "https://github.com/tangly1024/NotionNext",
+    "desc": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hua1995116/awesome-ai-painting",
+    "url": "https://github.com/hua1995116/awesome-ai-painting",
+    "desc": "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform"
+  },
+  {
+    "title": "jeecgboot/JimuReport",
+    "url": "https://github.com/jeecgboot/JimuReport",
+    "desc": "🔥「低代码可视化报表」类似excel操作风格，在线拖拽完成设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。",
+    "lang": "Java"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "ccfos/nightingale",
+    "url": "https://github.com/ccfos/nightingale",
+    "desc": "An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",
+    "lang": "Go"
+  },
+  {
+    "title": "lss233/chatgpt-mirai-qq-bot",
+    "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+    "desc": "🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord 等平台",
+    "lang": "Python"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄",
+    "lang": "Java"
+  },
+  {
+    "title": "MatsuriDayo/nekoray",
+    "url": "https://github.com/MatsuriDayo/nekoray",
+    "desc": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)",
+    "lang": "C++"
+  },
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "desc": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",
+    "lang": "Python"
+  },
+  {
+    "title": "pure-admin/vue-pure-admin",
+    "url": "https://github.com/pure-admin/vue-pure-admin",
+    "desc": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "lang": "Vue"
+  },
+  {
+    "title": "SkyWorkAIGC/SkyChat-Chinese-Chatbot-GPT3",
+    "url": "https://github.com/SkyWorkAIGC/SkyChat-Chinese-Chatbot-GPT3",
+    "desc": "SkyChat是一款基于中文GPT-3 api的聊天机器人项目。它可以像chatGPT一样，实现人机聊天、问答、中英文互译、对对联、写古诗等任务。| SkyChat is a Chatbot project based on Chinese GPT3 API. Like chatGPT, it can do human-machine chat, question and answer, and can also complete tasks such as Chinese-English or English-Chinese translation, content continuation, couplets, and Chinese ancient poems writing.",
+    "lang": "C#"
+  },
+  {
+    "title": "biuuu/genshin-wish-export",
+    "url": "https://github.com/biuuu/genshin-wish-export",
+    "desc": "Easily export the Genshin Impact wish record.",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Qexo/Qexo",
+    "url": "https://github.com/Qexo/Qexo",
+    "desc": "A Quick, Powerful and Pretty Online Manager for Hexo.",
+    "lang": "HTML"
+  },
+  {
+    "title": "cherish-chat/xxim-server",
+    "url": "https://github.com/cherish-chat/xxim-server",
+    "desc": "惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！",
+    "lang": "Go"
+  },
+  {
+    "title": "knownsec/404StarLink",
+    "url": "https://github.com/knownsec/404StarLink",
+    "desc": "404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目"
+  },
+  {
+    "title": "li-xiaojun/XPopup",
+    "url": "https://github.com/li-xiaojun/XPopup",
+    "desc": "🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup vi…",
+    "lang": "Java"
+  },
+  {
+    "title": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+    "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。"
+  },
+  {
+    "title": "prophesier/diff-svc",
+    "url": "https://github.com/prophesier/diff-svc",
+    "desc": "Singing Voice Conversion via diffusion model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "yangzongzhuan/RuoYi-Vue",
+    "url": "https://github.com/yangzongzhuan/RuoYi-Vue",
+    "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本",
+    "lang": "Java"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "desc": "🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "egametang/ET",
+    "url": "https://github.com/egametang/ET",
+    "desc": "Unity3D Client And C# Server Framework",
+    "lang": "C#"
+  },
+  {
+    "title": "wolverinn/Waking-Up",
+    "url": "https://github.com/wolverinn/Waking-Up",
+    "desc": "计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试🚀；可用于模拟面试、面试前复习、短期内快速备战面试..."
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  }
+]

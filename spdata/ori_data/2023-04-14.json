@@ -1,0 +1,150 @@
+[
+  {
+    "title": "reworkd/AgentGPT",
+    "url": "https://github.com/reworkd/AgentGPT",
+    "desc": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "biobootloader/wolverine",
+    "url": "https://github.com/biobootloader/wolverine",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "ravenscroftj/turbopilot",
+    "url": "https://github.com/ravenscroftj/turbopilot",
+    "desc": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
+    "lang": "Python"
+  },
+  {
+    "title": "eumemic/ai-legion",
+    "url": "https://github.com/eumemic/ai-legion",
+    "desc": "An LLM-powered autonomous agent platform",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "desc": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "lang": "Python"
+  },
+  {
+    "title": "ohmplatform/FreedomGPT",
+    "url": "https://github.com/ohmplatform/FreedomGPT",
+    "desc": "This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/DeepSpeed",
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "lang": "Python"
+  },
+  {
+    "title": "fudan-zvg/Semantic-Segment-Anything",
+    "url": "https://github.com/fudan-zvg/Semantic-Segment-Anything",
+    "desc": "Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).",
+    "lang": "Python"
+  },
+  {
+    "title": "continue-revolution/sd-webui-segment-anything",
+    "url": "https://github.com/continue-revolution/sd-webui-segment-anything",
+    "desc": "Segment Anything for Stable Diffusion Webui",
+    "lang": "Python"
+  },
+  {
+    "title": "databrickslabs/dolly",
+    "url": "https://github.com/databrickslabs/dolly",
+    "desc": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/DeepSpeedExamples",
+    "url": "https://github.com/microsoft/DeepSpeedExamples",
+    "desc": "Example models using DeepSpeed",
+    "lang": "Python"
+  },
+  {
+    "title": "kevmo314/magic-copy",
+    "url": "https://github.com/kevmo314/magic-copy",
+    "desc": "Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials"
+  },
+  {
+    "title": "hemansnation/God-Level-Data-Science-ML-Full-Stack",
+    "url": "https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack",
+    "desc": "This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "agiresearch/OpenAGI",
+    "url": "https://github.com/agiresearch/OpenAGI",
+    "desc": "OpenAGI: When LLM Meets Domain Experts",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "anuragxel/salt",
+    "url": "https://github.com/anuragxel/salt",
+    "desc": "Segment Anything Labelling Tool",
+    "lang": "Python"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tencent/libpag",
+    "url": "https://github.com/Tencent/libpag",
+    "desc": "The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.",
+    "lang": "C++"
+  },
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "desc": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ItsPi3141/alpaca-electron",
+    "url": "https://github.com/ItsPi3141/alpaca-electron",
+    "desc": "An even simpler way to run Alpaca",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "IDEA-Research/Grounded-Segment-Anything",
+    "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+    "desc": "Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Speech Inputs",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "lang": "Python"
+  },
+  {
+    "title": "bfeber/HLA-NoVR",
+    "url": "https://github.com/bfeber/HLA-NoVR",
+    "desc": "NO VR Script for Half-Life: Alyx",
+    "lang": "Lua"
+  },
+  {
+    "title": "xx025/carrot",
+    "url": "https://github.com/xx025/carrot",
+    "desc": "Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点"
+  },
+  {
+    "title": "vivo/MoonBox",
+    "url": "https://github.com/vivo/MoonBox",
+    "desc": "月光宝盒：无侵入的流量录制与回放平台 A server-side traffic capture and replay platform with noninvasive",
+    "lang": "Java"
+  }
+]
