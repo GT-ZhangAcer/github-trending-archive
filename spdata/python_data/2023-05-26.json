@@ -1,0 +1,152 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Online Demo and Implementation of DragGAN - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源）",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A simple, yet elegant, HTTP library.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Autonomous GPT-4 agent platform",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统)",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A general representation modal across vision, audio, language modalities.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Build 2023 demo",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Build and run useful autonomous agents",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Star Rail auto script, bot | 星铁副驾驶，崩坏：星穹铁道脚本，基于下一代Alas框架",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, infinite ctx_len, and free sentence embedding.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "An orchestration platform for the development, production, and observation of data assets.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security",
+    "lang": "Python"
+  }
+]
