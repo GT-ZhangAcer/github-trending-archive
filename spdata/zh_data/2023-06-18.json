@@ -1,0 +1,149 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "lang": "C#"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。",
+    "lang": "C++"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "lang": "Lua"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🚄 FASTJSON2 is a Java JSON library with excellent performance.",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "完全免费vpn, 免费科学上网, 翻墙,科学上网,免费翻墙, 免费VPN,开源vpn, free vpn,好用VPN,好用梯子,白纸运动,白纸革命,分布式vpn,去中心化vpn,拆除防火墙, 拆墙运动"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "强大易用的开源建站工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，内置大量加强、网页端难以实现的功能，且提供了相当的自定义选项，已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端 SPA。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Awesome Pretrained Chinese NLP Models，高质量中文预训练模型集合",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响",
+    "lang": "Shell"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "⚡ KCP - A Fast and Reliable ARQ Protocol",
+    "lang": "C"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🚀一款简洁高效的VuePress知识管理&博客(blog)主题",
+    "lang": "Vue"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "普洱TS！Write your game with TypeScript in UE or Unity. PuerTS can be pronounced as pu-erh TS",
+    "lang": "C++"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "微信支付 APIv3 的官方 Java Library",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "lamp-cloud 基于Jdk11 + SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS架构)解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA隔离、字段隔离 等租户隔离方案。",
+    "lang": "Java"
+  }
+]

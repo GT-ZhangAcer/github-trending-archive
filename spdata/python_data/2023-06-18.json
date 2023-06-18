@@ -1,0 +1,152 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A large-scale 7B pretraining language model developed by BaiChuan-Inc.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA)",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "An algorithm for reconstructing the radiance field of a large-scale scene from a single casually captured video.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Stable Diffusion with Core ML on Apple Silicon",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, Self-supervised learning from images with a joint-embedding predictive architecture.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Official implementation of our ArXiv paper Augmenting Language Models with Long-Term Memory.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "SqueezeLLM: Dense-and-Sparse Quantization",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "⚡ Building applications with LLMs through composability ⚡",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "The Web framework for perfectionists with deadlines.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Implementation of Falcon, StableLM, Pythia, INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Get a ChatGPT plugin up and running in under 5 minutes!",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "simple trainer for musicgen/audiocraft",
+    "lang": "Python"
+  }
+]
