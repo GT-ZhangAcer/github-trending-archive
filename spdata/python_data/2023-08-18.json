@@ -1,0 +1,152 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Focus on prompting and generating",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "FaceChain is a deep-learning toolchain for generating your Digital-Twin.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Rift: an AI-native language server for your personal AI software engineer",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Official implementation of Neuralangelo: High-Fidelity Neural Surface Reconstruction (CVPR 2023)",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Official Code for DragGAN (SIGGRAPH 2023)",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "GPT based autonomous agent that does online comprehensive research on any given topic",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A game where you are a computer's OS and you have to manage processes, memory and I/O events.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "[PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "ModelScope: bring the notion of Model-as-a-Service to life.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A framework for few-shot evaluation of autoregressive language models.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "CodeGeeX2: A More Powerful Multilingual Code Generation Model",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "SciPy library main repository",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "PandasAI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "one-click deepfake (face swap)",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.",
+    "lang": "Python"
+  }
+]
