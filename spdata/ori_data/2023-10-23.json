@@ -1,0 +1,147 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews."
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "An open source cross-platform alternative to AirDrop",
+    "lang": "Dart"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+    "lang": "C++"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Teaching LLMs memory management for unbounded context 📚🦙",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "An Autonomous LLM Agent for Complex Task Solving",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A series of code large language models developed by PKU-KCL",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Build browser agents for real world tasks",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A curated list of free courses & certifications."
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "📚 Freely available programming books"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "OpenAI's Code Interpreter in your terminal, running locally",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Learn the foundational skills of building full stack web applications.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Sparsity-aware deep learning inference runtime for CPUs",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "The Mojo Programming Language"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",
+    "lang": "C++"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "[SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "一个基于 electron 的音乐软件",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": ""
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Stable Diffusion web UI",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "The Ethereum Improvement Proposal repository",
+    "lang": "Solidity"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool.",
+    "lang": "Go"
+  }
+]
