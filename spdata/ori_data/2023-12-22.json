@@ -1,0 +1,150 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "High-speed Large Language Model Serving on PCs with Consumer-grade GPUs",
+    "lang": "C"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Official implementations for paper: Anydoor: zero-shot object-level image customization",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Minimal web UI for GeminiPro.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "lang": "HTML"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "An open-source cross-platform alternative to AirDrop",
+    "lang": "Dart"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A list of learning materials to understand databases internals"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "免费；轻量；开源，基于 AIOHTTP 模块实现的小红书图文 / 视频作品采集工具",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation.",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Database-backed Active Job backend",
+    "lang": "Ruby"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).",
+    "lang": "C++"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A collective list of free APIs",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Examples and recipes for Llama 2 model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "SolidStart, the Solid app framework",
+    "lang": "HTML"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🔊 Text-Prompted Generative Audio Model",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A free and open-source inpainting & image-upscaling tool powered by webgpu and wasm on the browser。| 基于 Webgpu 技术和 wasm 技术的免费开源 inpainting & image-upscaling 工具, 纯浏览器端实现。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Official implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering",
+    "lang": "C++"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "lang": "Swift"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🤖 🔥 Let your users chat with your product features and execute things by text - open source Shopify sidekick",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Univer is a set of enterprise document and data collaboration solutions, including spreadsheets, documents, and slides. The highly extensible design allows developers to customize personalized functions based on Univer.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Get up and running with Llama 2 and other large language models locally",
+    "lang": "Go"
+  }
+]
