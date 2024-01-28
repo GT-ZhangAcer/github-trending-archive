@@ -1,0 +1,150 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "lang": "Shell"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "通过修改Hosts解决国内Github经常抽风访问不到,每日更新",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "一木TVBOX自用仓库",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "An elegant and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个优雅且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🐱‍🚀【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步👊【让现在的自己不再迷茫✨，如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖】。",
+    "lang": "C#"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Unity3D Client And C# Server Framework",
+    "lang": "C#"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "一个还算强大的Web思维导图。A relatively powerful web mind map.",
+    "lang": "Vue"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀 provides APIs and Docs without writing any code.",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "一键自动化 下载、安装、激活 Office 的利器。",
+    "lang": "C#"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "lang": "HTML"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "禁漫天堂Github Actions下载器🧘",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Ethereal Style for Zotero",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Virtual Engine for Android(Support 14.0 in business version)",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩",
+    "lang": "Shell"
+  }
+]
