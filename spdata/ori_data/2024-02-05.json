@@ -1,0 +1,151 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Modeling, training, eval, and inference code for OLMo",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "The OS for your personal finances",
+    "lang": "Ruby"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "fabric is an open-source framework for augmenting humans using AI.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "MiniCPM-2B: An end-side LLM outperforms Llama2-13B.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "我的电视 电视直播软件，安装即可使用",
+    "lang": "C"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Generate and auto-execute Python scripts in the cli",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Hybrid visual and textual functional programming.",
+    "lang": "Rust"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": ""
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A Git-compatible VCS that is both simple and powerful",
+    "lang": "Rust"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🏡 Open source home automation that puts local control and privacy first.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
+    "lang": "Shell"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Real-time face swap for PC streaming or video calls",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Crawl a site to generate knowledge files to create your own custom GPT from a URL",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "ChatGPT-Style Web UI Client for Ollama 🦙",
+    "lang": "Svelte"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "An open source, lightweight note-taking service. Easily capture and share your great thoughts.",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+    "lang": "Rust"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "lang": "Rust"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A local-first personal finance app",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+    "lang": "Verilog"
+  }
+]
