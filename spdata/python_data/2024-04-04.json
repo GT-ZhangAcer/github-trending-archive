@@ -1,0 +1,20 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Clock & Temperature/Humidity Sensor, displayed on LED Matrix, using Arduino, RTC (DS1307), DHT11 Temp/Hum Sensor and one tacticle switch. Time can be set by entering the epoch/unix timestamp on terminal. Light intensity can be set using the button. The code is using Greek characters for displaying the scrolling messages in Greek language, but yo…",
+    "lang": "Arduino"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "",
+    "lang": "Arduino"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Bakelite Rebuild that can be programmed with decade specific 'Radio Days'",
+    "lang": "Arduino"
+  }
+]
