@@ -1,0 +1,152 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "基于大模型搭建的聊天机器人，同时支持 企业微信、微信 公众号、飞书、钉钉 等接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/Claude/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Max搶票機器人(maxbot) help you quickly buy your tickets",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "FinHack®，一个易于拓展的量化金融框架，它在当前版本中集成了数据采集、因子计算、因子挖掘、因子分析、机器学习、策略编写、量化回测、实盘接入等全流程的量化投研工作。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "微信机器人，接入Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "学无止下载器，慕课下载器，Mooc网课下载，慕课网，中国大学，网易云课堂，有道精品课，有道领世，腾讯课堂，B站课堂，中公网校，新东方，高途，途途，学浪，抖音课堂，小鹅通，千聊，兴趣岛，超星学习通，学银在线，智慧职教，智慧树，学堂在线，爱课程；支持视频课件同时下载",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便的部署及调度",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "30天掌握量化交易 (持续更新)",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "An elegent pytorch implement of transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Transformers 库快速入门教程",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🚩 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说、招标网、采购网、小红书、大众点评、推特、脉脉、知乎》",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "pycorrector is a toolkit for text error correction. 文本纠错，实现了Kenlm，T5，MacBERT，ChatGLM3，LLaMA等模型应用在纠错场景，开箱即用。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台",
+    "lang": "Python"
+  }
+]
