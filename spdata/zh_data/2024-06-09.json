@@ -1,0 +1,98 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "lang": "C++"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)",
+    "lang": "C++"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Running V2ray inside edge/serverless runtime",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com and youpin898.com.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩",
+    "lang": "Shell"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "基于 ZeroBot 的 OneBot 插件",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy",
+    "lang": "Solidity"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "强大易用的开源建站工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A proxy tool to bypass GFW.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "为开发人员分享快速参考备忘清单(速查表)",
+    "lang": "Dockerfile"
+  }
+]
