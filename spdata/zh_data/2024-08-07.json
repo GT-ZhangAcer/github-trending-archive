@@ -1,0 +1,94 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
+    "lang": "C#"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "算法竞赛模板库 by 灵茶山艾府 💭💡🎈",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "媒体服务器演员头像仓库"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "「开源可视化报表，商业BI替代方案」积木报表是一款类似excel操作风格，在线拖拽完成设计的报表工具。低代码产品的臂膀！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "lang": "Markdown"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+    "lang": "Vue"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。",
+    "lang": "TypeScript"
+  }
+]
