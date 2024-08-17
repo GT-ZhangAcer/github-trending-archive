@@ -1,0 +1,120 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "哔哩哔哩-API收集整理【不断更新中....】",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。A flow chart editing framework focusing on business customization.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Unity3D Client And C# Server Framework",
+    "lang": "C#"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "科技爱好者周刊，每周五发布"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Lean's LEDE source",
+    "lang": "C"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "「开源可视化报表，商业BI替代方案」积木报表是一款类似excel操作风格，在线拖拽完成设计的报表工具。低代码产品的臂膀！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "lang": "C++"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "强大易用的开源建站工具。",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "实用的开源多功能原神工具箱 🧰 / Multifunctional Open-source Genshin Impact Toolkit 🧰",
+    "lang": "C#"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Running V2ray inside edge/serverless runtime",
+    "lang": "JavaScript"
+  }
+]
