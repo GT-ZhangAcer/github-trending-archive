@@ -1,0 +1,84 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "lang": "C++"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Qt based cross-platform GUI proxy configuration manager (backend: sing-box)",
+    "lang": "C++"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。",
+    "lang": "C#"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "ehviewer，用爱发电，快乐前行",
+    "lang": "HTML"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "eBPF Developer Tutorial: Learning eBPF Step by Step with Examples",
+    "lang": "C"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "游戏戴森球计划的**工厂**蓝图仓库",
+    "lang": "Text"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "通达信数据读取的一个简便使用封装",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "用文本编辑器剪视频",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端网页。",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "一个还算强大的Web思维导图。A relatively powerful web mind map.",
+    "lang": "JavaScript"
+  }
+]
