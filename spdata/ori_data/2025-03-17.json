@@ -1,0 +1,80 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A self-hosted dashboard that puts all your feeds in one place",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Fully local web research and report writing assistant",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A launch point for your personal nvim configuration",
+    "lang": "Lua"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Scheduling infrastructure for absolutely everyone.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Sossoldi is a wealth management / personal finance / Net Worth tracking app, made with Flutter.",
+    "lang": "Dart"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Access your entire server infrastructure from your local desktop",
+    "lang": "Java"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Cross-platform Rust rewrite of the GNU coreutils",
+    "lang": "Rust"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Investment Research for Everyone, Everywhere.",
+    "lang": "Python"
+  }
+]
