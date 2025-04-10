@@ -1,0 +1,80 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Open Machine Learning course",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Multiplayer at the speed of light",
+    "lang": "Rust"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "10 Lessons to Get Started Building AI Agents",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "CUDA Python: Performance meets Productivity",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Google Cloud Client Libraries for Go.",
+    "lang": "Go"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Python tool for converting files and office documents to Markdown.",
+    "lang": "Python"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "desc": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "lang": "Go"
+  }
+]
